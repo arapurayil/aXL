@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Jun 2021 13:03:47 UTC
+# Last modified: 27 Jun 2021 16:02:15 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -121,7 +121,6 @@ acbp0020171456.page.tl
 accengage.com
 accesstrade.co.id
 accountkit.com
-accounts.livechatinc.com
 accounts.pkr.com.invalid
 acenar.com
 acompli.helpshift.com
@@ -483,7 +482,6 @@ alerts.newrelic.com
 alexa.com
 alflying.win
 ali.hashhot.com
-aliapp.org
 alibaba.tanx.com
 alicdn.com
 alimabi.cn
@@ -744,6 +742,7 @@ autoconfig.cryptopool.eu
 autoconfig.nimiq.com
 autoconfig.nimiqpool.com
 autodiscover.nimiq.com
+autoitscript.com
 autolinkmaker.itunes.apple.com
 autopilothq.com
 auxiliarymine.com
@@ -1048,7 +1047,6 @@ chickenkiller.com
 chkd.org
 choice.microsoft.com
 choices.truste.com
-chomikuj.pl
 chrome-devtools-frontend.appspot.com
 chromefeedcontentsuggestions-pa.googleapis.com
 cint.com
@@ -1285,7 +1283,6 @@ d10lpsik1i8c69.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d36eyd5j1kt1m6.cloudfront.net
-d37gvrvc0wt4s1.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 da.feedsportal.com
 da.netease.com
@@ -1297,7 +1294,6 @@ damoh.spiegel.de
 dansguardian.org
 danskretursystem.dk
 darknet.org.uk
-darkreader.github.io
 dart.l.doubleclick.net
 dartsearch.net
 dashboard-01.braze.com
@@ -1322,7 +1318,6 @@ dc.services.visualstudio.com
 dcms.1688.com
 dcs.audi.com
 dd-cdn.multiscreensite.com
-dditscdn.com
 ddos-guard.net
 de-odc.samsungapps.com
 de.ign.com
@@ -1640,7 +1635,6 @@ ford.to
 forms.aweber.com
 forms.convertkit.com
 forter.com
-fortumo.com
 fota5.adups.com
 fota5db.adups.com
 fota5p.adups.com
@@ -1758,6 +1752,7 @@ go.redirectingat.com
 go.skimresources.com
 go.theregister.com
 go.trouter.skype.com
+go.urbanairship.com
 go2cloud.org
 go2jump.org
 goatcounter.com
@@ -1797,7 +1792,6 @@ gsdk.proximabeta.com
 gss0.bdstatic.com
 gstatic.com
 gstaticadssl.l.google.com
-gtarcade.com
 gtop100.com
 gtrk.s3.amazonaws.com
 gtssl2-ocsp.geotrust.com
@@ -1830,7 +1824,6 @@ hashvault.pro
 hawaiisurf.com
 hawk.pcgamer.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
-hb.bizmrg.com
 hbbtv-1.eurosport.com
 hbbtv.3sat.de
 hbbtv.kabeleins.de
@@ -1883,7 +1876,6 @@ hotpop.com
 hotspotshield.com
 howsmyssl.com
 hp.demdex.net
-href.li
 hs-scripts.com
 hs.eloqua.com
 hsbc.com.hk
@@ -1970,7 +1962,6 @@ img.apester.com
 img.beeg.com
 img.digiket.net
 img.en25.com
-img.like.video
 img.mp.itc.cn
 img.onesignal.com
 img.pr0gramm.com
@@ -2175,7 +2166,6 @@ links.strava.com
 linksynergy.com
 litix.io
 live.simcitybuildit.com
-livechatinc.com
 livefyre.com
 liveinternet.ru
 livejasmin.com
@@ -2300,7 +2290,6 @@ mgr.consensu.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
 mhc-xpana-eu.myhomescreen.tv
-mhthemes.com
 mhtr.be
 mi.edgekey.net
 miaozhen.atm.youku.com
@@ -2392,7 +2381,6 @@ multiscreensite.com
 mx.api.cryptopool.eu
 mx.technolutions.net
 mx.yandex.ru
-mxplay.com
 mxpnl.com
 my.adocean.pl
 my.plexapp.com
@@ -2422,6 +2410,7 @@ narwhal.mobidia.com
 naytev.com
 nd.demdex.net
 ndmdhs.com
+neemu.com
 neobux.com
 net.idealo-partner.com
 netcore.co.in
@@ -2762,7 +2751,6 @@ pull.ticktick.com
 pulsar.ebay.co.uk
 pulsar.ebay.com
 purch.com
-purplle.com
 push.api.bbci.co.uk
 push.notifica.re
 push.rollout.io
@@ -2982,14 +2970,12 @@ sealserver.trustwave.com
 searchencrypt.com
 seccdn-gl.imrworldwide.com
 seccint.com
-secondlife.com
 secure-gl.imrworldwide.com
 secure-media.hotstar.com
 secure-us.imrworldwide.com
 secure.eloqua.com
 secure.info.seek.com
 secure.insightexpressai.com
-secure.livechatinc.com
 secure.netflix.com
 secure.oneallcdn.com
 secure.skypeassets.com
@@ -3334,12 +3320,10 @@ top1.ro
 torimochi.line-apps.com
 torproject.org
 torrentz.eu
-touchtype-fluency.com
 touclick.com
 toutiao.com
 townnews.com
 tp-emea.exactag.com
-tr-gameland.com
 track.adform.net
 track.customer.io
 track.effiliation.com
@@ -3479,7 +3463,6 @@ users.on.net
 users.telenet.be
 uservoice.com
 usher.ttvnw.net
-ust.chatango.com
 uzone.id
 uzreklam.com
 v.fwmrm.net
@@ -3520,7 +3503,6 @@ video-stats.l.google.com
 videoplayerhub.com
 videoplaza.tv
 vidible.tv
-vidlox.me
 vidoza.net
 vidtech.cbsinteractive.com
 viewpoint.com
