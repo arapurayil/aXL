@@ -396,7 +396,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 37
+            "num_unblock_rules": 0
         },
         {
             "name": "_ aBL core re-block - main",
@@ -404,7 +404,7 @@
             "url": "https://raw.githubusercontent.com/arapurayil/abl_unblock/master/core/override_main.txt",
             "format": "domains",
             "type": "block",
-            "num_block_rules": 238,
+            "num_block_rules": 0,
             "num_unblock_rules": 0
         }
     ]

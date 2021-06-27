@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Jun 2021 16:02:15 UTC
+# Last modified: 27 Jun 2021 18:56:40 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -977,6 +977,7 @@ cdn.hockeyapp.net
 cdn.iubenda.com
 cdn.izooto.com
 cdn.judge.me
+cdn.krxd.net
 cdn.kuaidi100.com
 cdn.livechatinc.com
 cdn.livefyre.com
@@ -1180,6 +1181,7 @@ consent.trustarc.com
 consent.truste.com
 consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
+consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.awaze.com
 content.jwplatform.com
