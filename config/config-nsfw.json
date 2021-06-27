@@ -1,0 +1,23 @@
+{
+  "name": "aXL - unblocked (nsfw)",
+  "description": "Unblock rules for aBL - nsfw",
+  "homepage": "https://abl.arapurayil.com/",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "aXL - nsfw",
+      "source": "/home/runner/work/aXL/aXL/lists/nsfw.txt",
+      "type": "hosts"
+    }
+      ],
+  "transformations": [
+    "Deduplicate",
+    "RemoveComments",
+    "RemoveModifiers",
+    "Validate",
+    "InvertAllow"
+  ],
+  "inclusions_sources": [
+    "https://raw.githubusercontent.com/arapurayil/aBL/master/core/nsfw_regex.txt"
+  ]
+}

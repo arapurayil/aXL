@@ -1,0 +1,12 @@
+# Title: arapurayil's eXcluded List - aXL - NSFW
+# Author: arapurayil
+# Description: Sources for excluded domains for generating the aBL 'NSFW' list
+# Version: 2.06.27
+# Last modified: 27 Jun 2021 08:10:38 UTC
+# Expires: 8 hours (update frequency)
+# Home: https://axl.arapurayil.com
+# Repository: https://github.com/arapurayil/aBL
+# Issues: https://github.com/arapurayil/aBL/issues
+# Please report the domains you wish to block/unblock via 'Issues'
+# Licence: https://github.com/arapurayil/aBL/license
+#--------------------------------------------------------------------------------------#

@@ -1,0 +1,54 @@
+!
+! Title: aXL - unblocked (main)
+! Description: Unblock rules for aBL - main
+! Homepage: https://abl.arapurayil.com/
+! License: GPLv3
+! Last modified: 2021-06-27T12:54:33.233Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.12
+!
+@@advertising.com
+@@advertising.soundcloud.com
+@@affiliate-program.amazon.com
+@@affiliate.hitbtc.com
+@@affiliate.twitch.tv
+@@analytics.bsgwireless.com
+@@analytics.dev.azure.com
+@@analytics.edgekey.net
+@@analytics.edgesuite.net
+@@analytics.google.com
+@@analytics.query.yahoo.com
+@@analytics.twitter.com
+@@banner.play-asia.com
+@@banners.funimation.com
+@@banners.spiceworks.com
+@@beacon.errorception.com
+@@beacon.geo.netflix.com
+@@beacon.netflix.com
+@@beacons.gcp.gvt2.com
+@@beacons.gvt2.com
+@@beacons2.gvt2.com
+@@beacons3.gvt2.com
+@@beacons4.gcp.gvt2.com
+@@beacons4.gvt2.com
+@@beacons5.gcp.gvt2.com
+@@beacons5.gvt2.com
+@@beacons5.gvt3.com
+@@counter-strike.net
+@@incoming.telemetry.mozilla.org
+@@mads.amazon-adsystem.com
+@@oca.telemetry.microsoft.com
+@@pixel.everesttech.net
+@@pixel.nymag.com
+@@pixel.quantserve.com
+@@pixel.wp.com
+@@prod.telemetry.ros.rockstargames.com
+@@sqm.telemetry.microsoft.com
+@@telecommand.telemetry.microsoft.com
+@@telemetry-in.battle.net
+@@telemetry-incoming.r53-2.services.mozilla.com
+@@telemetry-prd.vn.tesla.services
+@@telemetry.api.swiftkey.com
+@@telemetry.soundcloud.com
+@@use.adserver.snapads.com
+@@watson.telemetry.microsoft.com

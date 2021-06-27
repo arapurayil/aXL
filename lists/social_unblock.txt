@@ -1,0 +1,9 @@
+!
+! Title: aXL - unblocked (social)
+! Description: Unblock rules for aBL - social
+! Homepage: https://abl.arapurayil.com/
+! License: GPLv3
+! Last modified: 2021-06-27T08:10:49.780Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.12
+!

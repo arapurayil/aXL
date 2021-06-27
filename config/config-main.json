@@ -1,0 +1,23 @@
+{
+  "name": "aXL - unblocked (main)",
+  "description": "Unblock rules for aBL - main",
+  "homepage": "https://abl.arapurayil.com/",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "aXL - main",
+      "source": "/home/runner/work/aXL/aXL/lists/main.txt",
+      "type": "hosts"
+    }
+      ],
+  "transformations": [
+    "Deduplicate",
+    "RemoveComments",
+    "RemoveModifiers",
+    "Validate",
+    "InvertAllow"
+  ],
+  "inclusions_sources": [
+    "https://raw.githubusercontent.com/arapurayil/aBL/master/core/main_regex.txt"
+  ]
+}

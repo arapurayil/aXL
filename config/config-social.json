@@ -1,0 +1,23 @@
+{
+  "name": "aXL - unblocked (social)",
+  "description": "Unblock rules for aBL - social",
+  "homepage": "https://abl.arapurayil.com/",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "aXL - social",
+      "source": "/home/runner/work/aXL/aXL/lists/social.txt",
+      "type": "hosts"
+    }
+      ],
+  "transformations": [
+    "Deduplicate",
+    "RemoveComments",
+    "RemoveModifiers",
+    "Validate",
+    "InvertAllow"
+  ],
+  "inclusions_sources": [
+    "https://raw.githubusercontent.com/arapurayil/aBL/master/core/social_regex.txt"
+  ]
+}
