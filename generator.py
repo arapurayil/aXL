@@ -472,7 +472,7 @@ def gen_project_readme(list_source):
     about = read_file(file_about, data_type="str")
     notes = read_file(file_notes, data_type="str")
     info_add = markdown_strings.blockquote(
-        "List of excluded domains and unblock rules. Primarily used for [aBL](https://github.com/arapurayil/abl)."
+        "List of excluded domains and unblock rules. Primarily used for generating [aBL](https://github.com/arapurayil/abl)."
     )
     section = [
         main_title,
