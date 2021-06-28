@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Jun 2021 18:56:40 UTC
+# Last modified: 28 Jun 2021 00:13:08 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -1575,7 +1575,6 @@ feature.fm
 feedblitz.com
 feedsportal.com
 fembed.com
-femto.pw
 ffdns.net
 file.market.xiaomi.com
 file2fxm.azureedge.net
@@ -2703,6 +2702,7 @@ portableroms.com
 portalroms.com
 post-gazette.com
 post.spmailtechno.com
+postclickmarketing.com
 powr.io
 powvideo.net
 ppcprotect.com
