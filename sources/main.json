@@ -392,7 +392,7 @@
         {
             "name": "_ aBL core excluded",
             "desc": "List of domains removed from aBL - main",
-            "url": "https://axl.arapurayil.com/core/main_excluded.txt",
+            "url": "https://abl.arapurayil.com/core/main_excluded.txt",
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
