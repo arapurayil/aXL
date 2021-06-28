@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List - aXL - Main
 # Author: arapurayil
-# Description: Sources for excluded domains for generating the aBL 'Main' list
+# Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.06.28
-# Last modified: 28 Jun 2021 08:02:25 UTC
+# Last modified: 28 Jun 2021 11:54:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1208,6 +1208,7 @@ acuwin.com
 ad-blocker.org
 ad-med.cz
 ad.atdmt.com
+ad.ca.doubleclick.net
 ad.docer.wps.cn
 ad.doubleclick.net
 ad.nl
@@ -1263,6 +1264,7 @@ adelphia.net
 adf.gov
 adf.ly
 adfa.st
+adfarm.mediaplex.com
 adfiap.org
 adfinis-sygroup.ch
 adfly.fr
@@ -1284,6 +1286,7 @@ adj.st
 adl.windows.com
 adli.pw
 adlice.com
+adm.fwmrm.net
 admarkt.marktplaats.nl
 admdownload.adobe.com
 admin-official.line.me
@@ -1331,7 +1334,9 @@ adrianstatebank.com
 adrise.tv
 ads-e-darwin.hulustream.com
 ads.dh.duba.com
+ads.exoclick.com
 ads.google.com
+ads.imeem.com
 ads.talkbusiness.net
 ads.twitter.com
 adschemist.com
@@ -1573,6 +1578,7 @@ adservice.google.ws
 adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
+adshostnet.com
 adsl-service-providers.net
 adsl4home.co.uk
 adsp.xunlei.com
@@ -1750,6 +1756,7 @@ ak-launcher.spot.im
 ak-media.soundcloud.com
 ak-publisher-assets.spot.im
 ak.c.ooyala.com
+ak.imgfarm.com
 aka.gr
 aka.ms
 akadns.net
@@ -2687,6 +2694,7 @@ amplitude.com
 ampproject.net
 ampproject.org
 amrahbank.az
+ams.cdn.arkadiumhosted.com
 amsouth.com
 amsterdams-poker.net
 amtote.com
@@ -3340,10 +3348,12 @@ apple.com
 apple.com.au
 apple.com.cn
 applecasinos.com
+appleglobal.112.2o7.net
 appleid.apple.com
 appleid.cdn-apple.com
 appleiphonecell.com
 applesfera.com
+applestoreus.112.2o7.net
 applied-jobs-web-experience-api.cloud.seek.com.au
 apply.indeed.com
 apply.jobadder.com
@@ -9449,6 +9459,7 @@ chukchansigold.com
 chumashcasino.com
 chumpchangelotto.com
 chuyu.me
+ci-mpsnare.iovation.com
 ci.phncdn.com
 ci.rdtcdn.com
 ci3.googleusercontent.com
@@ -10564,6 +10575,7 @@ cozygames.com
 cp-mlxprod-static.microsoft.com
 cp.bluesnap.com
 cp.mi.com
+cp.pushwoosh.com
 cp101-prod.do.dsp.mp.microsoft.com
 cp701-prod.do.dsp.mp.microsoft.com.edgekey.net
 cp76677.edgefcs.net
@@ -11393,6 +11405,7 @@ delightcasinostar.net
 delightclubcasino.net
 delightlifecasino.net
 delightstarcasino.ru
+deliver.vkcdnservice.com
 delivery.acm.org
 delivery.rakuten.co.jp
 delivery.vidible.tv
@@ -12576,6 +12589,7 @@ ebay.com
 ebay.com.au
 ebay.com.cn
 ebay.de
+ebay.doubleclick.net
 ebay.es
 ebay.eu
 ebay.fr
@@ -12694,6 +12708,7 @@ edoc.huawei.com
 eds.xboxlive.com
 edu.dcinside.com
 education.ti.com
+ee.hit.gemius.pl
 eek.ch
 eek.us
 eepurl.com
@@ -13069,6 +13084,9 @@ epa.gov
 epaper.dnaindia.com
 epay.unionbankofindia.co.in
 epayment.nets.eu
+epdg.epc.att.net
+epdg.epc.mnc006.mcc454.pub.3gppnetwork.org
+epdg.epc.mnc720.mcc302.pub.3gppnetwork.org
 ephedrinecasino.com
 ephratahospital.org
 epicgames-download1.akamaized.net
@@ -15499,6 +15517,7 @@ galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallica.bnf.fr
 galottery.com
+galt.hit.gemius.pl
 galtensparekasse.dk
 gamble-at-home.com
 gamble-backgammon.com
@@ -16520,6 +16539,7 @@ gamzcaz.com
 gan.doubleclick.net
 gangirc.org
 gap.com
+gapl.hit.gemius.pl
 garant.ru
 garanti.com.tr
 garantibank.com
@@ -16552,6 +16572,8 @@ gatewaycommunitybank.com
 gatewaysavings.com
 gatewaysavingsbank.com
 gatewaysb.com
+gatr.hit.gemius.pl
+gaua.hit.gemius.pl
 gawker.com
 gay.by
 gay.com.co
@@ -16899,6 +16921,7 @@ global.gotowebinar.com
 global.market.xiaomi.com
 global.mi.com
 global.moneygram.com
+global.msads.net
 global.passport.xiaomi.com
 global.search.xiaomi.net
 global.ssl.fastly.net
@@ -17380,6 +17403,7 @@ goodshepherdhospital.co.uk
 goodtimetowin.com
 goodwinanimalhospital.com
 google-analytics.com
+google-analytics.l.google.com
 google-code-prettify.googlecode.com
 google.ac
 google.ad
@@ -17599,6 +17623,7 @@ googlehosted.googleusercontent.com
 googlehosted.l.googleusercontent.com
 googlesource.com
 googletagmanager.com
+googletagservices.com
 googleukcasino.com
 googleusercontent.com
 googlevideo.com
@@ -18450,6 +18475,7 @@ hispaloto.es
 hispanito.com
 history.com
 history.paypal.com
+hit.gemius.pl
 hit.me
 hitbestgaming.net
 hitbtc.com
@@ -18847,6 +18873,7 @@ hpshopping.reglobe.in
 hpsupport.qualtrics.com
 hptu.org.co
 hqcasino.com
+hqq.to
 hqq.tv
 hqq.watch
 hr-testcases-us-east-1.s3.amazonaws.com
@@ -20233,6 +20260,7 @@ interface.xl9.xunlei.com
 interfin.fi.cr
 interflora.co.uk
 intergi.com
+interia.hit.gemius.pl
 interisp-hosting.com
 interlottery.de
 interlotto.com
@@ -20889,6 +20917,7 @@ js.hs-scripts.com
 js.hsforms.net
 js.indexww.com
 js.intercomcdn.com
+js.iplsc.com
 js.live.net
 js.maxmind.com
 js.passport.qihucdn.com
@@ -24270,6 +24299,7 @@ metrics.hackerrank.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.plex.tv
+metrics.ticketmaster.com
 metrics.torproject.org
 metro.nl
 metrobank-na.com
@@ -26271,6 +26301,7 @@ nursepicturescasino.com
 nus1-urlp.secure.skypeassets.com
 nutrija.com
 nutspoker.com
+nuvi2.cdntvn.pl
 nuvox.com
 nv.veta.naver.com
 nvb.nl
@@ -27538,6 +27569,7 @@ part.xbox.com
 partner-ads.com
 partner-bank.at
 partner.ceneo.pl
+partner.googleadservices.com
 partner.huawei.com
 partner.microsoft.com
 partner.mylife.com
@@ -29126,6 +29158,7 @@ primevipcasine.com
 primevipcasino.net
 primevipgaming.com
 primewire.ag
+primgw.vowifi2.spcsdns.net
 primusdsl.net
 princegeorgeshospital.org
 princepoker.com
@@ -29216,6 +29249,7 @@ pro-strategie.com
 pro.coinbase.com
 pro.coinmarketcap.com
 pro.fontawesome.com
+pro.hit.gemius.pl
 pro.ip-api.com
 problemgambling.com
 procappers.com
@@ -29254,6 +29288,7 @@ product.hubspot.com
 product.ign.com
 product.rakuten.co.jp
 productforums.google.com
+production-cmp.isgprivacy.cbsi.com
 products.jbhifi.com.au
 products.office.com
 products.support.services.microsoft.com
@@ -29430,6 +29465,7 @@ ptmi.gitv.pandora.xiaomi.com
 ptsbank.com
 ptt.viber.com
 pu.sh
+pubads.g.doubleclick.net
 pubapi.bithumb.com
 pubg.game.daum.net
 pubgmobile.com
@@ -30270,6 +30306,7 @@ reelvegas-lines.com
 ref.in
 ref.so
 ref.to
+refer.ccbill.com
 refer.wordpress.com
 referback.com
 reference.com
@@ -30604,6 +30641,7 @@ rlx.org
 rlxp.com
 rm.flowplayer.com
 rma.org.bt
+rmads.msn.com
 rmahq.org
 rmb.co.za
 rmbank.com
@@ -31403,6 +31441,7 @@ safe.txmblr.com
 safebet.org
 safebrowsing-cache.google.com
 safebrowsing.clients.google.com
+safebrowsing.g.aaplimg.com
 safebrowsing.google.com
 safebrowsing.googleapis.com
 safelinkconverter.com
@@ -31618,6 +31657,7 @@ sberbankcz.cz
 sbfunapi.cc
 sbfunservice-mirror.cc
 sbfunservice.cc
+sbg.hit.gemius.pl
 sbgglobal.com
 sbhospital.de
 sbhyd.com
@@ -31819,6 +31859,7 @@ sdk.accountkit.com
 sdk.hockeyapp.net
 sdk.out.usbla.net
 sdk.peppermint.samsung.com
+sdk.privacy-center.org
 sdk.taboola.com
 sdk.vk.com
 sdkinlamstedt.de
@@ -31924,6 +31965,7 @@ secretservice.gov
 sectigo.com
 section.blog.naver.com
 section508.gov
+secure-au.imrworldwide.com
 secure-banking.de
 secure-cdn.mplxtms.com
 secure-gl.imrworldwide.com
@@ -32160,6 +32202,7 @@ services.addons.mozilla.org
 services.fandom.com
 services.gfe.nvidia.com
 services.gradle.org
+services.krxd.net
 services.medium.com
 services.sonarr.tv
 services.syndicaster.tv
@@ -32559,6 +32602,8 @@ sitecheck5.opera.com
 sitecheck6.opera.com
 sitecheck7.opera.com
 sitefights.com
+sitefinder-idn.verisign.com
+sitefinder.verisign.com
 sitegamblingnew.com
 sitegamblingnew.net
 sitegamblingweb.com
@@ -33633,6 +33678,7 @@ spks.dk
 spkschwerin.de
 spkson.de
 spktw.de
+spl.hit.gemius.pl
 splashtop.com
 splendid-game.net
 splitskabanka.hr
@@ -33801,6 +33847,7 @@ srs.gov
 srv.main.ebayrtm.com
 srv1.xbext.com
 srv2.xbext.com
+ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ss.phncdn.com
 ss.symcb.com
 ss.symcd.com
@@ -34119,6 +34166,7 @@ starzzcasinos.ru
 stat-dv.mtsbank.ru
 stat.download.xunlei.com
 stat.gov.az
+stat.livejournal.com
 stat.moneycontrol.co.in
 stat.pandora.xiaomi.com
 stat1.moneycontrol.com
@@ -34202,6 +34250,7 @@ static.game.xiaomi.com
 static.glassdoor.com
 static.gotinder.com
 static.home.mi.com
+static.hotjar.com
 static.hubspot.com
 static.hybrid.xiaomi.com
 static.icloud.com
@@ -34301,12 +34350,14 @@ statisticbet.com
 statistics.laerd.com
 stats.adobe.com
 stats.api.xiaomi.net
+stats.channel4.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
 stats.pusher.com
 stats.stackexchange.com
 stats.streamelements.com
+stats.surfaid.ihost.com
 stats.t-online.de
 stats.uptimerobot.com
 statsandengagement.help.soundcloud.com
@@ -34501,6 +34552,7 @@ stovescasino.com
 stpatrickhospital.org
 stpcasino.com
 stpetes.org
+str.hit.gemius.pl
 stradamia.com
 straightflush.com
 straitstimes.com
@@ -35915,6 +35967,7 @@ toitr.net.cn
 token-dispenser-mirror.herokuapp.com
 token-dispenser.duckdns.org
 token-dispenser.herokuapp.com
+token.safebrowsing.apple
 token.services.mozilla.com
 tokencompany.com
 tokenization.api.playstation.com
@@ -36220,6 +36273,7 @@ track.adform.net
 track.bpost.be
 track.customer.io
 track.effiliation.com
+track.hulu.com
 track.nzz.ch
 track.rediff.com
 track.spiceworks.com
@@ -36544,6 +36598,7 @@ tvgids.nl
 tvgidsassets.nl
 tvgnetwork.com
 tvguide.com
+tvn.adocean.pl
 tvn24.pl
 tvnow.de
 tvnstyle.pl
@@ -39135,6 +39190,7 @@ webspace.de
 websstar-casinos.ru
 webstar-casino.com
 webstarscasino.com
+webstat.channel4.com
 websterbank.com
 webstore.amazon.de
 webstormmedia.com
@@ -39720,6 +39776,7 @@ wkk-online.de
 wko.at
 wl-in-f14.1e100.net
 wl.jd.com
+wlan.three.com.hk
 wlga.gov.uk
 wlo.ospserver.net
 wlsgv-muenster.de
@@ -39748,6 +39805,7 @@ wnnb.com
 wns.windows.com
 wnwcasino.com
 wnyharness.tripod.com
+wo.vzwwo.com
 wodtogether.com
 woecasino.com
 wofsspeedmethod.com

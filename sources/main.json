@@ -48,6 +48,15 @@
             "num_unblock_rules": 93
         },
         {
+            "name": "anudeepND whitelist",
+            "desc": "Collection of commonly white listed domains for Pi-Hole",
+            "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
+            "format": "domains",
+            "type": "unblock",
+            "num_block_rules": 0,
+            "num_unblock_rules": 191
+        },
+        {
             "name": "anudeepND whitelist - optional-list",
             "desc": "Collection of commonly white listed domains for Pi-Hole - optional",
             "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt",
@@ -64,15 +73,6 @@
             "type": "unblock",
             "num_block_rules": 0,
             "num_unblock_rules": 75
-        },
-        {
-            "name": "anudeepND whitelist",
-            "desc": "Collection of commonly white listed domains for Pi-Hole",
-            "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
-            "format": "domains",
-            "type": "unblock",
-            "num_block_rules": 0,
-            "num_unblock_rules": 191
         },
         {
             "name": "bahree pihole-lists whitelist",
@@ -153,7 +153,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 0
+            "num_unblock_rules": 89
         },
         {
             "name": "freekers whitelist",
