@@ -1,10 +1,10 @@
 {
     "title": "Main",
-    "description": "Sources for excluded domains for generating the aBL 'Main' list",
+    "description": "Sources for excluded domains used for generating the aBL 'Main' list",
     "sources": [
         {
             "name": "AdguardTeam exclusions/android",
-            "desc": "-",
+            "desc": "Android specific exclusions",
             "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt",
             "format": "domains",
             "type": "unblock",
@@ -13,7 +13,7 @@
         },
         {
             "name": "AdguardTeam exclusions/banks",
-            "desc": "-",
+            "desc": "Adguard HTTPS exclusions: banks and financial services",
             "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt",
             "format": "domains",
             "type": "unblock",
@@ -22,7 +22,7 @@
         },
         {
             "name": "AdguardTeam exclusions/firefox",
-            "desc": "-",
+            "desc": "Firefox specific exclusions",
             "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt",
             "format": "domains",
             "type": "unblock",
@@ -31,7 +31,7 @@
         },
         {
             "name": "AdguardTeam exclusions/issues",
-            "desc": "-",
+            "desc": "HTTPS exclusions, necessary to resolve specific issues",
             "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt",
             "format": "domains",
             "type": "unblock",
@@ -40,7 +40,7 @@
         },
         {
             "name": "AdguardTeam exclusions/sensitive",
-            "desc": "-",
+            "desc": "Adguard HTTPS exclusions: other services with sensitive personal information",
             "url": "https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt",
             "format": "domains",
             "type": "unblock",
@@ -48,8 +48,8 @@
             "num_unblock_rules": 93
         },
         {
-            "name": "anudeepND optional-list",
-            "desc": "-",
+            "name": "anudeepND whitelist - optional-list",
+            "desc": "Collection of commonly white listed domains for Pi-Hole - optional",
             "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt",
             "format": "domains",
             "type": "unblock",
@@ -57,8 +57,8 @@
             "num_unblock_rules": 142
         },
         {
-            "name": "anudeepND referral-sites",
-            "desc": "-",
+            "name": "anudeepND whitelist - referral-sites",
+            "desc": "Collection of commonly white listed domains for Pi-Hole - referral-sites",
             "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt",
             "format": "domains",
             "type": "unblock",
@@ -67,7 +67,7 @@
         },
         {
             "name": "anudeepND whitelist",
-            "desc": "-",
+            "desc": "Collection of commonly white listed domains for Pi-Hole",
             "url": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -76,7 +76,7 @@
         },
         {
             "name": "bahree pihole-lists whitelist",
-            "desc": "-",
+            "desc": "pihole-lists whitelist",
             "url": "https://raw.githubusercontent.com/bahree/pihole-lists/main/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Beverdam whitelist-Nederland",
-            "desc": "-",
+            "desc": "Nederlandse sites white-list voor Pi-Hole",
             "url": "https://raw.githubusercontent.com/Beverdam/whitelist-Nederland/master/domains/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -94,7 +94,7 @@
         },
         {
             "name": "boutetnico url-shorteners",
-            "desc": "-",
+            "desc": "List of URL shortener websites",
             "url": "https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt",
             "format": "domains",
             "type": "unblock",
@@ -103,7 +103,7 @@
         },
         {
             "name": "chadmayfield whitelist",
-            "desc": "-",
+            "desc": "pihole whitelists",
             "url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/tools/lists/white.list",
             "format": "domains",
             "type": "unblock",
@@ -112,7 +112,7 @@
         },
         {
             "name": "deathbybandaid whitelist",
-            "desc": "-",
+            "desc": "Pi-Hole Compatible whitelist",
             "url": "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedWhitelists/CombinedWhiteLists.txt",
             "format": "domains",
             "type": "unblock",
@@ -121,7 +121,7 @@
         },
         {
             "name": "dmginc pihole whitelist",
-            "desc": "-",
+            "desc": "pihole whitelist",
             "url": "https://raw.githubusercontent.com/dmginc/pihole/master/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -139,7 +139,7 @@
         },
         {
             "name": "essandess whitelist",
-            "desc": "-",
+            "desc": "macOS Fortress whitelist",
             "url": "https://raw.githubusercontent.com/essandess/macOS-Fortress/master/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -148,8 +148,8 @@
         },
         {
             "name": "FadeMind whitelist",
-            "desc": "-",
-            "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/whitelist",
+            "desc": "Collection of whitelists hosts",
+            "url": "https://raw.githubusercontent.com/FadeMind/hosts.whitelists/master/whitelist.FadeMind",
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
@@ -157,7 +157,7 @@
         },
         {
             "name": "freekers whitelist",
-            "desc": "-",
+            "desc": "Whitelisted domains for Pi-Hole by Freekers",
             "url": "https://raw.githubusercontent.com/freekers/whitelist/master/domains/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -166,7 +166,7 @@
         },
         {
             "name": "JoseGalRe Hosty whitelist",
-            "desc": "-",
+            "desc": "Hosty whitelist",
             "url": "https://raw.githubusercontent.com/JoseGalRe/Hosty/master/bits/hosty.whitelist",
             "format": "domains",
             "type": "unblock",
@@ -175,7 +175,7 @@
         },
         {
             "name": "leroyby whitelistedomains",
-            "desc": "-",
+            "desc": "Whitelist for PiHole",
             "url": "https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/whitelistedomains.txt",
             "format": "domains",
             "type": "unblock",
@@ -184,7 +184,7 @@
         },
         {
             "name": "m-parashar whitelist",
-            "desc": "-",
+            "desc": "adbhostgen whitelist",
             "url": "https://raw.githubusercontent.com/m-parashar/adbhostgen/master/whitelist",
             "format": "domains",
             "type": "unblock",
@@ -193,7 +193,7 @@
         },
         {
             "name": "mawenjian china-cdn-domain-whitelist",
-            "desc": "-",
+            "desc": "China CDN Service Providers' Domain Whitelist",
             "url": "https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -202,7 +202,7 @@
         },
         {
             "name": "mrdamien whitelist",
-            "desc": "-",
+            "desc": "dnsmasq whitelist",
             "url": "https://raw.githubusercontent.com/mrdamien/dnsmasq-blocklist/gh-pages/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -211,7 +211,7 @@
         },
         {
             "name": "Natizyskunk whitelist",
-            "desc": "-",
+            "desc": "pi-hole whitelist",
             "url": "https://gitlab.com/Natizyskunk/pi-hole-lists/raw/master/whitelist/personal_mega_whitelist/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -220,7 +220,7 @@
         },
         {
             "name": "neodevpro neodevhost - whitelist",
-            "desc": "-",
+            "desc": "neodevhost allowlist",
             "url": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist",
             "format": "domains",
             "type": "unblock",
@@ -229,7 +229,7 @@
         },
         {
             "name": "nextdns affiliate-tracking",
-            "desc": "-",
+            "desc": "Whitelisted domains to allow affiliate links",
             "url": "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains",
             "format": "domains",
             "type": "unblock",
@@ -238,7 +238,7 @@
         },
         {
             "name": "NoExitTV whitelist",
-            "desc": "-",
+            "desc": "Whitelist used by all pi-dns DNS servers",
             "url": "https://raw.githubusercontent.com/NoExitTV/whitelist/master/domains/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -247,7 +247,7 @@
         },
         {
             "name": "notracking hosts-blocklists - whitelist",
-            "desc": "-",
+            "desc": "Whitelist used for notracking",
             "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -256,7 +256,7 @@
         },
         {
             "name": "oisd.nl excludes (selected)",
-            "desc": "-",
+            "desc": "Excluded domains from oisd.nl",
             "url": "https://github.com/arapurayil/aBL_unblock/raw/main/sources/oisd_selected.txt",
             "format": "domains",
             "type": "unblock",
@@ -265,7 +265,7 @@
         },
         {
             "name": "ookangzheng blahdns whitelist",
-            "desc": "-",
+            "desc": "BlahDNS whitelist",
             "url": "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -274,7 +274,7 @@
         },
         {
             "name": "PracticalChip RawWhitelist",
-            "desc": "-",
+            "desc": "Adblock Whitelist for Diversion/Pihole/Others",
             "url": "https://raw.githubusercontent.com/PracticalChip/Adblocking/master/RawWhitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -283,7 +283,7 @@
         },
         {
             "name": "raghavdua1995 whitelist",
-            "desc": "-",
+            "desc": "DNSlock-PiHole-whitelist",
             "url": "https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list",
             "format": "domains",
             "type": "unblock",
@@ -292,7 +292,7 @@
         },
         {
             "name": "rspamd dmarc_whitelist_new",
-            "desc": "-",
+            "desc": "Rspamd spam filtering system dmarc",
             "url": "https://raw.githubusercontent.com/rspamd/maps/master/rspamd/dmarc_whitelist_new.inc",
             "format": "domains",
             "type": "unblock",
@@ -300,8 +300,8 @@
             "num_unblock_rules": 744
         },
         {
-            "name": "rspamd spf_dkim_whitelist",
-            "desc": "-",
+            "name": "rspamd spf_dkim_whitelist spf dkim",
+            "desc": "Rspamd spam filtering system",
             "url": "https://raw.githubusercontent.com/rspamd/maps/master/rspamd/spf_dkim_whitelist.inc",
             "format": "domains",
             "type": "unblock",
@@ -310,7 +310,7 @@
         },
         {
             "name": "shallalist finance/banking",
-            "desc": "-",
+            "desc": "Unpacked shallalist finance/banking",
             "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/finance/banking/domains",
             "format": "domains",
             "type": "unblock",
@@ -319,7 +319,7 @@
         },
         {
             "name": "shallalist gamble",
-            "desc": "-",
+            "desc": "Unpacked shallalist gamble",
             "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/gamble/domains",
             "format": "domains",
             "type": "unblock",
@@ -328,7 +328,7 @@
         },
         {
             "name": "shallalist hospitals",
-            "desc": "-",
+            "desc": "Unpacked shallalist hospitals",
             "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/hospitals/domains",
             "format": "domains",
             "type": "unblock",
@@ -337,7 +337,7 @@
         },
         {
             "name": "shallalist isp",
-            "desc": "-",
+            "desc": "Unpacked shallalist isp",
             "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/isp/domains",
             "format": "domains",
             "type": "unblock",
@@ -346,7 +346,7 @@
         },
         {
             "name": "shallalist socialnet",
-            "desc": "-",
+            "desc": "Unpacked shallalist socialnet",
             "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/socialnet/domains",
             "format": "domains",
             "type": "unblock",
@@ -355,7 +355,7 @@
         },
         {
             "name": "Ultimate Hosts whitelist",
-            "desc": "-",
+            "desc": "Ultimate Hosts whitelist",
             "url": "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list",
             "format": "domains",
             "type": "unblock",
@@ -364,7 +364,7 @@
         },
         {
             "name": "VeleSila's yhosts - whitelist",
-            "desc": "-",
+            "desc": "yhosts - whitelist",
             "url": "https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -373,7 +373,7 @@
         },
         {
             "name": "worldomkar SquidListManagerWCF trusted-sites",
-            "desc": "-",
+            "desc": "SquidListManagerWCF trusted-sites",
             "url": "https://raw.githubusercontent.com/worldomkar/SquidListManagerWCF/master/DomainLists/trusted-sites.txt",
             "format": "domains",
             "type": "unblock",
@@ -382,7 +382,7 @@
         },
         {
             "name": "zebpalmer whitelist",
-            "desc": "-",
+            "desc": "DNS whitelist",
             "url": "https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/whitelist.txt",
             "format": "domains",
             "type": "unblock",
@@ -390,18 +390,18 @@
             "num_unblock_rules": 79
         },
         {
-            "name": "_ aBL core excludes - main",
-            "desc": "-",
-            "url": "https://raw.githubusercontent.com/arapurayil/abl_unblock/master/core/main.txt",
+            "name": "_ aBL core excluded",
+            "desc": "List of domains removed from aBL - main",
+            "url": "https://axl.arapurayil.com/core/main_excluded.txt",
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
             "num_unblock_rules": 0
         },
         {
-            "name": "_ aBL core re-block - main",
-            "desc": "-",
-            "url": "https://raw.githubusercontent.com/arapurayil/abl_unblock/master/core/override_main.txt",
+            "name": "_ aXL core re-block - main",
+            "desc": "List of domains removed from aXL - main",
+            "url": "https://axl.arapurayil.com/core/main_reblock.txt",
             "format": "domains",
             "type": "block",
             "num_block_rules": 0,
