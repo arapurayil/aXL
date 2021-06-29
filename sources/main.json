@@ -255,9 +255,9 @@
             "num_unblock_rules": 1641
         },
         {
-            "name": "oisd.nl excludes (selected)",
+            "name": "oisd.nl excludes",
             "desc": "Excluded domains from oisd.nl",
-            "url": "https://github.com/arapurayil/aBL_unblock/raw/main/sources/oisd_selected.txt",
+            "url": "https://axl.arapurayil.com/core/oisd_excluded.txt",
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
