@@ -3,10 +3,11 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2021-06-29T00:12:32.992Z
+! Last modified: 2021-06-29T03:39:26.629Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+@@adserver.va3.megaphone.cloud
 @@adservice.google.ac
 @@adservice.google.ad
 @@adservice.google.ae
@@ -245,21 +246,32 @@
 @@adservice.google.xn--mxtq1m
 @@adservice.google.xn--ngbrx
 @@adservice.google.xn--node
+@@advertisement.alibabacorp.com
+@@advertisement.tanx.com
+@@advertisement.tanx.com.gds.alibabadns.com
+@@advertising.amazon.com
 @@advertising.com
 @@advertising.soundcloud.com
+@@adverts.ie
 @@affiliate-program.amazon.com
+@@affiliate.dmm.com
 @@affiliate.hitbtc.com
 @@affiliate.twitch.tv
+@@analytics.blue
 @@analytics.bsgwireless.com
+@@analytics.console.aws.a2z.com
 @@analytics.dev.azure.com
 @@analytics.edgekey.net
 @@analytics.edgesuite.net
 @@analytics.google.com
 @@analytics.query.yahoo.com
+@@analytics.robinhood.com
 @@analytics.twitter.com
 @@banner.play-asia.com
 @@banners.funimation.com
 @@banners.spiceworks.com
+@@beacon-fullpage-predictor.goguardian.com
+@@beacon-v2.helpscout.net
 @@beacon.errorception.com
 @@beacon.geo.netflix.com
 @@beacon.netflix.com
@@ -270,9 +282,21 @@
 @@beacons5.gcp.gvt2.com
 @@beacons5.gvt2.com
 @@beacons5.gvt3.com
+@@captive.adservice.google.co.id
+@@captive.adservice.google.co.in
+@@captive.adservice.google.co.jp
+@@captive.adservice.google.co.th
+@@captive.adservice.google.co.za
+@@captive.adservice.google.com
+@@captive.adservice.google.com.br
+@@captive.adservice.google.com.mx
+@@captive.adservice.google.com.ng
+@@captive.adservice.google.com.ph
+@@captive.adservice.google.com.vn
 @@counter-strike.net
 @@incoming.telemetry.mozilla.org
 @@mads.amazon-adsystem.com
+@@mads.amazon.com
 @@oca.telemetry.microsoft.com
 @@pixel.everesttech.net
 @@pixel.nymag.com
@@ -283,8 +307,10 @@
 @@telecommand.telemetry.microsoft.com
 @@telemetry-in.battle.net
 @@telemetry-incoming.r53-2.services.mozilla.com
+@@telemetry-prd.ap.tesla.services
 @@telemetry-prd.vn.tesla.services
 @@telemetry.api.swiftkey.com
+@@telemetry.microsoft.com
 @@telemetry.soundcloud.com
 @@use.adserver.snapads.com
 @@watson.telemetry.microsoft.com
