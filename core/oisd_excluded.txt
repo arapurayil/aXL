@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Jun 2021 03:39:15 UTC
+# Last modified: 29 Jun 2021 05:04:18 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com

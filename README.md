@@ -1,4 +1,4 @@
-# arapurayil's eXcluded List - aXL
+# arapurayil's eXcluded List (aXL)
 
 > List of excluded domains and unblock rules. Primarily used for generating [aBL](https://github.com/arapurayil/abl).
 
