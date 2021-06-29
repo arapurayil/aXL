@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Jun 2021 16:02:50 UTC
+# Last modified: 29 Jun 2021 00:11:50 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -1178,6 +1178,7 @@ connectivitycheck.android.com
 consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
+consent.faz.net
 consent.trustarc.com
 consent.truste.com
 consentcdn.cookiebot.com-v1.edgekey.net
