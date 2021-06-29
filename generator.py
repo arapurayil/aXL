@@ -97,7 +97,7 @@ class ItemKey:
 class ListInfo:
     """Values for the list header."""
 
-    title = "arapurayil's eXcluded List - aXL"
+    title = "arapurayil's eXcluded List (aXL)"
     author = "arapurayil"
     version = (
         str(int(datetime.now().strftime("%Y")) - 2019)
