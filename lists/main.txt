@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.06.30
-# Last modified: 30 Jun 2021 00:12:24 UTC
+# Last modified: 30 Jun 2021 06:56:44 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6982,6 +6982,7 @@ brandycasino.com
 brandywinehospital.com
 brannenbanks.com
 brattbank.com
+brave-core-ext.s3.brave.com
 bravia.dl.playstation.net
 braze.com
 brazil.hide.me
@@ -25294,6 +25295,7 @@ mediacorp.112.2o7.net
 mediaesports.com
 mediafile.dcinside.com
 mediafire.com
+mediafiretrend.com
 mediafuse.com
 mediagra.com
 mediakit.breitbart.com
