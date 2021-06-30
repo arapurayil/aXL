@@ -500,6 +500,16 @@ def run_hostlist_compiler(blg):
     hc_command = "hostlist-compiler -c " + str(file_config) + " -o " + str(file_filter)
     subprocess.check_call(hc_command, shell=True)
 
+def run_hostlist_compiler_inv(blg):
+    """
+    Generate filter list
+    """
+    file_config = is_path(f"{DirPath.hc_config}/config-{blg.category}-inv.json")
+    file_filter = is_path(
+        Path.joinpath(blg.dir_output_filters, f"{blg.category}_unblock.txt")
+    )
+    hc_command = "hostlist-compiler -c " + str(file_config) + " -o " + str(file_filter)
+    subprocess.check_call(hc_command, shell=True)
 
 def read_filter(blg):
     file_filter = is_path(Path.joinpath(blg.dir_output_filters, f"{blg.category}.txt"))
@@ -536,6 +546,7 @@ def main():
             gen_filter_list(li_ge, unblocked_domains)
 
             run_hostlist_compiler(li_ge)
+            run_hostlist_compiler_inv(li_ge)
 
             gen_category(li_ge)
 
