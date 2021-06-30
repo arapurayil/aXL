@@ -1,0 +1,20 @@
+{
+  "name": "aXL - unblocked (main)",
+  "description": "Unblock rules for aBL - main",
+  "homepage": "https://abl.arapurayil.com/",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "aXL - main",
+      "source": "/home/runner/work/aXL/aXL/lists/main_unblock.txt",
+      "type": "adblock"
+    }
+      ],
+  "transformations": [
+    "Deduplicate",
+    "RemoveComments",
+    "RemoveModifiers",
+    "Validate",
+    "InvertAllow"
+  ]
+}
