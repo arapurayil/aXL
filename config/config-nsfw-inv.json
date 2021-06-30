@@ -1,0 +1,20 @@
+{
+  "name": "aXL - unblocked (nsfw)",
+  "description": "Unblock rules for aBL - nsfw",
+  "homepage": "https://abl.arapurayil.com/",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "aXL - main",
+      "source": "/home/runner/work/aXL/aXL/lists/nsfw_unblock.txt",
+      "type": "adblock"
+    }
+      ],
+  "transformations": [
+    "Deduplicate",
+    "RemoveComments",
+    "RemoveModifiers",
+    "Validate",
+    "InvertAllow"
+  ]
+}
