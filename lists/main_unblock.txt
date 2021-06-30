@@ -3,7 +3,7 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2021-06-30T08:02:26.514Z
+! Last modified: 2021-06-30T12:25:09.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -275,13 +275,6 @@
 @@||beacon.errorception.com^
 @@||beacon.geo.netflix.com^
 @@||beacon.netflix.com^
-@@||beacons.gcp.gvt2.com^
-@@||beacons.gvt2.com^
-@@||beacons2.gvt2.com^
-@@||beacons4.gcp.gvt2.com^
-@@||beacons5.gcp.gvt2.com^
-@@||beacons5.gvt2.com^
-@@||beacons5.gvt3.com^
 @@||counter-strike.net^
 @@||incoming.telemetry.mozilla.org^
 @@||mads.amazon-adsystem.com^
@@ -299,3 +292,5 @@
 @@||telemetry.microsoft.com^
 @@||telemetry.soundcloud.com^
 @@||use.adserver.snapads.com^
+@@/beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
+@@/adservice.google.[[:word:]]*$/
