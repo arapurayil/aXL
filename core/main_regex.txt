@@ -1,3 +1,3 @@
 # List of unblocked hostname regex exp for for aXL - main - unblocked
 /beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
-/^(adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/
+/^(captive\.|adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/
