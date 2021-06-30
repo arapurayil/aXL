@@ -12,6 +12,7 @@
       ],
   "transformations": [
     "Deduplicate",
+    "Compress",
     "RemoveComments",
     "RemoveModifiers",
     "Validate",
