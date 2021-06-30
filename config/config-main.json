@@ -9,16 +9,18 @@
       "source": "/home/runner/work/aXL/aXL/lists/main.txt",
       "type": "hosts"
     }
-      ],
+  ],
   "transformations": [
     "Deduplicate",
     "Compress",
     "RemoveComments",
     "RemoveModifiers",
-    "Validate",
-    "InvertAllow"
+    "Validate"
   ],
   "inclusions_sources": [
     "https://raw.githubusercontent.com/arapurayil/aBL/master/core/main_regex.txt"
+  ],
+  "exclusions_sources": [
+    "/home/runner/work/aXL/aXL/core/main_regex.txt"
   ]
 }
