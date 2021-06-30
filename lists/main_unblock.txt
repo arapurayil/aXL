@@ -3,21 +3,11 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2021-06-30T13:14:11.340Z
+! Last modified: 2021-06-30T14:20:43.942Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 @@||adserver.va3.megaphone.cloud^
-@@||adservice.google.berlin^
-@@||adservice.google.hamburg^
-@@||adservice.google.health^
-@@||adservice.google.kyoto^
-@@||adservice.google.museum^
-@@||adservice.google.physio^
-@@||adservice.google.politie^
-@@||adservice.google.xn--mxtq1m^
-@@||adservice.google.xn--ngbrx^
-@@||adservice.google.xn--node^
 @@||advertisement.alibabacorp.com^
 @@||advertisement.tanx.com^
 @@||advertisement.tanx.com.gds.alibabadns.com^
@@ -76,4 +66,4 @@
 @@||telemetry.soundcloud.com^
 @@||use.adserver.snapads.com^
 @@/beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
-@@/^(adservice\.).*(google\.(co\.|com\.)?[a-zA-Z0-9_]{2,4})$/
+@@/^(adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/
