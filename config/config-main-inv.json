@@ -8,8 +8,13 @@
       "name": "aXL - main",
       "source": "/home/runner/work/aXL/aXL/lists/main_unblock.txt",
       "type": "adblock"
+    },
+    {
+      "name": "aXL - main - regex",
+      "source": "/home/runner/work/aXL/aXL/core/main_regex.txt",
+      "type": "adblock"
     }
-      ],
+  ],
   "transformations": [
     "Deduplicate",
     "RemoveComments",
