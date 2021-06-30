@@ -3,7 +3,7 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2021-06-30T14:20:43.942Z
+! Last modified: 2021-06-30T14:23:43.701Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -37,17 +37,6 @@
 @@||beacon.errorception.com^
 @@||beacon.geo.netflix.com^
 @@||beacon.netflix.com^
-@@||captive.adservice.google.co.id^
-@@||captive.adservice.google.co.in^
-@@||captive.adservice.google.co.jp^
-@@||captive.adservice.google.co.th^
-@@||captive.adservice.google.co.za^
-@@||captive.adservice.google.com^
-@@||captive.adservice.google.com.br^
-@@||captive.adservice.google.com.mx^
-@@||captive.adservice.google.com.ng^
-@@||captive.adservice.google.com.ph^
-@@||captive.adservice.google.com.vn^
 @@||counter-strike.net^
 @@||incoming.telemetry.mozilla.org^
 @@||mads.amazon-adsystem.com^
@@ -66,4 +55,4 @@
 @@||telemetry.soundcloud.com^
 @@||use.adserver.snapads.com^
 @@/beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
-@@/^(adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/
+@@/^(captive\.|adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/
