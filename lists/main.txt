@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.06.30
-# Last modified: 30 Jun 2021 16:02:48 UTC
+# Version: 2.07.01
+# Last modified: 01 Jul 2021 00:12:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5799,6 +5799,7 @@ betfirms.com
 betfreak.net
 betfred.com
 betfred.mobi
+betfury.io
 betgambling.co.uk
 betgameday.com
 betglobal.com
@@ -11416,6 +11417,7 @@ cryptonight.net
 cryptopay.org.za
 cryptopia.co.nz
 cryptosclick.com
+cryptoslots.com
 crystalbeadscasino.com
 crystalcasino.com
 crystalcruisescasino.com
@@ -16971,6 +16973,7 @@ gambonlinecasinot.cn
 gambonlinecasinov.net.cn
 gambonlinecasinox.com.cn
 gambonlinecasinoz.cn
+gamdom.com
 game-777-golden.ru
 game-777-slot.ru
 game-888.net
@@ -28960,6 +28963,7 @@ papers.ssrn.com
 par-a-dice.com
 paracelsus-kliniken.de
 paracelsus-spital.ch
+paradice.in
 paradise-pokernet.com
 paradiseincheon.co.kr
 paradiselifecasino.com
@@ -29535,6 +29539,7 @@ pipeaota.com
 piraeusbank.com
 piraeusbank.gr
 piraeusbank.ro
+piratewins.io
 piriform.com
 piscataqua.com
 piscataquaanimalhospital.com

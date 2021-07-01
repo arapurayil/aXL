@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Jun 2021 16:02:48 UTC
+# Last modified: 01 Jul 2021 00:12:36 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -125,6 +125,7 @@ accounts.pkr.com.invalid
 acenar.com
 acompli.helpshift.com
 acpbdf.com.br
+acr0.samsungcloudsolution.com
 acs.m.taobao.com
 action.metaffiliation.com
 activation.adobedtm.com
@@ -859,7 +860,6 @@ bountysource.com
 brakrock.be
 branch.io
 branding.api.us.apiconnect.ibmcloud.com
-brave-core-ext.s3.brave.com
 bravia.dl.playstation.net
 braze.com
 bridgetrack.com
@@ -974,6 +974,7 @@ cdn.ezoic.net
 cdn.fbsbx.com
 cdn.flurry.com
 cdn.gigya.com
+cdn.gladly.com
 cdn.gotraffic.net
 cdn.hbbtv.smartclip.net
 cdn.hockeyapp.net
@@ -1538,7 +1539,6 @@ example.org
 exchange4media.com
 exct.net
 exe.io
-exitintel.com
 exosrv.com
 expanse.miningpoolhub.com
 experience.jcu.edu.au
@@ -1736,6 +1736,7 @@ gia.jd.com
 gigazine.asia
 gigya.com
 glam.com
+glancecdn.net
 glbdns.microsoft.com
 glbdns2.microsoft.com
 gleam.io
@@ -1751,7 +1752,6 @@ gmx.ch
 go.dlink.com
 go.neverware.com
 go.onelink.me
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
@@ -2146,6 +2146,7 @@ laureus.com
 lb.production-public.tubi.io
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
+leadpages.net
 leakreality.com
 leanplum.com
 learn.cisecurity.org
@@ -3446,6 +3447,7 @@ upu.samsungelectronics.com
 urbanairship.com
 uri.edu
 url8807.global.passport.xiaomi.com
+us-1.gladly.com
 us-eu.brightcove.map.fastly.net
 us-v10.events.data.microsoft.com
 us-v20.events.data.microsoft.com
