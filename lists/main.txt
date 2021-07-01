@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.01
-# Last modified: 01 Jul 2021 00:12:36 UTC
+# Last modified: 01 Jul 2021 08:01:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6983,7 +6983,6 @@ brandycasino.com
 brandywinehospital.com
 brannenbanks.com
 brattbank.com
-brave-core-ext.s3.brave.com
 bravia.dl.playstation.net
 braze.com
 brazil.hide.me
@@ -9349,6 +9348,7 @@ cdn.gatehousemedia.com
 cdn.geekwire.com
 cdn.gigya.com
 cdn.gigya.commes.122.2o7.net
+cdn.gladly.com
 cdn.gogoanime.io
 cdn.gotraffic.net
 cdn.gsmarena.com
@@ -14589,7 +14589,6 @@ eximbank.ro
 eximbankindia.com
 exist.ru
 exit42.fanball.com
-exitintel.com
 exodiogolding.com
 exosrv.com
 exoticbirdhospital.com
@@ -17820,6 +17819,7 @@ glam.com
 glame-inter-road.ru
 glamourmagazinecasino.com
 glamusement.com
+glancecdn.net
 glantal-klinik-meisenheim.de
 glarner-regionalbank.ch
 glass.twitch.tv
@@ -17984,7 +17984,6 @@ go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.ro
@@ -23243,6 +23242,7 @@ lds.org.edgekey.net
 leading-casino.net
 leading-game.net
 leadpages.co
+leadpages.net
 leakreality.com
 leanplum.com
 leapydog.com
@@ -38994,6 +38994,7 @@ urs.microsoft.com
 urs.techrepublic.com
 ursos.com.br
 urub.us
+us-1.gladly.com
 us-1.hide.me
 us-aebridge.aliexpress.com.gds.alibabadns.com
 us-amazon.icims.com
