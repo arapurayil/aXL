@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.02
-# Last modified: 02 Jul 2021 00:12:09 UTC
+# Last modified: 02 Jul 2021 08:02:38 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -14626,7 +14626,6 @@ ext-sq.squarespace.com
 ext.goguardian.com
 extension-files.twitch.tv
 extension.nirsoft.net
-extensionfactory.com
 extern.prisjakt.nu
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -17672,6 +17671,7 @@ get.xda-developers.com
 get3.adobe.com
 getabet.com
 getacut.com
+getadmiral.com
 getalife.com.au
 getalinkandshare.com
 getbestbonus.net
@@ -27401,7 +27401,6 @@ noip.com
 nokss.ru
 nolp.dhl.de
 nolvadexcasino.com
-non.li
 nonstoppartner.net
 nooksackanimalhospital.com
 nor.no
@@ -33978,6 +33977,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.cdn.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsdfga34.cn
@@ -42022,6 +42022,7 @@ wow888spincasino.com
 wowacasino.com
 wowhead.com
 wowhost.us
+wownero.herominers.com
 wowpmediaaae.azureedge.net
 wowprodmedia002aae.azureedge.net
 wowprodmediaaas.blob.core.windows.net

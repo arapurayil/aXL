@@ -261,7 +261,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3695
+            "num_unblock_rules": 3697
         },
         {
             "name": "ookangzheng blahdns whitelist",
@@ -270,7 +270,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 801
+            "num_unblock_rules": 802
         },
         {
             "name": "PracticalChip RawWhitelist",
