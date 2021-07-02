@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Jul 2021 16:02:37 UTC
+# Last modified: 02 Jul 2021 00:12:09 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -77,6 +77,7 @@
 a-0001.a-msedge.net
 a-0003.a-msedge.net
 a-0003.dc-msedge.net
+a-0007.a-msedge.net
 a-0010.a-msedge.net
 a-0012.a-msedge.net
 a-airasia-001-gyf12.insnw.net
@@ -608,6 +609,7 @@ api.raygun.io
 api.revenuecat.com
 api.sec.intl.miui.com
 api.sec.miui.com
+api.setting.intl.miui.com
 api.skype.com
 api.snapkit.com
 api.tapas.io
@@ -1546,7 +1548,6 @@ experience.tinypass.com
 exploit-db.com
 explore.amd.com
 ext.goguardian.com
-extensionfactory.com
 extern.prisjakt.nu
 external.xx.fbcdn.net
 extole.io
@@ -1724,6 +1725,7 @@ geolocation.onetrust.com
 georiot.com
 get-express-vpn.com
 get.x-link.pl
+getadmiral.com
 getblueshift.com
 getchu.com
 getroman.com
@@ -2451,7 +2453,6 @@ nl.sitestat.com
 nllapps.com
 nlrb.gov
 nocdnrlly.xyz
-non.li
 nonstoppartner.net
 norstatsurveys.com
 northamerica.digikey.inscname.net
@@ -3032,6 +3033,7 @@ sexcoin.miningpoolhub.com
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
 sfsapi.micloud.xiaomi.net
+sgp1.cdn.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
