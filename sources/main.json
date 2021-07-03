@@ -102,22 +102,13 @@
             "num_unblock_rules": 403
         },
         {
-            "name": "chadmayfield whitelist",
+            "name": "chadmayfield allow list",
             "desc": "pihole whitelists",
-            "url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/tools/lists/white.list",
+            "url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/allow.list",
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
             "num_unblock_rules": 139
-        },
-        {
-            "name": "deathbybandaid whitelist",
-            "desc": "Pi-Hole Compatible whitelist",
-            "url": "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedWhitelists/CombinedWhiteLists.txt",
-            "format": "domains",
-            "type": "unblock",
-            "num_block_rules": 0,
-            "num_unblock_rules": 245
         },
         {
             "name": "dmginc pihole whitelist",
@@ -138,15 +129,6 @@
             "num_unblock_rules": 10841
         },
         {
-            "name": "essandess whitelist",
-            "desc": "macOS Fortress whitelist",
-            "url": "https://raw.githubusercontent.com/essandess/macOS-Fortress/master/whitelist.txt",
-            "format": "domains",
-            "type": "unblock",
-            "num_block_rules": 0,
-            "num_unblock_rules": 28
-        },
-        {
             "name": "FadeMind whitelist",
             "desc": "Collection of whitelists hosts",
             "url": "https://raw.githubusercontent.com/FadeMind/hosts.whitelists/master/whitelist.FadeMind",
@@ -154,15 +136,6 @@
             "type": "unblock",
             "num_block_rules": 0,
             "num_unblock_rules": 89
-        },
-        {
-            "name": "freekers whitelist",
-            "desc": "Whitelisted domains for Pi-Hole by Freekers",
-            "url": "https://raw.githubusercontent.com/freekers/whitelist/master/domains/whitelist.txt",
-            "format": "domains",
-            "type": "unblock",
-            "num_block_rules": 0,
-            "num_unblock_rules": 71
         },
         {
             "name": "JoseGalRe Hosty whitelist",
@@ -190,15 +163,6 @@
             "type": "unblock",
             "num_block_rules": 0,
             "num_unblock_rules": 460
-        },
-        {
-            "name": "mawenjian china-cdn-domain-whitelist",
-            "desc": "China CDN Service Providers' Domain Whitelist",
-            "url": "https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt",
-            "format": "domains",
-            "type": "unblock",
-            "num_block_rules": 0,
-            "num_unblock_rules": 140
         },
         {
             "name": "mrdamien whitelist",
@@ -318,15 +282,6 @@
             "num_unblock_rules": 5012
         },
         {
-            "name": "shallalist gamble",
-            "desc": "Unpacked shallalist gamble",
-            "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/gamble/domains",
-            "format": "domains",
-            "type": "unblock",
-            "num_block_rules": 0,
-            "num_unblock_rules": 14547
-        },
-        {
             "name": "shallalist hospitals",
             "desc": "Unpacked shallalist hospitals",
             "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/hospitals/domains",
@@ -370,15 +325,6 @@
             "type": "unblock",
             "num_block_rules": 0,
             "num_unblock_rules": 151
-        },
-        {
-            "name": "worldomkar SquidListManagerWCF trusted-sites",
-            "desc": "SquidListManagerWCF trusted-sites",
-            "url": "https://raw.githubusercontent.com/worldomkar/SquidListManagerWCF/master/DomainLists/trusted-sites.txt",
-            "format": "domains",
-            "type": "unblock",
-            "num_block_rules": 0,
-            "num_unblock_rules": 1858
         },
         {
             "name": "zebpalmer whitelist",
