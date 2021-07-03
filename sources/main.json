@@ -108,7 +108,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 139
+            "num_unblock_rules": 25
         },
         {
             "name": "dmginc pihole whitelist",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3697
+            "num_unblock_rules": 3707
         },
         {
             "name": "ookangzheng blahdns whitelist",
@@ -234,7 +234,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 802
+            "num_unblock_rules": 803
         },
         {
             "name": "PracticalChip RawWhitelist",
