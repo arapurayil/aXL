@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Jul 2021 16:02:36 UTC
+# Last modified: 03 Jul 2021 00:12:23 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -493,6 +493,7 @@ allfontshere.press
 alooma.com
 alpari.ru
 altavista.ovh
+altfarm.mediaplex.com
 altpool.pro
 am.dashminer.com
 amazon-adsystem.amazon.com
@@ -713,6 +714,7 @@ ati-host.net
 atlanta.minemonero.pro
 atlas.phoenixcoin.org
 atlassbx.com
+atm.youku.com
 atmos.ucla.edu
 atomi.veriblockpool.com
 atspace.com
@@ -767,6 +769,7 @@ az667904.vo.msecnd.net
 az700632.vo.msecnd.net
 azabu-u.ac.jp
 azurewebsites.net
+azvjudwr.info
 b.catgirlsare.sexy
 b.config.skype.com
 b.hatena.ne.jp
@@ -983,6 +986,7 @@ cdn.hockeyapp.net
 cdn.iubenda.com
 cdn.izooto.com
 cdn.judge.me
+cdn.komoona.com
 cdn.krxd.net
 cdn.kuaidi100.com
 cdn.livechatinc.com
@@ -1059,6 +1063,7 @@ chromefeedcontentsuggestions-pa.googleapis.com
 cint.com
 cintnetworks.com
 cision.com
+citeo.com
 citi.bridgetrack.com
 cj.com
 cj.dotomi.com
@@ -1246,6 +1251,7 @@ cse.google.com
 cse3.chausport.com
 csgolounge.com
 csi.gstatic.com
+ct.impactradius.com
 ct.pinterest.com
 ct.sendgrid.net
 ctest.cdn.nintendo.net
@@ -1336,6 +1342,7 @@ dedecms.com
 deliveroo.com.sg
 delivery.tacticalrepublic.com
 delivery.vidible.tv
+delivery.way2traffic.com
 demdex.net
 derat.nl
 derekseaman.com
@@ -2895,6 +2902,7 @@ s0.2mdn.net
 s1.symcb.com
 s1.yimg.com
 s2.symcb.com
+s2.youtube.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
@@ -3073,6 +3081,7 @@ singular.net
 sinlix.lk
 site5.com
 siteplug.com
+sitestat.com
 sitetracker.com
 skidrow-games.com
 skimlinks.com
@@ -3175,6 +3184,7 @@ static.siteheart.com
 static.sitesbi.com
 static.skypeassets.com
 static.smi2.net
+static.vilynx.com
 static.vrv.co
 static.wi-fi.ru
 statics-marketingsites-eus-ms-com.akamaized.net
