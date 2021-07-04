@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.04
-# Last modified: 04 Jul 2021 00:12:00 UTC
+# Last modified: 04 Jul 2021 08:02:06 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1500,7 +1500,6 @@ altbank.com
 alternativeto.net
 alternativeveterinaryhospital.com
 altervista.org
-altfarm.mediaplex.com
 altinn.no
 altonmemorialhospital.org
 altpool.pro
@@ -3161,7 +3160,6 @@ atlasbank.com
 atlassbx.com
 atlassian.com
 atlassian.net
-atm.youku.com
 atmos.ucla.edu
 atomi.veriblockpool.com
 atomz.com
@@ -3380,7 +3378,6 @@ azure.com.au
 azure.net
 azureedge.net
 azurewebsites.net
-azvjudwr.info
 b-api.facebook.com
 b-cdn.net
 b-graph.facebook.com
@@ -4297,6 +4294,7 @@ bestfwdservice.com
 bestgore.com
 bestmovies.com
 bestofmedia.com
+bestvpnrating.com
 bet365.com
 beta-www.funimation.com
 beta.api.getpocket.com
@@ -5758,7 +5756,6 @@ cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.judge.me
 cdn.jwplayer.com
 cdn.keycdn.com
-cdn.komoona.com
 cdn.krxd.net
 cdn.kuaidi100.com
 cdn.livechatinc.com
@@ -7768,7 +7765,6 @@ delivery.acm.org
 delivery.rakuten.co.jp
 delivery.tacticalrepublic.com
 delivery.vidible.tv
-delivery.way2traffic.com
 dell.com
 dellin.ru
 dellsbank.com
@@ -22847,7 +22843,6 @@ static.union.mi.com
 static.viabtc.com
 static.viber.com
 static.videoder.net
-static.vilynx.com
 static.vrv.co
 static.vtwonen.nl
 static.whatsapp.net
@@ -25142,6 +25137,7 @@ verizon.com
 verizon.demdex.net
 verizon.inq.com
 verizon.net
+verizonmedia.com
 verizonwireless.com
 verizonwireless.demdex.net
 verkehrskreditbank.at
