@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Jul 2021 08:02:07 UTC
+# Last modified: 05 Jul 2021 16:02:43 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -1329,7 +1329,6 @@ dc.services.visualstudio.com
 dcms.1688.com
 dcs.audi.com
 dd-cdn.multiscreensite.com
-ddos-guard.net
 de-odc.samsungapps.com
 de.ign.com
 de.ioam.de
@@ -1769,6 +1768,7 @@ gocarrot.com
 goldbach.com
 goliath.bi.miniclippt.com
 golink.segment.com
+google-analytics.com
 google.sh
 googleadapis.l.google.com
 googleadservices.com
@@ -2265,7 +2265,6 @@ maxmind.com
 mb-cdn.stocard.de
 mc.corel.com
 mc.yandex.ru
-mctrades.org
 md-nx.com
 mdis.uz
 mds.yandex.net
@@ -2484,7 +2483,6 @@ ntv.io
 ntvcld-a.akamaihd.net
 nuancemobility.net
 nui.media
-nulled.to
 nullrefexcep.com
 nuskin.com
 nutaku.com
@@ -2508,7 +2506,6 @@ oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 ofb.uz
 offers-api.cliqz.com
-ogusers.com
 oimagea1.ydstatic.com
 oimagea2.ydstatic.com
 oimagea3.ydstatic.com
@@ -2796,7 +2793,6 @@ r.sg.sec.miui.com
 r1.ykimg.com
 rackcdn.com
 radeant.com
-raidforums.com
 rainmaker.production-public.tubi.io
 ramp.purch.com
 rapidvideo.com
@@ -2809,6 +2805,7 @@ rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
 rdrtr.com
+rdstation.com.br
 rdx2.lgtvsdp.com
 reactor.cc
 readberserk.com
@@ -3006,7 +3003,6 @@ segment.io
 segpay.com
 self-repair.mozilla.org
 self.events.data.microsoft.com
-sellix.io
 sematext.com
 semawur.com
 semnaniau.ac.ir
@@ -3053,7 +3049,6 @@ shop.spreadshirt.com
 shop.zalo.me
 shopify.com
 shopperapproved.com
-shoppy.gg
 shopzilla.com
 shorte.st
 shortpixel.ai
@@ -3207,7 +3202,6 @@ stptrisakti.ac.id
 strangled.net
 streaming.adswizz.com
 streamplay.to
-stressthem.to
 stripecdn.map.fastly.net
 stroeerdigitalgroup.de
 stun.l.google.com
@@ -3631,6 +3625,7 @@ wurfl.io
 ww8.adminer.com
 www-cbssports-com.cdn.ampproject.org
 www-cultofmac-com.ezoic.net
+www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
