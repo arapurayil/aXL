@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Jul 2021 16:02:28 UTC
+# Last modified: 05 Jul 2021 00:11:36 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -1248,7 +1248,6 @@ cse.google.com
 cse3.chausport.com
 csgolounge.com
 csi.gstatic.com
-ct.impactradius.com
 ct.pinterest.com
 ct.sendgrid.net
 ctest.cdn.nintendo.net
@@ -2738,6 +2737,7 @@ privacymanager.io
 pro.hit.gemius.pl
 pro.ip-api.com
 prod-adops-proxy.dnitv.net
+prod.leanplum.com
 prod.mobile.roku.com
 prod.nexusrules.live.com.akadns.net
 prod.telemetry.ros.rockstargames.com
