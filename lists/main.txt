@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.05
-# Last modified: 05 Jul 2021 00:11:36 UTC
+# Last modified: 05 Jul 2021 08:02:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -19151,6 +19151,7 @@ prod.appnexus.map.fastly.net
 prod.cloud.rockstargames.com
 prod.disqus.map.fastlylb.net
 prod.imgur.map.fastlylb.net
+prod.leanplum.com
 prod.mobile.roku.com
 prod.nexusrules.live.com.akadns.net
 prod.p02ams.pod.rockstargames.com
