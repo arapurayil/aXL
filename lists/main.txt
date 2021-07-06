@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.05
-# Last modified: 05 Jul 2021 16:02:43 UTC
+# Version: 2.07.06
+# Last modified: 06 Jul 2021 00:12:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -15520,7 +15520,6 @@ mcsaeldo.com
 mcsandl.com
 mcsbnh.com
 mctcu.org
-mctrades.org
 md-nx.com
 mdap.alipay.com
 mdbank.com
@@ -17591,7 +17590,6 @@ ofta.org.uk
 ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
-ogusers.com
 oh-kliniken.de
 ohio.gov
 ohiocountyhospital.com
@@ -19928,6 +19926,7 @@ rd.yahoo.com
 rdrtr.com
 rds-assets.nvidia.com
 rdsig.yahoo.co.jp
+rdstation.com.br
 rdtcdn.com
 rdwest.playstation.com
 rdx2.lgtvsdp.com
@@ -23076,7 +23075,6 @@ streaming.adswizz.com
 streamplay.me
 streamplay.to
 strefa.fm
-stressthem.to
 stringtownanimalhospital.com
 stripe.com
 stripe.network
@@ -26512,6 +26510,7 @@ www-cdn.icloud.com.akadns.net
 www-cdn.whatsapp.net
 www-cultofmac-com.ezoic.net
 www-file.huawei.com
+www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www-origin.twitch.tv
 www-origin.xbox.com

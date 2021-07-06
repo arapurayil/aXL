@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Jul 2021 16:02:43 UTC
+# Last modified: 06 Jul 2021 00:12:25 UTC
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
@@ -2831,6 +2831,7 @@ referrer.disqus.com
 refersion.com
 reg.biv.sony.tv
 registeridm.com
+relevant-digital.com
 renderer.apester.com
 renta.papy.co.jp
 reports.cliqz.com
