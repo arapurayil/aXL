@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.07
-# Last modified: 07 Jul 2021 00:13:01 UTC
+# Last modified: 07 Jul 2021 08:02:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -304,7 +304,6 @@
 4.sophosxl.net
 425mb.com
 4421c3cc09dd55967f9534aabeafa73e.cf
-4at1.com
 4chan.org
 4crazy-files.de
 4dsply.com
@@ -1144,6 +1143,7 @@ adswizz.com
 adtech.de
 adtidy.net
 adtidy.org
+adtraction.com
 adulthub.ru
 adups.com
 adv.li
@@ -1242,6 +1242,7 @@ ahd.ruten.com.tw
 ahepahosp.gr
 ahhospital.com
 ahiba.hn
+ahinsashoes.cz
 ahli.com
 ahoo.it
 ahoyhyperbay.com
@@ -1340,6 +1341,7 @@ akh-wien.ac.at
 akhwien.at
 akibabank.com
 akmba.org
+akpbvba.be
 akreg.com
 aktia.com
 aktia.fi
@@ -2217,6 +2219,7 @@ andmuchmore.com
 andreasklinik.ch
 andrew.nullrefexcep.com
 andro4all.com
+android-appboot.netflix.com
 android.bugly.qq.com
 android.clients.google.com
 android.com
@@ -2514,7 +2517,6 @@ api.intellimize.co
 api.intsig.net
 api.io.mi.com
 api.ipify.org
-api.ipinfodb.com
 api.ipstack.com
 api.jio.com
 api.jqueryui.com
@@ -3397,7 +3399,6 @@ b.stats.paypal.com
 b.techcrunch.com
 b.thumbs.redditmedia.com
 b.tiles.mapbox.com
-b.wishabi.com
 b0.cc
 b00.fr
 b02.black.ndmdhs.com
@@ -4906,6 +4907,7 @@ brandshop.ru
 brandywinehospital.com
 brannenbanks.com
 brattbank.com
+brave-core-ext.s3.brave.com
 bravia.dl.playstation.net
 braze.com
 brazil.hide.me
@@ -4937,6 +4939,7 @@ bridgtonhospital.org
 brightcove.com
 brightcove.map.fastly.net
 brightcove.net
+brightedge.com
 brighton-hove.gov.uk
 brightonanimalhospital.com
 brinkster.com
@@ -6293,7 +6296,6 @@ ciscdb.sel.sony.com
 cisco.com
 cision.com
 cit.com
-citeo.com
 citi.bridgetrack.com
 citi.com
 citibank.ae
@@ -9962,6 +9964,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flow.page
 flowershospital.com
 flowgo.com
 flowplayer.com
@@ -10745,6 +10748,7 @@ geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
 geomed-klinik.de
+geomobileservices-pa.googleapis.com
 geomundos.com
 george.bcr.ro
 georgetownsb.com
@@ -12632,6 +12636,7 @@ iclients.baltinvest.ru
 icloud-content.com
 icloud.cdn-apple.com
 icloud.com
+icloud.com.cn
 icloud.com.edgekey.net
 icon25-bank.com
 iconz.co.nz
@@ -13390,6 +13395,7 @@ iqtest.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
+iradio.ie
 irbbank.ch
 irc-galleria.net
 irc-ws-darklaunch.chat.twitch.tv
@@ -14391,6 +14397,7 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
+l.ead.me
 l.engage.canva.com
 l.facebook.com
 l.google.com
@@ -14945,6 +14952,7 @@ logback.qos.ch
 logbuch-netzpolitik.de
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15844,6 +15852,7 @@ messenger.hotmail.com
 messenger.live.com
 messenger.msn.com
 messenger.yahoo.com
+messengerpeople.com
 met2.hp.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
@@ -16133,6 +16142,7 @@ mls.com
 mlsend.com
 mm.ph
 mma.daum.net
+mmarau.ac.ke
 mmb.daum.net
 mmbank.com
 mmbank.ru
@@ -16945,6 +16955,7 @@ netupdater.info
 netwizards.com
 network.bazaarvoice.com
 network.hu
+networkedblogs.com
 networking.engadget.com
 networks.feedburner.com
 networksolutions.com
@@ -17263,7 +17274,6 @@ notlong.com
 nottinghamcity.gov.uk
 nov.io
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
-nova.collect.igodigital.com
 novabanka.com
 novablbanka.com
 novaconnect.net
@@ -17285,6 +17295,7 @@ npo.nl
 npoplayer.omroep.nl
 npostart.nl
 npozapp.nl
+nppa.com.au
 npr-news.streaming.adswizz.com
 npr.org
 nps.gov
@@ -18429,6 +18440,7 @@ paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
 paypal-nakit.com
+paypal-opladen.be
 paypal-topup.ee
 paypal.boomkat.com
 paypal.ca
@@ -18546,6 +18558,7 @@ peoplesnationalbank.com
 peoplestring.com
 pepagnh.gr
 pepfar.gov
+pepper.com
 pepperjamnetwork.com
 peppermint.samsung.com
 peraita.net
@@ -18707,6 +18720,7 @@ piscataquaanimalhospital.com
 pitchfork.com
 pittsburgh.cbslocal.com
 pittsfieldco-op.com
+piu.ac.ke
 pius-hospital.de
 piwik.org
 pix11.com
@@ -18760,6 +18774,7 @@ platform-lookaside.fbsbx.com
 platform.bing.com
 platform.instagram.com
 platform.linkedin.com
+platform.sharethis.com
 platform.stumbleupon.com
 platform.tumblr.com
 platform.twitter.com
@@ -19849,6 +19864,7 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
+rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -20946,6 +20962,7 @@ scontent-yyz1-1.xx.fbcdn.net
 scontent.cdninstagram.com
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
+scoop.it
 scorch.co.nz
 scorecardresearch.com
 scorecardresearch.com.edgekey.net
@@ -21560,6 +21577,7 @@ simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
+simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -21837,6 +21855,7 @@ snssdk.com
 snsw.us
 snu.lge.com
 snvb.fr
+snxd.com
 so-h.ch
 so-net.ne.jp
 so.cl
@@ -22458,6 +22477,7 @@ spkschwerin.de
 spkson.de
 spktw.de
 spl.hit.gemius.pl
+split.to
 splitskabanka.hr
 spm.is
 spn.sr
@@ -23067,6 +23087,7 @@ str.hit.gemius.pl
 straitstimes.com
 strangled.net
 strat.ru
+strategypage.com
 strato.de
 stratus.soundcloud.com
 stream.highwebmedia.com
@@ -23665,6 +23686,7 @@ texasbankers.com
 texaschildrenshospital.org
 texasfirstbanks.com
 texasflba.com
+texashomebase.com
 texaslandbank.com
 texasmba.org
 texasstatebank.com
@@ -23988,6 +24010,7 @@ torrentfreak.com
 torrentgalaxy.to
 torrentz.eu
 total-sexy.de
+total.direct-energie.com
 totalbanken.dk
 totalh.com
 totta.pt
@@ -24026,6 +24049,7 @@ tr.wikipedia.com
 tr4.cbsistatic.com
 tr5.in
 track.adform.net
+track.adtraction.com
 track.bpost.be
 track.customer.io
 track.effiliation.com
@@ -24119,6 +24143,7 @@ treasurydirect.gov
 treexml.baofeng.net
 treezip.baofeng.net
 trello.com
+trelock.com
 tremor.com
 trezor.io
 trial-sport.ru
@@ -24932,6 +24957,7 @@ vanguard.com
 vanilla.futurecdn.net
 vanlanschot.nl
 varengold.de
+variations.brave.com
 variety.com
 vas.samsungapps.com
 vasapi.rdtuijian.com
@@ -26281,6 +26307,7 @@ windowscentral.com
 windowsphone-preview.rtm.vint.xbox.com
 windowsphone.com
 windowsphone.xbox.com
+windowssearch.com
 windowsupdate.com
 windowsupdate.nsatc.net
 windowupdate.org
@@ -26391,6 +26418,7 @@ wordcounter.io
 wordle.net
 wordpress.com
 wordpress.org
+wordstream.com
 workkingdom.com
 workona.com
 world-gen.g.aaplimg.com
