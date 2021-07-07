@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Jul 2021 08:02:24 UTC
+# Last modified: 07 Jul 2021 16:09:16 UTC
 0rz.tw
 000webhostapp.com
 0x1f4b0.com
@@ -51,6 +51,7 @@
 56.com
 64.5b6b7b.ru
 64.mymyxmra.ru
+91mobiles.com
 102.122.2o7.net
 112.2o7.net
 122.2o7.net
@@ -132,10 +133,12 @@ action.metaffiliation.com
 activation.adobedtm.com
 activation.nimiq.com
 activation.unity3d.com
+activehosted.com
 activity.windows.com
 actonservice.com
 actonsoftware.com
 acxiom.com
+ad-blocker.org
 ad-ettoday.cdn.hinet.net
 ad-miner.com
 ad.admitad.com
@@ -192,6 +195,7 @@ ads.aws.fwmrm.net
 ads.bitcoin.com
 ads.google.com
 ads.harvard.edu
+ads.reddit.com
 ads.twitter.com
 ads280dummy2.com
 adsafeprotected.com
@@ -512,6 +516,7 @@ ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
+ams3.digitaloceanspaces.com
 amsterdam01.minemonero.pro
 amway.com
 an.yandex.ru
@@ -762,6 +767,7 @@ aviasales.ru
 awaps.yandex.ru
 aweber.com
 awemwh.com
+awin.com
 awin1.com
 axoncoho.tk
 axsoft.f3322.net
@@ -835,9 +841,11 @@ bitcoin.cz
 bitly.com
 bizrate.com
 bj.bcebos.com
+bkt.clouddn.com
 blackcanyoncoffee.com
 blackhatworld.com
 blastingnews.com
+blocket.se
 blockthrough.com
 blog.51cto.com
 blog.ionicframework.com
@@ -861,7 +869,9 @@ boldchat.com
 bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
+bounceme.net
 bountysource.com
+bp01.net
 br4.in
 brakrock.be
 branch.io
@@ -1069,6 +1079,7 @@ citi.bridgetrack.com
 cj.com
 cj.dotomi.com
 cj.mplxtms.com
+ck.page
 ckk.ai
 cl.exct.net
 cl.s6.exct.net
@@ -1197,11 +1208,13 @@ consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.aimatch.com
 content.awaze.com
 content.jwplatform.com
 content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
+convertkit.com
 conviva.com
 cooey-coe.org
 cookie-script.com
@@ -1227,6 +1240,8 @@ cptrack.de
 cquotient.com
 crashlytics.com
 crbcdn.jsfiddle.net
+createsend.com
+createsend1.com
 creative.ak.fbcdn.net
 creditonebank.com
 cricbuzz.com
@@ -1268,6 +1283,7 @@ customer.io
 customerevents.netflix.com
 customeriomail.codecademy.com
 customtraffic.impactradius.com
+cutt.ly
 cw.choice.faktor.io
 cws-eu.conviva.com
 cws-hulu.conviva.com
@@ -1374,7 +1390,6 @@ digitaladvisor.dk
 digitalive.world
 digitalsmiths.net
 directtrack.com
-disco3.co.uk
 discover.com
 discuss.newrelic.com
 display.apester.com
@@ -1426,7 +1441,6 @@ driftt.com
 drivethelife.com
 drm-pr-us.crackle.com
 drp.su
-drugstore.com
 ds-aksb-a.akamaihd.net
 ds-s7.addthis.com.edgekey.net
 ds-www.addthis.com.edgekey.net
@@ -1600,6 +1614,7 @@ filman.tv
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
+firebasestorage.googleapis.com
 fireemblem.net
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1648,8 +1663,10 @@ fonts.googleapis.com
 fonts.net
 footprints-pa.googleapis.com
 ford.to
+form.jotform.com
 forms.aweber.com
 forms.convertkit.com
+forms.gle
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -1672,7 +1689,6 @@ freesteamkeys.com
 fresenius-kabi.com
 frog.wix.com
 frontier.musical.ly
-fs.fed.us
 fs.microsoft.com
 fstream.binance.com
 ftp.byethost11.com
@@ -1833,6 +1849,7 @@ h-tdcanada.online-metrix.net
 h.imguol.com
 h.online-metrix.net
 h5.qzone.qq.com
+habd.as
 habrahabr.ru
 hack-academy.fr
 hackers.com
@@ -1871,6 +1888,7 @@ heureka.cz
 heureka.sk
 hexun.com
 heymistr.com
+hi2.ro
 highonandroid.com
 highwebmedia.com
 hit.bg
@@ -2151,6 +2169,7 @@ kqzyfj.com
 kr.lgtvsdp.com
 kredytbank.com.ua
 krxd.net
+kutt.it
 l.betrad.com
 l.doubleclick.net
 l.ead.me
@@ -2190,6 +2209,7 @@ link.p0.com
 linkev.com
 links.strava.com
 linksynergy.com
+linktr.ee
 litix.io
 live.simcitybuildit.com
 livefyre.com
@@ -2233,7 +2253,6 @@ m.yap.yahoo.com
 m1.daumcdn.net
 m1.nsimg.net
 m2.nsimg.net
-m2m.org
 m365log.com
 ma135-r.analytics.edgekey.net
 maasreusel.nl
@@ -2400,7 +2419,6 @@ mrzikj.com
 ms.yandex.ru
 msdk.qq.com
 msedge.net
-mservice.com.vn
 msftncsi.com
 msgfocus.com
 msh.amazon.co.uk
@@ -2753,6 +2771,7 @@ pricelist.skype.com
 primenetwork.net
 primetime-a.akamaihd.net
 prisacom.112.2o7.net
+prisjakt.nu
 prism.app-us1.com
 privacy-center.org
 privacy-policy.truste.com
@@ -2909,6 +2928,7 @@ s.dolphincdn.xyz
 s.fwmrm.net
 s.gateway.messenger.live.com
 s.gravatar.com
+s.id
 s.media-imdb.com
 s.sa.aol.com
 s.toutiao.com
@@ -3038,7 +3058,6 @@ sensic.net
 sensors.binance.cloud
 sentry-cdn.com
 sentry.io
-seqent.com
 server.iad.liveperson.net
 service.biv.sony.tv
 service.eu.newrelic.com
@@ -3111,7 +3130,6 @@ sludini.lv
 slushpool.com
 smartasset.com
 smartclip.net
-smartlock.google.com
 smartredirect.de
 smarturl.it
 smedia.webcollage.net
@@ -3243,6 +3261,7 @@ support.8x8.com
 support.newrelic.com
 supportxmr.com
 suprnova.cc
+survey.alchemer.com
 survey.confirmit.com
 surveygizmo.com
 surveyrouter.com
@@ -3366,6 +3385,7 @@ toutiao.com
 townnews.com
 tp-emea.exactag.com
 tr.im
+tr.info.mango-mobilites.fr
 track.adform.net
 track.adtraction.com
 track.customer.io
@@ -3386,6 +3406,7 @@ tracker.publicbt.com
 tracker.trackerfix.com
 tracker2.wasabii.com.tw
 trackersimulator.org
+tracking.bp01.net
 tracking.epicgames.com
 tracking.lengow.com
 tracking.publicidees.com
@@ -3482,7 +3503,6 @@ upgrade.xl9.xunlei.com
 upmostly.com
 upu.samsungelectronics.com
 urbanairship.com
-uri.edu
 url8807.global.passport.xiaomi.com
 us-1.gladly.com
 us-eu.brightcove.map.fastly.net
@@ -3556,6 +3576,7 @@ vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
 vilynx.com
+vin-plastiks.com
 vine.co
 vis.vi-serve.com
 visit.digidip.net
@@ -3728,7 +3749,6 @@ zcoin.miningpoolhub.com
 zdbb.net
 zee.cws.conviva.com
 zer0day.ch
-zhivagobank.ru
 zhuti.xiaomi.com
 ziboupdater.net
 ziffdavis.com
