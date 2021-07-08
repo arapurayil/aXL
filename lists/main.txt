@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.08
-# Last modified: 08 Jul 2021 00:11:24 UTC
+# Last modified: 08 Jul 2021 08:02:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -722,7 +722,6 @@ activation.sls.microsoft.com
 activation.unity3d.com
 activations.cdn.mozilla.net
 active.com
-activehosted.com
 activisionblizzardin.demdex.net
 activistpost.com
 activities.aliexpress.com
@@ -4574,7 +4573,6 @@ blob.weather.microsoft.com
 blockadblock.com
 blockads.fivefilters.org
 blockchain.info
-blocket.se
 blockfi.com
 blocklist.addons.mozilla.org
 blocklist.de
@@ -5827,6 +5825,7 @@ cdn.sstatic.net
 cdn.staticaly.com
 cdn.staticfile.org
 cdn.stream.schibsted.media
+cdn.streamlike.com
 cdn.stripst.com
 cdn.stroeerdigitalgroup.de
 cdn.stumbleupon.com
@@ -6373,7 +6372,6 @@ cj.com
 cj.dotomi.com
 cj.mplxtms.com
 cjb.net
-ck.page
 ckb-rzd.ru
 ckk.ai
 cl.exct.net
@@ -7202,7 +7200,6 @@ cre.gov.uk
 create.snapchat.com
 createjs.com
 createsend.com
-createsend1.com
 creative.adobe.com
 creative.ak.fbcdn.net
 creative.mylife.com
@@ -20140,6 +20137,7 @@ res.static.xiaomi.net
 res.wechat.com
 res.wx.qq.com
 resbank.co.za
+rescure.fruxlabs.com
 research-platform.line.me
 research.rakuten.co.jp
 researchgate.net
@@ -20435,6 +20433,7 @@ ru.twitch.tv
 ru.wikipedia.com
 rubank.ru
 rubensdreams.de
+rubicon.wellsfargo.com
 rudo.video
 rudolfinerhaus.at
 rudolfstiftung.at
@@ -23101,6 +23100,7 @@ stream.highwebmedia.com
 stream.twitch.tv
 streamer.tawenda-tech.org
 streaming.adswizz.com
+streamlike.com
 streamplay.me
 streamplay.to
 strefa.fm
