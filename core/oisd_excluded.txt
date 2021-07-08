@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Jul 2021 16:09:16 UTC
+# Last modified: 08 Jul 2021 00:11:24 UTC
 0rz.tw
 000webhostapp.com
 0x1f4b0.com
@@ -51,7 +51,6 @@
 56.com
 64.5b6b7b.ru
 64.mymyxmra.ru
-91mobiles.com
 102.122.2o7.net
 112.2o7.net
 122.2o7.net
@@ -133,7 +132,6 @@ action.metaffiliation.com
 activation.adobedtm.com
 activation.nimiq.com
 activation.unity3d.com
-activehosted.com
 activity.windows.com
 actonservice.com
 actonsoftware.com
@@ -845,7 +843,6 @@ bkt.clouddn.com
 blackcanyoncoffee.com
 blackhatworld.com
 blastingnews.com
-blocket.se
 blockthrough.com
 blog.51cto.com
 blog.ionicframework.com
@@ -1020,6 +1017,7 @@ cdn.segment.com
 cdn.segment.io
 cdn.siftscience.com
 cdn.split.io
+cdn.streamlike.com
 cdn.stroeerdigitalgroup.de
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
@@ -1079,7 +1077,6 @@ citi.bridgetrack.com
 cj.com
 cj.dotomi.com
 cj.mplxtms.com
-ck.page
 ckk.ai
 cl.exct.net
 cl.s6.exct.net
@@ -1214,7 +1211,6 @@ content.jwplatform.com
 content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
-convertkit.com
 conviva.com
 cooey-coe.org
 cookie-script.com
@@ -1240,8 +1236,6 @@ cptrack.de
 cquotient.com
 crashlytics.com
 crbcdn.jsfiddle.net
-createsend.com
-createsend1.com
 creative.ak.fbcdn.net
 creditonebank.com
 cricbuzz.com
@@ -2771,7 +2765,6 @@ pricelist.skype.com
 primenetwork.net
 primetime-a.akamaihd.net
 prisacom.112.2o7.net
-prisjakt.nu
 prism.app-us1.com
 privacy-center.org
 privacy-policy.truste.com
@@ -2884,6 +2877,7 @@ reports.cliqz.com
 repository.cliqz.com
 res-x.com
 res.cloudinary.com
+rescure.fruxlabs.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
@@ -2913,6 +2907,8 @@ rpgenerator.net
 rpm.newrelic.com
 rpxnow.com
 rs6.net
+rsci.app.link
+rubicon.wellsfargo.com
 rutrk.org
 s-bid.rmp.rakuten.com
 s-usc1c-nss-223.firebaseio.com
@@ -3250,6 +3246,7 @@ stptrisakti.ac.id
 strangled.net
 strategypage.com
 streaming.adswizz.com
+streamlike.com
 streamplay.to
 stripecdn.map.fastly.net
 stroeerdigitalgroup.de

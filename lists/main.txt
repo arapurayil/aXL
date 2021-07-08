@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.07
-# Last modified: 07 Jul 2021 16:09:16 UTC
+# Version: 2.07.08
+# Last modified: 08 Jul 2021 00:11:24 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -722,6 +722,7 @@ activation.sls.microsoft.com
 activation.unity3d.com
 activations.cdn.mozilla.net
 active.com
+activehosted.com
 activisionblizzardin.demdex.net
 activistpost.com
 activities.aliexpress.com
@@ -888,6 +889,7 @@ ads.exoclick.com
 ads.google.com
 ads.harvard.edu
 ads.imeem.com
+ads.reddit.com
 ads.talkbusiness.net
 ads.twitter.com
 ads280dummy2.com
@@ -2171,6 +2173,7 @@ amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
+ams3.digitaloceanspaces.com
 amsouth.com
 amsterdam01.minemonero.pro
 amtrust.com
@@ -3341,6 +3344,7 @@ awdgp.org.au
 aweber.com
 awemwh.com
 awgnet.com.br
+awin.com
 awin1.com
 awogsd.de
 aws.amazon.com
@@ -4538,6 +4542,7 @@ bkcp.be
 bkme.com
 bks.at
 bksbank.it
+bkt.clouddn.com
 black.game.naver.com
 blackapplehost.com
 blackberry.com
@@ -4569,6 +4574,7 @@ blob.weather.microsoft.com
 blockadblock.com
 blockads.fivefilters.org
 blockchain.info
+blocket.se
 blockfi.com
 blocklist.addons.mozilla.org
 blocklist.de
@@ -4837,6 +4843,7 @@ botwodessa.com
 bou.or.ug
 bougn.at
 bouldercityhospital.org
+bounceme.net
 bountysource.com
 bourbonhospital.com
 bournemouth.gov.uk
@@ -4853,6 +4860,7 @@ boxcryptor.com
 boxrec.com
 boz.zm
 bp.blogspot.com
+bp01.net
 bpa.gov
 bpa.it
 bpam.fr
@@ -6365,6 +6373,7 @@ cj.com
 cj.dotomi.com
 cj.mplxtms.com
 cjb.net
+ck.page
 ckb-rzd.ru
 ckk.ai
 cl.exct.net
@@ -6983,6 +6992,7 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
+content.aimatch.com
 content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
@@ -7192,6 +7202,7 @@ cre.gov.uk
 create.snapchat.com
 createjs.com
 createsend.com
+createsend1.com
 creative.adobe.com
 creative.ak.fbcdn.net
 creative.mylife.com
@@ -8031,7 +8042,6 @@ disability.gov
 disability.gov.uk
 disbank.com.tr
 disclose.tv
-disco3.co.uk
 discord.gg
 discord.me
 discordapp.com
@@ -8386,7 +8396,6 @@ drp.su
 drsclinic.com
 drsmile.com.ph
 drugabuse.gov
-drugstore.com
 drupal.org
 drweb.com
 drydenbank.com
@@ -10401,7 +10410,6 @@ frype.com
 frype.lt
 frys.com
 fs-bank.de
-fs.fed.us
 fs.microft.com
 fs.microsoft.com
 fs1.dl-bia2.ir
@@ -11509,6 +11517,7 @@ habbo.es
 habbo.nl
 habbogreen.com
 habcorp.com
+habd.as
 habibamericanbank.com
 habibbank.com
 habibbankltd.com
@@ -11777,6 +11786,7 @@ hhs.gov
 hhscjmalaga.org
 hi.baidu.com
 hi.statcounter.com
+hi2.ro
 hi5.com
 hiawatha-nb.com
 hiberniabank.com
@@ -15141,7 +15151,6 @@ m2-a.sndcdn.com
 m2.chia-anime.tv
 m2.nsimg.net
 m24.comertbank.md
-m2m.org
 m2mbank.ru
 m2u.maybank.co.id
 m365log.com
@@ -16409,7 +16418,6 @@ msdnshared.blob.core.windows.net
 msecnd.net
 msedge.api.cdp.microsoft.com
 msedge.net
-mservice.com.vn
 msfn.org
 msftconnecttest.com
 msftncsi.com
@@ -21296,7 +21304,6 @@ sentry.flipboard.com
 sentry.io
 sentry.spot.im
 seo.spot.im
-seqent.com
 sequoiahospital.org
 serdza.de
 serfin.com.mx
@@ -23274,6 +23281,7 @@ surl.me
 surpasshosting.com
 survey-blog.line.me
 survey-ng.indevice.sonymobile.com
+survey.alchemer.com
 survey.confirmit.com
 survey.foreseeresults.com
 survey.forseeresults.com
@@ -24041,6 +24049,7 @@ tr-tr.about.flipboard.com
 tr.gravatar.com
 tr.ign.com
 tr.im
+tr.info.mango-mobilites.fr
 tr.net
 tr.snapchat.com
 tr.statcounter.com
@@ -24077,6 +24086,7 @@ tracker.trackerfix.com
 tracker2.wasabii.com.tw
 trackersimulator.org
 tracking-protection.cdn.mozilla.net
+tracking.bp01.net
 tracking.epicgames.com
 tracking.feedpress.it
 tracking.groupon.com
@@ -24697,7 +24707,6 @@ urbancom.net
 urbandictionary.com
 urbank.ru
 urbanspoon.com
-uri.edu
 urkb.ch
 url.cc
 url.ch
@@ -25287,6 +25296,7 @@ villagebankonline.com
 vilynx.com
 vimeo.com
 vimeocdn.com
+vin-plastiks.com
 vincentius-kliniken.de
 vincenz.de
 vine.co
@@ -27031,7 +27041,6 @@ zhaopin.com
 zhibo.mi.com
 zhihu.com
 zhimg.com
-zhivagobank.ru
 zhongguose.com
 zht.alipay.com
 zhuashouji.com
