@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jul 2021 08:02:20 UTC
+# Last modified: 09 Jul 2021 16:02:50 UTC
 0-5148-2.binance.com
 0rz.tw
 000webhostapp.com
@@ -176,7 +176,6 @@ activity.windows.com
 actonservice.com
 actonsoftware.com
 acxiom.com
-ad-blocker.org
 ad-ettoday.cdn.hinet.net
 ad-miner.com
 ad.admitad.com
@@ -951,7 +950,6 @@ bitcoin.cz
 bitly.com
 bizrate.com
 bj.bcebos.com
-bkt.clouddn.com
 blackcanyoncoffee.com
 blackhatworld.com
 blankrefer.com
@@ -979,7 +977,6 @@ boldchat.com
 bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
-bounceme.net
 bountysource.com
 bp01.net
 br4.in
@@ -2057,7 +2054,6 @@ h.imguol.com
 h.online-metrix.net
 h5.qzone.qq.com
 ha-link.sailthru.com
-habd.as
 habrahabr.ru
 hack-academy.fr
 hackerrank.com.edgekey.net
@@ -2099,7 +2095,6 @@ heureka.cz
 heureka.sk
 hexun.com
 heymistr.com
-hi2.ro
 highonandroid.com
 highwebmedia.com
 hit.bg
@@ -2268,6 +2263,7 @@ inmoment.com
 inquisition.goguardian.com
 ins-073.inscname.net
 inscname.net
+insecam.org
 inside-graph.com
 insideruser.trafficmanager.net
 insight.rapid7.com
@@ -2884,7 +2880,6 @@ onet.pl
 onetrust.com
 online-metrix.net
 online.adservicemedia.dk
-ono.com
 ooyala.com
 opecloud.com
 openapi.samsung.com
@@ -3643,6 +3638,7 @@ surveyrouter.com
 surveys.insightexpressai.com
 sushipool.com
 svonm.com
+sw88.go.com
 swa.bol.com
 sy.ameblo.jp
 symcd.com
@@ -3981,7 +3977,6 @@ vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
 vilynx.com
-vin-plastiks.com
 vine.co
 vis.vi-serve.com
 visit.digidip.net
