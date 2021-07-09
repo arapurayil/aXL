@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.09
-# Last modified: 09 Jul 2021 00:11:54 UTC
+# Last modified: 09 Jul 2021 08:02:20 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10,8 +10,7 @@
 # Please report the domains you wish to block/unblock via 'Issues'
 # Licence: https://github.com/arapurayil/aBL/license
 #--------------------------------------------------------------------------------------#
-0-22.binance.com
-0-9-0.binance.com
+0-5148-2.binance.com
 0-edge-chat.facebook.com
 0.africa.pool.ntp.org
 0.arch.pool.ntp.org
@@ -51,7 +50,6 @@
 003.0x1f4b0.com
 004.0x1f4b0.com
 005.0x1f4b0.com
-005.us.bitcoin.com
 006.0x1f4b0.com
 007.0x1f4b0.com
 007gb.com
@@ -60,11 +58,11 @@
 008.0x1f4b0.com
 009.0x1f4b0.com
 00freeweb.com
+01.binance.com
 01.org
 012webpages.com
 01crypto.net
 02bancorp.com
-033.us.bitcoin.com
 07x.net
 0catch.com
 0daydown.com
@@ -122,6 +120,7 @@
 110mbfree.com
 112.2o7.net
 1177.se
+11801.us.bitcoin.com
 122.2o7.net
 123-reg.co.uk
 123-webhost.nl
@@ -133,6 +132,7 @@
 1337x.to
 140cc.v.fwmrm.net
 1480876790.rsc.cdn77.org
+15.eu.bitcoin.com
 163.com
 1688.com
 17track.net
@@ -154,9 +154,10 @@
 1fgqfml.oloadcdn.net
 1fichier.com
 1gr.cz
+1h2.eu.bitcoin.com
 1hosts.cf
+1io.us.bitcoin.com
 1natbanker.com
-1ng.bitcoin.com
 1password.ca
 1password.com
 1password.eu
@@ -178,6 +179,7 @@
 1stsecuritybank.com
 1stsource.com
 1tk.us
+1u.us.bitcoin.com
 1un.fr
 1und1.de
 1url.com
@@ -216,14 +218,11 @@
 2.ua.pool.ntp.org
 2.ubuntu.pool.ntp.org
 2.us.pool.ntp.org
-20.asicminer.co
 201205igp.gameloft.com
-2019.agryt.ru
 207.net
 21hospital.co.kr
 21stcenturywire.com
 2222mb.com
-2365d.bitcoin.com
 24.comertbank.md
 24.hu
 247ihost.com
@@ -233,7 +232,10 @@
 24ruhost.com
 24spoilers.com
 250m.com
+25253fwww.binance.com
+25254fwww-0.binance.com
 265.com
+27.ru.bitcoin.com
 29773.v.fwmrm.net
 2a.me
 2a7e9.v.fwmrm.net
@@ -247,12 +249,10 @@
 2giga.download
 2giga.link
 2gis.com
-2gwxrwfzokqnlx4.joinslack2.binance.com
 2ip.ru
 2ip.ua
 2l.me
 2long.cc
-2ls.ru.bitcoin.com
 2mdn.net
 2o7.net
 2shared.com
@@ -260,9 +260,7 @@
 2tu.us
 2ty.in
 2u.xf.cz
-2w.eu.bitcoin.com
-2ytp.pms.btc.top
-3-29.binance.com
+2vgc2heayahflw.bsod.pw
 3-edge-chat.facebook.com
 3.amazon.pool.ntp.org
 3.arch.pool.ntp.org
@@ -288,7 +286,6 @@
 360.cn
 360.yahoo.com
 360wzb.cn
-367.ru.bitcoin.com
 36kr.com
 37signals.com
 39.net
@@ -306,8 +303,10 @@
 3dsecure.gpwebpay.com
 3dsecure.icicibank.com
 3dsecure.no
+3ex.us.bitcoin.com
 3gdl.tcdn.qq.com
 3gimg.qq.com
+3ow.us.bitcoin.com
 3p.ampproject.net
 3ra.be
 3t.org
@@ -322,9 +321,7 @@
 4.sophosxl.net
 425mb.com
 4421c3cc09dd55967f9534aabeafa73e.cf
-46d8.bitcoin.com
-4af3f.ru.bitcoin.com
-4cc.bitcoin.com
+4557.eu.bitcoin.com
 4chan.org
 4crazy-files.de
 4dsply.com
@@ -333,7 +330,7 @@
 4ix.com
 4lnb.com
 4more.at
-4nt.us.bitcoin.com
+4ng.us.bitcoin.com
 4pda.ru
 4pda.to
 4shared.com
@@ -347,50 +344,43 @@
 50webs.com
 51.com
 5231.xg4ken.com
-5257fwww.binance.com
 53.com
 543874163.ddns.net
-55.bitcoin.com
 55.ru
 550access.com
 55fast.com
 56.com
 58.com
 58pic.com
-590c6.bitcoin.com
 5af10.v.fwmrm.net
 5b6b7b.ru
 5d3e9.v.fwmrm.net
 5e124.v.fwmrm.net
 5em.cz
-5g87jnss9ka465bmwnlgk9p.jp.sz.antpool.com
 5starinternet.com
 5url.net
 5webs.net
 5z8.info
 6-edge-chat.facebook.com
+60944.bitcoin.com
 64.5b6b7b.ru
 64.mymyxmra.ru
 650dialup.com
 699pic.com
-6a.bitcoin.com
-6d196.ru.bitcoin.com
 6e.de
 6fr.ru
 6g6.eu
+6os.eu.bitcoin.com
 6p.ru
 6pm.com
-6t.ja.mine.zpool.ca
-7.gethash.cc
+6v.bitcoin.com
 7.ly
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 70i.net
-75251fwww.binance.com
 76.gd
 76.org
 77.ai
 777access.com
-79.bitcoin.com
 79423.analytics.edgekey.net
 79423.analytics.edgesuite.net
 7b935.v.fwmrm.net
@@ -401,13 +391,15 @@
 7li.in
 7vd.cn
 7zap.com
+8-wayi.pms.btc.top
+80-20-pool.b3pool.com
 8000plus.si
 803mine.com
 8282.space
-871vq05yi.www5-2.binance.com
+87st-sz.inc.antpool.com
 888poker.com
 8ch.net
-8f51c.us.bitcoin.com
+8ge.us.bitcoin.com
 8k.ro
 8pecxstudios.com
 8u.cz
@@ -487,7 +479,6 @@ a.uguu.se
 a.union.mi.com
 a.wishabi.com
 a0.fr
-a02.binance.com
 a1.mzstatic.com
 a1.sndcdn.com
 a1.soundcloud.com
@@ -502,11 +493,14 @@ a24m.a-bank.com.ua
 a2z.com
 a2zapk.com
 a3.mediagra.com
+a4-1-9-1.binance.com
 a4.mzstatic.com
 a463.w10.akamai.net
 a5.behance.net
 a57.foxnews.com
+a629.ru.bitcoin.com
 a652.dscb.akamai.net
+a72.eu.bitcoin.com
 a740.g.akamai.net
 a743.gi3.akamai.net
 a771.dscq.akamai.net
@@ -632,7 +626,6 @@ acbankers.org
 acbanks.com
 acbonline.org
 acbp0020171456.page.tl
-acc.api.cryptopool.eu
 accb.com.cy
 accbank.ie
 accengage.com
@@ -890,12 +883,13 @@ admin.citruspay.com
 admin.funimation.com
 admin.integration.viber.com
 admin.kro-ncrv.nl
+admin.n-engine.com
 admin.nsatc.net
 admin.spot.im
+admin.taal.com
 admin.wechat.com
 adminconsole.adobe.com
 adminer.com
-administrators6.binance.com
 admission.iutoic-dhaka.edu
 admitad.com
 admongo.gov
@@ -1224,8 +1218,6 @@ aeis.alicdn.com
 aemmobile.adobe.com
 aeon.crypto-webminer.com
 aeon.hashvault.pro
-aergo.eu.mine.ja.mine.zpool.ca
-aergo.mine.jp.mine.zpool.ca
 aerocivil.gov.co
 aeroconnect.net
 aeropress.com
@@ -1385,6 +1377,7 @@ akbank.com
 akbank.de
 akbars.ru
 akcinternet.com
+aker.bitcoin.com
 akf.de
 akf24.de
 akh-celle.de
@@ -1455,6 +1448,7 @@ algolia.net
 algolianet.com
 algorithmia.com
 alhambrahospital.com
+ali-czjk-ltc-fw-vip-astybe99wlpz.f2pool.com
 ali.hashhot.com
 aliapp.org
 alibaba.com
@@ -1475,6 +1469,7 @@ alimama.com
 alinma.com
 aliorbank.pl
 alipay.com
+alipay.us.bitcoin.com
 alipayobjects.com
 alitems.com
 alivenotdead.de
@@ -1528,7 +1523,6 @@ alpari.ru
 alpenbank.at
 alpha-t.net
 alpha.gr
-alpha2.abseits.ski
 alphabank.com.cy
 alphabank.ro
 alphadomus.co.nz
@@ -2226,7 +2220,7 @@ ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
 ams3.digitaloceanspaces.com
 amsouth.com
-amsterdam0.abseits.ski
+amsterdam.hub.semipool.com
 amsterdam01.minemonero.pro
 amtrust.com
 amundi-tc.com
@@ -2352,7 +2346,7 @@ antionline.com
 antiphishing.cliqz.com
 antispam.cryptopool.eu
 antispam.suremine.com
-antivirusmx0.binance.com
+antispam.uralscoin.info
 antonius-koeln.de
 antonius.de
 antonprokschinstitut.at
@@ -2376,6 +2370,9 @@ aol.fr
 aolcdn.com
 aospal.com
 aozorabank.co.jp
+ap-4-6.binance.com
+ap-52.binance.com
+ap-69.binance.com
 ap-dk.cid-online.net
 ap-northeast-1.elb.amazonaws.com
 ap-northeast-2.elb.amazonaws.com
@@ -2388,8 +2385,6 @@ ap.org
 ap.orgdict.leo.org
 ap.spotify.com
 ap.veriblockpool.com
-ap33.binance.com
-ap8-1.binance.com
 apa.org
 apac1.notify.windows.com.akadns.net
 apache.org
@@ -2437,12 +2432,14 @@ api-mobileweb.soundcloud.com
 api-notify.dropbox.com
 api-nyc.soundcloud.com
 api-partners.soundcloud.com
+api-prod-pre.poolin.com
 api-rangers.line.me
 api-secure.solvemedia.com
 api-ssl.bit.ly
 api-staging-embedded.soundcloud.com
 api-statcloud.a03.yahoodns.net
 api-stream.twitter.com
+api-sup.abseits.ski
 api-tv.spotify.com
 api-us1.mpay.samsung.com
 api-v2.soundcloud.com
@@ -2455,6 +2452,7 @@ api.account.adobe.com
 api.account.xiaomi
 api.account.xiaomi.com
 api.accuweather.com
+api.actinium.org
 api.actionbutton.co
 api.ad.xiaomi.com
 api.adguard.com
@@ -2473,7 +2471,6 @@ api.apple-cloudkit.com
 api.appmetadata.sonymobile.com
 api.apptentive.com
 api.areffect.sonymobile.com
-api.arqma.com
 api.asm.skype.com
 api.audlabs.com
 api.b.hatena.ne.jp
@@ -2503,7 +2500,6 @@ api.browsermine.com
 api.brs.intl.miui.com
 api.bufferapp.com
 api.buienradar.nl
-api.burstcoin.ml
 api.calendar.intl.miui.com
 api.chat.xiaomi.net
 api.cleverpush.com
@@ -2524,7 +2520,6 @@ api.cricbuzz.com
 api.crowdin.com
 api.crunchyroll.com
 api.crypto-loot.com
-api.crypto.ba
 api.cryptonator.com
 api.cxense.com
 api.d.xiaomi.com
@@ -2538,6 +2533,7 @@ api.device.xiaomi.net
 api.dmcdn.net
 api.dodol.naver.com
 api.dropbox.com
+api.easyhash.pro
 api.ebay-kleinanzeigen.de
 api.elasticemail.com
 api.engager.ecbsn.com
@@ -2762,6 +2758,7 @@ api.zhuti.intl.xiaomi.com
 api0.origin.com
 api1.origin.com
 api1.weather.com
+api2-2.binance.com
 api2.bitfinex.com
 api2.branch.io
 api2.diigo.com
@@ -2769,6 +2766,7 @@ api2.flipboard.com
 api2.origin.com
 api2.poloniex.com
 api2.weather.com
+api3-staging.stex.com
 api3.origin.com
 api3.siftscience.com
 api3.weather.com
@@ -2777,6 +2775,7 @@ api5.origin.com
 apicache.vudu.com
 apidq.punchh.com
 apihub.daum.net
+apiinfo94.binance.com
 apiit.edu.my
 apilocate.amap.com
 apimobile.lifelog.sonymobile.com
@@ -2859,7 +2858,6 @@ app.mediaset.it
 app.meltwater.com
 app.mi.com
 app.migc.xiaomi.com
-app.minerpool.net
 app.miui.com
 app.next.exchange
 app.onesignal.com
@@ -2904,6 +2902,7 @@ appdynamics.com
 appengine.google.com
 appldnld.apple.com
 apple-dns.net
+apple.coinking.io
 apple.com
 apple.com.au
 apple.com.cn
@@ -3008,6 +3007,7 @@ ares.tl
 areyouonit.soundcloud.com
 argenta.be
 argentina.com
+argon2d500.na.mine.zpool.ca
 argos.co.uk
 argumentiru.com
 arheart.com
@@ -3050,6 +3050,7 @@ arvetellefsen.no
 as.baidu.com
 as.com
 as.flipboard.com
+as0046.binance.com
 as7ab.maktoob.com
 asadcdn.com
 asahi.com
@@ -3074,14 +3075,18 @@ ashefederal.com
 ashiato.rakuten.co.jp
 ashlandanimalhospital.com
 ashlandhospital.org
+asia-xzc.2miners.com
+asia.hyperpool.tech
 asia.madmining.club
 asia.playstation.com
 asia.pool.ntp.org
+asia.thecryptominerpool.com
 asia.veriblockpool.com
 asianamericanbank.com
 asiandrama.chia-anime.tv
 asiaunited.com.ph
 asic.gov.au
+asic1.liteguardian.com
 asics.com
 asimov-win.settings.data.microsoft.com.akadns.net
 ask-book.com
@@ -3153,7 +3158,6 @@ assets.micpn.com
 assets.minutemediacdn.com
 assets.nflxext.com
 assets.npo-data.nl
-assets.nvidiagrid.net
 assets.omidoo.com
 assets.penny-arcade.com
 assets.pinterest.com
@@ -3230,6 +3234,7 @@ atlanta.minemonero.pro
 atlantech.net
 atlanticcentral.com
 atlas.phoenixcoin.org
+atlas.pp.ru.bitcoin.com
 atlas.samsung.com
 atlasbank.com
 atlassbx.com
@@ -3241,6 +3246,7 @@ atomz.com
 atspace.com
 att.com
 att.com.edgekey.net
+att.node.hiveon.net
 attach.mail.daum.net
 attach2.mobile01.com
 attestation.xboxlive.com
@@ -3271,7 +3277,6 @@ au1.p5.documentsawsperf.adobe.com
 auburnbank.com
 auburnvethospital.com
 auctions.yahoo.co.jp
-aud.eu.bitcoin.com
 audi-bank.com
 audi-bankdirect.com
 audi-bankdirect.de
@@ -3328,7 +3333,6 @@ auth.flipboard.com
 auth.gfx.ms
 auth.hitbtc.com
 auth.omoplanet.com
-auth.ote3.joys.digital
 auth.samsungosp.com
 auth.simperium.com
 auth.snapchat.com
@@ -3354,7 +3358,6 @@ auto.search.msn.com
 autoappassionati.it
 autobank.at
 autocomplete.kaspersky.com
-autoconfig.aod-tech.com
 autoconfig.cryptopool.eu
 autoconfig.nimiq.com
 autoconfig.nimiqpool.com
@@ -3433,8 +3436,6 @@ ax.init.itunes.apple.com
 ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 axa.be
-axe.antpool.com
-axepool.com
 axisbank.co.in
 axisbank.com
 axoncoho.tk
@@ -9265,7 +9266,6 @@ etb-ag.com
 eteba.ro
 etebac.com
 etf.com
-eth.mypool.online
 ethereum.miningpoolhub.com
 ethias-banque.be
 ethikbank.de
@@ -9423,6 +9423,7 @@ example.net
 example.org
 exblog.jp
 exceptions.coinbase.com
+exchange.bittrader.io
 exchange.coinbase.com
 exchange.futureswap.com
 exchange.gemini.com
@@ -11565,7 +11566,6 @@ gss2.bdstatic.com
 gstatic.com
 gstaticadssl.l.google.com
 gsvp.com
-gt500.org
 gtarcade.com
 gtbank.com
 gtimg.cn
@@ -11722,7 +11722,6 @@ hanseaticbank.de
 hanvitbank.co.kr
 hao.xiaomi.com
 hao123.com
-happy2mine.com
 har.es
 harbinclinic.com
 harborfederal.com
@@ -13386,7 +13385,6 @@ institutomedicomiramar.com
 instructorledlearning.dropboxbusiness.com
 insurekidsnow.gov
 insurorsbank.com
-int3.joys.digital
 intechbank.ru
 intechworld.net
 integrabank.com
@@ -13930,7 +13928,6 @@ jwplatform.com
 jwplayer.com
 jwpltx.com
 jwpsrv.com
-jx.cn
 jx.me
 jyskebank.com
 jyskebank.dk
@@ -15281,6 +15278,7 @@ lt.cryptopia.co.nz
 lt.gravatar.com
 lt45.net
 ltc.cryptopia.co.nz
+ltc.top
 ltgbank.co.ba
 lu.api.mega.co.nz
 lu.ca-indosuez.com
@@ -15627,7 +15625,6 @@ massbank.com
 massbankers.org
 massmba.com
 master-capital.org
-mastermining.net
 masterpass.ch
 masterpass.com
 mat1.gtimg.com
@@ -17658,6 +17655,7 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
+nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
@@ -18598,7 +18596,6 @@ pattersonvethospital.com
 paulfredrick.com
 paulinenkrankenhaus.de
 pausenhof.de
-pavtube.com
 pavv.co.kr
 pax-bank.de
 pay.aeroflot.ru
@@ -20374,7 +20371,6 @@ res.static.xiaomi.net
 res.wechat.com
 res.wx.qq.com
 resbank.co.za
-rescure.fruxlabs.com
 research-platform.line.me
 research.net
 research.rakuten.co.jp
@@ -21005,6 +21001,7 @@ sanantonionamechange.com
 sanatorioadventista.com.py
 sanatorium-hansa.at
 sandai.net
+sandbox.abseits.ski
 sandbox.coinbase.com
 sandbox.exchange.coinbase.com
 sandbox.xmpush.xiaomi.com
@@ -21287,7 +21284,6 @@ se.wikipedia.com
 sea-friends.com
 sea.battle.net
 sea.ign.com
-sea.mine.mine.zpool.ca
 sea1.cdn.survey.medallia.com
 seadform.net
 seal.digicert.com
@@ -21364,7 +21360,6 @@ section.blog.naver.com
 section508.gov
 secure-au.imrworldwide.com
 secure-banking.de
-secure-booker.com
 secure-cdn.mplxtms.com
 secure-gl.imrworldwide.com
 secure-media.hotstar.com
@@ -21499,7 +21494,6 @@ seedr.cc
 seeligerbank.de
 seelischereha.com
 seeme.at
-seesaa.jp
 seesaa.net
 segment.com
 segment.hotstar.com
@@ -21569,7 +21563,6 @@ serverfault.com
 serverorigin.com
 servetown.com
 service.biv.sony.tv
-service.cz.nl
 service.eu.newrelic.com
 service.fuib.com
 service.game-mode.net
@@ -21663,7 +21656,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.cdn.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -23547,7 +23539,6 @@ surl.me
 surpasshosting.com
 survey-blog.line.me
 survey-ng.indevice.sonymobile.com
-survey.alchemer.com
 survey.confirmit.com
 survey.foreseeresults.com
 survey.forseeresults.com
@@ -25082,6 +25073,8 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
+us04logfiles-va.zoom.us
+us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
 usa.gov
@@ -26077,7 +26070,6 @@ vrnu.de
 vrouw.nl
 vrsta.de
 vrwm.de
-vs3.com
 vsassets.io
 vscode-update.azurewebsites.net
 vseinstrumenti.ru
@@ -26822,7 +26814,6 @@ wvb.de
 wvbankers.org
 ww-ag.de
 ww.d-k-h.de
-ww.ru.bitcoin.com
 ww1.chia-anime.tv
 ww1.gogoanime.io
 ww2.chia-anime.tv
@@ -27339,7 +27330,6 @@ zhaopin.com
 zhibo.mi.com
 zhihu.com
 zhimg.com
-zhizhu.top
 zhongguose.com
 zht.alipay.com
 zhuashouji.com

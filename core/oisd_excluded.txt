@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jul 2021 00:11:53 UTC
+# Last modified: 09 Jul 2021 08:02:20 UTC
 0-5148-2.binance.com
 0rz.tw
 000webhostapp.com
