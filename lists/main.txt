@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.09
-# Last modified: 09 Jul 2021 16:02:51 UTC
+# Version: 2.07.10
+# Last modified: 10 Jul 2021 00:12:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4630,7 +4630,6 @@ bkcp.be
 bkme.com
 bks.at
 bksbank.it
-bkt.clouddn.com
 black.game.naver.com
 blackapplehost.com
 blackberry.com
@@ -4931,7 +4930,6 @@ botwodessa.com
 bou.or.ug
 bougn.at
 bouldercityhospital.org
-bounceme.net
 bountysource.com
 bourbonhospital.com
 bournemouth.gov.uk
@@ -11662,7 +11660,6 @@ habbo.es
 habbo.nl
 habbogreen.com
 habcorp.com
-habd.as
 habibamericanbank.com
 habibbank.com
 habibbankltd.com
@@ -11934,7 +11931,6 @@ hhs.gov
 hhscjmalaga.org
 hi.baidu.com
 hi.statcounter.com
-hi2.ro
 hi5.com
 hiawatha-nb.com
 hiberniabank.com
@@ -13337,6 +13333,7 @@ inquisition.goguardian.com
 ins-073.inscname.net
 ins.jr.mi.com
 inscname.net
+insecam.org
 inselklinik-fehmarn.de
 inside-brazil.flipboard.com
 inside-espanol.flipboard.com
@@ -23568,6 +23565,7 @@ svenskkassaservice.se
 svgsbank.com
 svmh.com
 svonm.com
+sw88.go.com
 swa.bol.com
 swagbucks.com
 swansea.gov.uk
@@ -25577,7 +25575,6 @@ villagebankonline.com
 vilynx.com
 vimeo.com
 vimeocdn.com
-vin-plastiks.com
 vincentius-kliniken.de
 vincenz.de
 vine.co

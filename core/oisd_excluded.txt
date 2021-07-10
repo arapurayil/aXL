@@ -2,13 +2,13 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jul 2021 16:02:50 UTC
+# Last modified: 10 Jul 2021 00:12:27 UTC
 0-5148-2.binance.com
-0rz.tw
 000webhostapp.com
 0x1f4b0.com
 001.0x1f4b0.com
 01.binance.com
+1coolbox.com
 01crypto.net
 1h2.eu.bitcoin.com
 1hosts.cf
@@ -512,7 +512,6 @@ agkn.com
 agoda.com.edgekey.net
 agoramedia.com
 ahd.ruten.com.tw
-ahinsashoes.cz
 ahoyhyperbay.com
 ahoypiratebaai.eu
 ai.yimg.jp
@@ -531,7 +530,6 @@ akam.net
 akamai.poxo.com
 akamaized.net
 aker.bitcoin.com
-akpbvba.be
 akubebas.com
 akvideo.stream
 al.dmm.co.jp
@@ -549,6 +547,7 @@ alicdn.com
 alimabi.cn
 alimama.com
 alipay.us.bitcoin.com
+alisg-normal-lb.byteoversea.net
 alitems.com
 allfontshere.press
 alooma.com
@@ -735,6 +734,7 @@ app.adjust.io
 app.adjust.net.in
 app.appsflyer.com
 app.bronto.com
+app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 app.convertkit.com
 app.e2ma.net
@@ -856,6 +856,7 @@ autopilothq.com
 auxiliarymine.com
 av.ageverify.co
 avantlink.com
+avatars.mds.yandex.net
 avatarservices.xboxlive.com
 avero.xyz
 averoconnector.com
@@ -917,6 +918,7 @@ beacon.netflix.com
 beacon.schneidercorp.com
 beaconapi.helpscout.net
 beaconhealthsystem.org
+beforeitsnews.com
 benefits.sovendus.com
 best.aliexpress.com
 bestfwdservice.com
@@ -979,7 +981,6 @@ bootstrapcdn.com
 borneobulletin.com.bn
 bountysource.com
 bp01.net
-br4.in
 brakrock.be
 branch.io
 branding.api.us.apiconnect.ibmcloud.com
@@ -1005,7 +1006,6 @@ btgpool.pro
 btguard.com
 bttn.io
 budurl.com
-buff.ly
 buffer-media-uploads.s3.amazonaws.com
 bufferapp.com
 bugly.qq.com
@@ -1240,7 +1240,6 @@ click.mlsend.com
 click.official.nike.com
 click.pstmrk.it
 click.redditmail.com
-click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
 click.zoom.us
@@ -1279,7 +1278,11 @@ cloudfront-labs.amazonaws.com
 cloudfront.net
 cloudns.cl
 cm.adc.glbdns.microsoft.com
+cm.ksmobile.com
 cm.miaozhen.atm.youku.com
+cmcm.com
+cmcm.com.scc.topgslb.com
+cmcm.com.spdydns.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
 cmp.choice.faktor.io
@@ -1367,7 +1370,6 @@ core.cloud.unity3d.com
 corp.kaltura.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
-cort.as
 countere.com
 countess.twitch.tv
 countvoncount.goguardian.com
@@ -1461,6 +1463,7 @@ d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
+d17ndjuagurpsr.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
@@ -1553,7 +1556,6 @@ districtm.ca
 djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.packetstormsecurity.net
-dl.twitchdl.com
 dldir2.qq.com
 dlied6.qq.com
 dlink.com.br
@@ -1604,8 +1606,11 @@ ds1.nl
 dsms0mj1bbhn4.cloudfront.net
 dstreet.pl
 dts.podtrac.com
+dualstack.k.sni.global.fastly.net
+dualstack.o.sni.global.fastly.net
 duck.sh
 duckdns.org
+duowan.com
 dw-online.ksosoft.com
 dw.cbsi.com
 dw.com
@@ -1709,6 +1714,7 @@ event.udn.com
 events.apester.com
 events.api.godaddy.com
 events.data.microsoft.com
+events.data.msn.com
 events.gfe.nvidia.com
 events.godaddy.com
 events.jora.com
@@ -1774,7 +1780,6 @@ fast.appcues.com
 fast.wistia.net
 fastlane.tools
 fastly.com
-faygoluvers.net
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
 fc.vodafone.de
@@ -2159,6 +2164,7 @@ i.icomoon.io
 i.plug.it
 i.rmbl.ws
 i.yimg.jp
+i1.wp.com
 i1.ytimg.com
 ia.media-imdb.com
 iad-03.braze.com
@@ -2314,7 +2320,6 @@ ipqualityscore.com
 ipstack.com
 ipv4.tracker.harry.lu
 iqtest.com
-iradio.ie
 iraiser.eu
 irchan.com
 iris.tv
@@ -2334,8 +2339,6 @@ izatcloud.net
 izeselet.hu
 izooto.com
 j.gs
-j.mp
-jabu.edu.ng
 jackjones.com
 jalbum.net
 jaleco.com
@@ -2349,6 +2352,7 @@ jiathis.com
 jiayuan.com
 jiit.ac.in
 jimdo.com
+jivesoftware.com
 jivox.com
 jobs.ionicframework.com
 journity.com
@@ -2415,6 +2419,7 @@ kqzyfj.com
 kr.lgtvsdp.com
 kredytbank.com.ua
 krxd.net
+ksmobile.com
 l.betrad.com
 l.doubleclick.net
 l.ead.me
@@ -2428,7 +2433,9 @@ launch1.co
 launcher.spot.im
 launchpad.binance.com
 laureus.com
+lazada-sg.alibaba.com
 lb.production-public.tubi.io
+lbs.map.qq.com
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
 leadpages.net
@@ -2447,7 +2454,6 @@ licensebuttons.net
 licensing.blinkreceipt.com
 licensingphone.mp.microsoft.com
 lifewire.com
-lihi.cc
 limetorrents.cc
 limneos.net
 lindon-pool.win
@@ -2474,6 +2480,7 @@ liveupdate.mac.sandai.net
 lnks.gd
 localbitcoins.com
 location-api.hdhomerun.com
+location.services.mozilla.com
 log.byteoversea.com
 log.kieskeurig.nl
 log.mmstat.com
@@ -2483,7 +2490,6 @@ log.zoom.us
 loggly.com
 login-live.com-s02.net
 login.newrelic.com
-login.servizioelettriconazionale.it
 loginfra.com
 logrocket.com
 logs-01.loggly.com
@@ -2503,7 +2509,6 @@ m.baidu.com
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
-m.me
 m.pr0gramm.com
 m.stripe.com
 m.stripe.network
@@ -2596,6 +2601,7 @@ metactrl.com
 metaffiliation.com
 metalex.io
 meteomaastricht.nl
+metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
 metric.gstatic.com
 metrics.claspws.tv
@@ -2695,6 +2701,7 @@ ms.yandex.ru
 msdk.qq.com
 msedge.net
 msftncsi.com
+msg.global.xiaomi.net
 msgfocus.com
 msh.amazon.co.uk
 msh.amazon.com
@@ -2729,11 +2736,11 @@ nabbr.com
 nablabee.com
 nahnoji.cz
 naiadsystems.com
+naifei.shop
 nanigans.com
 nanopool.org
 nanovisor.io
 narwhal.mobidia.com
-natcom.co.nz
 naytev.com
 nd.demdex.net
 ndirect.ppro.de
@@ -3213,6 +3220,7 @@ researchnow.co.uk
 researchnow.com
 resellerclub.com
 resolver.gslb.mi-idc.com
+resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -3305,6 +3313,7 @@ safelinking.net
 sail-horizon.com
 sajari.com
 sakura.goguardian.com
+sal.gslb.topgslb.com
 salesforceliveagent.com
 salesloft.com
 salesmanago.pl
@@ -3426,6 +3435,7 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sexcoin.miningpoolhub.com
+sf-tb-sg.ibytedtos.com
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
 sfsapi.micloud.xiaomi.net
@@ -3463,7 +3473,6 @@ signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 silktide.com
 simba.taobao.com
 similarweb.com
-simp.ly
 simply.com
 simplyhired.com
 sinajs.cn
@@ -3531,7 +3540,6 @@ spclient.wg.spotify.com
 speeddials.opera.com
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
-split.to
 spot.im
 springmetrics.com
 sqimg.qq.com
@@ -3590,6 +3598,8 @@ static.smi2.net
 static.springmetrics.com
 static.vrv.co
 static.wi-fi.ru
+static.zdassets.com
+static1.dmcdn.net
 statics-marketingsites-eus-ms-com.akamaized.net
 staticxx.facebook.com
 stats.adobe.com
@@ -3618,7 +3628,6 @@ storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stptrisakti.ac.id
 strangled.net
-strategypage.com
 streaming.adswizz.com
 streamlike.com
 streamplay.to
@@ -3656,7 +3665,6 @@ szentkoronaradio.com
 szlong.weixin.qq.com
 t.adcell.com
 t.co
-t.dripemail2.com
 t.eloqua.com
 t.en25.com
 t.indeed.com
@@ -3716,6 +3724,7 @@ texashomebase.com
 texts.com
 thaiticketmajor.com
 theafterparty.tv
+theannoyingsite.com
 thecounter.com
 thedad.com
 thedfirreport.com
@@ -3810,7 +3819,6 @@ transfer.sh
 traq.li
 travelzoo.com
 trbna.com
-trelock.com
 trial.api.huangye.miui.com
 trialpay.com
 trib.al
@@ -4093,6 +4101,7 @@ ws.126.net
 ws.batch.com
 ws.mmstat.com
 ws01.coinlab.biz
+wshareit.com
 wshifen.com
 wsws.org
 wt-eu02.net
@@ -4119,6 +4128,8 @@ xero.com
 xg4ken.com
 xhcom.edu.cn
 xhost.ro
+xjp.wagbridge-lazada.alibaba-inc.com
+xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
 xlmc.sandai.net
 xlog-va.musical.ly
 xml.opera.com
@@ -4131,7 +4142,6 @@ xp.apple.com
 xpu.samsungelectronics.com
 xrea.com
 xtra.co.nz
-xurl.es
 xzone.cz
 y8.com
 yabs.yandex.ru
@@ -4162,6 +4172,7 @@ zanox.com
 zbiornik.com
 zcash.miningpoolhub.com
 zclassic.miningpoolhub.com
+zcmglobal.v.bsgslb.cn
 zcoin.miningpoolhub.com
 zdbb.net
 zee.cws.conviva.com
