@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.10
-# Last modified: 10 Jul 2021 00:12:27 UTC
+# Last modified: 10 Jul 2021 08:02:15 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -145,6 +145,7 @@
 1and1.fr
 1blu.de
 1cfresh.com
+1coolbox.com
 1dot0dot0dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 1drv.com
@@ -1285,7 +1286,6 @@ ahd.ruten.com.tw
 ahepahosp.gr
 ahhospital.com
 ahiba.hn
-ahinsashoes.cz
 ahli.com
 ahoo.it
 ahoyhyperbay.com
@@ -1385,7 +1385,6 @@ akh-wien.ac.at
 akhwien.at
 akibabank.com
 akmba.org
-akpbvba.be
 akreg.com
 aktia.com
 aktia.fi
@@ -1471,6 +1470,7 @@ aliorbank.pl
 alipay.com
 alipay.us.bitcoin.com
 alipayobjects.com
+alisg-normal-lb.byteoversea.net
 alitems.com
 alivenotdead.de
 aliyun.com
@@ -3389,6 +3389,7 @@ avanzaprivatebanking.com
 avast.com
 avataaars.io
 avatar.skype.com
+avatars.mds.yandex.net
 avatars0.githubusercontent.com
 avatars1.githubusercontent.com
 avatars2.githubusercontent.com
@@ -4319,6 +4320,7 @@ beeneverywhere.com.au
 beenverified.com
 beetalk.co.id
 bef.es
+beforeitsnews.com
 behacdn.ksmobile.sec.miui.com
 behance.net
 behoimi.org
@@ -6699,6 +6701,7 @@ cm-03-ams1.cm.steampowered.com
 cm-04-ams1.cm.steampowered.com
 cm.adc.glbdns.microsoft.com
 cm.iotcplatform.com
+cm.ksmobile.com
 cm.miaozhen.atm.youku.com
 cm1-par1.cm.steampowered.com
 cm1-sto1.cm.steampowered.com
@@ -6714,6 +6717,9 @@ cmba.org
 cmbank.ru
 cmbchina.com
 cmca.or.cr
+cmcm.com
+cmcm.com.scc.topgslb.com
+cmcm.com.spdydns.com
 cmhospital.com
 cmhospital.org
 cmicapui.ce.gov.br
@@ -7599,6 +7605,7 @@ d0m.us
 d10lpsik1i8c69.cloudfront.net
 d13itkw33a7sus.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
+d17ndjuagurpsr.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
 d1bl11pgu3tw3h.cloudfront.net
 d1exy62jh2w365.cloudfront.net
@@ -8547,7 +8554,9 @@ dto.vakifbank.com.tr
 dts.podtrac.com
 dtv.gov
 du1gtm004.adobe.com
+dualstack.k.sni.global.fastly.net
 dualstack.kayak.map.fastly.net
+dualstack.o.sni.global.fastly.net
 duba.com
 dubuquebank.com
 duck.co
@@ -8559,6 +8568,7 @@ duepuntozero.com
 dumpert.nl
 dunant.gr
 duo.nl
+duowan.com
 durov.ru
 dv.gd
 dvb.pandora.xiaomi.com
@@ -9359,6 +9369,7 @@ eventlogger.soundcloud.com
 events.apester.com
 events.api.godaddy.com
 events.data.microsoft.com
+events.data.msn.com
 events.gfe.nvidia.com
 events.godaddy.com
 events.intuit.launchdarkly.com
@@ -13571,7 +13582,6 @@ iqtest.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
-iradio.ie
 iraiser.eu
 irbbank.ch
 irc-galleria.net
@@ -13795,6 +13805,7 @@ jira.flipboard.com
 jira.gotinder.com
 jira.shop.samsung.com
 jira.xda-developers.com
+jivesoftware.com
 jivox.com
 jkbank.net
 jkopay.com
@@ -14539,6 +14550,7 @@ kskwn.de
 kskwnd.de
 ksl.ch
 ksli.ch
+ksmobile.com
 ksn-northeim.de
 ksn.kaspersky.com
 kssg.ch
@@ -14690,6 +14702,7 @@ laurentianbank.com
 laureus.com
 lavalsabbina.it
 lawrencesavings.com
+lazada-sg.alibaba.com
 lazada.co.id
 lb.gravatar.com
 lb.production-public.tubi.io
@@ -14705,6 +14718,7 @@ lbdsl.com
 lbhf.gov.uk
 lbma.org.uk
 lbpweaccess.com
+lbs.map.qq.com
 lbs.pandora.xiaomi.com
 lbt.com
 lbtbank.com
@@ -16620,6 +16634,7 @@ msfn.org
 msftconnecttest.com
 msftncsi.com
 msg.edit.yahoo.com
+msg.global.xiaomi.net
 msg.netflix.com
 msg.yahoo.com
 msg2.client.xunlei.com
@@ -16925,6 +16940,7 @@ naffic.org.tw
 nahealth.com
 nahnoji.cz
 naiadsystems.com
+naifei.shop
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -20933,6 +20949,7 @@ saintpatrick.org
 sajari.com
 sakura.goguardian.com
 sakura.ne.jp
+sal.gslb.topgslb.com
 salafvoice.com
 salem-spital.ch
 salemfive.com
@@ -21614,6 +21631,7 @@ sexcoin.miningpoolhub.com
 sexebook-affiliation.com
 sexyono.com
 seznam.cz
+sf-tb-sg.ibytedtos.com
 sf.api.np.km.playstation.net
 sf.prod.sonyentertainmentnetwork.com
 sf1-ttcdn-tos.pstatp.com
@@ -21827,7 +21845,6 @@ simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
-simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -22732,7 +22749,6 @@ spkschwerin.de
 spkson.de
 spktw.de
 spl.hit.gemius.pl
-split.to
 splitskabanka.hr
 spm.is
 spn.sr
@@ -23135,6 +23151,7 @@ static.xx.fbcdn.net
 static.zdassets.com
 static01.nyt.com
 static1.animeseason.com
+static1.dmcdn.net
 static1.squarespace.com
 static2.animeseason.com
 static2cdn.hubspot.com
@@ -23348,7 +23365,6 @@ str.hit.gemius.pl
 straitstimes.com
 strangled.net
 strat.ru
-strategypage.com
 strato.de
 stratus.soundcloud.com
 stream.highwebmedia.com
@@ -23992,6 +24008,7 @@ the1st.com
 theafterparty.tv
 theandroidsoul.com
 theanimalmedicalhospital.com
+theannoyingsite.com
 theasianbank.com
 theatlantic.com
 thebancorp.com
@@ -24417,7 +24434,6 @@ treasurydirect.gov
 treexml.baofeng.net
 treezip.baofeng.net
 trello.com
-trelock.com
 tremor.com
 trezor.io
 trial-sport.ru
@@ -26777,6 +26793,7 @@ ws.spot.im
 ws01.coinlab.biz
 wsbcbank.com
 wsfsbank.com
+wshareit.com
 wshifen.com
 wsimg.com
 wsj.com
@@ -27053,6 +27070,8 @@ xinhuanet.com
 xioshosp.gr
 xite-media.de
 xitnow.com
+xjp.wagbridge-lazada.alibaba-inc.com
+xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
 xk.me
 xkcd.com
 xkms.xbolive.co
@@ -27286,6 +27305,7 @@ zbs-giz.si
 zcash.miningpoolhub.com
 zcbprod.alipay.com
 zclassic.miningpoolhub.com
+zcmglobal.v.bsgslb.cn
 zcoin.miningpoolhub.com
 zcts.ru
 zd.map.fastly.net
