@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Jul 2021 08:02:15 UTC
+# Last modified: 10 Jul 2021 16:02:21 UTC
 0-5148-2.binance.com
 000webhostapp.com
 0x1f4b0.com
@@ -176,6 +176,7 @@ activity.windows.com
 actonservice.com
 actonsoftware.com
 acxiom.com
+ad-blocker.org
 ad-ettoday.cdn.hinet.net
 ad-miner.com
 ad.admitad.com
@@ -547,7 +548,6 @@ alicdn.com
 alimabi.cn
 alimama.com
 alipay.us.bitcoin.com
-alisg-normal-lb.byteoversea.net
 alitems.com
 allfontshere.press
 alooma.com
@@ -734,7 +734,6 @@ app.adjust.io
 app.adjust.net.in
 app.appsflyer.com
 app.bronto.com
-app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 app.convertkit.com
 app.e2ma.net
@@ -856,7 +855,6 @@ autopilothq.com
 auxiliarymine.com
 av.ageverify.co
 avantlink.com
-avatars.mds.yandex.net
 avatarservices.xboxlive.com
 avero.xyz
 averoconnector.com
@@ -918,7 +916,7 @@ beacon.netflix.com
 beacon.schneidercorp.com
 beaconapi.helpscout.net
 beaconhealthsystem.org
-beforeitsnews.com
+behance.net
 benefits.sovendus.com
 best.aliexpress.com
 bestfwdservice.com
@@ -952,6 +950,7 @@ bitcoin.cz
 bitly.com
 bizrate.com
 bj.bcebos.com
+bkt.clouddn.com
 blackcanyoncoffee.com
 blackhatworld.com
 blankrefer.com
@@ -979,6 +978,7 @@ boldchat.com
 bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
+bounceme.net
 bountysource.com
 bp01.net
 brakrock.be
@@ -1278,11 +1278,7 @@ cloudfront-labs.amazonaws.com
 cloudfront.net
 cloudns.cl
 cm.adc.glbdns.microsoft.com
-cm.ksmobile.com
 cm.miaozhen.atm.youku.com
-cmcm.com
-cmcm.com.scc.topgslb.com
-cmcm.com.spdydns.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
 cmp.choice.faktor.io
@@ -1463,7 +1459,6 @@ d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
-d17ndjuagurpsr.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
@@ -1606,11 +1601,8 @@ ds1.nl
 dsms0mj1bbhn4.cloudfront.net
 dstreet.pl
 dts.podtrac.com
-dualstack.k.sni.global.fastly.net
-dualstack.o.sni.global.fastly.net
 duck.sh
 duckdns.org
-duowan.com
 dw-online.ksosoft.com
 dw.cbsi.com
 dw.com
@@ -1714,7 +1706,6 @@ event.udn.com
 events.apester.com
 events.api.godaddy.com
 events.data.microsoft.com
-events.data.msn.com
 events.gfe.nvidia.com
 events.godaddy.com
 events.jora.com
@@ -2036,6 +2027,7 @@ gsdk.proximabeta.com
 gss0.bdstatic.com
 gstatic.com
 gstaticadssl.l.google.com
+gt500.org
 gtop100.com
 gtrk.s3.amazonaws.com
 gtssl2-ocsp.geotrust.com
@@ -2059,6 +2051,7 @@ h.imguol.com
 h.online-metrix.net
 h5.qzone.qq.com
 ha-link.sailthru.com
+habd.as
 habrahabr.ru
 hack-academy.fr
 hackerrank.com.edgekey.net
@@ -2100,6 +2093,7 @@ heureka.cz
 heureka.sk
 hexun.com
 heymistr.com
+hi2.ro
 highonandroid.com
 highwebmedia.com
 hit.bg
@@ -2164,7 +2158,6 @@ i.icomoon.io
 i.plug.it
 i.rmbl.ws
 i.yimg.jp
-i1.wp.com
 i1.ytimg.com
 ia.media-imdb.com
 iad-03.braze.com
@@ -2238,11 +2231,9 @@ img1.sj.qq.com
 img1.wsimg.com
 img2.autoimg.cn
 img2.user.kanimg.com
-imgadult.com
 imgs.xinhuanet.com
 imgshare.info
 imgssl.constantcontact.com
-imgtaxi.com
 impactradius.com
 imrworldwide.com
 in.appcenter.ms
@@ -2352,7 +2343,6 @@ jiathis.com
 jiayuan.com
 jiit.ac.in
 jimdo.com
-jivesoftware.com
 jivox.com
 jobs.ionicframework.com
 journity.com
@@ -2419,7 +2409,6 @@ kqzyfj.com
 kr.lgtvsdp.com
 kredytbank.com.ua
 krxd.net
-ksmobile.com
 l.betrad.com
 l.doubleclick.net
 l.ead.me
@@ -2433,9 +2422,7 @@ launch1.co
 launcher.spot.im
 launchpad.binance.com
 laureus.com
-lazada-sg.alibaba.com
 lb.production-public.tubi.io
-lbs.map.qq.com
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
 leadpages.net
@@ -2480,7 +2467,6 @@ liveupdate.mac.sandai.net
 lnks.gd
 localbitcoins.com
 location-api.hdhomerun.com
-location.services.mozilla.com
 log.byteoversea.com
 log.kieskeurig.nl
 log.mmstat.com
@@ -2601,7 +2587,6 @@ metactrl.com
 metaffiliation.com
 metalex.io
 meteomaastricht.nl
-metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
 metric.gstatic.com
 metrics.claspws.tv
@@ -2701,7 +2686,6 @@ ms.yandex.ru
 msdk.qq.com
 msedge.net
 msftncsi.com
-msg.global.xiaomi.net
 msgfocus.com
 msh.amazon.co.uk
 msh.amazon.com
@@ -2954,6 +2938,7 @@ partycasino.com
 passport.baidu.com
 paste.ee
 patatap.com
+pavtube.com
 pavv.co.kr
 payeer.com
 paypal-customerfeedback.com
@@ -3054,7 +3039,6 @@ pool.coinlab.biz
 pool.minergate.com
 poolto.be
 pornerbros.com
-pornrabbit.com
 porntube.com
 portableroms.com
 portalroms.com
@@ -3220,7 +3204,6 @@ researchnow.co.uk
 researchnow.com
 resellerclub.com
 resolver.gslb.mi-idc.com
-resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -3313,7 +3296,6 @@ safelinking.net
 sail-horizon.com
 sajari.com
 sakura.goguardian.com
-sal.gslb.topgslb.com
 salesforceliveagent.com
 salesloft.com
 salesmanago.pl
@@ -3380,6 +3362,7 @@ search.twitter.com
 searchencrypt.com
 seccdn-gl.imrworldwide.com
 seccint.com
+secure-booker.com
 secure-gl.imrworldwide.com
 secure-media.hotstar.com
 secure-us.imrworldwide.com
@@ -3435,7 +3418,6 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sexcoin.miningpoolhub.com
-sf-tb-sg.ibytedtos.com
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
 sfsapi.micloud.xiaomi.net
@@ -3598,8 +3580,6 @@ static.smi2.net
 static.springmetrics.com
 static.vrv.co
 static.wi-fi.ru
-static.zdassets.com
-static1.dmcdn.net
 statics-marketingsites-eus-ms-com.akamaized.net
 staticxx.facebook.com
 stats.adobe.com
@@ -3985,6 +3965,7 @@ vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
 vilynx.com
+vin-plastiks.com
 vine.co
 vis.vi-serve.com
 visit.digidip.net
@@ -4101,7 +4082,6 @@ ws.126.net
 ws.batch.com
 ws.mmstat.com
 ws01.coinlab.biz
-wshareit.com
 wshifen.com
 wsws.org
 wt-eu02.net
@@ -4128,8 +4108,6 @@ xero.com
 xg4ken.com
 xhcom.edu.cn
 xhost.ro
-xjp.wagbridge-lazada.alibaba-inc.com
-xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
 xlmc.sandai.net
 xlog-va.musical.ly
 xml.opera.com
@@ -4172,7 +4150,6 @@ zanox.com
 zbiornik.com
 zcash.miningpoolhub.com
 zclassic.miningpoolhub.com
-zcmglobal.v.bsgslb.cn
 zcoin.miningpoolhub.com
 zdbb.net
 zee.cws.conviva.com

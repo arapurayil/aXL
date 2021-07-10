@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.10
-# Last modified: 10 Jul 2021 08:02:15 UTC
+# Last modified: 10 Jul 2021 16:02:21 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -24396,6 +24396,7 @@ traffic.spot.im
 trafficdeposit.com
 trafficguard.ai
 trafficjunky.net
+trafficmanager.net
 trafficrouter.io
 trafic.ro
 trailers.apple.com
