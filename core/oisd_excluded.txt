@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Jul 2021 08:02:21 UTC
+# Last modified: 11 Jul 2021 16:02:21 UTC
 000webhostapp.com
 1coolbox.com
 1hosts.cf
@@ -113,6 +113,7 @@ activity.windows.com
 actonservice.com
 actonsoftware.com
 acxiom.com
+ad-blocker.org
 ad-ettoday.cdn.hinet.net
 ad.admitad.com
 ad.aruba.it
@@ -772,6 +773,7 @@ bitcheese.net
 bitly.com
 bizrate.com
 bj.bcebos.com
+bkt.clouddn.com
 blackcanyoncoffee.com
 blackhatworld.com
 blankrefer.com
@@ -799,6 +801,7 @@ boldchat.com
 bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
+bounceme.net
 bountysource.com
 bp01.net
 brakrock.be
@@ -1839,6 +1842,7 @@ h.imguol.com
 h.online-metrix.net
 h5.qzone.qq.com
 ha-link.sailthru.com
+habd.as
 habrahabr.ru
 hack-academy.fr
 hackerrank.com.edgekey.net
@@ -1864,6 +1868,7 @@ hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
+hdredirect-lb7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com
 healthgrades.com
 healthwarehouse.com
 heank.nl
@@ -1877,6 +1882,7 @@ heureka.cz
 heureka.sk
 hexun.com
 heymistr.com
+hi2.ro
 highonandroid.com
 highwebmedia.com
 hit.bg
@@ -2650,6 +2656,7 @@ ozon.ru
 ozy.com
 p-hbbtv.superrtl.de
 p.jwpcdn.com
+p.kuaidi100.com
 p.tanx.com
 p.typekit.net
 p.typekit.net-v3.edgekey.net
@@ -3215,6 +3222,7 @@ smetrics.discover.com
 smetrics.frontier.com
 smetrics.santander.co.uk
 smi2.ru
+smljmp.com
 smll.co
 smoot.apple.com
 smp.sankei.co.jp
@@ -3688,6 +3696,7 @@ vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
 vilynx.com
+vin-plastiks.com
 vine.co
 vis.vi-serve.com
 visit.digidip.net
@@ -3812,6 +3821,7 @@ www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
 www2.uliza.jp
+www3.telus.net
 www4.orangecyberdefense.com
 www7.cbox.ws
 x.co
