@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Jul 2021 08:02:32 UTC
+# Last modified: 12 Jul 2021 16:02:40 UTC
 000webhostapp.com
 1coolbox.com
 1hosts.cf
@@ -113,7 +113,6 @@ activity.windows.com
 actonservice.com
 actonsoftware.com
 acxiom.com
-ad-blocker.org
 ad-ettoday.cdn.hinet.net
 ad.admitad.com
 ad.aruba.it
@@ -483,7 +482,6 @@ analytics.edgekey.net
 analytics.google.com
 analytics.robinhood.com
 analytics.twitter.com
-android-appboot.netflix.com
 android.bugly.qq.com
 androidtvwatsonfe-pa.googleapis.com
 androidweblog.com
@@ -773,7 +771,6 @@ bitcheese.net
 bitly.com
 bizrate.com
 bj.bcebos.com
-bkt.clouddn.com
 blackcanyoncoffee.com
 blackhatworld.com
 blankrefer.com
@@ -801,13 +798,11 @@ boldchat.com
 bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
-bounceme.net
 bountysource.com
 bp01.net
 brakrock.be
 branch.io
 branding.api.us.apiconnect.ibmcloud.com
-brave-core-ext.s3.brave.com
 bravia.dl.playstation.net
 braze.com
 bridgetrack.com
@@ -1731,7 +1726,6 @@ geolite.maxmind.com
 geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
-geomobileservices-pa.googleapis.com
 georiot.com
 get-express-vpn.com
 get.x-link.pl
@@ -1844,7 +1838,6 @@ h.imguol.com
 h.online-metrix.net
 h5.qzone.qq.com
 ha-link.sailthru.com
-habd.as
 habrahabr.ru
 hack-academy.fr
 hackerrank.com.edgekey.net
@@ -1884,7 +1877,6 @@ heureka.cz
 heureka.sk
 hexun.com
 heymistr.com
-hi2.ro
 highonandroid.com
 highwebmedia.com
 hit.bg
@@ -3699,7 +3691,6 @@ vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
 vilynx.com
-vin-plastiks.com
 vine.co
 vis.vi-serve.com
 visit.digidip.net
@@ -3796,6 +3787,7 @@ windows.net
 windowssearch.com
 wip3.adobe.com
 wl.jd.com
+wl.spotify.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
@@ -3825,7 +3817,6 @@ www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
 www2.uliza.jp
-www3.telus.net
 www4.orangecyberdefense.com
 www7.cbox.ws
 x.co
