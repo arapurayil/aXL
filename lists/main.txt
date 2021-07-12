@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.11
-# Last modified: 11 Jul 2021 16:02:22 UTC
+# Version: 2.07.12
+# Last modified: 12 Jul 2021 00:12:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4455,6 +4455,7 @@ bkcp.be
 bkme.com
 bks.at
 bksbank.it
+bkt.clouddn.com
 black.game.naver.com
 blackapplehost.com
 blackberry.com
@@ -4755,6 +4756,7 @@ botwodessa.com
 bou.or.ug
 bougn.at
 bouldercityhospital.org
+bounceme.net
 bountysource.com
 bourbonhospital.com
 bournemouth.gov.uk
@@ -11452,6 +11454,7 @@ habbo.es
 habbo.nl
 habbogreen.com
 habcorp.com
+habd.as
 habibamericanbank.com
 habibbank.com
 habibbankltd.com
@@ -11587,6 +11590,7 @@ hdfcbank.com
 hdh-voba.de
 hdhs.com.au
 hdo.to
+hdredirect-lb7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com
 hdrezka.ag
 hdserver.nirsoft.net
 hdv-darmstadt.de
@@ -11720,6 +11724,7 @@ hhs.gov
 hhscjmalaga.org
 hi.baidu.com
 hi.statcounter.com
+hi2.ro
 hi5.com
 hiawatha-nb.com
 hiberniabank.com
@@ -18139,6 +18144,7 @@ p-store.rakuten.co.jp
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
+p.kuaidi100.com
 p.marktplaats.net
 p.pw
 p.tanx.com
@@ -21774,6 +21780,7 @@ smileadsl.com
 smiledirectclub.com
 smithsdownunder.com
 smithvethospital.com
+smljmp.com
 smll.co
 smokefree.gov
 smokingwheels.github.io
@@ -25302,6 +25309,7 @@ villagebankonline.com
 vilynx.com
 vimeo.com
 vimeocdn.com
+vin-plastiks.com
 vincentius-kliniken.de
 vincenz.de
 vine.co
@@ -26667,6 +26675,7 @@ www2.jugra.ru
 www2.uliza.jp
 www3.2giga.link
 www3.l.google.com
+www3.telus.net
 www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io

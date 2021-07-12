@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Jul 2021 16:02:21 UTC
+# Last modified: 12 Jul 2021 00:12:34 UTC
 000webhostapp.com
 1coolbox.com
 1hosts.cf
@@ -1320,6 +1320,7 @@ demdex.net
 derat.nl
 derekseaman.com
 desktop.spotify.com
+detectportal.firefox.com
 dev-multiscreen.samsung.com
 dev.newrelic.com
 dev.virtualearth.net
@@ -1593,6 +1594,7 @@ fili.cc
 filman.tv
 filters.adtidy.org
 findglocal.com
+firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 fireemblem.net
@@ -2253,6 +2255,7 @@ liveupdate.mac.sandai.net
 lnks.gd
 localbitcoins.com
 location-api.hdhomerun.com
+location.services.mozilla.com
 log-upload-os.mihoyo.com
 log.byteoversea.com
 log.kieskeurig.nl
@@ -3746,6 +3749,7 @@ webcare.byside.com
 webcindario.com
 webcrawler.com
 webgains.com
+webhop.net
 weblockapp.com
 webmasterplan.com
 webmdglobal.122.2o7.net
