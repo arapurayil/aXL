@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.12
-# Last modified: 12 Jul 2021 16:02:40 UTC
+# Version: 2.07.13
+# Last modified: 13 Jul 2021 00:11:49 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2167,7 +2167,6 @@ andhrabank-india.com
 andmuchmore.com
 andreasklinik.ch
 andro4all.com
-android-appboot.netflix.com
 android.bugly.qq.com
 android.clients.google.com
 android.com
@@ -4455,7 +4454,6 @@ bkcp.be
 bkme.com
 bks.at
 bksbank.it
-bkt.clouddn.com
 black.game.naver.com
 blackapplehost.com
 blackberry.com
@@ -4756,7 +4754,6 @@ botwodessa.com
 bou.or.ug
 bougn.at
 bouldercityhospital.org
-bounceme.net
 bountysource.com
 bourbonhospital.com
 bournemouth.gov.uk
@@ -4828,7 +4825,6 @@ brandshop.ru
 brandywinehospital.com
 brannenbanks.com
 brattbank.com
-brave-core-ext.s3.brave.com
 bravia.dl.playstation.net
 braze.com
 brazil.hide.me
@@ -10686,7 +10682,6 @@ geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
 geomed-klinik.de
-geomobileservices-pa.googleapis.com
 geomundos.com
 george.bcr.ro
 georgetownsb.com
@@ -11454,7 +11449,6 @@ habbo.es
 habbo.nl
 habbogreen.com
 habcorp.com
-habd.as
 habibamericanbank.com
 habibbank.com
 habibbankltd.com
@@ -11724,7 +11718,6 @@ hhs.gov
 hhscjmalaga.org
 hi.baidu.com
 hi.statcounter.com
-hi2.ro
 hi5.com
 hiawatha-nb.com
 hiberniabank.com
@@ -25309,7 +25302,6 @@ villagebankonline.com
 vilynx.com
 vimeo.com
 vimeocdn.com
-vin-plastiks.com
 vincentius-kliniken.de
 vincenz.de
 vine.co
@@ -26383,6 +26375,7 @@ wkk-online.de
 wko.at
 wl-in-f14.1e100.net
 wl.jd.com
+wl.spotify.com
 wlan.three.com.hk
 wlga.gov.uk
 wlo.ospserver.net
@@ -26676,7 +26669,6 @@ www2.jugra.ru
 www2.uliza.jp
 www3.2giga.link
 www3.l.google.com
-www3.telus.net
 www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
