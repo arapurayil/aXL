@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.13
-# Last modified: 13 Jul 2021 00:11:49 UTC
+# Last modified: 13 Jul 2021 08:01:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1208,6 +1208,7 @@ ahd.ruten.com.tw
 ahepahosp.gr
 ahhospital.com
 ahiba.hn
+ahinsashoes.cz
 ahli.com
 ahoo.it
 ahwatukeecommonsveterinaryhospital.vetsuite.com
@@ -1300,6 +1301,7 @@ akh-wien.ac.at
 akhwien.at
 akibabank.com
 akmba.org
+akpbvba.be
 akreg.com
 aktia.com
 aktia.fi
@@ -2189,6 +2191,7 @@ anelik.ru
 anexia-it.com
 angel.co
 angelfire.com
+angi.com
 angloirishbank.com
 angolotesti.it
 angryip.org
@@ -2691,6 +2694,7 @@ app-measurement.com
 app-perms.playstation.com
 app-ru.huawei.com
 app-uk.huawei.com
+app-us1.com
 app.aave.com
 app.adjust.com
 app.adjust.io
@@ -4059,6 +4063,7 @@ bccr.fi.cr
 bccroscigno.it
 bccsanmarzano.it
 bccsanteramo.it
+bccto.me
 bcctriuggio.it
 bce.baidu.com
 bce.fin.ec
@@ -4160,6 +4165,7 @@ belapb.by
 belarusbank.minsk.by
 belfius.be
 belgolaise.com
+beliefnet.com
 bellemeadanimalhospital.com
 bellevueanimalhospital.com
 bellevuehospital.com
@@ -4392,6 +4398,7 @@ bit.do
 bit.ly
 bit.namecoin.info
 bitandspuranimalhospital.com
+bitballoon.com
 bitbank.cc
 bitbucket-marketing-cdn.atlassian.com
 bitbucket.io
@@ -4402,6 +4409,7 @@ bitcheese.net
 bitcoin.com
 bitcoin.de
 bitcoin.org
+bitcoin.sipa.be
 bitfinex.com
 bitfury.com
 bithumb.com
@@ -4569,16 +4577,52 @@ blogs.sonymobile.com
 blogs.techrepublic.com
 blogsimages.adobe.com
 blogsmithmedia.com
+blogspot.al
+blogspot.am
+blogspot.ba
+blogspot.be
+blogspot.bg
 blogspot.ca
+blogspot.cl
+blogspot.co.id
+blogspot.co.ke
 blogspot.co.uk
+blogspot.co.za
 blogspot.com
+blogspot.com.br
 blogspot.com.by
+blogspot.com.co
+blogspot.com.cy
+blogspot.com.ee
+blogspot.com.eg
 blogspot.com.es
+blogspot.com.mt
+blogspot.com.ng
+blogspot.com.uy
 blogspot.de
 blogspot.fr
+blogspot.hr
 blogspot.in
+blogspot.is
+blogspot.it
 blogspot.jp
+blogspot.kr
 blogspot.l.googleusercontent.com
+blogspot.li
+blogspot.lt
+blogspot.lu
+blogspot.md
+blogspot.mk
+blogspot.mx
+blogspot.my
+blogspot.pe
+blogspot.qa
+blogspot.rs
+blogspot.ru
+blogspot.sg
+blogspot.si
+blogspot.sn
+blogspot.ug
 blogster.com
 blogtopsites.com
 blom.com.lb
@@ -5075,6 +5119,7 @@ byblosbank.com.lb
 bydgoszcz.tvp.pl
 byet.org
 byethost10.com
+byethost11.com
 byjusclasses.com
 byjusclasses.freshdesk.com
 byod-web.huawei.com
@@ -7942,6 +7987,7 @@ diop.ru
 diply.com
 direc-way.us
 direcpc.com
+direct-energie.com
 direct.shots.snap.com
 directdomains.com
 directduo.com
@@ -8078,6 +8124,7 @@ dns1.registrar-servers.com
 dns1.tk.msft.net
 dns2.funimation.com
 dns2.registrar-servers.com
+dnsabr.com
 dnsleaktest.com
 dnsotls-ds.metric.gstatic.com
 dnspod.cn
@@ -8276,6 +8323,7 @@ drguth.de
 dribbble.com
 drift.com
 driftt.com
+dripemail2.com
 drive.google.com
 drive.mobisystems.com
 driveapi.micloud.xiaomi.net
@@ -8491,6 +8539,7 @@ ea7.com.edgekey.net
 eaassets-a.akamaihd.net
 eab-online.com
 eab.com
+ead.me
 eagle-bank.com
 eaglebancshares.com
 eaglebankmd.com
@@ -9322,6 +9371,7 @@ f002.backblazeb2.com
 f1.g.mi.com
 f1.media.brightcove.com
 f2.g.mi.com
+f5.si
 fa.gravatar.com
 fa.wikipedia.com
 fabric.io
@@ -9650,6 +9700,7 @@ file2.wechat.com
 file2fxm.azureedge.net
 fileapi.micloud.xiaomi.net
 filebin.net
+filecat.net
 filecrypt.cc
 filefactory.com
 filehippo.com
@@ -11384,6 +11435,7 @@ guce.huffingtonpost.com.au
 guce.oath.com
 guce.techcrunch.com
 guce.yahoo.com
+guerrillamail.com
 guestbook.blog.naver.com
 gugeys.com
 guiama.is
@@ -11705,6 +11757,7 @@ heureka.cz
 heureka.sk
 hex.io
 hexun.com
+heylink.me
 heymistr.com
 heyue.xiaomi.com
 hf-wa.com
@@ -12548,6 +12601,7 @@ ic.vitabank.spb.ru
 ic.zhilcredit.ru
 ic3.events.data.microsoft.com
 icabanken.se
+icam.fr
 icampus.nl
 icanhazip.com
 icann.org
@@ -13240,6 +13294,7 @@ intervista.youdao.com
 intesasanpaolo.com
 intl.fusionsolar.huawei.com
 intl.taobao.com
+intnet.mu
 intranet.xiaomi.com
 intrustbank.com
 intstatcheck.wsecure.schneider-electric.com
@@ -13354,6 +13409,7 @@ iqtest.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
+iradio.ie
 iraiser.eu
 irbbank.ch
 irc-galleria.net
@@ -13520,6 +13576,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -13945,6 +14002,7 @@ kit.snapchat.com
 kitatin.com
 kite.com
 kitsapbank.com
+kiu.ac.ug
 kiupbank.co.kr
 kivra.com
 kiwi.qa
@@ -14124,6 +14182,7 @@ kotakmahindrabank.com
 kotaku.com
 kount.com
 koyote.com
+kozow.com
 kpk.gov.pl
 kqzyfj.com
 kr.blog.twitch.tv
@@ -15047,6 +15106,7 @@ lsbank.com
 lsbbancshares.com
 lsbdirect.com
 lsbnc.com
+lsmu.com
 lsta.org
 lt-in-f14.1e100.net
 lt-in-f26.1e100.net
@@ -15171,6 +15231,7 @@ maibanu.com
 mail-attachment.googleusercontent.com
 mail-ve1eur020042.inbound.protection.outlook.com
 mail.163.com
+mail.bccto.me
 mail.bg
 mail.bithumb.com
 mail.breitbart.com
@@ -16535,6 +16596,7 @@ my.vudu.com
 my.ya.ru
 my1login.com
 my3gb.com
+myabandonware.com
 myaccount.nytimes.com
 myaccount.payoneer.com
 myairbridge.com
@@ -16630,10 +16692,12 @@ myvoba.com
 myway.com
 mywebanywhere.com
 mywifiext.com
+mywire.org
 mywot.com
 myxns.cn
 myxperia.sonymobile.com
 myyearbook.com
+myzen.co.uk
 myètherwället.com
 mz-ac.de
 mzstatic.com
@@ -17867,6 +17931,7 @@ op-cdn.net
 op.am
 op.fi
 op.im
+op.org
 opecloud.com
 opelbank.de
 open-mmx.com
@@ -18855,6 +18920,7 @@ pobladores.com
 pochta.ru
 pocketmath-cdn.com
 pocketnow.com
+poczta.pl
 podcasting.help.soundcloud.com
 podcasts.engadget.com
 podcasts.shiftyjelly.com.au
@@ -20171,6 +20237,7 @@ revinate.com
 revistaeventos.com.br
 revistasobrerodas.com.br
 revue.com
+revue.email
 rewards.xbox.com
 rexdl.com
 reyaphastanesi.com.tr
@@ -21288,6 +21355,7 @@ serials.ws
 servebbs.net
 servebeer.com
 servedby.flashtalking.com
+serveo.net
 servepics.com
 server-54-230-93-120.fra2.r.cloudfront.net
 server.iad.liveperson.net
@@ -21490,6 +21558,7 @@ short.cc
 short.co.uk
 short.ie
 short.pk
+shortcm.li
 shorte.st
 shortpixel.ai
 shots.snap.com
@@ -21561,6 +21630,7 @@ simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
+simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -21590,6 +21660,7 @@ sirfdosti.com
 sistemagorod.ru
 sitcomsonline.com
 site.gravatar.com
+site44.com
 site5.com
 siteassets.parastorage.com
 siteburg.com
@@ -22466,6 +22537,7 @@ spkschwerin.de
 spkson.de
 spktw.de
 spl.hit.gemius.pl
+split.to
 splitskabanka.hr
 spm.is
 spn.sr
@@ -23080,6 +23152,7 @@ str.hit.gemius.pl
 straitstimes.com
 strangled.net
 strat.ru
+strategypage.com
 strato.de
 stratus.soundcloud.com
 stream.highwebmedia.com
@@ -23277,6 +23350,7 @@ surveys.twilio.com
 susqbanc.com
 susquehanna.net
 sutorbank.de
+sutterhealth.org
 sutton.gov.uk
 suupohjanosuuspankki.fi
 sux.cz
@@ -23346,6 +23420,7 @@ sympatia.pl
 sync.foxnews.com
 sync.pocketcasts.com
 syncplusconfig.s3.amazonaws.com
+syncusercontent.com
 syndicaster.tv
 syndicatebank.com
 syndicatebank.in
@@ -23878,6 +23953,7 @@ tiny.lt
 tiny.ms
 tiny.pl
 tinyfac.es
+tinyletterapp.com
 tinypass.com
 tinypic.com
 tinyurl.com
@@ -24146,6 +24222,7 @@ treasurydirect.gov
 treexml.baofeng.net
 treezip.baofeng.net
 trello.com
+trelock.com
 tremor.com
 trezor.io
 trial-sport.ru
@@ -24337,6 +24414,7 @@ twinriverbank.com
 twint.ch
 twitch.tv
 twitchcdn.net
+twitchdl.com
 twitchy.com
 twitter.com
 twitter.it
@@ -24446,6 +24524,7 @@ uedna.com
 ufa.wifi.domru.ru
 ufb-ffed.com
 ufcfightclub.com
+ufes.br
 ufrpe.br
 ufscla.org
 ug.cz
@@ -24666,6 +24745,7 @@ upgrade.scdn.com
 upgrade.xl9.xunlei.com
 uphold.com
 upload.blog.naver.com
+upload.cc
 upload.dcinside.com
 upload.ee
 upload.facebook.com
