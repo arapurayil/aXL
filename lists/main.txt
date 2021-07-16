@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.16
-# Last modified: 16 Jul 2021 08:02:07 UTC
+# Last modified: 16 Jul 2021 16:02:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4455,7 +4455,6 @@ bkcp.be
 bkme.com
 bks.at
 bksbank.it
-bkt.clouddn.com
 black.game.naver.com
 blackapplehost.com
 blackberry.com
@@ -4756,7 +4755,6 @@ botwodessa.com
 bou.or.ug
 bougn.at
 bouldercityhospital.org
-bounceme.net
 bountysource.com
 bourbonhospital.com
 bournemouth.gov.uk
@@ -8851,7 +8849,6 @@ emco-klinik.at
 emdl.ws.microsoft.com
 emea01.safelinks.protection.outlook.com
 emeap.org
-emercoin.com
 emiratesbank.com
 emiratesnbd.com
 emiratesnbd.com.eg
@@ -11432,7 +11429,6 @@ habbo.es
 habbo.nl
 habbogreen.com
 habcorp.com
-habd.as
 haberturk.com
 habibamericanbank.com
 habibbank.com
@@ -11673,7 +11669,6 @@ herner-sparkasse.de
 herokuapp.com
 herokudns.com
 herokussl.com
-herominers.com
 herrchen-sucht-frauchen.de
 herrinhospital.org
 herroom.com
@@ -11704,7 +11699,6 @@ hhs.gov
 hhscjmalaga.org
 hi.baidu.com
 hi.statcounter.com
-hi2.ro
 hi5.com
 hiawatha-nb.com
 hiberniabank.com
@@ -24599,7 +24593,6 @@ unk.vver.kiae.rr
 unlc.us
 unlockbootloader.sonymobile.com
 unlocker.emptyloop.com
-unmineable.com
 uno-e.com
 unpkg.com
 unsere-raiba.de
@@ -25283,7 +25276,6 @@ villagebankonline.com
 vilynx.com
 vimeo.com
 vimeocdn.com
-vin-plastiks.com
 vincentius-kliniken.de
 vincenz.de
 vine.co
@@ -26648,7 +26640,6 @@ www2.jugra.ru
 www2.uliza.jp
 www3.2giga.link
 www3.l.google.com
-www3.telus.net
 www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
