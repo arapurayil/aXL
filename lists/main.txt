@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.16
-# Last modified: 16 Jul 2021 00:13:28 UTC
+# Last modified: 16 Jul 2021 08:02:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -387,12 +387,9 @@ a-0010.a-msedge.net
 a-0012.a-msedge.net
 a-3.ru
 a-airasia-001-gyf12.insnw.net
-a-digikey-001-gyf12.insnw.net
 a-mo.net
 a-msedge.net
 a-ring.msedge.net
-a-sg01sl04.insnw.net
-a-sg01sl09.insnw.net
 a-v2.sndcdn.com
 a-v2.x.sndcdn.com
 a.apkpure.com
@@ -2521,7 +2518,6 @@ api.pinterest.com.gslb.pinterest.com
 api.pluto.tv
 api.post.adobe.com
 api.preprod.vudu.com
-api.privacy-center.org
 api.pro.coinbase.com
 api.pushbullet.com
 api.quantcast.mgr.consensu.org
@@ -5645,7 +5641,6 @@ cdn.elev.io
 cdn.embed.ly
 cdn.embedly.com
 cdn.engine.4dsply.com
-cdn.ezoic.net
 cdn.fbsbx.com
 cdn.fds-ssl.api.xiaomi.com
 cdn.fds.api.xiaomi.com
@@ -6286,10 +6281,6 @@ cjb.net
 ckb-rzd.ru
 ckk.ai
 cl.exct.net
-cl.s10.exct.net
-cl.s11.exct.net
-cl.s6.exct.net
-cl.s7.exct.net
 clamav.net
 clamdirect.com
 clara.net
@@ -6679,7 +6670,6 @@ columbusmba.org
 com-verification.id
 com.akadns.net
 com.au
-com.cdn.ezoic.net
 com.cn
 com.com
 com.edgekey.net
@@ -8174,6 +8164,7 @@ doulike.us
 douyin.com
 dovoba.de
 down-cdn.dingtalk.com
+down.360safe.com
 down.boomkat.com
 down.local.sec.samsung.com
 down.local.sec.samsung.com.cdngc.net
@@ -8645,7 +8636,6 @@ edgarcountybank.com
 edge-chat.facebook.com
 edge-enterprise.activity.windows.com
 edge-mqtt.facebook.com
-edge-usw2.demdex.net
 edge.activity.windows.com
 edge.api.brightcove.com
 edge.pantheon.io
@@ -9224,7 +9214,6 @@ exchange.globitex.com
 exchange.kaspersky.com
 exchange4media.com
 exchangebk.com
-exct.net
 exe.io
 execute-api.us-east-1.amazonaws.com
 exetervethospital.com
@@ -9317,6 +9306,7 @@ f002.backblazeb2.com
 f1.g.mi.com
 f1.media.brightcove.com
 f2.g.mi.com
+f5.market.xiaomi.com
 fa.gravatar.com
 fa.wikipedia.com
 fabric.io
@@ -9719,6 +9709,7 @@ fioniabank.dk
 fiplabcdn.com
 fir.im
 firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
@@ -11420,9 +11411,6 @@ gyazo.com
 gyggs.com
 gz-lb1.internet.spanner.alipaydns.com
 h-cdn.com
-h-citicards.online-metrix.net
-h-homedepot.online-metrix.net
-h-intuit.online-metrix.net
 h-sdk.online-metrix.net
 h-tdcanada.online-metrix.net
 h.beta.facebook.com
@@ -11969,7 +11957,6 @@ howtoforge.com
 howtogeek.com
 hoxpedaje.com
 hp.com
-hp.demdex.net
 hpcloud.hp.com
 hpcloud.hp.net
 hpg.com.br
@@ -13115,7 +13102,6 @@ input.mozilla.org
 inputdirector.com
 inq.com
 inquisition.goguardian.com
-ins-073.inscname.net
 ins.jr.mi.com
 inscname.net
 insecam.org
@@ -15121,7 +15107,6 @@ m365log.com
 m3mi.com
 ma.hide.me
 ma.techrepublic.com
-ma135-r.analytics.edgekey.net
 maasreusel.nl
 mabanque.bnpparibas
 mabanqueprivee.bnpparibas
@@ -16244,6 +16229,7 @@ moneyman.kz
 moneyman.ru
 moneyou.de
 moneyou.nl
+moneyplatform.biz
 moneysavingexpert.com
 moneyveo.ua
 mongolbank.mn
@@ -16668,7 +16654,6 @@ na61-na62.wagbridge.advertisement.tanx.com
 na61-na62.wagbridge.alibaba.tanx.com
 nab.ch
 nab.com.au
-nab.demdex.net
 nabard.org
 nabbr.com
 nabgroup.com
@@ -16824,7 +16809,6 @@ nctb.gov.bd
 nctrust.com
 nctx.arcticapi.com
 ncu.ca
-nd.demdex.net
 ndba.com
 ndbbankonline.com
 ndirect.ppro.de
@@ -17170,7 +17154,6 @@ norstatsurveys.com
 north-america.pool.ntp.org
 north-ayrshire.gov.uk
 north-norfolk.gov.uk
-northamerica.digikey.inscname.net
 northcentraltrust.com
 northcoastbank.com
 northcommunitybank.com
@@ -18460,7 +18443,6 @@ pcgames-download.com
 pch.com
 pchospital.org
 pci.spotify.com
-pciins-046.inscname.net
 pcmag.com
 pcmrace.com
 pcrisk.com
@@ -18725,7 +18707,6 @@ placehold.it
 placeholder.com
 placeholdit.imgix.net
 places-manager-api.snapchat.com
-places.aviasales.ru
 planet.net
 planeta.ru
 planetlivenow.com
@@ -19427,7 +19408,6 @@ qmerce.com
 qnb.com
 qnbfinansbank.com
 qnbfinansbank.enpara.com
-qoe-1.yottaa.net
 qos.gcloud.qq.com
 qos.hk.gcloudcs.com
 qph.ec.quoracdn.net
@@ -20554,8 +20534,6 @@ s1.symcb.com
 s1.vuukle.com
 s1.wp.com
 s1.yimg.com
-s10.exct.net
-s11.exct.net
 s1325.t.eloqua.com
 s1777052651.t.eloqua.com
 s2.coinmarketcap.com
@@ -20611,9 +20589,7 @@ s3.vuukle.com
 s3.wp.com
 s4.symcb.com
 s5.symcb.com
-s6.exct.net
 s7.addthis.com
-s7.exct.net
 s7.orientaltrading.com
 s8.addthis.com
 s9.picofile.com
@@ -20851,7 +20827,6 @@ sbrf.ru
 sbrmc.com
 sbroker.de
 sbs.com.au
-sbs.demdex.net
 sbsbank.co.nz
 sbsbank.com
 sbsibank.by
@@ -20939,7 +20914,6 @@ sclark.xyz
 scnb.com
 scnbank.com
 scone-pa.clients6.google.com
-sconsentit9.trafficmanager.net
 scontent-iad3-1.cdninstagram.com
 scontent-iad3-1.xx.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
@@ -21017,7 +20991,6 @@ sdnweb.com
 sds.playstation.com
 sdu.sk
 sdx.xfinity.com
-sdx.xfinity.com.edgekey.net
 se-go.kelkoogroup.net
 se.social.sc.sonymobile.com
 se.wikipedia.com
@@ -24200,7 +24173,6 @@ trk.klclick1.com
 trk.klclick3.com
 trk.pinterest.com
 trk.s.sephora.com
-trkpnt.ongage.net
 trkr.ws
 trlibor.org
 troegs.com
@@ -24311,6 +24283,7 @@ tvgids.nl
 tvgidsassets.nl
 tvguide.com
 tvn.adocean.pl
+tvn.hit.gemius.pl
 tvn24.pl
 tvnow.de
 tvnstyle.pl
@@ -24749,7 +24722,6 @@ us-central1-gcp.api.snapchat.com
 us-cert.gov
 us-east-1.amazonaws.com
 us-east-1.elb.amazonaws.com
-us-eu.brightcove.map.fastly.net
 us-evnt-edge.np.community.playstation.net
 us-gmsg.np.community.playstation.net
 us-go.kelkoogroup.net
@@ -25190,7 +25162,6 @@ verizon.inq.com
 verizon.net
 verizonmedia.com
 verizonwireless.com
-verizonwireless.demdex.net
 verkehrskreditbank.at
 verkkopalkka.maventa.fi
 verkkopankki2.danskebank.fi
@@ -26116,6 +26087,7 @@ webring.com
 webs.com
 websearch.rakuten.co.jp
 websecurity.norton.com
+websecurityguard.com
 webserverplus.de
 webservices.amazon.co.uk
 webservices.amazon.com
@@ -26155,7 +26127,6 @@ weixin.qq.com
 welcome.indihome.co.id
 wellingtonfl.gov
 wellsfargo.com
-wellsfargobankna.demdex.net
 wellsfargodealerservices.com
 wellsfederalbank.com
 wer-kennt-wen.de
@@ -26560,10 +26531,8 @@ ww7.fr
 wwis-dubc1-vip60.adobe.com
 www-admin.sonymobile.com
 www-assets.npo.nl
-www-cbssports-com.cdn.ampproject.org
 www-cdn.icloud.com.akadns.net
 www-cdn.whatsapp.net
-www-cultofmac-com.ezoic.net
 www-file.huawei.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
@@ -26728,7 +26697,6 @@ x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
 xalqbank.az
 xanga.com
-xapi.xfinity.com.edgekey.net
 xataka.com
 xatakaciencia.com
 xatakahome.com

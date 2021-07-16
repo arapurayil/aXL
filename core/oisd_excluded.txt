@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Jul 2021 00:13:28 UTC
+# Last modified: 16 Jul 2021 08:02:07 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -111,7 +111,6 @@ activity.windows.com
 actonservice.com
 actonsoftware.com
 acxiom.com
-ad-blocker.org
 ad-ettoday.cdn.hinet.net
 ad.admitad.com
 ad.aruba.it
@@ -771,7 +770,6 @@ bitcoin.sipa.be
 bitly.com
 bizrate.com
 bj.bcebos.com
-bkt.clouddn.com
 blackcanyoncoffee.com
 blackhatworld.com
 blankrefer.com
@@ -799,7 +797,6 @@ boldchat.com
 bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
-bounceme.net
 bountysource.com
 bp01.net
 brakrock.be
@@ -1439,7 +1436,6 @@ email.uber.com
 embed.mystream.to
 embed.tawk.to
 embed.windy.com
-emercoin.com
 emjcd.com
 emkei.cz
 emp.bbci.co.uk
@@ -1817,7 +1813,6 @@ h.imguol.com
 h.online-metrix.net
 h5.qzone.qq.com
 ha-link.sailthru.com
-habd.as
 haberturk.com
 habrahabr.ru
 hack-academy.fr
@@ -1853,13 +1848,11 @@ hello.myfonts.net
 here.com
 herokuapp.com
 herokussl.com
-herominers.com
 hetzner.de
 heureka.cz
 heureka.sk
 hexun.com
 heymistr.com
-hi2.ro
 highonandroid.com
 highwebmedia.com
 hit.bg
@@ -2455,7 +2448,6 @@ nabbr.com
 naiadsystems.com
 naifei.shop
 nanigans.com
-nanopool.org
 nanovisor.io
 narwhal.mobidia.com
 naytev.com
@@ -3557,7 +3549,6 @@ unity3d.com
 unity3d.com.edgekey.net
 univ-oran.dz
 unk.vver.kiae.rr
-unmineable.com
 untd.com
 uol.com.br
 up.cm.ksmobile.com
@@ -3651,7 +3642,6 @@ vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
 vilynx.com
-vin-plastiks.com
 vine.co
 vis.vi-serve.com
 visit.digidip.net
@@ -3775,7 +3765,6 @@ www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
 www2.uliza.jp
-www3.telus.net
 www4.orangecyberdefense.com
 www7.cbox.ws
 x.co
