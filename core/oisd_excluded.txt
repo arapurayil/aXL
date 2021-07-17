@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Jul 2021 16:02:43 UTC
+# Last modified: 17 Jul 2021 00:12:03 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -25,6 +25,7 @@
 4shared.com
 5af10.v.fwmrm.net
 5d3e9.v.fwmrm.net
+5d404.v.fwmrm.net
 5e124.v.fwmrm.net
 5z8.info
 7.ly
@@ -125,7 +126,6 @@ adage.com
 adash.man.aliyuncs.com
 adashx.m.taobao.com
 adaware.com
-adblock.gjtech.net
 adbrix.io
 adcell.com
 adcolo.com
@@ -812,7 +812,6 @@ broker.adobe.com
 bronto.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
-browser.sentry-cdn.com
 bs.serving-sys.com
 bs.yandex.ru
 bsiderats.nl
@@ -1453,6 +1452,7 @@ epidm.edgesuite.net
 episerver.net
 epizy.com
 epl.paypal-communication.com
+epochweekly.com
 epsilon.com
 equilor.hu
 err.taobao.com
@@ -1564,8 +1564,6 @@ fili.cc
 filman.tv
 filters.adtidy.org
 findglocal.com
-firebaseinstallations.googleapis.com
-firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 fireemblem.net
@@ -1796,6 +1794,7 @@ gstaticadssl.l.google.com
 gtop100.com
 gtrk.s3.amazonaws.com
 gtssl2-ocsp.geotrust.com
+guangming.org
 guardianapps.co.uk
 guce.advertising.com
 guce.huffingtonpost.co.uk
@@ -2353,6 +2352,8 @@ midasplayer.com
 mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
+minghui.com
+minghui.org
 miningpoolhub.com
 minorshort.weixin.qq.com
 minutemediaservices.com
@@ -2512,6 +2513,7 @@ nsstatic.net
 nstool.netease.com
 nsupdate.info
 nsx.np.dl.playstation.net
+ntdtv.org
 ntv.io
 ntvcld-a.akamaihd.net
 nuancemobility.net
@@ -3071,7 +3073,6 @@ secure.trust-guard.com
 secure.upc.ua
 secured-login.net
 securejoinsite.com
-securemecca.com
 securemetrics.apple.com
 sedoparking.com
 see.valimail.com
@@ -3535,6 +3536,7 @@ uib.ff.avast.com
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
+ultimedia.com
 umwatsonc.events.data.microsoft.com
 unagi-fe.amazon.com
 unagi-na.amazon.com
@@ -3816,6 +3818,7 @@ zdbb.net
 zee.cws.conviva.com
 zeptolab.com
 zer0day.ch
+zhengwunet.org
 ziboupdater.net
 ziffdavis.com
 zip.net
