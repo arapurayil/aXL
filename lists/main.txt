@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.17
-# Last modified: 17 Jul 2021 00:12:03 UTC
+# Last modified: 17 Jul 2021 08:02:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -319,6 +319,7 @@
 58pic.com
 5af10.v.fwmrm.net
 5d3e9.v.fwmrm.net
+5d404.v.fwmrm.net
 5e124.v.fwmrm.net
 5em.cz
 5starinternet.com
@@ -4901,7 +4902,6 @@ browser.cloud.ucweb.com
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
-browser.sentry-cdn.com
 browserapi.micloud.xiaomi.net
 browserevents.imgur.com
 browsersync.google.com
@@ -8962,6 +8962,7 @@ epix.xbox.com
 epizy.com
 epl.paypal-communication.com
 epochtimes.com
+epochweekly.com
 epsilon.com
 epuls.pl
 eqbank.ca
@@ -9706,7 +9707,6 @@ fioniabank.dk
 fiplabcdn.com
 fir.im
 firebase-settings.crashlytics.com
-firebaseinstallations.googleapis.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
@@ -11349,6 +11349,7 @@ gtq.sct.sc-prod.net
 gtrk.s3.amazonaws.com
 gtssl2-ocsp.geotrust.com
 gu-web.net
+guangming.org
 guanjia.qq.com
 guarantybankonline.com
 guarantystate.com
@@ -15974,6 +15975,8 @@ minergate.com
 minershospital.com
 mineshaft1.cryptopia.co.nz
 minfo.wps.cn
+minghui.com
+minghui.org
 mingle.com
 mingle.kijiji.ca
 mingle.pt
@@ -17323,6 +17326,7 @@ nsx.sec.np.dl.playstation.net
 nt.me
 nt3.ggpht.com
 ntco.nl
+ntdtv.org
 ntp.org
 ntr.nl
 ntrs.com
@@ -24469,6 +24473,7 @@ ulsterbank.ie
 ultimabank.com
 ultimanet.com
 ultimate-guitar.com
+ultimedia.com
 ulu.com
 umb.com
 umbank.ru
@@ -25247,6 +25252,7 @@ videoplayerhub.com
 videoplaza.tv
 videoposte.com
 videopress.com
+videoproc.com
 videorolls.row.aiv-cdn.net
 videos.files.wordpress.com
 videos.videopress.com
@@ -27010,6 +27016,7 @@ zh.wikipedia.com
 zh_cn.statcounter.com
 zh_tw.statcounter.com
 zhaopin.com
+zhengwunet.org
 zhibo.mi.com
 zhihu.com
 zhimg.com
