@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Jul 2021 08:02:02 UTC
+# Last modified: 18 Jul 2021 16:02:23 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -441,6 +441,7 @@ airbrake.io
 aircre.com
 ak.sail-horizon.com
 aka-apiservices.boostmobile.com
+akam.net
 akamai.poxo.com
 akamaized.net
 akubebas.com
@@ -555,6 +556,7 @@ api.nfl.com
 api.opinary.com
 api.parse.com
 api.parsely.com
+api.peer5.com
 api.pinterest.com
 api.quantcast.mgr.consensu.org
 api.raygun.io
@@ -873,6 +875,7 @@ canyoublockit.com
 capacitor.ionicframework.com
 captive.adservice.google.co.in
 captive.adservice.google.com
+care2.com
 carvertical.com
 casalemedia.com.edgekey.net
 cb.sailthru.com
@@ -945,6 +948,7 @@ cdn.segment.io
 cdn.siftscience.com
 cdn.split.io
 cdn.static-fra.de
+cdn.streamlike.com
 cdn.stroeerdigitalgroup.de
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
@@ -1244,6 +1248,7 @@ da.feedsportal.com
 da.netease.com
 da.tapas.io
 daemon.indapass.hu
+daggerhashimoto.eu.nicehash.com
 dailydot.com
 damoh.schneevonmorgen.com
 damoh.spiegel.de
@@ -1567,6 +1572,8 @@ fili.cc
 filman.tv
 filters.adtidy.org
 findglocal.com
+firebase.google.com
+firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 fireemblem.net
@@ -1701,6 +1708,7 @@ geolite.maxmind.com
 geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
+geomobileservices-pa.googleapis.com
 georiot.com
 get-express-vpn.com
 get.x-link.pl
@@ -1910,6 +1918,7 @@ i.cdnpark.com
 i.click.taobao.com
 i.cmpnet.com
 i.dir.bg
+i.gyazo.com
 i.icomoon.io
 i.plug.it
 i.rmbl.ws
@@ -2178,6 +2187,7 @@ isgprivacy.cbsi.com
 isnssdk.com.edgekey.net
 isohunts.to
 ist-track.com
+itsfogo.com
 itv.ard.de
 iubenda.com
 iwelt.de
@@ -2249,6 +2259,7 @@ kharkov.ua
 kickass.cd
 kiks.yandex.ru
 kiks.yandex.ua
+kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kisshentai.net
 kiwifarms.net
@@ -2562,6 +2573,7 @@ neobux.com
 net.idealo-partner.com
 netcore.co.in
 netdna.bootstrapcdn.com
+netiq.com
 netupdater.info
 network.bazaarvoice.com
 networkedblogs.com
@@ -2703,6 +2715,8 @@ optimizely.com
 optimizely.com.edgekey.net
 oracle.112.2o7.net
 orientaltrading.com
+orkut.com
+orkut.com.br
 osaka-med.ac.jp
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
@@ -3401,6 +3415,7 @@ stormap.sapo.pt
 stptrisakti.ac.id
 strangled.net
 streaming.adswizz.com
+streamlike.com
 streamplay.to
 stroeerdigitalgroup.de
 stun.l.google.com
@@ -3888,6 +3903,11 @@ xp.apple.com
 xpu.samsungelectronics.com
 xrea.com
 xtra.co.nz
+xtra.gpsonextra.net
+xtra1.gpsonextra.net
+xtra2.gpsonextra.net
+xtra3.gpsonextra.net
+xtra4.gpsonextra.net
 xzone.cz
 y8.com
 yabs.yandex.ru
