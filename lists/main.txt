@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.18
-# Last modified: 18 Jul 2021 16:02:24 UTC
+# Version: 2.07.19
+# Last modified: 19 Jul 2021 00:12:17 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5733,6 +5733,7 @@ cdn.static-fra.de
 cdn.staticaly.com
 cdn.staticfile.org
 cdn.stream.schibsted.media
+cdn.streamlike.com
 cdn.stripst.com
 cdn.stroeerdigitalgroup.de
 cdn.stumbleupon.com
@@ -7437,6 +7438,7 @@ daegubank.co.kr
 daemon-tools.cc
 daemon.indapass.hu
 daffodilvarsity.edu.bd
+daggerhashimoto.eu.nicehash.com
 dahsing.com.hk
 dai.ly
 dailycaller.com
@@ -9708,6 +9710,7 @@ fioniabank.dk
 fiplabcdn.com
 fir.im
 firebase-settings.crashlytics.com
+firebase.google.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
@@ -10665,6 +10668,7 @@ geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
 geomed-klinik.de
+geomobileservices-pa.googleapis.com
 geomundos.com
 george.bcr.ro
 georgetownsb.com
@@ -13530,6 +13534,7 @@ itpapers.techrepublic.com
 itravel.huawei.com
 itsb-iowa.com
 itscenter.alipay.com
+itsfogo.com
 itunes-apple.com.akadns.net
 itunes.apple.com
 itunes.com
@@ -14005,6 +14010,7 @@ kinderhospital.de
 kinderkrankenhaus.net
 kindnesshospital.com
 kinect.co.nz
+kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kingfisherhospital.com
 kingston.gov.uk
@@ -16976,6 +16982,7 @@ netflux.cloud.vimeo.com
 netguard.me
 netherlands.hide.me
 netifice.com
+netiq.com
 netjoven.com
 netlify.com
 netlog.com
@@ -23164,6 +23171,7 @@ stream.highwebmedia.com
 stream.twitch.tv
 streamer.tawenda-tech.org
 streaming.adswizz.com
+streamlike.com
 streamplay.me
 streamplay.to
 strefa.fm
@@ -26888,6 +26896,11 @@ xsts.auth.xboxlive.com
 xt3.me
 xtgem.com
 xtra.co.nz
+xtra.gpsonextra.net
+xtra1.gpsonextra.net
+xtra2.gpsonextra.net
+xtra3.gpsonextra.net
+xtra4.gpsonextra.net
 xtreme.net.nz
 xtube.com
 xua.me
