@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.19
-# Last modified: 19 Jul 2021 00:12:17 UTC
+# Last modified: 19 Jul 2021 08:02:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8094,6 +8094,7 @@ docs.vuukle.com
 doctor.ndtv.com
 doctorpk.mywibes.com
 doctorshospitaldallas.com
+doctortro.com
 documentingreality.com
 docusign.net
 dodgersdigest.com
@@ -8139,6 +8140,7 @@ donner-reuschel.de
 donorschoose.org
 dontstayin.com
 doordash.com
+dopc.cz
 dopice.sk
 doppler.hulu.com
 doralfinancial.com
