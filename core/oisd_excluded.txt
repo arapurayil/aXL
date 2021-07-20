@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Jul 2021 16:02:49 UTC
+# Last modified: 20 Jul 2021 00:11:28 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -476,6 +476,7 @@ ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
 ams3.digitaloceanspaces.com
 amway.com
+amznadsi.hs.llnwd.net
 an.yandex.ru
 analitik.edevlet.gov.tr
 analytics.console.aws.a2z.com
@@ -771,7 +772,6 @@ bitbucket.io
 bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
 bitcheese.net
-bitcoin.sipa.be
 bitly.com
 bizrate.com
 bj.bcebos.com
@@ -1133,6 +1133,7 @@ consent.truste.com
 consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 console.aws.a2z.com
+console.firebase.google.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 contactatonce.com
