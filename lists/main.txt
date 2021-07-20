@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.20
-# Last modified: 20 Jul 2021 00:11:29 UTC
+# Last modified: 20 Jul 2021 08:01:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2130,6 +2130,7 @@ amundi-tc.com
 amway.com
 amzn.com
 amzn.to
+amznadsi.hs.llnwd.net
 an.yandex.ru
 ana.fr
 anadolubank.com.tr
@@ -4404,7 +4405,6 @@ bitcheese.net
 bitcoin.com
 bitcoin.de
 bitcoin.org
-bitcoin.sipa.be
 bitfinex.com
 bitfury.com
 bithumb.com
@@ -6873,6 +6873,7 @@ consentmanager.mgr.consensu.org
 consilnet.com
 console.aws.a2z.com
 console.cloud.google.com
+console.firebase.google.com
 consorsbank.de
 constantcontact.com
 constantia.at
