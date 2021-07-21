@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Jul 2021 00:11:58 UTC
+# Last modified: 21 Jul 2021 08:03:18 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -1759,6 +1759,7 @@ go2cloud.org
 go2jump.org
 goatcounter.com
 gocarrot.com
+godly.website
 gofile.io
 goldbach.com
 goldenline.pl
