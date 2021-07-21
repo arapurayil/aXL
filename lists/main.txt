@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.20
-# Last modified: 20 Jul 2021 16:02:52 UTC
+# Version: 2.07.21
+# Last modified: 21 Jul 2021 00:11:58 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10775,6 +10775,7 @@ gitcdn.xyz
 gitea.io
 gitee.com
 github.com
+github.devtools.go.com
 github.hubspot.com
 github.io
 githubapp.com
@@ -13639,6 +13640,7 @@ jei2iedx-android.mobile-sdk-api.intercom.io
 jellyfish.pandora.xiaomi.com
 jemisp.com
 jenius.com
+jenkins.cd.dtci.co
 jenkins.playstation.com
 jenkins.xda-developers.com
 jenson.api.swiftkey.com

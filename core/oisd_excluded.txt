@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Jul 2021 16:02:51 UTC
+# Last modified: 21 Jul 2021 00:11:58 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -1118,6 +1118,7 @@ configprd.samsungcloudsolution.net
 confirmit.com
 conforama.ugc.bazaarvoice.com
 conn.skype.com
+connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.rom.miui.com
@@ -1276,7 +1277,6 @@ datadoghq-browser-agent.com
 daumcdn.net
 dauth-lp1.ndas.srv.nintendo.net
 db5.vortex.data.microsoft.com.akadns.net
-dbdm-events.mybluemix.net
 dc.services.visualstudio.com
 dcms.1688.com
 dcs.audi.com
@@ -1387,7 +1387,6 @@ ds-www.addthis.com.edgekey.net
 ds1.nl
 dsms0mj1bbhn4.cloudfront.net
 dstreet.pl
-dts.podtrac.com
 duck.sh
 duckdns.org
 durasite.net
@@ -1706,7 +1705,6 @@ geo2.adobe.com
 geo3.ggpht.com
 geoip-db.com
 geoip.hmageo.com
-geoip.hotstar.com
 geoip.tnt-ea.com
 geolite.maxmind.com
 geoloc.arte.tv
@@ -1898,6 +1896,7 @@ hs.eloqua.com
 hsbc.com.hk
 hsforms.com
 hsforms.net
+hspx.hotstar.com
 ht.ly
 ht.youporn.com
 html5zombo.com
@@ -2869,6 +2868,7 @@ polldaddy.com
 polyfill.io
 pomf.cat
 poneytelecom.eu
+porn00.tv
 pornerbros.com
 portableroms.com
 portalroms.com
@@ -3182,7 +3182,6 @@ searchencrypt.com
 seccdn-gl.imrworldwide.com
 seccint.com
 secure-gl.imrworldwide.com
-secure-media.hotstar.com
 secure-us.imrworldwide.com
 secure.eloqua.com
 secure.footprint.net
@@ -3297,6 +3296,7 @@ smetrics.costco.com
 smetrics.dhl.de
 smetrics.discover.com
 smetrics.frontier.com
+smetrics.latitudefinancial.com
 smetrics.santander.co.uk
 smi2.ru
 smljmp.com
@@ -3493,6 +3493,7 @@ td.demdex.net
 td.vs3.com
 tdn.gtranslate.net
 tdn.r42tag.com
+tealium.com
 techlab-cdn.com
 teeth.co.jp
 tekweis.com
@@ -3557,7 +3558,6 @@ track.adform.net
 track.adtraction.com
 track.customer.io
 track.effiliation.com
-track.grab.in
 track.kuronekoyamato.co.jp
 track.nzz.ch
 track.omgpl.com
