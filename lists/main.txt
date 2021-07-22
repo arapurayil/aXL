@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.22
-# Last modified: 22 Jul 2021 00:12:31 UTC
+# Last modified: 22 Jul 2021 08:02:26 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4763,6 +4763,7 @@ bournemouth.gov.uk
 boursorama.com
 bov.wallet.best
 bowc.com
+bowenuniversity-edu.org
 bowercdn.net
 bowmananimalhospital.com
 bowmillsbank.com
@@ -6874,7 +6875,6 @@ consentmanager.mgr.consensu.org
 consilnet.com
 console.aws.a2z.com
 console.cloud.google.com
-console.firebase.google.com
 consorsbank.de
 constantcontact.com
 constantia.at
@@ -9713,7 +9713,6 @@ fioniabank.dk
 fiplabcdn.com
 fir.im
 firebase-settings.crashlytics.com
-firebase.google.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
@@ -17496,7 +17495,6 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
-nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
