@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Jul 2021 16:02:46 UTC
+# Last modified: 22 Jul 2021 00:12:31 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -803,6 +803,7 @@ bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
 bountysource.com
+bowenuniversity-edu.org
 bp01.net
 brakrock.be
 branch.io
@@ -1134,7 +1135,6 @@ consent.truste.com
 consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 console.aws.a2z.com
-console.firebase.google.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 contactatonce.com
@@ -1499,7 +1499,6 @@ events.mapbox.com
 events.split.io
 everesttech.net
 evergreen.segment.com
-evernote.com
 evidon.com
 evidon.com.edgekey.net
 eviltracker.net
@@ -1575,8 +1574,6 @@ fili.cc
 filman.tv
 filters.adtidy.org
 findglocal.com
-firebase.google.com
-firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 fireemblem.net
@@ -2186,6 +2183,7 @@ iraiser.eu
 irchan.com
 iris.tv
 ironbeast.io
+is.gd
 is.snssdk.com
 isgprivacy.cbsi.com
 isnssdk.com.edgekey.net
@@ -2279,7 +2277,6 @@ kount.com
 kqzyfj.com
 kredytbank.com.ua
 krxd.net
-kutt.it
 l.betrad.com
 l.doubleclick.net
 l.ead.me
@@ -2336,7 +2333,6 @@ liveupdate.mac.sandai.net
 lnks.gd
 localbitcoins.com
 location-api.hdhomerun.com
-location.services.mozilla.com
 log-upload-os.mihoyo.com
 log.byteoversea.com
 log.kieskeurig.nl
@@ -2344,7 +2340,6 @@ log.mmstat.com
 log.quora.com
 log.ys7.com
 loggly.com
-login.microsoftonline.us
 login.newrelic.com
 loginfra.com
 logrocket.com
@@ -2388,7 +2383,6 @@ mailfoogae.appspot.com
 mairdumont.com
 malaya.com.ph
 mallgroup.com
-mandrillapp.com
 mangler1.generals.ea.com
 mangler2.generals.ea.com
 mangler3.generals.ea.com
@@ -2610,7 +2604,6 @@ nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
-notion.so
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 nova.collect.igodigital.com
 now.eloqua.com
@@ -2642,7 +2635,6 @@ nuskin.com
 nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
-nyc3.digitaloceanspaces.com
 o.auspost.com.au
 o.ss2.us
 o.webmd.com
@@ -3078,7 +3070,6 @@ s.dolphincdn.xyz
 s.fwmrm.net
 s.gateway.messenger.live.com
 s.gravatar.com
-s.id
 s.marketwatch.com
 s.media-imdb.com
 s.ndemiccreations.com
