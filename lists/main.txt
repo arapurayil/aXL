@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.23
-# Last modified: 23 Jul 2021 00:12:52 UTC
+# Last modified: 23 Jul 2021 08:02:48 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1190,7 +1190,6 @@ agnes-karll-krankenhaus.de
 agoda.com.edgekey.net
 agoodm.m.taobao.com
 agorainvestimentos.com.br
-agoramedia.com
 agrd.io
 agri-bank.com
 agribank.com.vn
@@ -2416,7 +2415,6 @@ api.dmcdn.net
 api.dodol.naver.com
 api.dropbox.com
 api.ebay-kleinanzeigen.de
-api.elasticemail.com
 api.engager.ecbsn.com
 api.entrance.sonymobile.com
 api.erabu.sony.tv
@@ -2715,7 +2713,6 @@ app.e2ma.net
 app.energized.pro
 app.getresponse.com
 app.huawei.com
-app.hubspot.com
 app.hulu.com
 app.intercom.io
 app.intuit.launchdarkly.com
@@ -3210,7 +3207,6 @@ autoupdate.geo.opera.com
 autoweek.nl
 auva.at
 auxmoney.com
-av.ageverify.co
 av.me
 avaclinic.ru
 avafreehost.com
@@ -3304,7 +3300,6 @@ b-www.facebook.com
 b.bdstatic.com
 b.catgirlsare.sexy
 b.config.skype.com
-b.dlsite.net
 b.engadget.com
 b.hatena.ne.jp
 b.huffingtonpost.com.au
@@ -4122,7 +4117,6 @@ beacon-v2.helpscout.net
 beacon.errorception.com
 beacon.geo.netflix.com
 beacon.netflix.com
-beacon.schneidercorp.com
 beaconapi.helpscout.net
 beaconhealthsystem.org
 beacons.gcp.gvt2.com
@@ -4399,7 +4393,6 @@ bitbank.cc
 bitbucket-marketing-cdn.atlassian.com
 bitbucket.io
 bitbucket.org
-bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
 bitcheese.net
 bitcoin.com
@@ -4465,7 +4458,6 @@ blackcanyoncoffee.com
 blackhatworld.com
 blacklistednews.com
 blackriverhospital.com
-blankrefer.com
 blap.net
 blastingnews.com
 blau.de
@@ -4882,7 +4874,6 @@ broagersparekasse.dk
 brocktonhospital.com
 broerupsparekasse.dk
 broker-live.mozillamessaging.com
-broker.adobe.com
 brokers.tcsbank.ru
 brom.ro
 bromley.gov.uk
@@ -4958,7 +4949,6 @@ btc.com
 btc.top
 btcc.com
 btconnect.com
-btg.mtvnservices.com
 btgpactualdigital.com.br
 btguard.com
 btinternet.com
@@ -5101,7 +5091,6 @@ c.disquscdn.com.cdn.cloudflare.net
 c.evidon.com
 c.hqq.tv
 c.id.mi.com
-c.la1w1.salesforceliveagent.com
 c.live.com
 c.live.com.nsatc.net
 c.media-amazon.com
@@ -5117,7 +5106,6 @@ c.storage.googleapis.com
 c.t-online.de
 c.tadst.com
 c.trello.com
-c.woopic.com
 c.y.qq.com
 c.yes.youku.com
 c.youtube.com
@@ -5247,7 +5235,6 @@ campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
 campaign.line.me
-campaignmonitor.com
 campaigns.sonymobile.com
 campuscu.com
 canadahost.com
@@ -6302,12 +6289,9 @@ clb.olmabank.ru
 clbank.investcapitalbank.ru
 clc.stackoverflow.com
 clck.ru
-clck.yandex.by
 clck.yandex.com
 clck.yandex.com.tr
-clck.yandex.kz
 clck.yandex.ru
-clck.yandex.ua
 cleancss.com
 cleaner.daum.net
 clearbit.com
@@ -7106,7 +7090,6 @@ cre.gov.uk
 create.snapchat.com
 createjs.com
 createsend.com
-createsend1.com
 creative.adobe.com
 creative.ak.fbcdn.net
 creative.mylife.com
@@ -7283,7 +7266,6 @@ cuantomedas.com
 cubano.pw
 cubared.com
 cubbank.com
-cubegroup.go2cloud.org
 cubestat.com
 cuci.nl
 cudder.it
@@ -7632,7 +7614,6 @@ de.pool.ntp.org
 de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
-de8of677fyt0b.cloudfront.net
 dealersocket.com
 deals.breitbart.com
 deals.macupdate.com
@@ -7680,7 +7661,6 @@ delivery.acm.org
 delivery.rakuten.co.jp
 delivery.tacticalrepublic.com
 delivery.vidible.tv
-delivery04.dhe.ibm.com
 dell.com
 dellin.ru
 dellsbank.com
@@ -8155,7 +8135,6 @@ dot.gov
 dot.northeu.pi-dns.com
 dot.tk
 dot.westus.pi-dns.com
-dotcom-monitor.com
 dotcomsecrets.com
 doteasy.com
 dotellall.com
@@ -8519,10 +8498,8 @@ easylist.club
 easylist.to
 easypay.axisbank.co.in
 easypay.ua
-easyspace.com
 eatel.com
 eatel.net
-eatthis.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 eave.com
@@ -8793,7 +8770,6 @@ elmundo.es
 elo.com.br
 eloqua.com
 elpais.com
-elpais.es
 elpis.gr
 elsalvador.com
 elsb.com
@@ -8960,7 +8936,6 @@ epdg.epc.mnc720.mcc302.pub.3gppnetwork.org
 ephratahospital.org
 epicgames-download1.akamaized.net
 epicgames.com
-epidm.edgesuite.net
 epilepsihospitalet.dk
 episerver.net
 epix-ssl.xbox.com
@@ -10234,7 +10209,6 @@ franklinsavings.com
 franklinwi.gov
 fransabank.com
 fransabank.com.lb
-frantic.com
 fraud-net.com
 frauenliebe.info
 frbusiness.samsung.com
@@ -10272,7 +10246,6 @@ freeway-bitburg.de
 freewaywebhost.com
 freewebs.com
 freewebsitehosting.com
-freewha.com
 freewhost.com
 freggers.de
 freight.aliexpress.com
@@ -10888,7 +10861,6 @@ go.icq.com
 go.ign.com
 go.infoblox.com
 go.leanplum.com
-go.madmimi.com
 go.microsoft.com
 go.neverware.com
 go.nordlocker.net
@@ -11229,7 +11201,6 @@ gr-go.kelkoogroup.net
 gr.ign.com
 gr.me
 gr.ph
-gr8.com
 grab.com
 grabillbank.com
 grabtaxi.com
@@ -11974,7 +11945,6 @@ hrst.ph
 hrten.com
 hru.gov
 hs-scripts.com
-hs-sites.com
 hs.eloqua.com
 hsbc.ae
 hsbc.ca
@@ -12576,7 +12546,6 @@ icloud.cdn-apple.com
 icloud.com
 icloud.com.edgekey.net
 icon25-bank.com
-icontact.com
 iconz.co.nz
 icorner.ch
 icptrack.com
@@ -12894,7 +12863,6 @@ images.nvidia.com
 images.nvidiagrid.net
 images.opencollective.com
 images.parsely.com
-images.paypal.com
 images.performgroup.com
 images.pluto.tv
 images.poms.omroep.nl
@@ -13027,7 +12995,6 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgrock.net
-imgs.xinhuanet.com
 imgs.xkcd.com
 imgshare.info
 imgsmail.ru
@@ -13119,7 +13086,6 @@ industrialbank.ua
 indyarocks.com
 indymacbank.com
 indystar.com
-inedo.com
 inet108.com
 inetinteractive.com
 inetpayonline.com
@@ -13595,7 +13561,6 @@ jacksonvillesavings.com
 jadranska-banka.hr
 jaiku.com
 jak.se
-jalbum.net
 jaleco.com
 jalopnik.com
 jamaicahospital.org
@@ -14067,6 +14032,7 @@ kkh-rinteln.de
 kkh-stl.de
 kkh-torgau.de
 kkh-web.de
+kknews.cc
 klarmobil.de
 klarna.com
 klarna.se
@@ -14467,7 +14433,6 @@ l.qq.com
 l.yimg.com
 l9bjkkhaycw6f8f4.soundcloud.com
 la.wikipedia.com
-la1w1.salesforceliveagent.com
 lab.vcc-ie.huawei.com
 laban.vn
 labanquepostale.fr
@@ -14776,7 +14741,6 @@ lineit.line.me
 lingeriediva.com
 link.dailycaller.com
 link.digitaladvisor.dk
-link.email.dynect.net
 link.epicgames.com
 link.freshmail.mx
 link.medium.com
@@ -14814,7 +14778,6 @@ links.notifications.soundcloud.com
 links.strava.com
 linkshrink.net
 linksnappy.com
-linksredirect.com
 linksynergy.com
 linkto.com.br
 linktr.ee
@@ -15008,7 +14971,6 @@ loekkensparekasse.dk
 log-upload-os.mihoyo.com
 log.byteoversea.com
 log.entrance.sonymobile.com
-log.kieskeurig.nl
 log.mmstat.com
 log.quora.com
 log.ys7.com
@@ -15127,7 +15089,6 @@ lowellcoop.com
 lowes.com
 lowes.ugc.bazaarvoice.com
 loyalbank.com
-lp.babbel.com
 lp25.fr
 lppm.org.uk
 lps.innogames.com
@@ -15858,7 +15819,6 @@ mem.gfx.ms
 member.hide.me
 member.stumbleupon.com
 memberdirect.net
-members.cj.com
 members.medium.com
 members.tripod.com
 membersequity.com.au
@@ -16238,7 +16198,6 @@ mobi.aliexpress.com
 mobi.sndcdn.com
 mobi.soundcloud.com
 mobibank.upb.ru
-mobidia.com
 mobify.com
 mobikwik.com
 mobilcom-debitel.de
@@ -16919,7 +16878,6 @@ nctx.arcticapi.com
 ncu.ca
 ndba.com
 ndbbankonline.com
-ndirect.ppro.de
 ndmdhs.com
 ndrive.naver.com
 ndtv.com
@@ -17015,7 +16973,6 @@ networkedblogs.com
 networking.engadget.com
 networks.feedburner.com
 networksolutions.com
-netzathleten.de
 netzero.net
 neu1-urlp.secure.skypeassets.com
 neubethlehem.de
@@ -17516,7 +17473,6 @@ o.breitbart.com
 o.co.za
 o.dailycaller.com
 o.go2yd.com
-o.ss2.us
 o.webmd.com
 o.xbox.com
 o0bc.com
@@ -18569,7 +18525,6 @@ pdqlink.com
 pds13.cafe.daum.net
 pds37.cafe.daum.net
 pdst.fm
-pdt.tradedoubler.com
 pdvs.rts.band.naver.com
 peacearchhospital.com
 peacehealth.org
@@ -18917,7 +18872,6 @@ plus.com
 plus.google.com
 plus.l.google.com
 plus.net
-plus500.com
 plusgrade.com
 plusone.google.com
 plusonline.nl
@@ -18970,6 +18924,7 @@ pokerstars.com
 pokerstars.fr
 pokerstars.it
 pokerstars.net
+pokerstrategy.com
 polarnet.ru
 polgaribank.hu
 policy.naver.com
@@ -20453,7 +20408,6 @@ rpxnow.com
 rr.com
 rrsb.com
 rs-portal.capitalbank.ru
-rs.epoq.de
 rs.playstation.com
 rs.ru
 rs6.net
@@ -20951,7 +20905,6 @@ sc-cg.org
 sc-static.net
 sc.com
 sc.l.soundcloud.com
-sc.tradetracker.net
 sc02.alicdn.com
 sc115.com
 sca.samsung.com
@@ -21274,7 +21227,6 @@ securehomes.esat.kuleuven.be
 secureinternetbank.com
 secureir.ebaystatic.com
 secureitcup.kaspersky.com
-securejoinsite.com
 securel.longtailvideo.com
 securelist.com
 securemecca.com
@@ -21471,8 +21423,6 @@ sgdccdnems02.cdnsrv.jio.com
 sgdccdnems03.cdnsrv.jio.com
 sgdccdnems04.cdnsrv.jio.com
 sgeb.bg
-sgiz.mobi
-sgizmo.com
 sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
@@ -21897,7 +21847,6 @@ snap.net.nz
 snapchat-payments-gateway.snapchat.com
 snapchat.com
 snapdeal.com
-snapengage.com
 snapfish.co.uk
 snappublisher.snapchat.com
 snappytvpoc-vh.akamaihd.net
@@ -22974,8 +22923,6 @@ statistics.laerd.com
 stats.adobe.com
 stats.api.xiaomi.net
 stats.channel4.com
-stats.distributed.net
-stats.espncricinfo.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
@@ -23618,7 +23565,6 @@ tbconline.ge
 tbskip.taobao.com
 tc.tradetracker.com
 tc.tradetracker.net
-tc.tradetracker.nl
 tcb-bank.com.tw
 tcb.ru
 tcbbank.com.tw
@@ -23931,7 +23877,6 @@ ticketland.ru
 tickle.com
 tid.canon.com
 tidal.com
-tidd.ly
 tier1net.com
 tier2.ios.skypeassets.com
 tifafinance.co.id
@@ -24167,7 +24112,6 @@ trackersimulator.org
 tracking-protection.cdn.mozilla.net
 tracking.bol.com
 tracking.bp01.net
-tracking.deepsearch.adlucent.com
 tracking.epicgames.com
 tracking.feedpress.it
 tracking.groupon.com
@@ -24516,7 +24460,6 @@ uchicagokidshospital.org
 uchospitals.edu
 uci.com
 ucla.edu
-uclick.com
 ucnb.com
 ucobank.com
 ucpb.biz
@@ -26310,7 +26253,6 @@ whbmac.com
 whee.de
 wheelinghospital.com
 whirlpool.net.au
-whisk.com
 whisper.sh
 whistleblowers.gov
 whitehouse.gov
@@ -26767,7 +26709,6 @@ www5.2giga.link
 www6.2giga.link
 www6.9Anime.to
 www7.2giga.link
-www7.cbox.ws
 www8.9Anime.to
 wwwimages.adobe.com
 wwwimages2.adobe.com
@@ -27116,7 +27057,6 @@ zenginkyo.or.jp
 zenit.ru
 zenithbank.com
 zenstudios.com
-zeptolab.com
 zer0day.ch
 zerich.ru
 zero.facebook.com
