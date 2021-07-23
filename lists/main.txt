@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.23
-# Last modified: 23 Jul 2021 08:02:48 UTC
+# Last modified: 23 Jul 2021 16:02:54 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4118,7 +4118,6 @@ beacon.errorception.com
 beacon.geo.netflix.com
 beacon.netflix.com
 beaconapi.helpscout.net
-beaconhealthsystem.org
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -4673,7 +4672,6 @@ boddenkliniken.de
 bodenseebank.de
 bodinternet.com
 bodmillenium.com
-bodyforwife.com
 bodyinstitut.com
 boemre.gov
 bof.fi
@@ -5888,7 +5886,6 @@ centurybankfl.com
 centurylink.com
 cepteteb.com.tr
 ceredigion.gov.uk
-ceres.org.au
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
 certification.bithumb.com
@@ -15348,7 +15345,6 @@ marbletownanimalhospital.com
 marca.com
 marcard.de
 marcus.com
-mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marfeelcdn.com
@@ -16641,7 +16637,6 @@ mygayspace.com
 mygirlyspace.com
 mygw.alipay.com
 myhalyk.kz
-myhealth.net.au
 myhighlandvet.com
 myhome.naver.com
 myhomefed.com
@@ -19975,7 +19970,6 @@ rdz.me
 reach.com
 reacheyes.com
 reactos.org
-readberserk.com
 readcomiconline.to
 readee.rakuten.co.jp
 reader.browser.miui.com
@@ -23388,7 +23382,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-syndikat-asphaltfieber.de
 syndonline.in
 synergybank.com
 synology.com
@@ -23781,7 +23774,6 @@ thecooperativebank.com
 thecornerstonebank.com
 thecounter.com
 thecountybank.com
-thedad.com
 thedailybeast.com
 thedailymodel.com
 thedailysheeple.com
@@ -24229,7 +24221,6 @@ trk.pinterest.com
 trk.s.sephora.com
 trkr.ws
 trlibor.org
-troegs.com
 trojan-killer.net
 trophy01.np.community.playstation.net
 trouw.nl
@@ -25267,7 +25258,6 @@ vice-web-statics-cdn.vice.com
 vice.com
 vicsuper.com.au
 victoriasecret.com
-victoriousfestival.co.uk
 vid.pr0gramm.com
 vidaextra.com
 video-api.mco.arcpublishing.com
@@ -25999,7 +25989,6 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
-waveneyrivercentre.co.uk
 way2traffic.com
 wayerless.com
 wayforpay.com
