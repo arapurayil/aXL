@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Jul 2021 16:02:54 UTC
+# Last modified: 24 Jul 2021 00:11:48 UTC
 000webhostapp.com
 1coolbox.com
 1e100.net
@@ -789,7 +789,6 @@ bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
 bountysource.com
-bowenuniversity-edu.org
 bp01.net
 brakrock.be
 branch.io
@@ -1173,7 +1172,6 @@ curalate.com
 custom.plausible.io
 customer.io
 customerevents.netflix.com
-customeriomail.codecademy.com
 customtraffic.impactradius.com
 cutt.ly
 cutt.us
@@ -1630,6 +1628,7 @@ gate.hockeyapp.net
 gateway.reddit.com
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl
+gbhackers.com
 gc.zgo.at
 gcs.sc-cdn.net
 gdpr-tcfv2.sp-prod.net
@@ -2844,6 +2843,7 @@ pulsar.ebay.de
 pulsar.ebay.es
 pulsar.ebay.fr
 pulsar.ebay.it
+pumppazh.com
 purch.com
 push.api.bbci.co.uk
 push.notifica.re
@@ -3145,7 +3145,6 @@ shinobi.jp
 shop.spreadshirt.com
 shop.zalo.me
 shop.zaloapp.com
-shopify.com
 shopperapproved.com
 shopzilla.com
 shorte.st
@@ -3676,6 +3675,7 @@ waldenfarms.com
 wallet-api.urbanairship.com
 wallet.advcash.com
 wallpaper.pandora.xiaomi.com
+wallpapers.com
 wallstreetcn.com
 walmart.com.akadns.net
 watch-jav.com
