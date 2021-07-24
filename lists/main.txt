@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.24
-# Last modified: 24 Jul 2021 00:11:48 UTC
+# Last modified: 24 Jul 2021 08:02:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4753,7 +4753,6 @@ bournemouth.gov.uk
 boursorama.com
 bov.wallet.best
 bowc.com
-bowenuniversity-edu.org
 bowercdn.net
 bowmananimalhospital.com
 bowmillsbank.com
@@ -7288,7 +7287,6 @@ custom.plausible.io
 customer.io
 customer.lichousing.com
 customerevents.netflix.com
-customeriomail.codecademy.com
 customlinks.appsflyer.com
 customnet.co.uk
 customs.gov.my
@@ -10527,6 +10525,7 @@ gbank.rsk.kg
 gbba.net
 gbbk.com
 gbg.com.pl
+gbhackers.com
 gbm.ru
 gbp.ma
 gbtcalhoun.com
@@ -19387,6 +19386,7 @@ pulsar.ebay.de
 pulsar.ebay.es
 pulsar.ebay.fr
 pulsar.ebay.it
+pumppazh.com
 punishtube.com
 punjab.gov.in
 purch.com
@@ -25931,6 +25931,7 @@ wallhaven.cc
 wallisbank.com
 wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
+wallpapers.com
 wallstreetcn.com
 walmart.com
 walmart.com.akadns.net
