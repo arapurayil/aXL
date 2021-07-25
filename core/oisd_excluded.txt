@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Jul 2021 08:02:12 UTC
+# Last modified: 25 Jul 2021 16:02:27 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -2850,6 +2850,7 @@ store.qq.com
 storeedgefd.dsx.mp.microsoft.com
 stptrisakti.ac.id
 strangled.net
+stream-hk.viu.com
 streaming.adswizz.com
 streamlike.com
 streamplay.to
