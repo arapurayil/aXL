@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.25
-# Last modified: 25 Jul 2021 00:12:36 UTC
+# Last modified: 25 Jul 2021 08:02:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9061,7 +9061,6 @@ exchange.globitex.com
 exchange.kaspersky.com
 exchange4media.com
 exchangebk.com
-exe.io
 execute-api.us-east-1.amazonaws.com
 exetervethospital.com
 eximb.com
