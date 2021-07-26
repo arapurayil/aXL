@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.26
-# Last modified: 26 Jul 2021 08:02:59 UTC
+# Last modified: 26 Jul 2021 16:02:59 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7062,6 +7062,7 @@ crl.comodoca.com
 crl.microsoft.com
 crl.verisign.net
 crmla.org
+crobanet.croatiabanka.hr
 crocketthospital.com
 croesovethospital.co.uk
 cronbank.de
@@ -8281,6 +8282,7 @@ e.infogram.com
 e.kc-education.com
 e.linkedin.com
 e.mail.ru
+e.paba.hr
 e.reddit.com
 e.seb.lt
 e.thumbs.redditmedia.com
@@ -8381,8 +8383,10 @@ eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 eave.com
 eb.de
+eb.sbhr.hr
 eba.procreditbank.md
 ebah.com.br
+ebank.addiko.hr
 ebank.ansarbank.com
 ebank.com
 ebank.eximbank.ro
@@ -8402,6 +8406,7 @@ ebanking.ge
 ebanking.hnb.lk
 ebanking.ing.be
 ebanking.lu
+ebanking.slatinska-banka.hr
 ebanking.universalbank.com.ua
 ebanking2.danskebank.dk
 ebankinter.com
@@ -8609,6 +8614,7 @@ elegantthemes.com
 eleganz-klinik.de
 elektronika.ru
 element-girls.de
+elementa.otpbanka.hr
 elementgirls.de
 elephantjournal.com
 elespanol.com
@@ -8969,6 +8975,7 @@ europlan.ru
 eus1-urlp.secure.skypeassets.com
 ev-krankenhaus-gandersheim.de
 ev-krankenhaus.de
+evaba.com.hr
 evaggelismos-hosp.gr
 evang-krhs-holzminden.de
 evangelisches-krankenhaus-alsterdorf.de
@@ -10499,6 +10506,7 @@ geomed-klinik.de
 geomobileservices-pa.googleapis.com
 geomundos.com
 george.bcr.ro
+george.erstebank.hr
 georgetownsb.com
 georiot.com
 geoserver.org
@@ -12049,6 +12057,7 @@ ias.r10s.jp
 ias.rakuten.co.jp
 ib-sachsen-anhalt.de
 ib.ablv.com
+ib.agrambanka.hr
 ib.airbank.cz
 ib.apkbank.ru
 ib.aversbank.ru
@@ -12072,6 +12081,7 @@ ib.homecredit.ru
 ib.hulu.com
 ib.ideabank.by
 ib.intesasanpaolobank.ro
+ib.kaba.hr
 ib.kmbank.ru
 ib.mfk-bank.ru
 ib.mvkb.ru
@@ -12231,6 +12241,7 @@ ibank.rrbank.ru
 ibank.rtsbank.ru
 ibank.ru
 ibank.runabank.ru
+ibank.sabank.hr
 ibank.sbrf.com.ua
 ibank.selkombank.ru
 ibank.sistemabank.ru
@@ -12314,6 +12325,8 @@ iberiabank.com
 ibf-bih.com
 ibf.ie
 ibfed.org
+ibg.hpb.hr
+ibg.ikb.hr
 ibibo.com
 ibk.ofkbank.ru
 ibkuwt.com
@@ -12739,6 +12752,7 @@ imdb.com
 ime.api.xiaomi.com
 imeem.com
 imegastores.com
+imexnet.imexbanka.hr
 img-cdn.huami.com
 img-developer.samsung.com
 img-developer.samsung.com.edgekey.net
@@ -13858,6 +13872,7 @@ klclick.com
 klclick1.com
 kleinbrookanimalhospital.com
 kleinwachau.de
+klik.poba.hr
 klikbca.com
 klikhost.com
 klinik-am-rosental.de
@@ -13980,6 +13995,7 @@ komoona.com
 komputerswiat.pl
 konachan.com
 konachan.net
+konet.kovanica.hr
 kongregate.com
 konsoleh.your-server.de
 kontonummer.at
@@ -16693,6 +16709,7 @@ nesn.com
 nest.com
 net.au
 net.edgekey.net
+net.kentbank.hr
 net.ms
 net.pnb.com
 net2dish.com

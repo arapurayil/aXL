@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Jul 2021 08:02:59 UTC
+# Last modified: 26 Jul 2021 16:02:59 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -20,7 +20,6 @@
 4shared.com
 5z8.info
 7.ly
-7b935.v.fwmrm.net
 7zap.com
 24.hu
 51.com
@@ -65,7 +64,6 @@ a1.mzstatic.com
 a2.xinhuanet.com
 a2z.com
 a3.mediagra.com
-a248.e.akamai.net
 a771.dscq.akamai.net
 a1294.w20.akamai.net
 a1843.g.akamai.net
@@ -1037,7 +1035,6 @@ cxense.com.edgekey.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cy2.settings.data.microsoft.com.akadns.net
 d.agkn.com
-d.ghostery.com
 d.ifengimg.com
 d.la1-c2-iad.salesforceliveagent.com
 d.toutiao.com
@@ -1444,7 +1441,6 @@ geo.vortex.data.microsoft.com.akadns.net
 geo2.adobe.com
 geo3.ggpht.com
 geoip-db.com
-geoip.hmageo.com
 geolite.maxmind.com
 geoloc.arte.tv
 geolocation.daznservices.com
@@ -1808,7 +1804,6 @@ informz.net
 infos.anz.com
 infos.telstra.com.au
 ingame-news.ubi.com
-ingest.sentry.io
 inmoment.com
 inquisition.goguardian.com
 inscname.net
@@ -2042,7 +2037,6 @@ marfeel.com
 marfeelcache.com
 marinetraffic.com
 marinsm.com
-mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
 marketing.net.idealo-partner.com
@@ -2311,6 +2305,7 @@ online-metrix.net
 online.adservicemedia.dk
 openapi.samsung.com
 openmobile.qq.com
+openscad.info
 openvim.com
 opinionstage.com
 ops.bpost.be
@@ -2495,7 +2490,6 @@ pxf.io
 q.stripe.com
 q4mn.adj.st
 qksrv.net
-quainator.com
 qualtrics.com
 quantcast.mgr.consensu.org
 quantummetric.com
@@ -2772,7 +2766,6 @@ snat.goguardian.com
 sngpartners.in
 snssdk.com
 snu.lge.com
-socialize.eu1.gigya.com
 society6.com
 socket.streamable.com
 softonic.com
@@ -3209,7 +3202,6 @@ weighted.com.akadns.net
 wellsfargodealerservices.com
 westbyte.com
 westcoastuniversity-edu.com
-westeurope-1.in.applicationinsights.azure.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wgiftcard.com
