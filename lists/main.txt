@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.25
-# Last modified: 25 Jul 2021 16:02:27 UTC
+# Version: 2.07.26
+# Last modified: 26 Jul 2021 00:12:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -22807,6 +22807,7 @@ strangled.net
 strat.ru
 strato.de
 stratus.soundcloud.com
+stream-hk.viu.com
 stream.highwebmedia.com
 stream.twitch.tv
 streamer.tawenda-tech.org

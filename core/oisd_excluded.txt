@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Jul 2021 16:02:27 UTC
+# Last modified: 26 Jul 2021 00:12:11 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -1426,7 +1426,6 @@ gardenstatehelicopters.com
 gate.hockeyapp.net
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl
-gbhackers.com
 gc.zgo.at
 gcs.sc-cdn.net
 gdpr-tcfv2.sp-prod.net
@@ -1865,7 +1864,6 @@ iraiser.eu
 irchan.com
 iris.tv
 ironbeast.io
-is.gd
 is.snssdk.com
 isgprivacy.cbsi.com
 isnssdk.com.edgekey.net
@@ -2008,6 +2006,7 @@ lps.innogames.com
 lps.innogamescdn.com
 lptag.liveperson.net
 lvbet.pl
+m.apkpure.com
 m.baidu.com
 m.cnbeta.com
 m.exactag.com
@@ -2169,6 +2168,7 @@ multiscreensite.com
 mwx.ext.mobilityware.com
 mx.technolutions.net
 mx.yandex.ru
+mxmcdn.net
 mxpnl.com
 my.adocean.pl
 my.plexapp.com
@@ -2235,7 +2235,6 @@ nr-data.net
 nrdp.nccp.netflix.com
 ns1.ff.avast.com
 ns11.whois.co.kr
-nsimg.net
 nsm.dell.com
 nsstatic.com
 nsstatic.net
@@ -2251,6 +2250,7 @@ nuskin.com
 nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
+nyc3.digitaloceanspaces.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2266,6 +2266,7 @@ oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 ofb.uz
 offers-api.cliqz.com
+ogury.io
 oimagea1.ydstatic.com
 oimagea2.ydstatic.com
 oimagea3.ydstatic.com
@@ -2297,6 +2298,7 @@ om.cbsi.com
 om.forgeofempires.com
 om.symantec.com
 omaze.com
+omgpl.com
 oms.expedia.com
 omtrdc.net
 onecollector.cloudapp.aria.akadns.net
@@ -2432,7 +2434,6 @@ polldaddy.com
 polyfill.io
 pomf.cat
 poneytelecom.eu
-porn00.tv
 pornerbros.com
 portableroms.com
 portalroms.com
@@ -2508,6 +2509,7 @@ r.orange.fr
 r.search.yahoo.com
 r.sg.sec.miui.com
 r1.ykimg.com
+r42tag.com
 radeant.com
 rainmaker.production-public.tubi.io
 ramp.purch.com
@@ -2593,6 +2595,7 @@ s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
 s.gravatar.com
+s.id
 s.marketwatch.com
 s.media-imdb.com
 s.sa.aol.com
@@ -2817,7 +2820,6 @@ static.apester.com
 static.chartbeat.com
 static.cleverpush.com
 static.cloudflareinsights.com
-static.farakav.com
 static.fastpic.ru
 static.locallogic.co
 static.mediav.com
@@ -3140,6 +3142,7 @@ vi-serve.com
 via.placeholder.com
 viarnd.112.2o7.net
 vid.pr0gramm.com
+vidazoo.com
 video-fa.scdn.co
 video-stats.l.google.com
 videoplayerhub.com
