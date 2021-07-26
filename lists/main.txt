@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.26
-# Last modified: 26 Jul 2021 00:12:11 UTC
+# Last modified: 26 Jul 2021 08:02:59 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10384,7 +10384,6 @@ gbank.rsk.kg
 gbba.net
 gbbk.com
 gbg.com.pl
-gbhackers.com
 gbm.ru
 gbp.ma
 gbtcalhoun.com
@@ -16333,6 +16332,7 @@ mx.namecoin.info
 mx.technolutions.net
 mx.yandex.ru
 mx1.hitbtc.com
+mxmcdn.net
 mxpnl.com
 mxtoolbox.com
 my-beta.boldchat.com
@@ -17236,6 +17236,7 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
+nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
@@ -17395,6 +17396,7 @@ ofta.org.uk
 ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
+ogury.io
 oh-kliniken.de
 ohio.gov
 ohiocountyhospital.com
@@ -17487,6 +17489,7 @@ omb.gov
 ombs.co.za
 ombudsman.gov.tr
 omegafinancial.com
+omgpl.com
 omgubuntu.co.uk
 omn.sonypictures.com
 omni-grok.amazon.com
@@ -18722,7 +18725,6 @@ popularinc.com
 populy.com.br
 popuptest.com
 porn.com
-porn00.tv
 pornerbros.com
 pornhub.com
 pornmd.com
@@ -19290,6 +19292,7 @@ r2p.de
 r3---sn-4g5edn7s.googlevideo.com
 r3.bithumb.com
 r4.bithumb.com
+r42tag.com
 r5.bithumb.com
 ra.gtimg.com
 rabobank.co.nz
@@ -22530,7 +22533,6 @@ static.crunchyroll.com
 static.dingtalk.com
 static.djangoproject.com
 static.f2pool.com
-static.farakav.com
 static.fastpic.ru
 static.fontawesome.com
 static.fxhome.com
@@ -24928,6 +24930,7 @@ vicsuper.com.au
 victoriasecret.com
 vid.pr0gramm.com
 vidaextra.com
+vidazoo.com
 video-api.mco.arcpublishing.com
 video-api.wsj.com
 video-api.yql.yahoo.com
