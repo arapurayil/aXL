@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Jul 2021 08:02:02 UTC
+# Last modified: 27 Jul 2021 16:03:08 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -646,6 +646,7 @@ bc.marfeelcache.com
 bc.vc
 bc0a.com
 bce.baidu.com
+bdms.co.th
 bea4.v.fwmrm.net
 beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
@@ -1019,6 +1020,7 @@ ct.sendgrid.net
 ctest.cdn.nintendo.net
 cts.businesswire.com
 cuci.nl
+cudasvc.com
 cur.lv
 curalate.com
 custom.plausible.io
