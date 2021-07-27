@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.26
-# Last modified: 26 Jul 2021 16:02:59 UTC
+# Version: 2.07.27
+# Last modified: 27 Jul 2021 00:12:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -333,7 +333,6 @@
 777access.com
 79423.analytics.edgekey.net
 79423.analytics.edgesuite.net
-7b935.v.fwmrm.net
 7chan.org
 7eer.net
 7fth.cc
@@ -421,7 +420,6 @@ a1843.g.akamai.net
 a1856.da1.akamai.net
 a1above.net
 a2.xinhuanet.com
-a248.e.akamai.net
 a24m.a-bank.com.ua
 a2z.com
 a2zapk.com
@@ -7253,7 +7251,6 @@ d-h.st
 d.agkn.com
 d.dropbox.com
 d.g.mi.com
-d.ghostery.com
 d.huawei.com
 d.ifengimg.com
 d.la1-c2-iad.salesforceliveagent.com
@@ -10493,7 +10490,6 @@ geofilters-api.snapchat.com
 geofilters-community-api.snapchat.com
 geofilters.snapchat.com
 geoip-db.com
-geoip.hmageo.com
 geoip.nekudo.com
 geoip.newsdev.nytimes.com
 geoip.sonymobile.com
@@ -12980,7 +12976,6 @@ ingdirect.com.au
 ingdirect.es
 ingdirect.fr
 ingdirect.it
-ingest.sentry.io
 ingest.twitch.tv
 ingfn.com.ua
 inglife.co.kr
@@ -15201,7 +15196,6 @@ marinetraffic.com
 marinsm.com
 maritimebank.com
 maritimesavings.com
-mark.isbank.com.tr
 markaz.com
 market-api.staging.viber.com
 market.admin.staging.viber.com
@@ -17760,6 +17754,7 @@ openmmx.de
 openmobile.qq.com
 openpeeps.com
 openphish.com
+openscad.info
 opensource.org
 opensource.samsung.com
 openspeedtest.com
@@ -19252,7 +19247,6 @@ qsc.de
 qsrm.qualcomm.com
 qt.gtimg.cn
 quabbinanimalhospital.com
-quainator.com
 quaintoak.com
 qualcomm.com
 qualtrics.com
@@ -25879,7 +25873,6 @@ westernunion.de
 westernunion.ru
 westernuniongold.com
 westerwaldbank.de
-westeurope-1.in.applicationinsights.azure.com
 westfloridahospital.com
 westhillsanimalhospital.com
 westklinik-dahlem.de
