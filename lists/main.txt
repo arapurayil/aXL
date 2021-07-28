@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.28
-# Last modified: 28 Jul 2021 00:12:39 UTC
+# Last modified: 28 Jul 2021 08:02:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -21591,6 +21591,7 @@ snickers.com
 snippets.cdn.mozilla.net
 snipurl.com
 snmmd.nl
+snrcdn.net
 sns.bgr.jp
 sns.fc2.com
 sns.land.to
