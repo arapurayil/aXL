@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.27
-# Last modified: 27 Jul 2021 16:03:08 UTC
+# Version: 2.07.28
+# Last modified: 28 Jul 2021 00:12:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4048,6 +4048,7 @@ bde.es
 bdg.ch
 bdimg.com
 bdl.gov.lb
+bdms.co.th
 bdo.com.ph
 bdvenlinea.banvenez.com
 bdydns.com
@@ -7167,6 +7168,7 @@ cubared.com
 cubbank.com
 cubestat.com
 cuci.nl
+cudasvc.com
 cudder.it
 cuidadodesalud.gov
 culturarecreacionydeporte.gov.co
