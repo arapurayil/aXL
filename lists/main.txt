@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.29
-# Last modified: 29 Jul 2021 00:12:25 UTC
+# Last modified: 29 Jul 2021 08:02:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1185,6 +1185,7 @@ ahd.ruten.com.tw
 ahepahosp.gr
 ahhospital.com
 ahiba.hn
+ahinsashoes.cz
 ahli.com
 ahoo.it
 ahwatukeecommonsveterinaryhospital.vetsuite.com
@@ -1274,6 +1275,7 @@ akh-wien.ac.at
 akhwien.at
 akibabank.com
 akmba.org
+akpbvba.be
 akreg.com
 aktia.com
 aktia.fi
@@ -2064,7 +2066,6 @@ amigotalk.de
 amil.com.br
 amistad.com
 aml-gateway.cloud.vimeo.com
-amlg.io
 ammerland-klinik.de
 ammyy.com
 amna.gr
@@ -4199,6 +4200,7 @@ bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
+bfp.capitalone.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -4693,6 +4695,7 @@ bournemouth.gov.uk
 boursorama.com
 bov.wallet.best
 bowc.com
+bowenuniversity-edu.org
 bowercdn.net
 bowmananimalhospital.com
 bowmillsbank.com
@@ -8998,6 +9001,7 @@ eventgateway.soundcloud.com
 eventgateway.x.sndcdn.com
 eventlogger.soundcloud.com
 events.apester.com
+events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -9255,6 +9259,7 @@ fastly-chat.ign.com
 fastly.com
 fastly.net
 fastpic.ru
+fastwebnet.it
 fatal.ru
 fatcow.com
 fatprincess.playstation.com
@@ -10492,6 +10497,7 @@ geofilters-api.snapchat.com
 geofilters-community-api.snapchat.com
 geofilters.snapchat.com
 geoip-db.com
+geoip.hmageo.com
 geoip.nekudo.com
 geoip.newsdev.nytimes.com
 geoip.sonymobile.com
@@ -12387,6 +12393,7 @@ iclients.baltinvest.ru
 icloud-content.com
 icloud.cdn-apple.com
 icloud.com
+icloud.com.cn
 icloud.com.edgekey.net
 icon25-bank.com
 iconz.co.nz
@@ -12573,7 +12580,6 @@ ifmo.ru
 ifobs.bankcenter.com.ua
 ifobs.dvbank.ua
 ifobs.kredobank.com.ua
-iframe.ly
 ifrype.com
 ifsaonline.org
 ifsb.com
@@ -13242,6 +13248,7 @@ iqtest.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
+iradio.ie
 iraiser.eu
 irbbank.ch
 irc-galleria.net
@@ -14250,6 +14257,7 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
+l.ead.me
 l.facebook.com
 l.google.com
 l.googleusercontent.com
@@ -14979,6 +14987,7 @@ m.pr0gramm.com
 m.techrepublic.com
 m1.chia-anime.tv
 m1.daumcdn.net
+m1.fwmrm.net
 m1.nsimg.net
 m1p.fr
 m2-a.sndcdn.com
@@ -15966,6 +15975,7 @@ mls.com
 mlsend.com
 mm.ph
 mma.daum.net
+mmarau.ac.ke
 mmb.daum.net
 mmbank.com
 mmbank.ru
@@ -17106,6 +17116,7 @@ npo.nl
 npoplayer.omroep.nl
 npostart.nl
 npozapp.nl
+nppa.com.au
 npr-news.streaming.adswizz.com
 npr.org
 nps.gov
@@ -17508,9 +17519,11 @@ omn.sonypictures.com
 omni-grok.amazon.com
 omnihost.pl
 omnirom.org
+omniture-ssl.walmart.com
 oms.expedia.com
 oms.symantec.com
 omtrdc.net
+on.msnbc.com
 on.playstation.com
 on.recode.net
 on.soundcloud.com
@@ -17863,6 +17876,7 @@ oscp.apple.com
 osgv.de
 osha.gov
 oshrc.gov
+osimg.nbcuni.com
 osint.bambenekconsulting.com
 oskolbank.ru
 osnews.com
@@ -18241,6 +18255,7 @@ paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
 paypal-nakit.com
+paypal-opladen.be
 paypal-topup.ee
 paypal.boomkat.com
 paypal.ca
@@ -18519,6 +18534,7 @@ piscataquaanimalhospital.com
 pitchfork.com
 pittsburgh.cbslocal.com
 pittsfieldco-op.com
+piu.ac.ke
 pius-hospital.de
 piwik.org
 pix11.com
@@ -20701,6 +20717,7 @@ schulthess-klinik.ch
 schwab.com
 schwaebisch-hall.de
 schwaebische-bank.de
+sci.intuit.ca
 sci.intuit.com
 scib.co.th
 scibank.com
@@ -21329,6 +21346,7 @@ simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
+simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -21523,6 +21541,12 @@ smclinic.ru
 smedia.webcollage.net
 smeet.com
 smetrics.aem.playstation.com
+smetrics.costco.com
+smetrics.dhl.de
+smetrics.discover.com
+smetrics.frontier.com
+smetrics.latitudefinancial.com
+smetrics.santander.co.uk
 smetrics.us.playstation.com
 smfg.co.jp
 smh-online.de
@@ -21765,6 +21789,7 @@ spadaka-reken.de
 spade.twitch.tv
 spaengler.co.at
 spanish.engadget.com
+spankbang.com
 spapps.co
 spapps.spotify.edgekey.net
 spar.is
@@ -22223,6 +22248,7 @@ spkschwerin.de
 spkson.de
 spktw.de
 spl.hit.gemius.pl
+split.to
 splitskabanka.hr
 spm.is
 spn.sr
@@ -22324,6 +22350,8 @@ ssl.gstatic.com
 ssl.hwcdn.net
 ssl.marfeelcdn.com
 ssl.msdk.qq.com
+ssl.o.auspost.com.au
+ssl.o.webmd.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
@@ -22821,6 +22849,7 @@ str.hit.gemius.pl
 straitstimes.com
 strangled.net
 strat.ru
+strategypage.com
 strato.de
 stratus.soundcloud.com
 stream-hk.viu.com
@@ -23030,6 +23059,7 @@ svenskkassaservice.se
 svgsbank.com
 svmh.com
 svonm.com
+sw88.go.com
 swa.bol.com
 swagbucks.com
 swansea.gov.uk
@@ -23413,6 +23443,7 @@ texasbankers.com
 texaschildrenshospital.org
 texasfirstbanks.com
 texasflba.com
+texashomebase.com
 texaslandbank.com
 texasmba.org
 texasstatebank.com
@@ -23732,6 +23763,7 @@ torrentfreak.com
 torrentgalaxy.to
 torrentz.eu
 total-sexy.de
+total.direct-energie.com
 totalbanken.dk
 totalh.com
 totta.pt
@@ -23787,6 +23819,7 @@ track.ucas.com
 track.upaknee.com
 track.webgains.com
 trackcmp.net
+tracker.btzoo.eu
 tracker.debian.org
 tracker.dominos.com
 tracker.ktxp.com
@@ -23867,6 +23900,7 @@ treexml.baofeng.net
 treezip.baofeng.net
 treg.hearstnp.com
 trello.com
+trelock.com
 tremor.com
 trezor.io
 trial-sport.ru
@@ -24347,7 +24381,6 @@ uolhost.com.br
 uolk.uol.com.br
 uongjowo.gravatar.com
 up.blog.naver.com
-up.cm.ksmobile.com
 up.wps.kingsoft.com
 upay.megafon.ru
 upb.com.ua
@@ -24609,7 +24642,6 @@ uwbankindia.com
 uwchildrenshospital.org
 uwhospital.org
 uwzorgonline.nl
-uzone.id
 uzreklam.com
 v-vb.de
 v.daum.net
@@ -26026,6 +26058,7 @@ windowscentral.com
 windowsphone-preview.rtm.vint.xbox.com
 windowsphone.com
 windowsphone.xbox.com
+windowssearch.com
 windowsupdate.com
 windowsupdate.nsatc.net
 windowupdate.org
