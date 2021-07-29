@@ -2,8 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Jul 2021 08:02:05 UTC
-0rz.tw
+# Last modified: 29 Jul 2021 16:03:09 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -395,7 +394,6 @@ afrobarometer.org
 agkn.com
 agoda.com.edgekey.net
 ahd.ruten.com.tw
-ahinsashoes.cz
 ai.yimg.jp
 aii.sh
 aimatch.com
@@ -404,7 +402,6 @@ aircre.com
 ak.sail-horizon.com
 akam.net
 akamaized.net
-akpbvba.be
 akvideo.stream
 al.dmm.co.jp
 alb.reddit.com
@@ -701,9 +698,7 @@ bongacams.com
 bootstrapcdn.com
 borneobulletin.com.bn
 bountysource.com
-bowenuniversity-edu.org
 bp01.net
-br4.in
 brakrock.be
 branch.io
 branding.api.us.apiconnect.ibmcloud.com
@@ -721,7 +716,6 @@ bsv.atm.youku.com
 btguard.com
 bttn.io
 budurl.com
-buff.ly
 buffer-media-uploads.s3.amazonaws.com
 bufferapp.com
 bugly.qq.com
@@ -892,7 +886,6 @@ click.engage.xbox.com
 click.linksynergy.com
 click.mlsend.com
 click.redditmail.com
-click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
 clickbank.com
@@ -995,7 +988,6 @@ coolrom.com
 core.cloud.unity3d.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
-cort.as
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
@@ -1136,7 +1128,6 @@ districtm.ca
 djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.packetstormsecurity.net
-dl.twitchdl.com
 dldir2.qq.com
 dlied6.qq.com
 dlink.com.br
@@ -1320,7 +1311,6 @@ fast.appcues.com
 fast.wistia.net
 fastly.com
 fastwebnet.it
-faygoluvers.net
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
 fc.vodafone.de
@@ -1614,7 +1604,6 @@ hs.eloqua.com
 hsbc.com.hk
 hsforms.com
 hsforms.net
-ht.ly
 ht.youporn.com
 http-test1.luminatinet.com
 huangye.miui.com
@@ -1652,7 +1641,6 @@ ias.rakuten.co.jp
 ib.snssdk.com
 ib.snssdk.com.edgekey.net
 ichnaea.netflix.com
-icloud.com.cn
 id.google.ad
 id.google.al
 id.google.at
@@ -1870,7 +1858,6 @@ ipqualityscore.com
 ipstack.com
 ipv4.tracker.harry.lu
 iqtest.com
-iradio.ie
 iraiser.eu
 irchan.com
 iris.tv
@@ -1888,8 +1875,6 @@ izatcloud.net
 izeselet.hu
 izooto.com
 j.gs
-j.mp
-jabu.edu.ng
 jackjones.com
 jaleco.com
 janrain.com
@@ -1961,7 +1946,6 @@ kredytbank.com.ua
 krxd.net
 l.betrad.com
 l.doubleclick.net
-l.ead.me
 l.qq.com
 laban.vn
 labs-mqtt.xda-developers.com
@@ -1985,7 +1969,6 @@ licensebuttons.net
 licensing.blinkreceipt.com
 licensingphone.mp.microsoft.com
 lifewire.com
-lihi.cc
 limetorrents.cc
 limneos.net
 lindy.co.id
@@ -2007,9 +1990,9 @@ log-upload-os.mihoyo.com
 log.byteoversea.com
 log.mmstat.com
 log.quora.com
+log.tiktokv.com
 log.ys7.com
 loggly.com
-login.servizioelettriconazionale.it
 loginfra.com
 logrocket.com
 logs-01.loggly.com
@@ -2027,7 +2010,6 @@ m.baidu.com
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
-m.me
 m.pr0gramm.com
 m.stripe.com
 m.stripe.network
@@ -2044,7 +2026,6 @@ madshi.net
 magicplayer-api.torrentstream.org
 magicplayer-s.torrentstream.org
 magiskmanager.com
-mail01.tinyletterapp.com
 mailerlite.com
 mailfoogae.appspot.com
 mairdumont.com
@@ -2132,7 +2113,6 @@ mixi.media
 mixnews.lv
 mkt51.net
 mlsend.com
-mmarau.ac.ke
 mmstat.com
 mmtro.com
 mobile-dgig-prod.cmtelematics.com
@@ -2153,6 +2133,7 @@ mobilesdk-us.kampyle.com
 mobilityware.com
 moengage.com
 mojpieknyogrod.pl
+mon-va.tiktokv.com
 mon.isnssdk.com
 moneroocean.stream
 moneyplatform.biz
@@ -2208,7 +2189,6 @@ naifei.shop
 nanigans.com
 nanovisor.io
 narwhal.mobidia.com
-natcom.co.nz
 naytev.com
 ndmdhs.com
 neemu.com
@@ -2249,7 +2229,6 @@ nova.collect.igodigital.com
 now.eloqua.com
 nozonenet.com
 npdl.cdn.nintendowifi.net
-nppa.com.au
 npttech.com
 nq.st
 nr-data.net
@@ -2391,7 +2370,6 @@ paste.ee
 patatap.com
 payeer.com
 paypal-customerfeedback.com
-paypal-opladen.be
 pbsiddhartha.ac.in
 pcrisk.com
 pdc.micloud.xiaomi.net
@@ -2424,7 +2402,6 @@ pinnacle.com
 pinnaclesports.com
 pioneer-audiovisual.eu
 pipe.aria.microsoft.com
-piu.ac.ke
 piwik.org
 pixel.everesttech.net
 pixelzirkus.gameforge.com
@@ -2769,7 +2746,6 @@ sift.com
 siftscience.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 simba.taobao.com
-simp.ly
 simply.com
 simplyhired.com
 sinajs.cn
@@ -2826,7 +2802,6 @@ spclient.wg.spotify.com
 speeddials.opera.com
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
-split.to
 spoj.com
 spot.im
 springmetrics.com
@@ -2892,7 +2867,6 @@ store.qq.com
 storeedgefd.dsx.mp.microsoft.com
 stptrisakti.ac.id
 strangled.net
-strategypage.com
 stream-hk.viu.com
 streaming.adswizz.com
 streamlike.com
@@ -2918,7 +2892,6 @@ szentkoronaradio.com
 szlong.weixin.qq.com
 t.adcell.com
 t.co
-t.dripemail2.com
 t.eloqua.com
 t.en25.com
 t.indeed.com
@@ -2973,7 +2946,6 @@ telemetry.microsoft.com
 tencent.com
 test-iq.org
 test.quantcast.mgr.consensu.org
-texashomebase.com
 thaiticketmajor.com
 theafterparty.tv
 theannoyingsite.com
@@ -3011,11 +2983,9 @@ top1.ro
 torimochi.line-apps.com
 torproject.org
 torrentz.eu
-total.direct-energie.com
 touclick.com
 townnews.com
 tp-emea.exactag.com
-tr.im
 tr.info.mango-mobilites.fr
 tracemyip.org
 track.adform.net
@@ -3058,7 +3028,6 @@ trafic.ro
 traq.li
 travelzoo.com
 treg.hearstnp.com
-trelock.com
 trial.api.huangye.miui.com
 trialpay.com
 trib.al
@@ -3277,7 +3246,6 @@ wildtangent.com
 win8.ipv6.microsoft.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
-windowssearch.com
 wl.jd.com
 wmflabs.org
 wmsu.edu.ph
@@ -3321,7 +3289,6 @@ xtra1.gpsonextra.net
 xtra2.gpsonextra.net
 xtra3.gpsonextra.net
 xtra4.gpsonextra.net
-xurl.es
 xzone.cz
 yabs.yandex.ru
 yahoodns.net

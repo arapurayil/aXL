@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.07.29
-# Last modified: 29 Jul 2021 08:02:05 UTC
+# Last modified: 29 Jul 2021 16:03:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3578,7 +3578,6 @@ bankenbasel.ch
 bankenverband.de
 bankenverband.li
 bankenvereinigung-nrw.de
-banker.ua
 bankers.asn.au
 bankersalmanac.com
 bankersbankusa.com
@@ -7079,6 +7078,9 @@ crowriverbank.com
 crsaluzzo.it
 crt.sectigo.com
 crunchbase.com
+crunchyroll.adnetasia.com
+crunchyroll.adtrackers.net
+crunchyroll.bannertrack.net
 crunchyroll.com
 crushspot.com
 crutchfield.com
@@ -7139,6 +7141,7 @@ css.hepsiburada.net
 css.redblue.de
 csscdn.redblue.de
 cssdeck.com
+cst.cstwpush.com
 cstrust.com
 ct-m-fbx.fbsbx.com
 ct.impactradius.com
@@ -21081,6 +21084,7 @@ serdza.de
 serfin.com.mx
 serial.alcohol-soft.com
 serials.ws
+serve.adtrackers.net
 servebbs.net
 servebeer.com
 servedby.flashtalking.com
@@ -26568,6 +26572,7 @@ yabs.yandex.ru
 yadi.sk
 yagoa.fr
 yagoa.me
+yahoo.adnetasia.com
 yahoo.co.jp
 yahoo.com
 yahooapis.com
