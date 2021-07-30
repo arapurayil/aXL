@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.07.29
-# Last modified: 29 Jul 2021 16:03:10 UTC
+# Version: 2.07.30
+# Last modified: 30 Jul 2021 00:12:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1185,7 +1185,6 @@ ahd.ruten.com.tw
 ahepahosp.gr
 ahhospital.com
 ahiba.hn
-ahinsashoes.cz
 ahli.com
 ahoo.it
 ahwatukeecommonsveterinaryhospital.vetsuite.com
@@ -1275,7 +1274,6 @@ akh-wien.ac.at
 akhwien.at
 akibabank.com
 akmba.org
-akpbvba.be
 akreg.com
 aktia.com
 aktia.fi
@@ -4694,7 +4692,6 @@ bournemouth.gov.uk
 boursorama.com
 bov.wallet.best
 bowc.com
-bowenuniversity-edu.org
 bowercdn.net
 bowmananimalhospital.com
 bowmillsbank.com
@@ -12396,7 +12393,6 @@ iclients.baltinvest.ru
 icloud-content.com
 icloud.cdn-apple.com
 icloud.com
-icloud.com.cn
 icloud.com.edgekey.net
 icon25-bank.com
 iconz.co.nz
@@ -13251,7 +13247,6 @@ iqtest.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
-iradio.ie
 iraiser.eu
 irbbank.ch
 irc-galleria.net
@@ -14260,7 +14255,6 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
-l.ead.me
 l.facebook.com
 l.google.com
 l.googleusercontent.com
@@ -14802,6 +14796,7 @@ log.byteoversea.com
 log.entrance.sonymobile.com
 log.mmstat.com
 log.quora.com
+log.tiktokv.com
 log.ys7.com
 log.zoom.us
 logansportsavings.com
@@ -15978,7 +15973,6 @@ mls.com
 mlsend.com
 mm.ph
 mma.daum.net
-mmarau.ac.ke
 mmb.daum.net
 mmbank.com
 mmbank.ru
@@ -16097,6 +16091,7 @@ molechecks.com.au
 molisa.gov.vn
 moments-photos.gotinder.com
 momslikeme.com
+mon-va.tiktokv.com
 mon.isnssdk.com
 mona.com.mx
 monaco-privatebanking.com
@@ -17119,7 +17114,6 @@ npo.nl
 npoplayer.omroep.nl
 npostart.nl
 npozapp.nl
-nppa.com.au
 npr-news.streaming.adswizz.com
 npr.org
 nps.gov
@@ -18258,7 +18252,6 @@ paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
 paypal-nakit.com
-paypal-opladen.be
 paypal-topup.ee
 paypal.boomkat.com
 paypal.ca
@@ -18537,7 +18530,6 @@ piscataquaanimalhospital.com
 pitchfork.com
 pittsburgh.cbslocal.com
 pittsfieldco-op.com
-piu.ac.ke
 pius-hospital.de
 piwik.org
 pix11.com
@@ -21350,7 +21342,6 @@ simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
-simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -22252,7 +22243,6 @@ spkschwerin.de
 spkson.de
 spktw.de
 spl.hit.gemius.pl
-split.to
 splitskabanka.hr
 spm.is
 spn.sr
@@ -22853,7 +22843,6 @@ str.hit.gemius.pl
 straitstimes.com
 strangled.net
 strat.ru
-strategypage.com
 strato.de
 stratus.soundcloud.com
 stream-hk.viu.com
@@ -23447,7 +23436,6 @@ texasbankers.com
 texaschildrenshospital.org
 texasfirstbanks.com
 texasflba.com
-texashomebase.com
 texaslandbank.com
 texasmba.org
 texasstatebank.com
@@ -23767,7 +23755,6 @@ torrentfreak.com
 torrentgalaxy.to
 torrentz.eu
 total-sexy.de
-total.direct-energie.com
 totalbanken.dk
 totalh.com
 totta.pt
@@ -23904,7 +23891,6 @@ treexml.baofeng.net
 treezip.baofeng.net
 treg.hearstnp.com
 trello.com
-trelock.com
 tremor.com
 trezor.io
 trial-sport.ru
@@ -26062,7 +26048,6 @@ windowscentral.com
 windowsphone-preview.rtm.vint.xbox.com
 windowsphone.com
 windowsphone.xbox.com
-windowssearch.com
 windowsupdate.com
 windowsupdate.nsatc.net
 windowupdate.org
