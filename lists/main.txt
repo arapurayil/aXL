@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.01
-# Last modified: 01 Aug 2021 00:14:28 UTC
+# Last modified: 01 Aug 2021 08:02:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2094,7 +2094,6 @@ amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -10400,7 +10399,6 @@ gbank.rsk.kg
 gbba.net
 gbbk.com
 gbg.com.pl
-gbhackers.com
 gbm.ru
 gbp.ma
 gbtcalhoun.com
@@ -14845,7 +14843,6 @@ login.sparebank1.no
 login.techcrunch.com
 login.tmall.com
 login.vk.com
-login.vodafonemail.de
 login.vuukle.com
 login.web.wechat.com
 login.web2.wechat.com
@@ -17265,7 +17262,6 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
-nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
@@ -18260,6 +18256,7 @@ paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
 paypal-nakit.com
+paypal-opladen.be
 paypal-topup.ee
 paypal.boomkat.com
 paypal.ca
@@ -19980,7 +19977,6 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
-reurl.cc
 reuters.com
 revdl.com
 revenue.ie
@@ -21185,7 +21181,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21354,7 +21349,6 @@ simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
-simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -23038,6 +23032,7 @@ surl.me
 surpasshosting.com
 survey-blog.line.me
 survey-ng.indevice.sonymobile.com
+survey.alchemer.com
 survey.foreseeresults.com
 survey.forseeresults.com
 survey.medallia.com
@@ -23901,12 +23896,12 @@ trbsinc.com
 trck.me
 treas.gov
 treasurydirect.gov
+treehousei.com
 treexml.baofeng.net
 treezip.baofeng.net
 treg.hearstnp.com
 trello.com
 tremor.com
-trendmicro.com
 trezor.io
 trial-sport.ru
 trial.alcohol-soft.com
@@ -24868,6 +24863,7 @@ vbrbinvorpommern.de
 vbrn.de
 vbrr.ru
 vbsdn.de
+vbsedit.com
 vbsolling.de
 vbspn.de
 vbsprockhoevel.de
@@ -25214,7 +25210,6 @@ vod-storyboards.twitch.tv
 vod.pl
 vod.tvp.pl
 vodafone.co.nz
-vodafone.de
 vodafone.es
 vodafoneindia.tt.omtrdc.net
 voddownload.ndtv.com.edgekey.net
