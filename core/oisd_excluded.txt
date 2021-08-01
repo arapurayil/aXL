@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 31 Jul 2021 16:02:22 UTC
+# Last modified: 01 Aug 2021 00:14:28 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -428,7 +428,6 @@ ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
-ams3.digitaloceanspaces.com
 amway.com
 amznadsi.hs.llnwd.net
 an.yandex.ru
@@ -991,7 +990,6 @@ cookielaw.org
 cookies.nos.nl
 coolrom.com
 core.cloud.unity3d.com
-coronavirus.app
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 countess.twitch.tv
@@ -1279,6 +1277,7 @@ events.launchdarkly.com
 events.mapbox.com
 events.split.io
 everesttech.net
+evernote.com
 evidon.com
 evidon.com.edgekey.net
 eviltracker.net
@@ -1384,6 +1383,7 @@ fonts.net
 ford.to
 forms.aweber.com
 forms.convertkit.com
+forms.gle
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -1432,7 +1432,6 @@ gardenstatehelicopters.com
 gate.hockeyapp.net
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl
-gbhackers.com
 gc.zgo.at
 gcs.sc-cdn.net
 gdpr-tcfv2.sp-prod.net
@@ -2002,7 +2001,6 @@ log.tiktokv.com
 log.ys7.com
 loggly.com
 login.microsoftonline.us
-login.vodafonemail.de
 loginfra.com
 logrocket.com
 logs-01.loggly.com
@@ -2260,7 +2258,6 @@ nuskin.com
 nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
-nyc3.digitaloceanspaces.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2380,6 +2377,7 @@ paste.ee
 patatap.com
 payeer.com
 paypal-customerfeedback.com
+paypal-opladen.be
 pbsiddhartha.ac.in
 pcrisk.com
 pdc.micloud.xiaomi.net
@@ -2577,7 +2575,6 @@ response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
 restapi.amap.com
-reurl.cc
 revistaeventos.com.br
 revistasobrerodas.com.br
 rezync.com
@@ -2612,6 +2609,7 @@ s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
 s.gravatar.com
+s.id
 s.marketwatch.com
 s.media-imdb.com
 s.sa.aol.com
@@ -2733,7 +2731,6 @@ sf6-ttcdn-tos.pstatp.com
 sfdict.com
 sfo3.digitaloceanspaces.com
 sfsapi.micloud.xiaomi.net
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -2758,7 +2755,6 @@ sift.com
 siftscience.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 simba.taobao.com
-simp.ly
 simply.com
 simplyhired.com
 sinajs.cn
@@ -2887,6 +2883,7 @@ streamplay.to
 stroeerdigitalgroup.de
 stun.l.google.com
 supercell.net
+survey.alchemer.com
 surveyrouter.com
 surveys.insightexpressai.com
 svonm.com
@@ -3040,8 +3037,8 @@ trafficrouter.io
 trafic.ro
 traq.li
 travelzoo.com
+treehousei.com
 treg.hearstnp.com
-trendmicro.com
 trial.api.huangye.miui.com
 trialpay.com
 trib.al
@@ -3112,6 +3109,7 @@ uptracker.ru
 upu.samsungelectronics.com
 urbanairship.com
 url8807.global.passport.xiaomi.com
+urlz.fr
 us-1.gladly.com
 us-east-1.elb.amazonaws.com
 us-v10.events.data.microsoft.com
@@ -3152,6 +3150,7 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 va.tawk.to
 variations.brave.com
+vbsedit.com
 vcdn.biz
 vcrypt.net
 vcs.vdspf.com
@@ -3194,7 +3193,6 @@ vizury.com
 vk.cc
 vms.bluebillywig.com
 vms.boldchat.com
-vodafone.de
 vofcw7x.x.incapdns.net
 voodoo.com
 vortex-win.data.microsoft.com
