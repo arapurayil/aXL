@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Aug 2021 16:02:55 UTC
+# Last modified: 02 Aug 2021 00:13:23 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -1838,7 +1838,6 @@ interia.hit.gemius.pl
 internal-api.snapkit.com
 internal.unity3d.com
 internet.apps.samsung.com
-inven.co.kr
 investingapp.net
 investingchannel.com
 invoca.net
@@ -2402,6 +2401,7 @@ piacesprofit.hu
 pianomedia.eu
 pico.tools
 pigu.lt
+ping-admin.ru
 ping.cloud.tencent.com
 ping.taplytics.com
 ping.ui.com
@@ -2425,7 +2425,6 @@ platform.tumblr.com
 platform.twitter.com
 plausible.eurostocks.nl
 plausible.io
-play.afreecatv.com
 player.dacast.com
 player.glomex.com
 player.h-cdn.com
