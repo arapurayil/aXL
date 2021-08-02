@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.02
-# Last modified: 02 Aug 2021 00:13:23 UTC
+# Last modified: 02 Aug 2021 08:02:41 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6909,6 +6909,7 @@ costco.com
 costream.twitch.tv
 cosu.sonymobile.com
 cotabank.com.tw
+cotc.net
 cottagehospital.com
 couic.fr
 counter-strike.net
@@ -13142,7 +13143,6 @@ intrustbank.com
 intuit.com
 inu.me
 invasivespeciesinfo.gov
-inven.co.kr
 inventory.dealersocket.com
 inverlat.com.mx
 invest.ameritrade.com
@@ -18496,6 +18496,7 @@ pinecitybank.com
 pineislandbank.com
 pineriverstatebank.com
 pinevillepethospitalonline.com
+ping-admin.ru
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.pdst.fm
@@ -18601,7 +18602,6 @@ platzi.com
 plausible.eurostocks.nl
 plausible.io
 play-asia.com
-play.afreecatv.com
 play.app.goo.gl
 play.chia-anime.tv
 play.flowplayer.com
@@ -26300,6 +26300,7 @@ www.apple.com
 www.appleiphonecell.com
 www.ask.com
 www.baidu.com
+www.be
 www.beenverified.com
 www.bestfwdservice.com
 www.bet365.com
@@ -26328,6 +26329,7 @@ www.fhm.com
 www.fide.com
 www.fok.nl
 www.forbes.com
+www.fr
 www.godaddy.com
 www.gog.com
 www.google.com
@@ -26340,6 +26342,7 @@ www.hotspotshield.com
 www.hs-scripts.com
 www.html5zombo.com
 www.humblebundle.com
+www.inf
 www.j.mp
 www.jdownloader.org
 www.khanacademy.org
@@ -26389,6 +26392,7 @@ www.xboxlive.com
 www.youtube-nocookie.com
 www.zombo.com
 www1.2giga.link
+www1.amnhealthcare.com
 www1.huawei.com
 www1.royalbank.com
 www17.wixdns.net
@@ -26398,7 +26402,9 @@ www2.danskebank.ee
 www2.jugra.ru
 www2.uliza.jp
 www3.2giga.link
+www3.bloomingdales.com
 www3.l.google.com
+www3.webhostingtalk.com
 www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
