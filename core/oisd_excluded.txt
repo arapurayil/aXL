@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Aug 2021 16:03:45 UTC
+# Last modified: 03 Aug 2021 00:12:43 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -428,7 +428,6 @@ ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
-amway.com
 amznadsi.hs.llnwd.net
 an.yandex.ru
 analitik.edevlet.gov.tr
@@ -455,6 +454,7 @@ ap-northeast-2.elb.amazonaws.com
 ap-southeast-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
 apester.com
+api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
 api-iam.intercom.io
 api-secure.solvemedia.com
@@ -512,6 +512,7 @@ api.tvpage.com
 api.uca.cloud.unity3d.com
 api.usebutton.com
 api.useinsider.com
+api.viafoura.co
 api.vip.miui.com
 api.weibo.cn
 api.weibo.com
@@ -582,6 +583,7 @@ assets.dwell.com
 assets.minutemediacdn.com
 assets.penny-arcade.com
 assets.pinterest.com
+assets.rebelmouse.io
 assetstore.unity.com
 asu.edu.et
 at-o.net
@@ -617,7 +619,6 @@ avlyun.sec.miui.com
 awaps.yandex.ru
 aweber.com
 awemwh.com
-awin.com
 awin1.com
 az416426.vo.msecnd.net
 az667904.vo.msecnd.net
@@ -717,7 +718,12 @@ bs.serving-sys.com
 bs.yandex.ru
 bsiderats.nl
 bsv.atm.youku.com
+bt.rutracker.cc
+bt2.rutracker.cc
+bt3.rutracker.cc
+bt4.rutracker.cc
 btguard.com
+btstatic.com
 bttn.io
 budurl.com
 buffer-media-uploads.s3.amazonaws.com
@@ -759,7 +765,6 @@ campaign.adobe.com
 canadapharmacy.com
 captive.adservice.google.co.in
 captive.adservice.google.com
-carvertical.com
 casalemedia.com.edgekey.net
 cb.sailthru.com
 cba.pl
@@ -816,6 +821,7 @@ cdn.rlcdn.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
+cdn.shortpixel.ai
 cdn.siftscience.com
 cdn.split.io
 cdn.static-fra.de
@@ -851,6 +857,7 @@ ceuswatcab02.blob.core.windows.net
 cf.c.ooyala.com
 cf1.vuze.com
 cf2.me
+cfeucdn.com
 cfvod.kaltura.com
 ch0p.darty.com
 channeladvisor.com
@@ -992,6 +999,7 @@ coolrom.com
 core.cloud.unity3d.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
+cotc.net
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
@@ -1180,7 +1188,6 @@ ds-aksb-a.akamaihd.net
 ds-s7.addthis.com.edgekey.net
 ds-www.addthis.com.edgekey.net
 ds1.nl
-dstreet.pl
 duck.sh
 duckdns.org
 dw-online.ksosoft.com
@@ -1313,6 +1320,7 @@ fabric.io
 fairyseason.com
 faktor.io
 faktor.mgr.consensu.org
+falcoware.com
 fast-anime.ru
 fast.appcues.com
 fast.wistia.net
@@ -1332,7 +1340,6 @@ file.market.xiaomi.com
 filehorse.com
 files.viva64.com
 fili.cc
-filman.tv
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
@@ -1397,6 +1404,7 @@ fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
 frameip.com
 free.fr
+freeexchange.ru
 freegeoip.net
 freelancer.com
 freeroms.com
@@ -1572,6 +1580,7 @@ hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
 hdredirect-lb7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com
+healthgrades.com
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
@@ -1595,6 +1604,7 @@ home.wanadoo.nl
 honeybadger.io
 hook.integromat.com
 hooks.slack.com
+hopto.org
 horriblevideos.com
 host-tracker.com
 hosting-1a.mijndomein-ws.nl
@@ -1838,6 +1848,7 @@ interia.hit.gemius.pl
 internal-api.snapkit.com
 internal.unity3d.com
 internet.apps.samsung.com
+internetbrands.com
 investingapp.net
 investingchannel.com
 invoca.net
@@ -1949,6 +1960,7 @@ komoona.com
 kqzyfj.com
 kredytbank.com.ua
 krxd.net
+kubanmedia.org
 l.betrad.com
 l.doubleclick.net
 l.qq.com
@@ -1998,6 +2010,7 @@ log.mmstat.com
 log.quora.com
 log.tiktokv.com
 log.ys7.com
+logfiles.zoom.us
 loggly.com
 login.microsoftonline.us
 loginfra.com
@@ -2253,7 +2266,6 @@ ntv.io
 ntvcld-a.akamaihd.net
 nuancemobility.net
 nui.media
-nuskin.com
 nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
@@ -2308,7 +2320,6 @@ omgpl.com
 omniture-ssl.walmart.com
 oms.expedia.com
 omtrdc.net
-on.msnbc.com
 onecollector.cloudapp.aria.akadns.net
 onegoodthingbyjillee.com
 onelink.me
@@ -2318,6 +2329,7 @@ onetrust.com
 online-metrix.net
 online.adservicemedia.dk
 ono.com
+open-tracker.info
 openapi.samsung.com
 openmobile.qq.com
 openscad.info
@@ -2462,6 +2474,7 @@ ppurifier.game.xiaomi.com
 pr-cy.ru
 pr0gramm.com
 prd.ads.aws.fwmrm.net
+prd.jwpltx.com
 prebid.adnxs.com
 prf.hn
 pricelist.skype.com
@@ -2518,6 +2531,7 @@ qzonestyle.gtimg.cn
 qzs.qq.com
 r.bbci.co.uk
 r.mail.ru
+r.mradx.net
 r.orange.fr
 r.search.yahoo.com
 r.sg.sec.miui.com
@@ -2602,6 +2616,7 @@ s-usc1c-nss-233.firebaseio.com
 s-usc1c-nss-249.firebaseio.com
 s.adrise.tv
 s.aolcdn.com
+s.btstatic.com
 s.click.aliexpress.com
 s.click.taobao.com
 s.click.tmall.com
@@ -2613,6 +2628,7 @@ s.marketwatch.com
 s.media-imdb.com
 s.sa.aol.com
 s.shopify.com
+s.thebrighttag.com
 s.toutiao.com
 s.vi-serve.com
 s.w-x.co
@@ -2799,12 +2815,10 @@ softwareadvice.com
 som.aeroplan.com
 someonewhocares.com
 soo.gd
-soo.sg
 soundcloud.com
 sourcepoint.mgr.consensu.org
 sp-mms.weather.com
 spade.twitch.tv
-spankbang.com
 sparta.mig.tencent-cloud.net
 spclient.wg.spotify.com
 speeddials.opera.com
@@ -2881,6 +2895,7 @@ streamlike.com
 streamplay.to
 stroeerdigitalgroup.de
 stun.l.google.com
+sugoi.pomf.se
 supercell.net
 survey.alchemer.com
 surveyrouter.com
@@ -2959,6 +2974,7 @@ test.quantcast.mgr.consensu.org
 thaiticketmajor.com
 theafterparty.tv
 theannoyingsite.com
+thebrighttag.com
 thedfirreport.com
 thefilter.com
 theintelligencer.com
@@ -2981,7 +2997,6 @@ tm.a.prd.aadg.trafficmanager.net
 tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
 tmearn.com
-tnaflix.com
 todhamilton.pro
 tom.itv.com
 tongbu.com
@@ -2991,6 +3006,7 @@ toots-a.akamaihd.net
 top1.ro
 torimochi.line-apps.com
 torproject.org
+torrentsnipe.info
 torrentz.eu
 touclick.com
 townnews.com
@@ -3283,6 +3299,8 @@ www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
 www2.uliza.jp
+www3.bloomingdales.com
+www3.webhostingtalk.com
 x.co
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
@@ -3318,6 +3336,7 @@ youvisit.com
 youxi.baidu.com
 ypu.edu.tw
 yt3.ggpht.com
+yts.re
 yui.yahooapis.com
 yumekin.com
 yupdates.art
