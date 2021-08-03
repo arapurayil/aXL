@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.03
-# Last modified: 03 Aug 2021 00:12:43 UTC
+# Last modified: 03 Aug 2021 08:02:46 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2097,7 +2097,6 @@ ams03-usadmm-ds.dotomi.com
 amsouth.com
 amtrust.com
 amundi-tc.com
-amway.com
 amzn.com
 amzn.to
 amznadsi.hs.llnwd.net
@@ -2254,6 +2253,7 @@ apeksbank.com.ua
 apester.com
 apex.techrepublic.com
 apexstats.com
+api-2-0.spot.im
 api-auth.soundcloud.com
 api-beta.huawei.com
 api-between.vcnc.co.kr
@@ -2969,6 +2969,7 @@ assets.npo-data.nl
 assets.omidoo.com
 assets.penny-arcade.com
 assets.pinterest.com
+assets.rebelmouse.io
 assets.roar.media
 assets.software.eu.playstation.com
 assets.tumblr.com
@@ -3204,7 +3205,6 @@ awdgp.org.au
 aweber.com
 awemwh.com
 awgnet.com.br
-awin.com
 awin1.com
 awogsd.de
 aws.amazon.com
@@ -4881,6 +4881,10 @@ bt.co
 bt.com
 bt.dailycaller.com
 bt.gob.ve
+bt.rutracker.cc
+bt2.rutracker.cc
+bt3.rutracker.cc
+bt4.rutracker.cc
 btb.az
 btbroadbandoffice.com
 btc-e.com
@@ -5287,7 +5291,6 @@ cart.mi.com
 cart.tmall.com
 cartm.gearbest.com
 cartoonland.de
-carvertical.com
 casagrandehospital.com
 casalemedia.com.edgekey.net
 casapropia.com
@@ -5848,6 +5851,7 @@ cfbk.com
 cfbnk.com
 cfbwartburg.com
 cfda.gov
+cfeucdn.com
 cfg.smt.docomo.ne.jp
 cfi.mb.seb.se
 cfo.gov
@@ -8201,7 +8205,6 @@ dsm.ok.ru
 dsms0mj1bbhn4.cloudfront.net
 dsns.gov.ua
 dsp.brand.sogou.com
-dstreet.pl
 dtbank.hu
 dto.vakifbank.com.tr
 dts.podtrac.com
@@ -9214,6 +9217,7 @@ faktor.io
 faktor.mgr.consensu.org
 faktura.ru
 falconbank.com
+falcoware.com
 fallbrookhospital.com
 fallbrooknationalbank.com
 familiar.com.py
@@ -9519,7 +9523,6 @@ filetrans.blog.naver.com
 filetransfer.coinbase.com
 fili.cc
 fili.tv
-filman.tv
 filmweb.pl
 filmyhd.net
 filson.com
@@ -10101,6 +10104,7 @@ freebr.org
 freebsd.org
 freedombankwv.com
 freedomhacker.net
+freeexchange.ru
 freegeoip.net
 freehosting.net
 freehostking.com
@@ -11415,6 +11419,7 @@ healingspringsanimalhospital.com
 health.act.gov.au
 health.pa.gov
 healthcare.gov
+healthgrades.com
 healthhospitals.ch
 healthline.com
 healthnutnews.com
@@ -13121,6 +13126,7 @@ internetbanking.btn.co.id
 internetbanking.caixa.gov.br
 internetbanking.ro
 internetbaukasten.de
+internetbrands.com
 internetchicago.com
 internetchoice.com.au
 internetdownloadmanager.com
@@ -14231,6 +14237,7 @@ kuaiche.com
 kuaidi100.com
 kubank.ru
 kubankredit.ru
+kubanmedia.org
 kuc.cz
 kucoin.com
 kudtkoekiewet.nl
@@ -17228,7 +17235,6 @@ nullsoft.com
 nurl.net
 nurolbank.com.tr
 nus1-urlp.secure.skypeassets.com
-nuskin.com
 nutaku.com
 nutrija.com
 nuvi2.cdntvn.pl
@@ -17524,7 +17530,6 @@ omniture-ssl.walmart.com
 oms.expedia.com
 oms.symantec.com
 omtrdc.net
-on.msnbc.com
 on.playstation.com
 on.recode.net
 on.soundcloud.com
@@ -17729,6 +17734,7 @@ op.im
 opelbank.de
 open-mmx.com
 open-mmx.de
+open-tracker.info
 open.account.xiaomi.com
 open.fm
 open.mp.huangye.miui.com
@@ -19302,6 +19308,7 @@ r.bbci.co.uk
 r.browser.intl.miui.com
 r.browser.miui.com
 r.mail.ru
+r.mradx.net
 r.mzstatic.com
 r.orange.fr
 r.r10s.jp
@@ -20299,6 +20306,7 @@ s.amazon-adsystem.com
 s.aolcdn.com
 s.bit.ly
 s.btc.com
+s.btstatic.com
 s.cdn.mozilla.net
 s.cdn.turner.com
 s.click.aliexpress.com
@@ -20335,6 +20343,7 @@ s.shopify.com
 s.snapchat.com
 s.spot.im
 s.symcd.com
+s.thebrighttag.com
 s.to
 s.toutiao.com
 s.tradingview.com
@@ -21729,7 +21738,6 @@ sonymobile.com
 sonynetworkentertain.tt.omtrdc.net
 sonyselect-api.sonymobile.com
 soo.gd
-soo.sg
 sophienklinik.de
 sophos.com
 soporte.latam.playstation.com
@@ -21791,7 +21799,6 @@ spadaka-reken.de
 spade.twitch.tv
 spaengler.co.at
 spanish.engadget.com
-spankbang.com
 spapps.co
 spapps.spotify.edgekey.net
 spar.is
@@ -22919,6 +22926,7 @@ sugar-online.de
 sugarsync.com
 sugg.search.yahoo.net
 suggestqueries.google.com
+sugoi.pomf.se
 suite.office.com
 suite15.emarsys.net
 sukumvithospital.com
@@ -23495,6 +23503,7 @@ theblaze.com
 theblog.adobe.com
 theblogimages.adobe.com
 thebrick.com
+thebrighttag.com
 thecathospitalonline.com
 thechildrenshospital.org
 thechive.com
@@ -23762,6 +23771,7 @@ toronto.my.kaspersky.com
 torproject.org
 torrentfreak.com
 torrentgalaxy.to
+torrentsnipe.info
 torrentz.eu
 total-sexy.de
 totalbanken.dk
@@ -26685,6 +26695,7 @@ ytimg.l.google.com
 ytmnd.com
 yts.ag
 yts.mx
+yts.re
 yts.to
 ytstatic.l.google.com
 yuantabank.com.tw
