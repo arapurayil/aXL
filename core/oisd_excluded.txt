@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Aug 2021 16:03:05 UTC
+# Last modified: 04 Aug 2021 00:12:06 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -1040,7 +1040,6 @@ custom.plausible.io
 customer.io
 customerevents.netflix.com
 customtraffic.impactradius.com
-cutt.ly
 cutt.us
 cws-eu.conviva.com
 cws-hulu.conviva.com
@@ -1284,7 +1283,6 @@ events.launchdarkly.com
 events.mapbox.com
 events.split.io
 everesttech.net
-evernote.com
 evidon.com
 evidon.com.edgekey.net
 eviltracker.net
@@ -1343,7 +1341,6 @@ fili.cc
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
-firebasestorage.googleapis.com
 fireemblem.net
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1390,7 +1387,6 @@ fonts.net
 ford.to
 forms.aweber.com
 forms.convertkit.com
-forms.gle
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -1646,6 +1642,7 @@ i.icomoon.io
 i.plug.it
 i.yimg.jp
 i1.ytimg.com
+i16-tb.sgsnssdk.com.edgekey.net
 ia.media-imdb.com
 iad-03.braze.com
 iad.liveperson.net
@@ -1992,7 +1989,6 @@ lindy.co.id
 line.me
 linkev.com
 linksynergy.com
-linktr.ee
 litix.io
 live.simcitybuildit.com
 livefyre.com
@@ -2012,7 +2008,6 @@ log.tiktokv.com
 log.ys7.com
 logfiles.zoom.us
 loggly.com
-login.microsoftonline.us
 loginfra.com
 logrocket.com
 logs-01.loggly.com
@@ -2388,7 +2383,6 @@ paste.ee
 patatap.com
 payeer.com
 paypal-customerfeedback.com
-paypal-opladen.be
 pbsiddhartha.ac.in
 pcrisk.com
 pdc.micloud.xiaomi.net
@@ -2623,7 +2617,6 @@ s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
 s.gravatar.com
-s.id
 s.marketwatch.com
 s.media-imdb.com
 s.sa.aol.com
@@ -2744,7 +2737,6 @@ settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
-sfo3.digitaloceanspaces.com
 sfsapi.micloud.xiaomi.net
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
@@ -2897,7 +2889,6 @@ stroeerdigitalgroup.de
 stun.l.google.com
 sugoi.pomf.se
 supercell.net
-survey.alchemer.com
 surveyrouter.com
 surveys.insightexpressai.com
 svonm.com
@@ -2920,7 +2911,6 @@ t.eloqua.com
 t.en25.com
 t.indeed.com
 t.ks.ua
-t.ly
 t.myvisualiq.net
 t.paydirekt.de
 t.paypal.com
@@ -3124,7 +3114,6 @@ uptracker.ru
 upu.samsungelectronics.com
 urbanairship.com
 url8807.global.passport.xiaomi.com
-urlz.fr
 us-1.gladly.com
 us-east-1.elb.amazonaws.com
 us-v10.events.data.microsoft.com
