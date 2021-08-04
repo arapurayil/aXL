@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.04
-# Last modified: 04 Aug 2021 00:12:06 UTC
+# Last modified: 04 Aug 2021 08:02:12 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -12038,6 +12038,7 @@ i1.wp.com
 i1.yimg.com
 i1.ytimg.com
 i1195.photobucket.com
+i16-tb.sgsnssdk.com.edgekey.net
 i2.cdn.turner.com
 i2.com
 i2.feedspot.com
@@ -13212,6 +13213,7 @@ ipay.ua
 ipb.citibank.com.sg
 ipb.cz
 ipb.ru
+ipcheck.tmgrup.com.tr
 ipchicken.com
 ipeer.se
 ipej.tripod.com
@@ -18262,7 +18264,6 @@ paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
 paypal-nakit.com
-paypal-opladen.be
 paypal-topup.ee
 paypal.boomkat.com
 paypal.ca
@@ -21161,7 +21162,6 @@ sff.net
 sfgate.com
 sfn.info
 sfnb.com
-sfo3.digitaloceanspaces.com
 sfota.ospserver.net
 sfpethospital.com
 sfr.fr
@@ -23040,7 +23040,6 @@ surl.me
 surpasshosting.com
 survey-blog.line.me
 survey-ng.indevice.sonymobile.com
-survey.alchemer.com
 survey.foreseeresults.com
 survey.forseeresults.com
 survey.medallia.com
@@ -23178,7 +23177,6 @@ t.en25.com
 t.hulu.com
 t.indeed.com
 t.ks.ua
-t.ly
 t.me
 t.myvisualiq.net
 t.ow.ly
