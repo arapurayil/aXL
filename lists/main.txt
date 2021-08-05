@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.05
-# Last modified: 05 Aug 2021 00:13:19 UTC
+# Last modified: 05 Aug 2021 08:02:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5575,6 +5575,7 @@ cdn.gatehousemedia.com
 cdn.gigya.com
 cdn.gigya.commes.122.2o7.net
 cdn.gladly.com
+cdn.glitch.com
 cdn.gogoanime.io
 cdn.gotraffic.net
 cdn.gsmarena.com
@@ -12750,7 +12751,6 @@ images2015.cnblogs.com
 imagesak.secureserver.net
 imagesearch.naver.com
 imageshack.com
-imagesvc.meredithcorp.io
 imagevenue.com
 imap.naver.com
 imap.samsung.com
@@ -21153,6 +21153,7 @@ seviercobank.com
 sexebook-affiliation.com
 sexyono.com
 seznam.cz
+sf-tb-sg.ibytedtos.com
 sf.api.np.km.playstation.net
 sf.prod.sonyentertainmentnetwork.com
 sf1-ttcdn-tos.pstatp.com
