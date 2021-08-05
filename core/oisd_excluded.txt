@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Aug 2021 16:03:07 UTC
+# Last modified: 05 Aug 2021 00:13:18 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -800,6 +800,7 @@ cdn.engine.4dsply.com
 cdn.flurry.com
 cdn.gigya.com
 cdn.gladly.com
+cdn.glitch.com
 cdn.gotraffic.net
 cdn.hbbtv.smartclip.net
 cdn.hockeyapp.net
@@ -1788,7 +1789,6 @@ images.scanalert.com
 images.sohu.com
 images2.minutemediacdn.com
 imagesak.secureserver.net
-imagesvc.meredithcorp.io
 imasdk.googleapis.com
 img-fotki.yandex.ru
 img.alibaba.com
@@ -2735,6 +2735,7 @@ setn.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
+sf-tb-sg.ibytedtos.com
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
 sfsapi.micloud.xiaomi.net
@@ -2832,7 +2833,6 @@ sso.internetat.tv
 ssp.meba.kr
 sstats.adobe.com
 st.chatango.com
-stackpath.bootstrapcdn.com
 stacksocial.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
