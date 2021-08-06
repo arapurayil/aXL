@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Aug 2021 16:20:03 UTC
+# Last modified: 06 Aug 2021 00:13:26 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -436,6 +436,7 @@ analytics.edgekey.net
 analytics.google.com
 analytics.robinhood.com
 analytics.twitter.com
+analyticsnew.overwolf.com
 android.bugly.qq.com
 androidtvwatsonfe-pa.googleapis.com
 androidweblog.com
@@ -847,6 +848,7 @@ cdn3.optimizely.com
 cdn4.wibbitz.com
 cdna.clicktale.net
 cdnapi.kaltura.com
+cdnbcvc.com
 cdnjs.tvpage.com
 cdns.gigya.com
 cdnstatic.detik.com
@@ -1013,6 +1015,7 @@ crbcdn.jsfiddle.net
 creative.ak.fbcdn.net
 creatives.ancoraplatform.com
 creditonebank.com
+credomobile.com
 crisp.chat
 crl.comodoca.com
 crl.microsoft.com
@@ -1230,6 +1233,7 @@ eielectronics.com
 ek21.com
 ekg.riotgames.com
 elblogdelnarco.com
+elfsight.com
 ellation.map.fastly.net
 eloqua.com
 em.bm23.com
@@ -1560,6 +1564,7 @@ hackers.com
 hao123.com
 hardreset.info
 harriscomputer.com
+hasoffers.com
 hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
@@ -1612,6 +1617,7 @@ hotelscombined.com.au
 hotkeys.com
 hotspotshield.com
 howsmyssl.com
+howtofix.guide
 hs-scripts.com
 hs.eloqua.com
 hsbc.com.hk
@@ -1654,6 +1660,7 @@ ias.r10s.jp
 ias.rakuten.co.jp
 ib.snssdk.com
 ib.snssdk.com.edgekey.net
+ic3.events.data.microsoft.com
 ichnaea.netflix.com
 id.google.ad
 id.google.al
@@ -1859,6 +1866,7 @@ ip-info.ff.avast.com
 ip.goguardian.com
 ip2location.com
 ipapi.co
+ipcheck.tmgrup.com.tr
 ipgmkdri.edu.my
 iphonesubmissions.apple.com
 ipify.org
@@ -2056,6 +2064,7 @@ marfeel.com
 marfeelcache.com
 marinetraffic.com
 marinsm.com
+mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
 marketing.net.idealo-partner.com
@@ -2502,6 +2511,7 @@ pull.ticktick.com
 pulsar.ebay.co.uk
 pulsar.ebay.com
 pumppazh.com
+punosy.best
 purch.com
 push.api.bbci.co.uk
 push.notifica.re
@@ -2951,6 +2961,7 @@ td.vs3.com
 tdn.gtranslate.net
 tdn.r42tag.com
 tealium.com
+teams.events.data.microsoft.com
 techlab-cdn.com
 teeth.co.jp
 tekweis.com
@@ -3130,6 +3141,7 @@ us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
 usage.trackjs.com
+use-app03.hasoffers.com
 use.typekit.com
 use.typekit.net
 usebutton.com
