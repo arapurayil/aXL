@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.06
-# Last modified: 06 Aug 2021 00:13:27 UTC
+# Last modified: 06 Aug 2021 08:02:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2116,6 +2116,7 @@ analytics.query.yahoo.com
 analytics.robinhood.com
 analytics.twitter.com
 analyticsindiamag.com
+analyticsnew.overwolf.com
 anandtech.com
 anayou.com
 anb.com
@@ -5718,6 +5719,7 @@ cdn9.es.digitaltrends.com
 cdna.clicktale.net
 cdnapi.kaltura.com
 cdnapisec.kaltura.com
+cdnbcvc.com
 cdne.gearsofwar.xbox.com
 cdnetworks.com
 cdninstagram.com
@@ -7051,6 +7053,7 @@ creditplus.de
 creditplus.ru
 creditup.com.ua
 creditural.ru
+credomobile.com
 crescentbank.com
 crescentspringsanimalhospital.com
 crestar.com
@@ -8633,6 +8636,7 @@ elespanol.com
 elev.eu
 elevationsbanking.com
 elevationscu.com
+elfsight.com
 elginfc.com
 elhospital.com
 elion.ee
@@ -11353,6 +11357,7 @@ harzer-volksbank.de
 harzsparkasse.de
 hash.github.com
 hashnode.com
+hasoffers.com
 haspa-bank-in-hamburg.com
 haspa.de
 hastebin.com
@@ -11786,6 +11791,7 @@ how.my
 howardhospital.com
 howsmyssl.com
 howto.gov
+howtofix.guide
 howtoforge.com
 howtogeek.com
 hoxpedaje.com
@@ -15219,6 +15225,7 @@ marinetraffic.com
 marinsm.com
 maritimebank.com
 maritimesavings.com
+mark.isbank.com.tr
 markaz.com
 market-api.staging.viber.com
 market.admin.staging.viber.com
@@ -19181,6 +19188,7 @@ pulsar.ebay.com
 pumppazh.com
 punishtube.com
 punjab.gov.in
+punosy.best
 purch.com
 purr.nytimes.com
 pusanbank.co.kr
@@ -24585,6 +24593,7 @@ uscg.gov
 uschoice.net
 usconsulate.gov
 usda.gov
+use-app03.hasoffers.com
 use-application-dns.net
 use.adserver.snapads.com
 use.fontawesome.com
