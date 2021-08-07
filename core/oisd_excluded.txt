@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Aug 2021 16:03:01 UTC
+# Last modified: 07 Aug 2021 00:12:14 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -436,7 +436,6 @@ analytics.edgekey.net
 analytics.google.com
 analytics.robinhood.com
 analytics.twitter.com
-analyticsnew.overwolf.com
 android.bugly.qq.com
 androidtvwatsonfe-pa.googleapis.com
 androidweblog.com
@@ -454,7 +453,6 @@ ap-northeast-1.elb.amazonaws.com
 ap-northeast-2.elb.amazonaws.com
 ap-southeast-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
-apester.com
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
 api-iam.intercom.io
@@ -656,7 +654,6 @@ beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
 beacon.geo.netflix.com
 beacon.netflix.com
-beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 benefits.sovendus.com
 bestgore.com
 bestofmedia.com
@@ -848,7 +845,6 @@ cdn3.optimizely.com
 cdn4.wibbitz.com
 cdna.clicktale.net
 cdnapi.kaltura.com
-cdnbcvc.com
 cdnjs.tvpage.com
 cdns.gigya.com
 cdnstatic.detik.com
@@ -1139,7 +1135,6 @@ digitaladvisor.dk
 digitalive.world
 digitalsmiths.net
 directtrack.com
-display.apester.com
 disquscdn.com
 districtm.ca
 djtflbt20bdde.cloudfront.net
@@ -1233,7 +1228,6 @@ eielectronics.com
 ek21.com
 ekg.riotgames.com
 elblogdelnarco.com
-elfsight.com
 ellation.map.fastly.net
 eloqua.com
 em.bm23.com
@@ -1277,7 +1271,6 @@ eulerian.brandalley.fr
 eultech.fnac.com
 eurobet.it
 event.udn.com
-events.apester.com
 events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
@@ -1660,7 +1653,6 @@ ias.r10s.jp
 ias.rakuten.co.jp
 ib.snssdk.com
 ib.snssdk.com.edgekey.net
-ic3.events.data.microsoft.com
 ichnaea.netflix.com
 id.google.ad
 id.google.al
@@ -1799,7 +1791,6 @@ imagesak.secureserver.net
 imasdk.googleapis.com
 img-fotki.yandex.ru
 img.alibaba.com
-img.apester.com
 img.beeg.com
 img.en25.com
 img.mp.itc.cn
@@ -1842,7 +1833,6 @@ installportal.com
 instantmessaging-pa.googleapis.com
 intelliad.de
 intellimize.co
-interaction.apester.com
 intercom.com
 intercom.io
 intercomassets.com
@@ -2511,7 +2501,6 @@ pull.ticktick.com
 pulsar.ebay.co.uk
 pulsar.ebay.com
 pumppazh.com
-punosy.best
 purch.com
 push.api.bbci.co.uk
 push.notifica.re
@@ -2576,7 +2565,6 @@ referrer.disqus.com
 refersion.com
 registeridm.com
 relevant-digital.com
-renderer.apester.com
 renta.papy.co.jp
 reports.cliqz.com
 repository.cliqz.com
@@ -2855,7 +2843,6 @@ statcounter.com
 static-asm.secure.skypeassets.com
 static.3001.net
 static.adsafeprotected.com
-static.apester.com
 static.chartbeat.com
 static.cleverpush.com
 static.cloudflareinsights.com
@@ -2961,7 +2948,6 @@ td.vs3.com
 tdn.gtranslate.net
 tdn.r42tag.com
 tealium.com
-teams.events.data.microsoft.com
 techlab-cdn.com
 teeth.co.jp
 tekweis.com
@@ -3315,6 +3301,7 @@ xmrpool.eu
 xp.apple.com
 xpu.samsungelectronics.com
 xrea.com
+xsph.ru
 xtra.gpsonextra.net
 xtra1.gpsonextra.net
 xtra2.gpsonextra.net
