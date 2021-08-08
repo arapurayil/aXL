@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Aug 2021 16:02:36 UTC
+# Last modified: 08 Aug 2021 00:13:43 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -396,6 +396,7 @@ afp.dotomi.weighted.com.akadns.net
 afrobarometer.org
 agkn.com
 agoda.com.edgekey.net
+ahacdn.me
 ahd.ruten.com.tw
 ai.yimg.jp
 aii.sh
@@ -405,6 +406,8 @@ aircre.com
 ak.sail-horizon.com
 akam.net
 akamaized.net
+akstat.io
+akstat.io.edgekey.net
 akvideo.stream
 al.dmm.co.jp
 alb.reddit.com
@@ -706,6 +709,7 @@ brakrock.be
 branch.io
 branding.api.us.apiconnect.ibmcloud.com
 bravia.dl.playstation.net
+brian-fitzgerald.com
 bridgetrack.com
 brightcove.com
 brightedge.com
@@ -1002,6 +1006,7 @@ cotc.net
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
+covid19at.net
 cpm.wargaming.net
 cpt.itv.com
 cptrack.de
@@ -1040,6 +1045,7 @@ custom.plausible.io
 customer.io
 customerevents.netflix.com
 customtraffic.impactradius.com
+cutt.ly
 cutt.us
 cws-eu.conviva.com
 cws-hulu.conviva.com
@@ -2060,6 +2066,7 @@ market.xiaomi.com
 marketing.net.idealo-partner.com
 marketingautomation.services
 marketingplatform.google.com
+marketo.com
 markmonitor.com
 maropost.com
 mas-sdk.amazon.com
@@ -3257,6 +3264,7 @@ wifi.com
 wifiapi.micloud.xiaomi.net
 wildcard.cdn.optimizely.com.edgekey.net
 wildcard.evidon.com.edgekey.net
+wildcard46.akstat.io.edgekey.net
 wildtangent.com
 win8.ipv6.microsoft.com
 win10.ipv6.microsoft.com
