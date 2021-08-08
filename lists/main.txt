@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.08
-# Last modified: 08 Aug 2021 00:13:43 UTC
+# Last modified: 08 Aug 2021 08:01:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1182,6 +1182,7 @@ agtexas.com
 agtrust.com
 agvbanken.de
 ah.nl
+ahacdn.me
 ahcdn.com
 ahcpr.gov
 ahd.ruten.com.tw
@@ -1278,6 +1279,8 @@ akhwien.at
 akibabank.com
 akmba.org
 akreg.com
+akstat.io
+akstat.io.edgekey.net
 aktia.com
 aktia.fi
 aktiv-financial-services.de
@@ -4780,6 +4783,7 @@ bresnan.com
 brew.qualcomm.com
 brh.net
 bri.co.id
+brian-fitzgerald.com
 briarwoodanimalhospital.com
 brickyardbank.net
 bridgend.gov.uk
@@ -6940,6 +6944,7 @@ covefi.com
 coventry.gov.uk
 coventrybuildingsociety.co.uk
 covid19.ncdhhs.gov
+covid19at.net
 cowtransfer.com
 cox-internet.com
 cox.com
@@ -26035,6 +26040,7 @@ wildblue.com
 wildcard.cdn.optimizely.com.edgekey.net
 wildcard.evidon.com.edgekey.net
 wildcard.weather.microsoft.com.edgekey.net
+wildcard46.akstat.io.edgekey.net
 wildtangent.com
 wildwoodanimalhospital.com
 wiley.com
