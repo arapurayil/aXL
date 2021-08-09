@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Aug 2021 08:02:26 UTC
+# Last modified: 09 Aug 2021 16:03:07 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -644,6 +644,7 @@ bannertrack.net
 banyanhill.com
 baremetrics.com
 barracudacentral.org
+batasnatin.com
 batch.com
 bbs.pediy.com
 bc.marfeel.com
@@ -1409,7 +1410,6 @@ freegeoip.net
 freelancer.com
 freeroms.com
 freesteamkeys.com
-fresenius-kabi.com
 fresheye.com
 frog.wix.com
 frontier.musical.ly
@@ -1798,6 +1798,7 @@ imasdk.googleapis.com
 img-fotki.yandex.ru
 img.alibaba.com
 img.beeg.com
+img.blesk.cz
 img.en25.com
 img.mp.itc.cn
 img.nui.media
@@ -2054,7 +2055,6 @@ mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 manifest.auditude.com
-mantruckandbus.com
 maps.windows.com
 marfeel.com
 marfeelcache.com
@@ -2233,7 +2233,6 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nfscars.net
 ngfts.lge.com
-ngg.net
 ngrok.io
 nile.works
 nl.sitestat.com
@@ -2437,6 +2436,7 @@ platform.tumblr.com
 platform.twitter.com
 plausible.eurostocks.nl
 plausible.io
+player-feedback-v1.glomex.com
 player.dacast.com
 player.glomex.com
 player.h-cdn.com
@@ -3162,6 +3162,7 @@ variations.brave.com
 vbsedit.com
 vcdn.biz
 vcrypt.net
+vcs-va.byteoversea.com
 vcs.vdspf.com
 vd.l.qq.com
 vdterms.samsungcloudsolution.com
@@ -3169,6 +3170,7 @@ vectorstock.com
 velaro.com
 vendorlist.consensu.org
 vendorlist.dmcdn.net
+verification-va.byteoversea.com
 verify.authorize.net
 verizon.demdex.net
 verizonmedia.com
