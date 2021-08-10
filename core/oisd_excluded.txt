@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Aug 2021 00:14:48 UTC
+# Last modified: 10 Aug 2021 08:03:20 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -499,13 +499,11 @@ api.parsely.com
 api.peer5.com
 api.pinterest.com
 api.raygun.io
-api.revenuecat.com
 api.rollbar.com
 api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
 api.skype.com
-api.snapkit.com
 api.solvemedia.com
 api.techet.net
 api.telegram.org
@@ -858,7 +856,6 @@ cec.ro
 cedexis.com
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
-cf.c.ooyala.com
 cf1.vuze.com
 cf2.me
 cfeucdn.com
@@ -988,7 +985,6 @@ console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
-content.jwplatform.com
 contentexchange.me
 continuum.dds.microsoft.com
 conviva.com
@@ -1027,7 +1023,6 @@ crunchyroll.com
 cs.money
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
-cs491.wac.edgecastcdn.net
 cse.google.com
 cse3.chausport.com
 csgolounge.com
@@ -1847,7 +1842,6 @@ intercomassets.com
 intercomcdn.com
 intergi.com
 interia.hit.gemius.pl
-internal-api.snapkit.com
 internal.unity3d.com
 internet.apps.samsung.com
 internetbrands.com
@@ -2010,7 +2004,6 @@ log-upload-os.mihoyo.com
 log.byteoversea.com
 log.mmstat.com
 log.quora.com
-log.tiktokv.com
 log.ys7.com
 logfiles.zoom.us
 loggly.com
@@ -2020,7 +2013,6 @@ logs-01.loggly.com
 logs.amap.com
 logs.juspay.in
 lomadee.com
-lookaside.facebook.com
 lootcrate.com
 lps.innogames.com
 lps.innogamescdn.com
@@ -2154,7 +2146,6 @@ mobilesdk-us.kampyle.com
 mobilityware.com
 moengage.com
 mojpieknyogrod.pl
-mon-va.tiktokv.com
 mon.isnssdk.com
 moneroocean.stream
 moneyplatform.biz
@@ -2630,7 +2621,6 @@ s.shopify.com
 s.thebrighttag.com
 s.toutiao.com
 s.vi-serve.com
-s.w-x.co
 s.youtube.com
 s.ytimg.com
 s.zkcdn.net
@@ -2891,7 +2881,6 @@ streaming.adswizz.com
 streamlike.com
 streamplay.to
 stroeerdigitalgroup.de
-stun.l.google.com
 sugoi.pomf.se
 supercell.net
 surveyrouter.com
@@ -3322,7 +3311,6 @@ xzone.cz
 yabs.yandex.ru
 yahoodns.net
 yandex.st
-yastatic.net
 ydstatic.com
 yimg.com
 ynuf.aliapp.org

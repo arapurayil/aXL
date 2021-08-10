@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.10
-# Last modified: 10 Aug 2021 00:14:48 UTC
+# Last modified: 10 Aug 2021 08:03:21 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6946,7 +6946,6 @@ covefi.com
 coventry.gov.uk
 coventrybuildingsociety.co.uk
 covid19.ncdhhs.gov
-covid19at.net
 cowtransfer.com
 cox-internet.com
 cox.com
@@ -8786,6 +8785,7 @@ engineering.flipboard.com
 engineering.taboola.com
 engineering.twitch.tv
 englewoodhospital.com
+enigmasoftware.com
 eniyisibenim.com
 enorthfield.com
 enpara.com
