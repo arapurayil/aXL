@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.08.09
-# Last modified: 09 Aug 2021 16:03:07 UTC
+# Version: 2.08.10
+# Last modified: 10 Aug 2021 00:14:48 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3901,6 +3901,7 @@ basketbuild.com
 bassandequitable.com.au
 basvuru.denizbank.com
 bat.bing.com
+batasnatin.com
 batcave.net
 batch.com
 bathildis.de
@@ -10136,7 +10137,6 @@ freizeitmanager24.de
 fremont.kp.org
 fremontbank.com
 frepa.livedoor.com
-fresenius-kabi.com
 freshbooks.com
 freshdirect.com
 fresheye.com
@@ -12783,6 +12783,7 @@ img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
 img.animefreak.tv
 img.beeg.com
+img.blesk.cz
 img.breitbart.com
 img.brightcove.com
 img.buzzfeed.com
@@ -16908,7 +16909,6 @@ nfrcom.com
 nfscars.net
 nga.gov
 ngfts.lge.com
-ngg.net
 ngi.it
 nginx.org
 ngrok.io
@@ -18633,6 +18633,7 @@ playahead.se
 playbooks-pa.googleapis.com
 playboyu.com
 playbuzz.com
+player-feedback-v1.glomex.com
 player.cnevids.com
 player.dacast.com
 player.glomex.com
@@ -24895,6 +24896,7 @@ vc.yahoo.com
 vcbonline.com
 vcdn.biz
 vcrypt.net
+vcs-va.byteoversea.com
 vcs.vdspf.com
 vd.l.qq.com
 vd55.com
@@ -24927,6 +24929,7 @@ vereinskrankenhaus.de
 vereinte-volksbank.de
 verficlinic.ru
 verhospi.gr
+verification-va.byteoversea.com
 verify.authorize.net
 verio.com
 verisign.com

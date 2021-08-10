@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Aug 2021 16:03:07 UTC
+# Last modified: 10 Aug 2021 00:14:48 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -1007,7 +1007,6 @@ cotc.net
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
-covid19at.net
 cpm.wargaming.net
 cpt.itv.com
 cptrack.de
@@ -1249,6 +1248,7 @@ en25.com
 endpoint1.collection.eu.sumologic.com
 energizect.com
 engine.4dsply.com
+enigmasoftware.com
 enrichmentservices.fccinteractive.com
 ensighten.com
 entitlements.jwplayer.com
@@ -1472,6 +1472,7 @@ getblueshift.com
 getroman.com
 gfe.nvidia.com
 gfwsl.geforce.com
+gg.gg
 gg.google.com
 ghbtns.com
 ghostery-collector.ghostery.com
