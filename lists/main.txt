@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.11
-# Last modified: 11 Aug 2021 00:21:40 UTC
+# Last modified: 11 Aug 2021 08:02:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -826,6 +826,7 @@ ads-blocker.com
 ads-cdn.grab.com
 ads-e-darwin.hulustream.com
 ads-serve.brave.com
+ads-v-darwin.hulustream.com
 ads.api.24ur.si
 ads.aws.fwmrm.net
 ads.dh.duba.com
@@ -2097,6 +2098,7 @@ amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
+ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -5225,8 +5227,17 @@ captcha.hd.mi.com
 captcha.wechat.com
 captions.cloud.vimeo.com
 captivateprime.adobe.com
+captive.adservice.google.co.id
 captive.adservice.google.co.in
+captive.adservice.google.co.jp
+captive.adservice.google.co.th
+captive.adservice.google.co.za
 captive.adservice.google.com
+captive.adservice.google.com.br
+captive.adservice.google.com.mx
+captive.adservice.google.com.ng
+captive.adservice.google.com.ph
+captive.adservice.google.com.vn
 captive.apple.com
 captur.in
 caravan.ru
@@ -6815,6 +6826,7 @@ content.sketch.sonymobile.com
 content.swrve.com
 content.vidgyor.com
 content.webcollage.net
+content.xilu.com
 content.yikyakapi.net
 contentexchange.me
 contentful.com
@@ -9916,6 +9928,7 @@ foreningssparbanken.se
 foresee.com
 foreseeresults.com
 forex.se
+form.123formbuilder.com
 form.jotform.com
 form.office.naver.com
 forms.aweber.com
@@ -9923,6 +9936,7 @@ forms.breitbart.com
 forms.convertkit.com
 forms.gle
 forms.office.com
+forms.zohopublic.com
 formspring.me
 formstack.com
 formy.upriver.ru
@@ -11988,7 +12002,6 @@ i.cdn.turner.com
 i.cdnpark.com
 i.click.taobao.com
 i.cmpnet.com
-i.dir.bg
 i.ebayimg.com
 i.emb.ru
 i.flow.browser.oppomobile.com
@@ -12851,6 +12864,7 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
+imgshare.info
 imgsmail.ru
 imgstock.naver.com
 imgur.com
@@ -17268,6 +17282,7 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
+nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
@@ -18652,6 +18667,7 @@ playncs.com
 playstation.com
 playstation.net
 playview.io
+playwire.com
 plaza.rakuten.co.jp
 plazabankillinois.com
 plblog.kaspersky.com
@@ -21328,6 +21344,7 @@ sierravistaregional.com
 sift.com
 siftscience.com
 sign-in.soundcloud.com
+signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
@@ -23127,7 +23144,6 @@ syndication.twitter.com
 syndonline.in
 synergybank.com
 synology.com
-synology.me
 synologynotification.com
 synterra.ru
 synthesisbank.com
