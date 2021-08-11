@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Aug 2021 08:03:20 UTC
+# Last modified: 11 Aug 2021 00:21:40 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -125,6 +125,7 @@ ads-blocker.com
 ads-cdn.grab.com
 ads-e-darwin.hulustream.com
 ads-serve.brave.com
+ads-v-darwin.hulustream.com
 ads.api.24ur.si
 ads.aws.fwmrm.net
 ads.google.com
@@ -431,6 +432,7 @@ ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
+ams3.digitaloceanspaces.com
 amznadsi.hs.llnwd.net
 an.yandex.ru
 analitik.edevlet.gov.tr
@@ -764,8 +766,17 @@ cafeomai.com.au
 calendar.fontanka.ru
 campaign.adobe.com
 canadapharmacy.com
+captive.adservice.google.co.id
 captive.adservice.google.co.in
+captive.adservice.google.co.jp
+captive.adservice.google.co.th
+captive.adservice.google.co.za
 captive.adservice.google.com
+captive.adservice.google.com.br
+captive.adservice.google.com.mx
+captive.adservice.google.com.ng
+captive.adservice.google.com.ph
+captive.adservice.google.com.vn
 casalemedia.com.edgekey.net
 cb.sailthru.com
 cba.pl
@@ -789,6 +800,7 @@ cdn.branch.io
 cdn.cliqz.com
 cdn.cloud.altbalaji.com
 cdn.consentmanager.mgr.consensu.org
+cdn.cookielaw.org
 cdn.cquotient.com
 cdn.cxense.com
 cdn.cxense.com.edgekey.net
@@ -985,6 +997,7 @@ console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
+content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
 conviva.com
@@ -1341,6 +1354,7 @@ fili.cc
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
+firebasestorage.googleapis.com
 fireemblem.net
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1385,8 +1399,11 @@ fontjoy.com
 fonts.googleapis.com
 fonts.net
 ford.to
+form.123formbuilder.com
+form.jotform.com
 forms.aweber.com
 forms.convertkit.com
+forms.zohopublic.com
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -1638,7 +1655,6 @@ hypestat.com
 i.cdnpark.com
 i.click.taobao.com
 i.cmpnet.com
-i.dir.bg
 i.gyazo.com
 i.icomoon.io
 i.plug.it
@@ -1804,6 +1820,7 @@ img1.sj.qq.com
 img1.wsimg.com
 img2.autoimg.cn
 img2.user.kanimg.com
+imgshare.info
 impactradius.com
 imrworldwide.com
 in.appcenter.ms
@@ -1989,6 +2006,7 @@ lindy.co.id
 line.me
 linkev.com
 linksynergy.com
+linktr.ee
 litix.io
 live.simcitybuildit.com
 livefyre.com
@@ -2018,6 +2036,7 @@ lps.innogames.com
 lps.innogamescdn.com
 lptag.liveperson.net
 lvbet.pl
+m.apkpure.com
 m.baidu.com
 m.cnbeta.com
 m.exactag.com
@@ -2261,6 +2280,7 @@ nui.media
 nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
+nyc3.digitaloceanspaces.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2429,6 +2449,7 @@ platform.twitter.com
 plausible.eurostocks.nl
 plausible.io
 player-feedback-v1.glomex.com
+player.cnevids.com
 player.dacast.com
 player.glomex.com
 player.h-cdn.com
@@ -2436,6 +2457,7 @@ player.mediafuse.com
 player.ooyala.com
 players.brightcove.net
 playhydrax.com
+playwire.com
 plex.direct
 plex.r.worldssl.net
 plugin.mediavoice.com
@@ -2757,6 +2779,7 @@ shrink.pe
 sickrage.ca
 sift.com
 siftscience.com
+signal-collector.gemaltodigitalbankingidcloud.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 simba.taobao.com
 simply.com
@@ -2894,7 +2917,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-synology.me
 sypi.gpshopper.com
 systweak.com
 szentkoronaradio.com
