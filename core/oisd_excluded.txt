@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Aug 2021 08:02:18 UTC
+# Last modified: 11 Aug 2021 16:03:08 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -432,7 +432,6 @@ ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
-ams3.digitaloceanspaces.com
 amznadsi.hs.llnwd.net
 an.yandex.ru
 analitik.edevlet.gov.tr
@@ -1354,7 +1353,6 @@ fili.cc
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
-firebasestorage.googleapis.com
 fireemblem.net
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1399,11 +1397,8 @@ fontjoy.com
 fonts.googleapis.com
 fonts.net
 ford.to
-form.123formbuilder.com
-form.jotform.com
 forms.aweber.com
 forms.convertkit.com
-forms.zohopublic.com
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -2006,7 +2001,6 @@ lindy.co.id
 line.me
 linkev.com
 linksynergy.com
-linktr.ee
 litix.io
 live.simcitybuildit.com
 livefyre.com
@@ -2036,7 +2030,6 @@ lps.innogames.com
 lps.innogamescdn.com
 lptag.liveperson.net
 lvbet.pl
-m.apkpure.com
 m.baidu.com
 m.cnbeta.com
 m.exactag.com
@@ -2280,7 +2273,6 @@ nui.media
 nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
-nyc3.digitaloceanspaces.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -3058,6 +3050,7 @@ trafficrouter.io
 trafic.ro
 traq.li
 travelzoo.com
+trbo.com
 treehousei.com
 treg.hearstnp.com
 trial.api.huangye.miui.com
