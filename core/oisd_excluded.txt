@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Aug 2021 16:03:08 UTC
+# Last modified: 12 Aug 2021 00:13:35 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -457,6 +457,7 @@ ap-northeast-1.elb.amazonaws.com
 ap-northeast-2.elb.amazonaws.com
 ap-southeast-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
+apester.com
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
 api-iam.intercom.io
@@ -657,6 +658,7 @@ beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
 beacon.geo.netflix.com
 beacon.netflix.com
+beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 benefits.sovendus.com
 bestgore.com
 bestofmedia.com
@@ -1148,6 +1150,7 @@ digitaladvisor.dk
 digitalive.world
 digitalsmiths.net
 directtrack.com
+display.apester.com
 disquscdn.com
 districtm.ca
 djtflbt20bdde.cloudfront.net
@@ -1285,6 +1288,7 @@ eulerian.brandalley.fr
 eultech.fnac.com
 eurobet.it
 event.udn.com
+events.apester.com
 events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
@@ -1666,6 +1670,7 @@ ias.r10s.jp
 ias.rakuten.co.jp
 ib.snssdk.com
 ib.snssdk.com.edgekey.net
+ic3.events.data.microsoft.com
 ichnaea.netflix.com
 id.google.ad
 id.google.al
@@ -1804,6 +1809,7 @@ imagesak.secureserver.net
 imasdk.googleapis.com
 img-fotki.yandex.ru
 img.alibaba.com
+img.apester.com
 img.beeg.com
 img.blesk.cz
 img.en25.com
@@ -1848,6 +1854,7 @@ installportal.com
 instantmessaging-pa.googleapis.com
 intelliad.de
 intellimize.co
+interaction.apester.com
 intercom.com
 intercom.io
 intercomassets.com
@@ -2578,6 +2585,7 @@ referrer.disqus.com
 refersion.com
 registeridm.com
 relevant-digital.com
+renderer.apester.com
 renta.papy.co.jp
 reports.cliqz.com
 repository.cliqz.com
@@ -2593,6 +2601,7 @@ response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
 restapi.amap.com
+resu8.hjfile.cn
 revistaeventos.com.br
 revistasobrerodas.com.br
 rezync.com
@@ -2685,6 +2694,7 @@ scorecardresearch.com.edgekey.net
 scr.wfcdn.de
 screenshots.goguardian.com
 scrippsnetworks.com
+script.google.com
 script.ioam.de
 scripts.kataweb.it
 sdk-resources.blinkreceipt.com
@@ -2856,6 +2866,7 @@ statcounter.com
 static-asm.secure.skypeassets.com
 static.3001.net
 static.adsafeprotected.com
+static.apester.com
 static.chartbeat.com
 static.cleverpush.com
 static.cloudflareinsights.com
@@ -2959,6 +2970,7 @@ td.vs3.com
 tdn.gtranslate.net
 tdn.r42tag.com
 tealium.com
+teams.events.data.microsoft.com
 techlab-cdn.com
 teeth.co.jp
 tekweis.com

@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.08.11
-# Last modified: 11 Aug 2021 16:03:09 UTC
+# Version: 2.08.12
+# Last modified: 12 Aug 2021 00:13:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2098,7 +2098,6 @@ amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -9928,7 +9927,6 @@ foreningssparbanken.se
 foresee.com
 foreseeresults.com
 forex.se
-form.123formbuilder.com
 form.jotform.com
 form.office.naver.com
 forms.aweber.com
@@ -9936,7 +9934,6 @@ forms.breitbart.com
 forms.convertkit.com
 forms.gle
 forms.office.com
-forms.zohopublic.com
 formspring.me
 formstack.com
 formy.upriver.ru
@@ -17282,7 +17279,6 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
-nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
@@ -23913,6 +23909,7 @@ travelocity.com
 travelzoo.com
 travesta.de
 trbas.com
+trbo.com
 trbsinc.com
 trck.me
 treas.gov
