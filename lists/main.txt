@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.12
-# Last modified: 12 Aug 2021 00:13:35 UTC
+# Last modified: 12 Aug 2021 08:02:58 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2254,6 +2254,7 @@ apartments.com
 apbsrilanka.org
 apbt.org.tn
 apeksbank.com.ua
+apester.com
 apex.techrepublic.com
 apexstats.com
 api-2-0.spot.im
@@ -4074,6 +4075,7 @@ beacons4.gcp.gvt2.com
 beacons5.gcp.gvt2.com
 beacons5.gvt2.com
 beacons5.gvt3.com
+beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 bealbank.com
 beauty.rakuten.co.jp
 bebe.com
@@ -7854,6 +7856,7 @@ disney.demdex.net
 disney.go.com
 disneylatino.com
 dispatch.kahuna.glbdns.microsoft.com
+display.apester.com
 display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
 displayimage.messenger.yahooapis.com
@@ -9022,6 +9025,7 @@ eventbrite.com
 eventgateway.soundcloud.com
 eventgateway.x.sndcdn.com
 eventlogger.soundcloud.com
+events.apester.com
 events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
@@ -12788,6 +12792,7 @@ img.alibaba.com
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
 img.animefreak.tv
+img.apester.com
 img.beeg.com
 img.blesk.cz
 img.breitbart.com
@@ -13096,6 +13101,7 @@ intellimize.co
 inter.com.ve
 inter.net
 inter.youdao.com
+interaction.apester.com
 interaction.viafoura.co
 interactive.guim.co.uk
 interactivebrokers.co.uk
@@ -19912,6 +19918,7 @@ remote-data.urbanairship.com
 remoteworkcentral.com
 renaissance-go.com
 renault-bank-direkt.de
+renderer.apester.com
 renfrewshire.gov.uk
 renobell-ni.com
 renren.com
@@ -19979,6 +19986,7 @@ rest.iad-03.braze.com
 restapi.amap.com
 restonhospital.net
 restoreuk.org.uk
+resu8.hjfile.cn
 resultspage.com
 resursbank.se
 retail.axisbank.co.in
@@ -22575,6 +22583,7 @@ static.ak.connect.facebook.com
 static.ak.facebook.com
 static.akacdn.ru
 static.analytics.openapi.naver.com
+static.apester.com
 static.appsumo.com
 static.bbc.co.uk
 static.bbc.com
