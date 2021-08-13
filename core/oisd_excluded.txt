@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Aug 2021 16:03:33 UTC
+# Last modified: 13 Aug 2021 00:14:02 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -1259,6 +1259,7 @@ events.launchdarkly.com
 events.mapbox.com
 events.split.io
 everesttech.net
+evernote.com
 evidon.com
 evidon.com.edgekey.net
 eviltracker.net
@@ -1326,6 +1327,7 @@ flipp.com
 flirt.com
 flix360.com
 flixcar.com
+flow.page
 flowgo.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -2617,7 +2619,6 @@ scorecardresearch.com.edgekey.net
 scr.wfcdn.de
 screenshots.goguardian.com
 scrippsnetworks.com
-script.google.com
 script.ioam.de
 scripts.kataweb.it
 sdk-resources.blinkreceipt.com
