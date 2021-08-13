@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Aug 2021 08:02:29 UTC
+# Last modified: 13 Aug 2021 16:03:12 UTC
 000webhostapp.com
 1coolbox.com
 1gr.cz
@@ -15,10 +15,8 @@
 3dradspace.tk
 3gimg.qq.com
 3x.ro
-4.bp.blogspot.com
 4dsply.com
 4shared.com
-5z8.info
 7.ly
 7zap.com
 24.hu
@@ -663,7 +661,6 @@ blockthrough.com
 blog.51cto.com
 blog.xuite.net
 blogcatalog.com
-blogspot.com.by
 blogtopsites.com
 blueconic.com
 blueconic.net
@@ -1134,9 +1131,7 @@ dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 do-not-tracker.org
 docs.bugsnag.com
-doctortro.com
 documentingreality.com
-doiop.com
 dolphincdn.xyz
 domain.com
 dopc.cz
@@ -1318,7 +1313,6 @@ firebaselogging-pa.googleapis.com
 fishki.net
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
-flbag.net
 flickr.com
 fling.com
 flingo.tv
@@ -1355,7 +1349,6 @@ flx1.com
 flyertown.ca
 fm-p.jp
 fontanka.ru
-fontjoy.com
 fonts.googleapis.com
 fonts.net
 ford.to
@@ -1470,7 +1463,6 @@ go2cloud.org
 go2jump.org
 goatcounter.com
 gocarrot.com
-godly.website
 goldbach.com
 goldenline.pl
 goliath.bi.miniclippt.com
@@ -1481,7 +1473,6 @@ googleadservices.com
 googlehosted.com
 googletagmanager.com
 googletagservices.com
-goohost.ru
 gopjn.com
 gorebrasil.com
 goregrish.com
@@ -1570,7 +1561,6 @@ hook.integromat.com
 hooks.slack.com
 hopto.org
 horriblevideos.com
-horror-comics.com
 host-tracker.com
 hosting-1a.mijndomein-ws.nl
 hosting24.com
@@ -1824,7 +1814,6 @@ ip.goguardian.com
 ip2location.com
 ipapi.co
 ipcheck.tmgrup.com.tr
-ipgmkdri.edu.my
 iphonesubmissions.apple.com
 ipify.org
 ipinfo.io
@@ -2046,7 +2035,6 @@ medrx.telstra.com.au
 meebo.com
 meetyourmessenger.co.uk
 meltwater.com
-merchant.wgiftcard.com
 messengerpeople.com
 met2.hp.com
 meta.vn
@@ -2136,7 +2124,6 @@ mx.yandex.ru
 mxmcdn.net
 mxpnl.com
 my.adocean.pl
-my.plexapp.com
 myairbridge.com
 mybloglog.com
 mybluemix.net
@@ -2168,7 +2155,6 @@ news.smi2.ru
 newsbtc.com
 newsletter.bdnews24.com
 newsletters.nationalgeographic.com
-newstube.ru
 newtonpaiva.br
 nexus-websocket-a.intercom.io
 nexus.ensighten.com
@@ -2271,11 +2257,9 @@ onetrust.com
 online-metrix.net
 online.adservicemedia.dk
 ono.com
-open-tracker.info
 openapi.samsung.com
 openmobile.qq.com
 openscad.info
-openvim.com
 opinionstage.com
 ops.bpost.be
 optanon.blob.core.windows.net
@@ -2318,7 +2302,6 @@ pardot.com
 parkingcrew.net
 parklogic.com
 parsely.com
-particlenews.com
 partner-ads.com
 partner2profit.com
 partnerprogramma.bol.com
@@ -2327,7 +2310,6 @@ partners.webmasterplan.com
 partycasino.com
 passport.baidu.com
 paste.ee
-patatap.com
 payeer.com
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
@@ -2388,7 +2370,6 @@ player.ooyala.com
 playhydrax.com
 playwire.com
 plex.direct
-plex.r.worldssl.net
 plugin.mediavoice.com
 plusone.google.com
 pm0.net
@@ -2406,7 +2387,6 @@ pornerbros.com
 portableroms.com
 portalroms.com
 post.spmailtechno.com
-postbanking.org
 postclickmarketing.com
 powr.io
 powvideo.net
@@ -2484,7 +2464,6 @@ rapidvideo.com
 raptr.com
 rarbg.to
 raxco.com
-rayfile.com
 rayli.com.cn
 rbx.gg
 rd.rakuten.co.jp
@@ -2931,7 +2910,6 @@ toots-a.akamaihd.net
 top1.ro
 torimochi.line-apps.com
 torproject.org
-torrentsnipe.info
 torrentz.eu
 touclick.com
 townnews.com
@@ -3027,7 +3005,6 @@ umwatsonc.events.data.microsoft.com
 unagi-na.amazon.com
 unagi.amazon.co.jp
 unid.go.com
-unionbanknig.com
 uniregistry.com
 unitedbike.com
 unity.com
@@ -3132,11 +3109,9 @@ vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
 vserv.bc.cdn.bitgravity.com
-vur.me
 vz-cdn.trafficjunky.net
 vz-cdn2.adtng.com
 vz-cdn2.trafficjunky.net
-w2xg.com
 w88.espn.com
 wagbridge.advertisement.tanx.com
 wagbridge.alibaba.tanx.com
@@ -3169,7 +3144,6 @@ westbyte.com
 westcoastuniversity-edu.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
-wgiftcard.com
 whatismyip.akamai.com
 whoami.akamai.net
 widget-cdn.rpxnow.com
@@ -3241,7 +3215,6 @@ ynuf.alipay.com
 yousaytoo.com
 youtube-nocookie.com
 youtube-ui.l.google.com
-youtube.de
 youvisit.com
 youxi.baidu.com
 ypu.edu.tw
@@ -3268,6 +3241,5 @@ zoo.sandiegozoo.org
 zopim.com
 ztd.dds.microsoft.com
 ztm.waw.pl
-zyngawithfriends.com
 zytpirwai.net
 zzb.bz
