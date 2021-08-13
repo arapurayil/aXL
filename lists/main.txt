@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.13
-# Last modified: 13 Aug 2021 00:14:02 UTC
+# Last modified: 13 Aug 2021 08:02:29 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9731,6 +9731,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flow.page
 flowershospital.com
 flowgo.com
 flowplayer.com
