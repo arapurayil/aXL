@@ -2,8 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Aug 2021 00:12:21 UTC
-0am.jp
+# Last modified: 14 Aug 2021 08:02:17 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -654,7 +653,6 @@ apptentive.com
 apt.newrelic.com
 ar.edubirdie.com
 arc.msn.com
-archi.fr
 armaholic.com
 arms-retcode.aliyuncs.com
 arstechnica.com
@@ -1032,7 +1030,6 @@ choice.microsoft.com
 choices.truste.com
 chrome-devtools-frontend.appspot.com
 chromefeedcontentsuggestions-pa.googleapis.com
-chula.ac.th
 cifraclub.com.br
 cint.com
 cintnetworks.com
@@ -2149,7 +2146,6 @@ in.appcenter.ms
 inc.com
 incredibarvuz1.com
 incredimail.com
-ind.in
 independent.academia.edu
 indexww.com
 inetinteractive.com
@@ -2368,7 +2364,6 @@ links.strava.com
 linksnappy.com
 linksynergy.com
 linktr.ee
-lip6.fr
 litix.io
 live.primis.tech
 live.simcitybuildit.com
@@ -2482,7 +2477,6 @@ mediavoice.com
 medrx.telstra.com.au
 meebo.com
 meetyourmessenger.co.uk
-melius.club
 meltwater.com
 mensxp.com
 messagemedia.com
@@ -2526,7 +2520,6 @@ mistat.xiaomi.com
 mix.com
 mixi.media
 mixnews.lv
-miyakyo-u.ac.jp
 mkt51.net
 mlsend.com
 mmarau.ac.ke
@@ -2563,7 +2556,6 @@ monitor.clickcease.com
 more.sh
 movable-ink-397.com
 movie.xunlei.com
-mozit.cloud
 mp.huangye.miui.com
 mp.pianomedia.eu
 mp.twitch.tv
@@ -2785,7 +2777,6 @@ otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
 oui.cdn.optimizely.com
 ouo.io
-over-blog.com
 ow.ly
 oxessays.com
 ozon.ru
@@ -3507,7 +3498,6 @@ syndication.twitter.com
 sypi.gpshopper.com
 sysdig.com
 systweak.com
-sytes.net
 sythe.org
 szentkoronaradio.com
 szlong.weixin.qq.com
@@ -3722,7 +3712,6 @@ uib.ff.avast.com
 uim.tifbs.net
 uk.edubirdie.com
 ukessays.com
-ukzn.ac.za
 ulink.adjust.com
 ulmwp.org
 ultimedia.com
@@ -3735,14 +3724,12 @@ unionbanknig.com
 uniregistry.com
 unisdk.update.easebar.com
 unitedbike.com
-unitn.it
 unity.com
 unity3d.com
 unity3d.com.edgekey.net
 unizar.es
 unja.ac.id
 unk.vver.kiae.rr
-unkhair.ac.id
 untd.com
 uol.com.br
 up.cm.ksmobile.com
@@ -3884,11 +3871,9 @@ walmart.com.akadns.net
 watch-jav.com
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
-waw.pl
 way2traffic.com
 wayin.com
 wc4.net
-web.app
 webair.com
 webalias.com
 webapk-cdn.internet.apps.samsung.com
