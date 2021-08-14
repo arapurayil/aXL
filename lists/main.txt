@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.14
-# Last modified: 14 Aug 2021 08:02:18 UTC
+# Last modified: 14 Aug 2021 16:04:38 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -52,7 +52,6 @@
 012webpages.com
 02bancorp.com
 07x.net
-0am.jp
 0catch.com
 0daydown.com
 0dc7915f74cf0fac6.gs.ea.com
@@ -2864,7 +2863,6 @@ arcabanca.it
 arcadepages.com
 archeranimalhospital.com
 archerbank.com
-archi.fr
 archive.icann.org
 archive.org
 archive.to
@@ -6194,7 +6192,6 @@ chron.com
 chtbl.com
 chubinskoe.org
 chugin.co.jp
-chula.ac.th
 chuyu.me
 ci-mpsnare.iovation.com
 ci.phncdn.com
@@ -13153,7 +13150,6 @@ incometaxindiaefiling.gov.in
 incoming.telemetry.mozilla.org
 incredibarvuz1.com
 incredimail.com
-ind.in
 indd.adobe.com
 indeed.com
 independent-bank.com
@@ -14894,7 +14890,6 @@ linux.com
 linuxg.net
 linuxmint.com
 linuxtracker.org
-lip6.fr
 lippobank.co.id
 liqpay.com
 lisa.motivtelecom.ru
@@ -15926,7 +15921,6 @@ meinvz.net
 meizu.com
 mejprombank-nl.com
 meliorbanca.it
-melius.club
 mellon.com
 melrosecoop.com
 meltwater.com
@@ -16243,7 +16237,6 @@ mixin.dl.files.xiaomi.net
 mixin.xiaomi.net
 mixnews.lv
 mixpanel.com
-miyakyo-u.ac.jp
 mizellmh.com
 mizrahi-tefahot.co.il
 mizuhobank.co.jp
@@ -16499,7 +16492,6 @@ mozilla.com
 mozilla.net
 mozilla.org
 mozillazine.org
-mozit.cloud
 mp.huangye.miui.com
 mp.microsoft.com
 mp.pianomedia.eu
@@ -18278,7 +18270,6 @@ ovb-zweisimmen.ch
 ovbc.com
 ovbk.be
 ovc2-ustokyyneikyfasnm.stackpathdns.com
-over-blog.com
 over.com
 overlakehospital.org
 overloaded.crunchyroll.com
@@ -24694,7 +24685,6 @@ ukrgasbank.com
 ukrinbank.com
 ukrsibbank.com
 ukvisas.gov.uk
-ukzn.ac.za
 ul.royal-bank.ru
 ulink.adjust.com
 ulmart.ru
@@ -24811,7 +24801,6 @@ unitedprairiebank.com
 unitedsecuritybank.com
 unitedstates.smartscreen-prod.microsoft.com
 unitedtrust.com
-unitn.it
 unitpay.ru
 unity.com
 unity3d.com
@@ -24831,7 +24820,6 @@ unix.com
 unizar.es
 unja.ac.id
 unk.vver.kiae.rr
-unkhair.ac.id
 unlc.us
 unlockbootloader.sonymobile.com
 unlocker.emptyloop.com
@@ -26192,7 +26180,6 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
-waw.pl
 way2traffic.com
 wayerless.com
 wayforpay.com
