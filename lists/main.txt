@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.08.13
-# Last modified: 13 Aug 2021 16:03:12 UTC
+# Version: 2.08.14
+# Last modified: 14 Aug 2021 00:12:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4494,7 +4494,6 @@ blogsmithmedia.com
 blogspot.ca
 blogspot.co.uk
 blogspot.com
-blogspot.com.by
 blogspot.com.es
 blogspot.de
 blogspot.fr
@@ -7959,7 +7958,6 @@ docs.vuukle.com
 doctor.ndtv.com
 doctorpk.mywibes.com
 doctorshospitaldallas.com
-doctortro.com
 documentingreality.com
 docusign.net
 dodgersdigest.com
@@ -9696,7 +9694,6 @@ flashx.tv
 flatbush.com
 flaticon.com
 flba.net
-flbag.net
 flbk.com
 flea.flipboard.com
 fleboestetica.com
@@ -9870,7 +9867,6 @@ fondsdepotbank.de
 fontaine-suisse.com
 fontanka.ru
 fontawesome.com
-fontjoy.com
 fonts-prod.adobe.com
 fonts.adobe.com
 fonts.googleapis.com
@@ -10741,7 +10737,6 @@ gob.pe
 gobank-online.de
 gocarrot.com
 godaddy.com
-godly.website
 godofwar.playstation.com
 goes-r.gov
 gofile.io
@@ -11678,7 +11673,6 @@ horizonbank.com
 horizoncable.com
 horl.com
 horriblevideos.com
-horror-comics.com
 horseanswerstoday.com
 horten.ws
 hortner.com
@@ -13199,7 +13193,6 @@ ipej.tripod.com
 ipfire.org
 ipfs.io
 ipgeolocation.io
-ipgmkdri.edu.my
 iphone-ld.apple.com
 iphonesubmissions.apple.com
 ipick1.wechat.com
@@ -15651,7 +15644,6 @@ mercedes-benz-bank.de
 mercerhospital.org
 merchandise.api.playstation.com
 merchant.bithumb.com
-merchant.wgiftcard.com
 merchantsbankvt.com
 merchantsecurity.enstage.com
 merckfinck.de
@@ -17704,7 +17696,6 @@ op.im
 opelbank.de
 open-mmx.com
 open-mmx.de
-open-tracker.info
 open.account.xiaomi.com
 open.fm
 open.mp.huangye.miui.com
@@ -17753,7 +17744,6 @@ openspeedtest.com
 openstreetmap.org
 opensubtitles.org
 openuserjs.org
-openvim.com
 openwall.com
 opera-mini.net
 opera-proxy.net
@@ -18099,7 +18089,6 @@ parool.nl
 parse.ly
 parsely.com
 part.xbox.com
-particlenews.com
 partner-ads.com
 partner-bank.at
 partner.ceneo.pl
@@ -18155,7 +18144,6 @@ pastebin.com
 pasteboard.co
 pasted.co
 patatabrava.com
-patatap.com
 patch.chelpus.com
 path.com
 path.qualcomm.com
@@ -19499,7 +19487,6 @@ rawcdn.githack.com
 rawgit.com
 rawhttp.cloudflareworkers.com
 raxco.com
-rayfile.com
 raygun.io
 rayli.com.cn
 razorpay.com
@@ -23732,7 +23719,6 @@ toronto.my.kaspersky.com
 torproject.org
 torrentfreak.com
 torrentgalaxy.to
-torrentsnipe.info
 torrentz.eu
 total-sexy.de
 totalbanken.dk
@@ -25564,7 +25550,6 @@ w1.web.whatsapp.com
 w1p.fr
 w2.outlook.com
 w2.web.whatsapp.com
-w2xg.com
 w3.cdn.anvato.net
 w3.org
 w3.sc2000.net
@@ -25900,7 +25885,6 @@ wfc.sebank.se
 wfcdn.de
 wfk-ew.de
 wg.spotify.com
-wgiftcard.com
 wgkk.at
 wgz-bank.de
 wgz-bank.lu
@@ -26624,7 +26608,6 @@ youtube-nocookie.co.ggpht.com
 youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.com
-youtube.de
 youtube.googleapis.com
 youtubei.googleapis.com
 youvisit.com
@@ -26802,7 +26785,6 @@ zwift.com
 zwigge.de
 zxq.net
 zymic.com
-zyngawithfriends.com
 zytpirwai.net
 zyva.org
 zz.ee
