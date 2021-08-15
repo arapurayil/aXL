@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Aug 2021 00:13:50 UTC
+# Last modified: 15 Aug 2021 08:02:38 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -2325,6 +2325,7 @@ l.engage.canva.com
 l.qq.com
 laban.vn
 labs-mqtt.xda-developers.com
+lahora.pe
 launch1.co
 launcher.spot.im
 launchpad.binance.com
@@ -3565,6 +3566,7 @@ theync.com
 thirdparty.bnc.lt
 thumb.pr0gramm.com
 tickle.com
+tiendastec.com.pe
 tigase.net
 tile-service.weather.microsoft.com
 tiles.services.mozilla.com
@@ -3580,6 +3582,7 @@ tlum.ru
 tm.a.prd.aadg.trafficmanager.net
 tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
+tmclub.eu
 tmearn.com
 to8to.com
 todhamilton.pro
@@ -3826,6 +3829,7 @@ visit.digidip.net
 vistaprint.com
 visualstudio-devdiv-c2s.msedge.net
 visualwebsiteoptimizer.com
+vivafm.com.pe
 vizury.com
 vk.cc
 vms-players.minutemediaservices.com
@@ -3883,7 +3887,6 @@ weheartit.com
 weighted.com.akadns.net
 wellsfargodealerservices.com
 westbyte.com
-westcoastuniversity-edu.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 weworkremotely.com
@@ -3991,6 +3994,7 @@ yt3.ggpht.com
 yts.re
 yui.yahooapis.com
 yumekin.com
+yunta.org.pe
 yupdates.art
 z-m.c10r.facebook.com
 z.zz.ht

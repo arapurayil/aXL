@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.15
-# Last modified: 15 Aug 2021 00:13:50 UTC
+# Last modified: 15 Aug 2021 08:02:38 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9931,7 +9931,6 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
-flow.page
 flowershospital.com
 flowgo.com
 flowplayer.com
@@ -10110,7 +10109,6 @@ forms.breitbart.com
 forms.convertkit.com
 forms.gle
 forms.office.com
-forms.zohopublic.com
 formspring.me
 formstack.com
 formy.upriver.ru
@@ -13671,6 +13669,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -14855,7 +14854,6 @@ link.tl
 link.twitch.tv
 link.wired.com
 link.xperialounge.sonymobile.com
-link.zixcentral.com
 linkbucks.com
 linkedin.com
 linkedinmobileapp.com
@@ -15118,7 +15116,6 @@ login.sparebank1.no
 login.techcrunch.com
 login.tmall.com
 login.vk.com
-login.vodafonemail.de
 login.vuukle.com
 login.web.wechat.com
 login.web2.wechat.com
@@ -15945,7 +15942,6 @@ mendotahospital.org
 mene.com
 mensfitness.com
 menshealth.com
-mensxp.com
 mercadobitcoin.com.br
 mercadolibre.com.ar
 mercadolivre.com.br
@@ -20345,7 +20341,6 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
-reurl.cc
 reuters.com
 revdl.com
 revenue.ie
@@ -21579,7 +21574,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21753,7 +21747,6 @@ simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
-simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -25682,7 +25675,6 @@ vod-storyboards.twitch.tv
 vod.pl
 vod.tvp.pl
 vodafone.co.nz
-vodafone.de
 vodafone.es
 vodafoneindia.tt.omtrdc.net
 voddownload.ndtv.com.edgekey.net
