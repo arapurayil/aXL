@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Aug 2021 16:02:44 UTC
+# Last modified: 16 Aug 2021 00:13:06 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -2238,7 +2238,6 @@ jackjones.com
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
