@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.16
-# Last modified: 16 Aug 2021 00:13:06 UTC
+# Last modified: 16 Aug 2021 08:02:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -13669,7 +13669,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -27094,6 +27093,7 @@ yep.it
 yerl.org
 yesbank.in
 yetti.be
+yhd.com
 yimg.com
 yinxiang.com
 yipes.com

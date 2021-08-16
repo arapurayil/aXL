@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Aug 2021 00:13:06 UTC
+# Last modified: 16 Aug 2021 08:02:47 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -490,7 +490,6 @@ ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
 ams3.digitaloceanspaces.com
 amway.com
-amzn.to
 amznadsi.hs.llnwd.net
 an.yandex.ru
 analitik.edevlet.gov.tr
@@ -1134,7 +1133,6 @@ comodoca.com
 completion.amazon.com
 comuesp.com
 conduit-services.com
-conferences.sigcomm.org
 config-prod.choice.faktor.io
 config.a-mo.net
 config.ioam.de
@@ -1195,7 +1193,6 @@ crashlytics.com
 crbcdn.jsfiddle.net
 creative.ak.fbcdn.net
 creatives.ancoraplatform.com
-credit-agricole.fr
 creditlibanais.com.lb
 creditonebank.com
 credomobile.com
@@ -1651,8 +1648,6 @@ ford.to
 form.jotform.com
 forms.aweber.com
 forms.convertkit.com
-forms.gle
-forms.office.com
 forter.com
 forum.tntvillage.scambioetico.org
 forumnewspaper.com
@@ -2157,7 +2152,6 @@ informer.yandex.ru
 informz.net
 infos.anz.com
 infos.telstra.com.au
-ing-diba.de
 ingame-news.ubi.com
 ingest.sentry.io
 inmoment.com
@@ -2311,12 +2305,10 @@ komachi.yomiuri.co.jp
 komoona.com
 kount.com
 kqzyfj.com
-kreditkarten-banking.lbb.de
 kredytbank.com.ua
 krxd.net
 kryptex.org
 kubanmedia.org
-kurzelinks.de
 l.betrad.com
 l.doubleclick.net
 l.ead.me
@@ -3059,7 +3051,6 @@ refersion.com
 registeridm.com
 relevant-digital.com
 renderer.apester.com
-renovationkingdom.com.au
 renta.papy.co.jp
 report-uri.com
 reports.cliqz.com
@@ -3078,7 +3069,6 @@ responsys.net
 rest.iad-03.braze.com
 restapi.amap.com
 resu8.hjfile.cn
-retro-bit.com
 reverie.com
 revistaeventos.com.br
 revistasobrerodas.com.br
@@ -3097,7 +3087,6 @@ roanoke.com
 rokt.com
 rollbar.com
 romsmania.com
-rosewill.com
 router.bittorrent.com
 rover.ebay.co.uk
 rover.ebay.com
@@ -3454,7 +3443,6 @@ steamanalyst.com
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
-storage.googleapis.com
 store-stc.zdn.vn
 store.qq.com
 storeedgefd.dsx.mp.microsoft.com
