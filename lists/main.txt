@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.16
-# Last modified: 16 Aug 2021 08:02:47 UTC
+# Last modified: 16 Aug 2021 16:03:26 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6830,7 +6830,6 @@ concordiahospital.mb.ca
 conductor-prod.ros.rockstargames.com
 conduit-services.com
 conduit.mailchimpapp.com
-conferences.sigcomm.org
 confib.ifmo.ru
 config-prod.choice.faktor.io
 config.a-mo.net
@@ -14499,7 +14498,6 @@ kudtkoekiewet.nl
 kuleuven.eu.qualtrics.com
 kunden-mkb-bank.de
 kurskprombank.ru
-kurzelinks.de
 kutt.it
 kuveytturk.com.tr
 kuzbank.ru
@@ -20257,7 +20255,6 @@ renault-bank-direkt.de
 renderer.apester.com
 renfrewshire.gov.uk
 renobell-ni.com
-renovationkingdom.com.au
 renren.com
 renta.papy.co.jp
 rentonwa.gov
@@ -20508,7 +20505,6 @@ rosemountbank.com
 rosenergobank.ru
 rosevillebankingcenter.com
 rosevrobank.ru
-rosewill.com
 rosinteh.com
 rosinteh.ru
 rosinterbank.ru
