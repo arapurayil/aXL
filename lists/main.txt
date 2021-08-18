@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.18
-# Last modified: 18 Aug 2021 00:13:20 UTC
+# Last modified: 18 Aug 2021 08:03:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2679,6 +2679,7 @@ apis.live.net
 apis.mail.yahoo.com
 apis.naver.com
 apis.playstove.com.edgekey.net
+apis.quantcast.mgr.consensu.org
 apis.snapchat.com
 apis.vk.vom
 apiservices.krxd.net
@@ -5634,6 +5635,7 @@ cdn.cohesionapps.com
 cdn.consentmanager.mgr.consensu.org
 cdn.content.prod.cms.msn.com
 cdn.contentful.com
+cdn.conversant.mgr.consensu.org
 cdn.convertkit.com
 cdn.cookielaw.org
 cdn.cpnscdn.com
@@ -5972,7 +5974,6 @@ cfsb.com
 cfsbancorp.com
 cfu.net
 cfvod.kaltura.com
-cgames.de
 cgd.pt
 cgi.adobe.com
 cgi.connect.qq.com
@@ -6366,7 +6367,6 @@ click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
-click.taobao.com
 click.txn-email.playstation.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -6939,7 +6939,6 @@ content.sketch.sonymobile.com
 content.swrve.com
 content.vidgyor.com
 content.webcollage.net
-content.xilu.com
 content.yikyakapi.net
 contentexchange.me
 contentful.com
@@ -6950,6 +6949,7 @@ control.com
 control.phone.com
 controller.tv.mi.com
 controllers.xbox.com
+conversant.mgr.consensu.org
 conversantmedia.com
 conversation-read.spot.im
 conversehospital.com
@@ -6969,6 +6969,7 @@ cookielaw.org
 cookies.avrotros.nl
 cookies.buienradar.nl
 cookies.nos.nl
+cookies.onetrust.mgr.consensu.org
 cookies.rtl.nl
 cookies.rtlnieuws.nl
 cookieservice.rtl.nl
@@ -11271,6 +11272,7 @@ gr.ign.com
 gr.me
 gr.ph
 grab.com
+grabify.link
 grabillbank.com
 grabtaxi.com
 grade.market.yandex.ru
@@ -11734,8 +11736,6 @@ hessen-spion.de
 hestehospitalet.dk
 hetparool.nl
 hetzner.de
-heureka.cz
-heureka.sk
 hex.io
 hexun.com
 heymistr.com
@@ -13078,7 +13078,6 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
-imgshare.info
 imgsmail.ru
 imgssl.constantcontact.com
 imgstock.naver.com
@@ -13659,6 +13658,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -15442,6 +15442,7 @@ marca.com
 marcard.de
 marcus.com
 marfeel.com
+marfeel.mgr.consensu.org
 marfeelcache.com
 marfinbank.ua
 margevicius.lt
@@ -16828,7 +16829,6 @@ naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
 naiadsystems.com
-naifei.shop
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -17847,6 +17847,7 @@ onesignal.com
 onet.pl
 onet.rakuten.co.jp
 onetrust.com
+onetrust.mgr.consensu.org
 onezaim.ru
 onfastspring.com
 onguardonline.gov
@@ -21163,6 +21164,7 @@ sdad.guru
 sdba.com
 sdbmobilec.sdb.lk
 sdk-bockum-hoevel.de
+sdk-gcp.privacy-center.org
 sdk-os.mpsdk.easebar.com
 sdk-resources.blinkreceipt.com
 sdk-stockhausen.de
@@ -21470,6 +21472,7 @@ serverfault.com
 serverorigin.com
 servetown.com
 service.biv.sony.tv
+service.cz.nl
 service.fuib.com
 service.game-mode.net
 service.gov.uk
@@ -21683,6 +21686,7 @@ siasat.pk
 siatka.org
 sib.ci
 sibank.ru
+sibboventures.mgr.consensu.org
 sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
@@ -21700,7 +21704,6 @@ sift.com
 siftscience.com
 sightpusher.com
 sign-in.soundcloud.com
-signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
@@ -27042,7 +27045,6 @@ xvp.akamaized.net
 xx.snap.com
 xxx.com.br
 xywy.com
-xzone.cz
 y2u.be
 y8.com
 ya.com
