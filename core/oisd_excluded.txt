@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 Aug 2021 16:02:56 UTC
+# Last modified: 18 Aug 2021 00:13:20 UTC
 0rz.tw
 000webhostapp.com
 1coolbox.com
@@ -599,6 +599,7 @@ apis.com.br
 apis.google.com
 apis.ihg.com.edgekey.net
 apis.playstove.com.edgekey.net
+apis.quantcast.mgr.consensu.org
 apiservices.krxd.net
 apituner.ecbsn.com
 apmebf.com
@@ -901,6 +902,7 @@ cdn.cliqz.com
 cdn.cloud.altbalaji.com
 cdn.cohesionapps.com
 cdn.consentmanager.mgr.consensu.org
+cdn.conversant.mgr.consensu.org
 cdn.cookielaw.org
 cdn.cquotient.com
 cdn.curalate.com
@@ -984,7 +986,6 @@ cf1.vuze.com
 cf2.me
 cfeucdn.com
 cfvod.kaltura.com
-cgames.de
 ch0p.darty.com
 channeladvisor.com
 channelwebsdks.azureedge.net
@@ -1036,7 +1037,6 @@ click.pstmrk.it
 click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
-click.taobao.com
 click.zoom.us
 clickbank.com
 clickbank.net
@@ -1133,9 +1133,9 @@ consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
 content.awaze.com
-content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
+conversant.mgr.consensu.org
 conviva.com
 cooey-coe.org
 cookie-script.com
@@ -1145,6 +1145,7 @@ cookiebot.com
 cookiebot.com-v1.edgekey.net
 cookielaw.org
 cookies.nos.nl
+cookies.onetrust.mgr.consensu.org
 coolrom.com
 core.cloud.unity3d.com
 coronavirus.app
@@ -1762,6 +1763,7 @@ gotraffic.net
 gp.org
 gpm.samsungqbe.com
 grab.com
+grabify.link
 grade.market.yandex.ru
 graph.accountkit.com
 graph.facebook.com
@@ -1834,8 +1836,6 @@ herbanman.com
 here.com
 herokussl.com
 hetzner.de
-heureka.cz
-heureka.sk
 hexun.com
 heymistr.com
 highonandroid.com
@@ -2073,7 +2073,6 @@ img1.sj.qq.com
 img1.wsimg.com
 img2.autoimg.cn
 img2.user.kanimg.com
-imgshare.info
 imgssl.constantcontact.com
 impactradius.com
 imrworldwide.com
@@ -2174,6 +2173,7 @@ jackjones.com
 jaleco.com
 janrain.com
 japantv.club
+java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2352,6 +2352,7 @@ manta.com
 manticorearms.com
 maps.windows.com
 marfeel.com
+marfeel.mgr.consensu.org
 marfeelcache.com
 marinetraffic.com
 marinsm.com
@@ -2518,7 +2519,6 @@ nab.com.au
 nab.demdex.net
 nabbr.com
 naiadsystems.com
-naifei.shop
 nanigans.com
 nanovisor.io
 narwhal.mobidia.com
@@ -2658,6 +2658,7 @@ onelink.me
 onenetworkdirect.net
 onesignal.com
 onetrust.com
+onetrust.mgr.consensu.org
 online-barcode-generator.net
 online-metrix.net
 online.adservicemedia.dk
@@ -3104,6 +3105,7 @@ scrippsnetworks.com
 script.ioam.de
 scripts.kataweb.it
 scroll.com
+sdk-gcp.privacy-center.org
 sdk-os.mpsdk.easebar.com
 sdk-resources.blinkreceipt.com
 sdk.hockeyapp.net
@@ -3160,6 +3162,7 @@ sentry.io
 serials.ws
 serve.adtrackers.net
 server.iad.liveperson.net
+service.cz.nl
 service.game-mode.net
 service.hotstar.com
 service.weibo.com
@@ -3195,12 +3198,12 @@ shorte.st
 shortpixel.ai
 shrink.pe
 shutterstock.7eer.net
+sibboventures.mgr.consensu.org
 sickrage.ca
 sidecar.gitter.im
 sift.com
 siftscience.com
 sightpusher.com
-signal-collector.gemaltodigitalbankingidcloud.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 simba.taobao.com
 simply.com
@@ -3859,13 +3862,13 @@ xtra1.gpsonextra.net
 xtra2.gpsonextra.net
 xtra3.gpsonextra.net
 xtra4.gpsonextra.net
-xzone.cz
 y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com
 yahoodns.net
 yandex.st
 yandexcdn.com
+yap.yahoo.com
 yimg.com
 ykrec.youku.com
 ynuf.aliapp.org
