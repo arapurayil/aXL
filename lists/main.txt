@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.19
-# Last modified: 19 Aug 2021 00:11:18 UTC
+# Last modified: 19 Aug 2021 08:02:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7934,6 +7934,7 @@ digitalselect.net
 digitalsmiths.net
 digitalteleport.com
 digitaltrends.com
+digits.com
 digsby.com
 diigo.com
 dimadima.de
@@ -23335,6 +23336,7 @@ sug.search.daum.net
 sugar-online.de
 sugarsync.com
 sugg.search.yahoo.net
+suggestqueries-clients6.youtube.com
 suggestqueries.google.com
 sugoi.pomf.se
 suite.office.com
