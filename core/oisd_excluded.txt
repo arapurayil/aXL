@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Aug 2021 08:02:35 UTC
+# Last modified: 19 Aug 2021 16:03:16 UTC
 0rz.tw
 000webhostapp.com
 1coolbox.com
@@ -47,13 +47,11 @@
 122.2o7.net
 123formbuilder.com
 123greetings.com
-126.am
 127.net
 140cc.v.fwmrm.net
 207.net
 265.com
 360.yahoo.com
-360wzb.cn
 888poker.com
 2222mb.com
 5231.xg4ken.com
@@ -450,7 +448,6 @@ aic-ngfts.lge.com
 aii.sh
 aimatch.com
 airbrake.io
-aircre.com
 ak.sail-horizon.com
 aka-apiservices.boostmobile.com
 akam.net
@@ -477,7 +474,6 @@ amdc.m.taobao.com
 americanlisted.com
 amishcountryfurnishings.com
 amlg.io
-amna.gr
 amos.alicdn.com
 ampcid.google.com
 amplitude.com
@@ -504,7 +500,6 @@ androidweblog.com
 anexia-it.com
 angelfire.com
 angolotesti.it
-anonym.to
 anrdoezrs.net
 answerhub.com
 antionline.com
@@ -669,7 +664,6 @@ atspace.com
 att.com.edgekey.net
 attraqt.com
 attribution.singular.net
-atw.hu
 au.edubirdie.com
 audid-api.taobao.com
 audio-ec.spotify.com
@@ -933,6 +927,7 @@ cdn.mobsocmedia.com
 cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.onesignal.com
+cdn.opencmp.net
 cdn.optimizely.com
 cdn.optimizely.com.edgekey.net
 cdn.pendo.io
@@ -1349,7 +1344,6 @@ down.360safe.com
 down.sandai.net
 download-dc1.gfe.nvidia.com
 download-free-games.com
-downloadha.com
 downloads.wisecleaner.com
 downmobile.kugou.com
 doxologia.ro
@@ -1506,7 +1500,6 @@ execute-api.us-east-1.amazonaws.com
 exosrv.com
 experience.jcu.edu.au
 experience.tinypass.com
-exploit-db.com
 explore.amd.com
 ext.goguardian.com
 extern.prisjakt.nu
@@ -1552,7 +1545,6 @@ filman.tv
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
-fireemblem.net
 fishki.net
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
@@ -1765,6 +1757,7 @@ gp.org
 gpm.samsungqbe.com
 grab.com
 grabify.link
+grabo.bg
 grade.market.yandex.ru
 graph.accountkit.com
 graph.facebook.com
@@ -2101,7 +2094,6 @@ innexinc.com
 inq.com
 inquisition.goguardian.com
 inscname.net
-insecam.org
 inside-graph.com
 insideruser.trafficmanager.net
 insight.rapid7.com
@@ -2330,8 +2322,8 @@ mac-torrent-download.net
 mackeeper.com
 macromedia.com
 madmimi.com
+mads-eu.amazon.com
 mads.amazon.com
-madshi.net
 magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
@@ -2852,6 +2844,7 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 presence-grpc-noneu.truecaller.com
+president.ac.id
 prf.hn
 pricee.com
 pricelist.skype.com
@@ -3356,7 +3349,6 @@ store.qq.com
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stptrisakti.ac.id
-strangled.net
 strategypage.com
 stream-hk.viu.com
 streaming.adswizz.com
@@ -3368,7 +3360,6 @@ su.ff.avast.com
 sub-pubsub.hotstar-labs.com
 sub.to
 suggestqueries-clients6.youtube.com
-sugoi.pomf.se
 sumologic.com
 supercell.net
 surl.me
@@ -3582,6 +3573,7 @@ typekit.net
 typekit.net-v3.edgekey.net
 u.cubeupload.com
 u.teknik.io
+uamobile.net
 uapi.adrise.tv
 uarating.com
 ub.edu.ph
@@ -3615,7 +3607,6 @@ unitedbike.com
 unity.com
 unity3d.com
 unity3d.com.edgekey.net
-univ-oran.dz
 unizar.es
 unja.ac.id
 unk.vver.kiae.rr
@@ -3777,7 +3768,6 @@ webpushr.com
 webredir.vip.gandi.net
 websecurity.norton.com
 websecurityguard.com
-webwire.com
 wefunder.com
 weheartit.com
 weighted.com.akadns.net
