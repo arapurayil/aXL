@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.08.19
-# Last modified: 19 Aug 2021 16:03:17 UTC
+# Version: 2.08.20
+# Last modified: 20 Aug 2021 00:12:38 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -259,7 +259,6 @@
 356bank.com
 360.cn
 360.yahoo.com
-360wzb.cn
 36kr.com
 39.net
 3c.co
@@ -1263,7 +1262,6 @@ airbnb.pl
 airbnb.ru
 airbnb.se
 airbrake.io
-aircre.com
 airdownload.adobe.com
 airdownload2.adobe.com
 airfind.com
@@ -2118,7 +2116,6 @@ aml-gateway.cloud.vimeo.com
 amlg.io
 ammerland-klinik.de
 ammyy.com
-amna.gr
 amnat.com
 amnb.com
 amoory.com
@@ -3125,7 +3122,6 @@ attracta.com
 attraqt.com
 attribution.singular.net
 atuc.com
-atw.hu
 au-1.hide.me
 au-2.hide.me
 au.download.windowsupdate.com
@@ -5713,6 +5709,7 @@ cdn.office.net
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
 cdn.onesignal.com
+cdn.opencmp.net
 cdn.opinionlab.com
 cdn.optimizely.com
 cdn.optimizely.com.edgekey.net
@@ -8231,7 +8228,6 @@ download3.nirsoft.net
 downloadcenter.samsung.com
 downloadconfiguratorcloud.sonymobile.com
 downloadcrew.com
-downloadha.com
 downloads-cloud.boomkat.com
 downloads.boomkat.com
 downloads.flipboard.com
@@ -9273,7 +9269,6 @@ experience.tinypass.com
 experienceproject.com
 expertcity.com
 experts-exchange.com
-exploit-db.com
 explore.amd.com
 explore.next.exchange
 explore.pinterest.com
@@ -9748,7 +9743,6 @@ firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 firebog.net
-fireemblem.net
 firefox.com
 firefox.settings.services.mozilla.com
 firehousehospital.com
@@ -11275,6 +11269,7 @@ gr.ph
 grab.com
 grabify.link
 grabillbank.com
+grabo.bg
 grabtaxi.com
 grade.market.yandex.ru
 graffiti.net
@@ -13256,7 +13251,6 @@ inq.com
 inquisition.goguardian.com
 ins.jr.mi.com
 inscname.net
-insecam.org
 inselklinik-fehmarn.de
 inside-brazil.flipboard.com
 inside-espanol.flipboard.com
@@ -15289,7 +15283,6 @@ madriverhospital.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
 mads.amazon.com
-madshi.net
 maerkische-bank.de
 maerkische-kliniken.de
 mafbancorp.com
@@ -19195,6 +19188,7 @@ preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
 presence-grpc-noneu.truecaller.com
 presence-grpc.truecaller.com
+president.ac.id
 presidential.com
 press.soundcloud.com
 press.vimeo.com
@@ -23338,7 +23332,6 @@ sugarsync.com
 sugg.search.yahoo.net
 suggestqueries-clients6.youtube.com
 suggestqueries.google.com
-sugoi.pomf.se
 suite.office.com
 suite15.emarsys.net
 sukumvithospital.com
@@ -24565,6 +24558,7 @@ u.to
 u.wechat.com
 uabonline.org
 ualberta.ca
+uamobile.net
 uapi.adrise.tv
 uaprof.sonymobile.com
 uarating.com
@@ -24798,7 +24792,6 @@ unity.com
 unity3d.com
 unity3d.com.edgekey.net
 unitybank.com
-univ-oran.dz
 univerlife.kz
 universalbank.com
 universalbank.com.ua
@@ -26334,7 +26327,6 @@ webtrading.onvista-bank.de
 webtropia.com
 webtv.com
 webupd8.org
-webwire.com
 webworld.co.nz
 wechat.com
 wed.li

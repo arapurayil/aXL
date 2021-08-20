@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Aug 2021 16:03:16 UTC
+# Last modified: 20 Aug 2021 00:12:38 UTC
 0rz.tw
 000webhostapp.com
 1coolbox.com
@@ -440,7 +440,6 @@ aftership.com
 agacelebir.com
 agkn.com
 agoda.com.edgekey.net
-ahacdn.me
 ahd.ruten.com.tw
 ahinsashoes.cz
 ai.yimg.jp
@@ -684,6 +683,7 @@ autolinkmaker.itunes.apple.com
 autopilothq.com
 avantlink.com
 avatarservices.xboxlive.com
+avgle.com
 aviasales.ru
 avlyun.sec.miui.com
 awaps.yandex.ru
@@ -1128,6 +1128,7 @@ consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
 content.awaze.com
+content.barracuda.com
 contentexchange.me
 continuum.dds.microsoft.com
 conversant.mgr.consensu.org
@@ -1422,7 +1423,6 @@ ellation.map.fastly.net
 eloqua.com
 em.bm23.com
 email.uber.com
-embed.mystream.to
 embed.tawk.to
 embed.windy.com
 emjcd.com
@@ -1545,6 +1545,7 @@ filman.tv
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
+fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
@@ -1882,7 +1883,6 @@ hw-cdn.trafficjunky.net
 hw-cdn2.adtng.com
 hw-cdn2.trafficjunky.net
 hybridclient.naiadsystems.com
-hydracdn.network
 hyperurl.co
 hypestat.com
 i.cdnpark.com
@@ -2064,7 +2064,6 @@ img.pr0gramm.com
 img.smi2.net
 img03.en25.com
 img1.sj.qq.com
-img1.wsimg.com
 img2.autoimg.cn
 img2.user.kanimg.com
 imgssl.constantcontact.com
@@ -2166,7 +2165,6 @@ jackjones.com
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2549,8 +2547,8 @@ nile.works
 nl.sitestat.com
 nllapps.com
 nlrb.gov
-nocdnrlly.xyz
 nonstoppartner.net
+nordvpn.hasoffers.com
 norstatsurveys.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
@@ -2770,7 +2768,6 @@ ping.ui.com
 pings.conviva.com
 pinnacle.com
 pinnaclesports.com
-pinpoint.us-east-1.amazonaws.com
 pioneer-audiovisual.eu
 pipe.aria.microsoft.com
 piu.ac.ke
@@ -2956,7 +2953,6 @@ recs.richrelevance.com
 redefine.hit.stat24.com
 redefine2.hit.stat24.com
 redir.lomadee.com
-redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.viglink.com
@@ -3106,6 +3102,7 @@ sdk.hockeyapp.net
 sdk.iad-03.braze.com
 sdk.privacy-center.org
 sdk.split.io
+sdk.touchcast.com
 sdk.waze.com
 sdkapicdn.applanga.com
 sdmaid.darken.eu
@@ -3189,7 +3186,6 @@ shopperapproved.com
 shoppy.gg
 shopzilla.com
 shorte.st
-shortpixel.ai
 shrink.pe
 shutterstock.7eer.net
 sibboventures.mgr.consensu.org
