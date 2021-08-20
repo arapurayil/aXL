@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.20
-# Last modified: 20 Aug 2021 00:12:38 UTC
+# Last modified: 20 Aug 2021 08:02:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1220,7 +1220,6 @@ agtexas.com
 agtrust.com
 agvbanken.de
 ah.nl
-ahacdn.me
 ahcdn.com
 ahcpr.gov
 ahd.ruten.com.tw
@@ -3247,6 +3246,7 @@ avbank.ru
 avbpgh.com
 avenuespethospital.com
 avg.com
+avgle.com
 avhospital.org
 avia.ideabank.ua
 aviasales.ru
@@ -6916,6 +6916,7 @@ content-icc.pulselive.com
 content-storage-upload.googleapis.com
 content.aimatch.com
 content.awaze.com
+content.barracuda.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -8866,7 +8867,6 @@ embed-fastly.wistia.com
 embed.actionbutton.co
 embed.flowplayer.org
 embed.ly
-embed.mystream.to
 embed.spot.im
 embed.spotify.com
 embed.tawk.to
@@ -9080,6 +9080,7 @@ etb-ag.com
 eteba.ro
 etebac.com
 etf.com
+ethermine.org
 ethias-banque.be
 ethikbank.de
 etl.tindersparks.com
@@ -9743,6 +9744,7 @@ firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 firebog.net
+fireflyengagement.com
 firefox.com
 firefox.settings.services.mozilla.com
 firehousehospital.com
@@ -11784,6 +11786,7 @@ hipotecario.com.ar
 hips.hearstapps.com
 hipsandcurves.com
 hirslanden.ch
+hisense.com
 hispanito.com
 history.com
 history.paypal.com
@@ -12131,7 +12134,6 @@ hwk-bn.de
 hybrid-analysis.com
 hybrid.xiaomi.com
 hybridclient.naiadsystems.com
-hydracdn.network
 hydrax.net
 hygeia.gr
 hyperurl.co
@@ -13653,7 +13655,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -17273,7 +17274,6 @@ nobacon.de
 nobaeg.de
 nobook.com
 nocache.support.sonymobile.com
-nocdnrlly.xyz
 node.plexapp.com
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
@@ -17303,6 +17303,7 @@ nordpass.com
 nordstromhospital.fi
 nordthueringer-volksbank.de
 nordvpn.com
+nordvpn.hasoffers.com
 nordvpn.net
 norges-bank.no
 noriba.com
@@ -20154,7 +20155,6 @@ redir.fr
 redir.lomadee.com
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
-redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
@@ -21171,6 +21171,7 @@ sdk.peppermint.samsung.com
 sdk.privacy-center.org
 sdk.split.io
 sdk.taboola.com
+sdk.touchcast.com
 sdk.vk.com
 sdk.waze.com
 sdkapicdn.applanga.com
