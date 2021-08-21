@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Aug 2021 16:03:03 UTC
+# Last modified: 21 Aug 2021 00:12:35 UTC
 0rz.tw
 000webhostapp.com
 1coolbox.com
@@ -1445,6 +1445,7 @@ epizy.com
 epl.paypal-communication.com
 epsilon.com
 equilor.hu
+err.lolipop.jp
 err.taobao.com
 error.fc2.com
 errorception.com
@@ -3670,6 +3671,7 @@ va-e.c.liveperson.net
 va-s.c.liveperson.net
 va.tawk.to
 valimail.actonservice.com
+vapi.apk.v-mate.mobi
 variations.brave.com
 vbsedit.com
 vcdn.biz
