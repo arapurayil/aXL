@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.21
-# Last modified: 21 Aug 2021 00:12:35 UTC
+# Last modified: 21 Aug 2021 08:03:32 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9013,6 +9013,7 @@ ergobank.ru
 erky.de
 erlabrunn.de
 eroadult.de
+err.lolipop.jp
 err.taobao.com
 error.facebook.com
 error.fc2.com
@@ -25168,6 +25169,7 @@ vandelaydesign.com
 vanguard.com
 vanilla.futurecdn.net
 vanlanschot.nl
+vapi.apk.v-mate.mobi
 varengold.de
 variations.brave.com
 variety.com
