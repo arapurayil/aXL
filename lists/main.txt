@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.22
-# Last modified: 22 Aug 2021 00:13:56 UTC
+# Last modified: 22 Aug 2021 08:01:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -768,7 +768,6 @@ adcbuae.com
 adcell.com
 adclichosting.com
 adcolo.com
-adconfig.ster.nl
 adcr.naver.com
 addedfriends.com
 addevent.com
@@ -1226,14 +1225,12 @@ ahd.ruten.com.tw
 ahepahosp.gr
 ahhospital.com
 ahiba.hn
-ahinsashoes.cz
 ahli.com
 ahoo.it
 ahwatukeecommonsveterinaryhospital.vetsuite.com
 ai.ly
 ai.yimg.jp
 aib.ie
-aic-ngfts.lge.com
 aicdn.com
 aicp-rom.com
 aids.gov
@@ -1318,7 +1315,6 @@ akh-wien.ac.at
 akhwien.at
 akibabank.com
 akmba.org
-akpbvba.be
 akreg.com
 akstat.io
 akstat.io.edgekey.net
@@ -1443,7 +1439,6 @@ almbrand.dk
 almprofessional.com
 aloha-proxy-ir.aws.viber.com
 aloha.viber.com
-alooma.com
 alorbank.ru
 alpari.ru
 alpenbank.at
@@ -2112,7 +2107,6 @@ amil.com.br
 amishcountryfurnishings.com
 amistad.com
 aml-gateway.cloud.vimeo.com
-amlg.io
 ammerland-klinik.de
 ammyy.com
 amnat.com
@@ -2440,7 +2434,6 @@ api.engager.ecbsn.com
 api.entrance.sonymobile.com
 api.erabu.sony.tv
 api.erabu.sonymobile.com
-api.euro.hismarttv.com
 api.exchange.coinbase.com
 api.facebook.com
 api.faceid.com
@@ -2494,6 +2487,7 @@ api.line.me
 api.live.bilibili.com
 api.locize.io
 api.loganalytics.io
+api.logentries.com
 api.login.engadget.com
 api.login.techcrunch.com
 api.login.yahoo.com
@@ -2610,7 +2604,6 @@ api.uaq.xiaomi.net
 api.uca.cloud.unity3d.com
 api.unsplash.com
 api.urbandictionary.com
-api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
 api.vc.bilibili.com
@@ -3598,6 +3591,7 @@ bank11.de
 bank11direkt.de
 bank1saar.de
 bank34.ua
+bank360.hu
 banka.hr
 bankakademie.de
 bankalbilad.com
@@ -4118,7 +4112,6 @@ bd.nl
 bdaf.gp
 bdc.ca
 bdc.com.eg
-bdcore-apr-lb.bda.ndmdhs.com
 bde.es
 bdg.ch
 bdimg.com
@@ -5002,6 +4995,7 @@ buff.ly
 buffer-media-uploads.s3.amazonaws.com
 bufferapp.com
 bugbot.flipboard.com
+bugetul.ro
 bugly.qq.com
 bugmenot.com
 bugs.launchpad.net
@@ -5596,7 +5590,6 @@ cdn.adrise.tv
 cdn.agilebits.com
 cdn.airfind.com
 cdn.akubebas.com
-cdn.alooma.com
 cdn.amazon.co.uk
 cdn.amazon.com
 cdn.amazon.de
@@ -5745,7 +5738,6 @@ cdn.shopifycloud.com
 cdn.shortpixel.ai
 cdn.sift.com
 cdn.siftscience.com
-cdn.smassets.net
 cdn.speedof.me
 cdn.split.io
 cdn.sstatic.net
@@ -5794,7 +5786,6 @@ cdn1.smartadserver.com
 cdn1.xda-developers.com
 cdn13.com
 cdn2.airfind.com
-cdn2.cache.vn
 cdn2.chia-anime.tv
 cdn2.dailycaller.com
 cdn2.digitaltrends.com
@@ -6348,7 +6339,6 @@ click.aliexpress.com
 click.cptrack.de
 click.dji.com
 click.e.change.org
-click.email.microsoftemail.com
 click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com
@@ -6405,7 +6395,6 @@ client.hip.live.com
 client.mdmbank.ru
 client.nb-bank.ru
 client.paritetbank.by
-client.perimeterx.net
 client.pik-comfort.ru
 client.reactrjs.com
 client.relay.crisp.chat
@@ -6694,7 +6683,6 @@ com.com
 com.edgekey.net
 com.edgesuite.net
 com.my
-com.ne.kr
 com.s3.amazonaws.com
 com.tr
 comafi.com.ar
@@ -7413,7 +7401,6 @@ d13itkw33a7sus.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
 d1bl11pgu3tw3h.cloudfront.net
-d1exy62jh2w365.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
@@ -7441,7 +7428,6 @@ d37gvrvc0wt4s1.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
-d3hmp0045zy3cs.cloudfront.net
 d3hprka3kr08q2.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
@@ -8252,6 +8238,7 @@ dpbolvw.net
 dpimg.ospserver.net
 dplwebmarketing.com
 dpm.demdex.net
+dpstatic.com
 dpu.samsungelectronics.com
 dr-bromba.de
 dr-john-consult.de
@@ -12624,7 +12611,6 @@ icloud.com.edgekey.net
 icon25-bank.com
 iconz.co.nz
 icorner.ch
-icpam.ro
 icptrack.com
 icq.com
 icq.im
@@ -13491,7 +13477,6 @@ iqtest.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
-iradio.ie
 iraiser.eu
 irbbank.ch
 irc-galleria.net
@@ -13656,6 +13641,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -13800,6 +13786,7 @@ js.hsforms.net
 js.indexww.com
 js.intercomcdn.com
 js.iplsc.com
+js.logentries.com
 js.maxmind.com
 js.passport.qihucdn.com
 js.pulseinsights.com
@@ -13874,7 +13861,6 @@ kantonalbank.ch
 kantonsspitalglarus.ch
 kaotic.com
 kapitalbank.az
-kaptcha.com
 karafarinbank.com
 karalyte.com
 karanpc.com
@@ -14502,7 +14488,6 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
-l.ead.me
 l.engage.canva.com
 l.facebook.com
 l.google.com
@@ -14785,6 +14770,7 @@ lifestream.aol.com
 lifewire.com
 liftoff.io
 ligabank.de
+ligastavok.ru
 light.ifmo.ru
 lightinthebox.com
 lightroom.adobe.com
@@ -15057,6 +15043,7 @@ log.zoom.us
 logansportsavings.com
 logback.qos.ch
 logbuch-netzpolitik.de
+logentries.com
 logfiles-va-6.zoom.us
 logfiles-va.zoom.us
 logfiles.zoom.us
@@ -15801,7 +15788,6 @@ mediacorp.112.2o7.net
 mediafile.dcinside.com
 mediafire.com
 mediafiretrend.com
-mediafuse.com
 mediagra.com
 mediakit.breitbart.com
 mediamarkt.at
@@ -16074,7 +16060,6 @@ middlesbrough.gov.uk
 middletownhospital.org
 midlothian.gov.uk
 midpennbank.com
-midrollmedia.mc.tritondigital.com
 midsouthbank.com
 midstatebank.com
 midstatesbank.com
@@ -16247,7 +16232,6 @@ mlp.de
 mls.com
 mm.ph
 mma.daum.net
-mmarau.ac.ke
 mmb.daum.net
 mmbank.com
 mmbank.ru
@@ -18164,6 +18148,7 @@ os.boldchat.com
 osa-indosat.lotusflare.com
 osaka-med.ac.jp
 osb-apps.samsungqbe.com
+osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
 osb.samsungqbe.com
 oschad24.com
@@ -18495,6 +18480,7 @@ paulfredrick.com
 paulinenkrankenhaus.de
 pausenhof.de
 pavtube.com
+pavv.co.kr
 pax-bank.de
 pay.aeroflot.ru
 pay.alfabank.ua
@@ -18690,7 +18676,6 @@ performance.gov
 performfeeds.com
 performgroup.com
 perfspot.com
-perimeterx.net
 peripherals.engadget.com
 perksatwork.com
 permanenttsb.ie
@@ -18842,7 +18827,6 @@ piscataquaanimalhospital.com
 pitchfork.com
 pittsburgh.cbslocal.com
 pittsfieldco-op.com
-piu.ac.ke
 pius-hospital.de
 piwik.org
 pix11.com
@@ -18936,7 +18920,6 @@ player.dacast.com
 player.glomex.com
 player.h-cdn.com
 player.hulu.com
-player.mediafuse.com
 player.ooyala.com
 player.performgroup.com
 player.pl
@@ -19302,7 +19285,6 @@ prod.public.atl-paas.net
 prod.realtimevc.ros.rockstargames.com
 prod.registrar.skype.com
 prod.ros.rockstargames.com
-prod.smassets.net
 prod.telemetry.ros.rockstargames.com
 prod.vidible.tv
 prod6-files.acompli.net
@@ -19514,7 +19496,6 @@ pusanbank.co.kr
 push.api.bbci.co.uk
 push.buy.mi.com
 push.chocolatey.org
-push.notifica.re
 push.rollout.io
 push.services.mozilla.com
 push.wps.cn
@@ -20206,7 +20187,6 @@ regionshospital.com
 register.xmpush.global.xiaomi.com
 register.xmpush.xiaomi.com
 registeridm.com
-regmedia.co.uk
 regulations.gov
 reha-sachsen.de
 reha-zentrum-mettingen.de
@@ -20348,7 +20328,6 @@ rficb.ru
 rft.ru
 rg-adguard.net
 rg3.github.io
-rgho.st
 rgmechanicsgames.com
 rgonline.com
 rgs.ru
@@ -20515,6 +20494,7 @@ royalbankpa.com
 royalguardian.com.au
 royalmail.com
 royaloaksbank.com
+royalultimate.com
 rozetka.com.ua
 rpetri.ch
 rpg.twitch.tv
@@ -20774,7 +20754,6 @@ s3.symcb.com
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
 s3.us-west-1.amazonaws.com
-s3.us-west-1.wasabisys.com
 s3.us-west-2.amazonaws.com
 s3.vuukle.com
 s3.wp.com
@@ -23080,7 +23059,6 @@ stats.streamelements.com
 stats.surfaid.ihost.com
 stats.t-online.de
 stats.uptimerobot.com
-stats2.mytuner.mobi
 statsandengagement.help.soundcloud.com
 statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com
@@ -23260,7 +23238,6 @@ str.hit.gemius.pl
 straitstimes.com
 strangled.net
 strat.ru
-strategypage.com
 strato.de
 stratus.soundcloud.com
 stream-hk.viu.com
@@ -23863,7 +23840,6 @@ texasbankers.com
 texaschildrenshospital.org
 texasfirstbanks.com
 texasflba.com
-texashomebase.com
 texaslandbank.com
 texasmba.org
 texasstatebank.com
@@ -24192,7 +24168,6 @@ torrentfreak.com
 torrentgalaxy.to
 torrentsnipe.info
 total-sexy.de
-total.direct-energie.com
 totalbanken.dk
 totalh.com
 totta.pt
@@ -25171,7 +25146,6 @@ vanilla.futurecdn.net
 vanlanschot.nl
 vapi.apk.v-mate.mobi
 varengold.de
-variations.brave.com
 variety.com
 vas.samsungapps.com
 vasapi.rdtuijian.com
@@ -25441,8 +25415,6 @@ vidazoo.com
 video-api.mco.arcpublishing.com
 video-api.wsj.com
 video-api.yql.yahoo.com
-video-dfw5-1.xx.fbcdn.net
-video-dfw5-2.xx.fbcdn.net
 video-fa.scdn.co
 video-preview.gtflixtv.com
 video-stats.l.google.com
@@ -26278,6 +26250,7 @@ webfriends.in
 webfusion.co.uk
 webgains.com
 webgrab.wechat.com
+webhook.logentries.com
 webhostingpad.com
 webhostingplanet.com
 webhostingtalk.com
@@ -26531,7 +26504,6 @@ windowscentral.com
 windowsphone-preview.rtm.vint.xbox.com
 windowsphone.com
 windowsphone.xbox.com
-windowssearch.com
 windowsupdate.com
 windowsupdate.nsatc.net
 windowupdate.org
@@ -26690,6 +26662,7 @@ ws-adv.ais.co.th
 ws-api.spot.im
 ws-comments.ign.com
 ws-eu.amazon-adsystem.com
+ws-eu.pusher.com
 ws-feed.exchange.coinbase.com
 ws-feed.prime.coinbase.com
 ws-feed.pro.coinbase.com
@@ -26994,7 +26967,6 @@ xlmc.sandai.net
 xlog-va.musical.ly
 xmccb.com
 xmcs.mi.com
-xml.opera.com
 xmpp-redirector-prod.tnt-ea.com
 xmpp-server.l.google.com
 xmr.to
@@ -27174,7 +27146,6 @@ yumaregional.org
 yumekin.com
 yunfile.com
 yunjiasu-cdn.net
-yunta.org.pe
 yupdates.art
 yuque.com
 yurl.in
