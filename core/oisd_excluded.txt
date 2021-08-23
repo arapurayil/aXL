@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Aug 2021 16:02:50 UTC
+# Last modified: 23 Aug 2021 00:13:35 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -542,7 +542,6 @@ api.ipinfodb.com
 api.ipstack.com
 api.jr.mi.com
 api.leanplum.com
-api.logentries.com
 api.mapbox.com
 api.metrics.heroku.com
 api.micloud.xiaomi.net
@@ -1231,9 +1230,9 @@ dartsearch.net
 dash.row.aiv-cdn.net
 dashboard-03.braze.com
 data.agkn.com
+data.alexa.com
 data.cnn.com
 data.livefyre.com
-data.logentries.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.over-blog-kiwi.com
@@ -2164,7 +2163,6 @@ js.gleam.io
 js.hs-scripts.com
 js.indexww.com
 js.intercomcdn.com
-js.logentries.com
 js.maxmind.com
 js.pusher.com
 js.recurly.com
@@ -2267,7 +2265,6 @@ log.quora.com
 log.tiktokv.com
 log.ys7.com
 log.zoom.us
-logentries.com
 logfiles-va-6.zoom.us
 logfiles-va.zoom.us
 logfiles.zoom.us
@@ -3718,7 +3715,6 @@ webbankir.com
 webcare.byside.com
 webcindario.com
 webgains.com
-webhook.logentries.com
 webmasterplan.com
 webpayment-promo.internet.apps.samsung.com
 webpower.eu
