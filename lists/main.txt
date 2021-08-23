@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.23
-# Last modified: 23 Aug 2021 00:13:35 UTC
+# Last modified: 23 Aug 2021 08:02:50 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2487,7 +2487,6 @@ api.line.me
 api.live.bilibili.com
 api.locize.io
 api.loganalytics.io
-api.logentries.com
 api.login.engadget.com
 api.login.techcrunch.com
 api.login.yahoo.com
@@ -7513,6 +7512,7 @@ dashbox.soundcloud.com
 dashlane.com
 dasumo.com
 data.agkn.com
+data.alexa.com
 data.cnn.com
 data.flurry.com
 data.fotmob.com
@@ -13786,7 +13786,6 @@ js.hsforms.net
 js.indexww.com
 js.intercomcdn.com
 js.iplsc.com
-js.logentries.com
 js.maxmind.com
 js.passport.qihucdn.com
 js.pulseinsights.com
@@ -15043,7 +15042,6 @@ log.zoom.us
 logansportsavings.com
 logback.qos.ch
 logbuch-netzpolitik.de
-logentries.com
 logfiles-va-6.zoom.us
 logfiles-va.zoom.us
 logfiles.zoom.us
@@ -26250,7 +26248,6 @@ webfriends.in
 webfusion.co.uk
 webgains.com
 webgrab.wechat.com
-webhook.logentries.com
 webhostingpad.com
 webhostingplanet.com
 webhostingtalk.com
