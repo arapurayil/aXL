@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.23
-# Last modified: 23 Aug 2021 08:02:50 UTC
+# Last modified: 23 Aug 2021 16:03:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -375,6 +375,7 @@ L9.fr
 Lvvk.com
 OneDrive-Collection.device.mobileengagement.windows.net
 To8.cc
+Wealthfront.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -658,6 +659,7 @@ acmedctr.org
 acommunitybank.com
 acompli.helpshift.com
 acompli.net
+acorns.com
 acp.jiobuzz.com
 acpbdf.com.br
 acquirethisname.com
@@ -4257,6 +4259,7 @@ bethesda.net
 bethmannbank.de
 betrad.com
 betterbanks.com
+betterment.com
 beverly.org
 beverlycoop.com
 beverlyhospital.com
@@ -15232,6 +15235,7 @@ m1.chia-anime.tv
 m1.daumcdn.net
 m1.fwmrm.net
 m1.nsimg.net
+m1finance.com
 m1p.fr
 m2-a.sndcdn.com
 m2.chia-anime.tv
@@ -24052,6 +24056,7 @@ tiscali.de
 tiscali.it
 tisco.co.th
 tiscoasset.com
+titanvest.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 titubb.titck.gov.tr
