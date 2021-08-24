@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Aug 2021 16:03:05 UTC
+# Last modified: 24 Aug 2021 00:14:15 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1059,13 +1059,16 @@ cnetcontentsolutions.com
 cnetmedia-a.akamaihd.net
 cnzz.com
 code.createjs.com
+codepush.appcenter.ms
 codepush.azurewebsites.net
+codepush.teams.microsoft.com
 cognito-identity.us-east-1.amazonaws.com
 cohesionapps.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collect.igodigital.com
 collecting-consent.g5e.com
+collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
 com.com
@@ -2080,6 +2083,7 @@ insightexpressai.com.edgekey.net
 insitez.blob.core.windows.net
 insnw.net
 instabayim.com
+instana.io
 instantmessaging-pa.googleapis.com
 instapage.com
 intelliad.de
@@ -2134,6 +2138,7 @@ itv.ard.de
 iubenda.com
 iwin.com
 iws.corel.com
+iww.ca
 izeselet.hu
 izooto.com
 j.gs
@@ -2141,7 +2146,6 @@ jackjones.com
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2431,6 +2435,7 @@ moneyplatform.biz
 monitis.com
 monitor.azure.com
 monitor.clickcease.com
+mopinion.com
 more.sh
 movable-ink-397.com
 movie.xunlei.com
@@ -2506,6 +2511,7 @@ newsletter.bdnews24.com
 newsletters.nationalgeographic.com
 newstube.ru
 newtonpaiva.br
+nextday.media
 nextgen.guardianapps.co.uk
 nexus-websocket-a.intercom.io
 nexus.ensighten.com
@@ -2521,6 +2527,7 @@ nonstoppartner.net
 nordvpn.hasoffers.com
 norstatsurveys.com
 notice.samsungcloudsolution.com
+notice.sp-prod.net
 noticecdn.samsungcloudsolution.com
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 nova.collect.igodigital.com
@@ -2787,7 +2794,6 @@ polyfill.io
 pomf.cat
 pomf.se
 poneytelecom.eu
-porn00.tv
 pornerbros.com
 portableroms.com
 portal.prod.vidible.tv
@@ -3179,7 +3185,6 @@ skyrock.com
 slimpuls.nl
 sliptalk.com
 sls.update.microsoft.com.akadns.net
-sludini.lv
 smallseotools.com
 smartasset.com
 smartclip.net
