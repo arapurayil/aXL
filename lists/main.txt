@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.24
-# Last modified: 24 Aug 2021 00:14:15 UTC
+# Last modified: 24 Aug 2021 08:04:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6629,7 +6629,9 @@ codeorigin.jquery.com
 codepen.io
 codeplex.com
 codeproject.com
+codepush.appcenter.ms
 codepush.azurewebsites.net
+codepush.teams.microsoft.com
 codepushupdates.azureedge.net
 codesandbox.io
 codetel.com.do
@@ -6655,6 +6657,7 @@ collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
+collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
 collegedrinkingprevention.gov
@@ -13276,6 +13279,7 @@ instagram.c10r.facebook.com
 instagram.com
 instalog-prod.sc-prod.net
 instamojo.com
+instana.io
 instant-gaming.com
 instant.page
 instantmessaging-pa.googleapis.com
@@ -13599,6 +13603,7 @@ iwin.com
 iwiw.hu
 iwiw.net
 iws.corel.com
+iww.ca
 ix.sk
 ixe.com.mx
 iy.me
@@ -13644,7 +13649,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -16402,6 +16406,7 @@ mooo.com
 moourl.com
 mooval.de
 moovitapp.com
+mopinion.com
 mopub.com
 more.sh
 moredruzey.ru
@@ -17144,6 +17149,7 @@ next.daisuki.net
 next.exchange
 nextbank.com.tw
 nextbank.dk
+nextday.media
 nextdns.io
 nextdoor.com
 nextgen.guardianapps.co.uk
@@ -17342,6 +17348,7 @@ noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
 notice.samsungcloudsolution.com
+notice.sp-prod.net
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -19055,7 +19062,6 @@ popularinc.com
 populy.com.br
 popuptest.com
 porn.com
-porn00.tv
 pornerbros.com
 pornhub.com
 pornmd.com
@@ -21872,7 +21878,6 @@ sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 slsp.sk
 slsteffisburg.ch
-sludini.lv
 sluhospital.com
 slushpool.com
 slycooper.playstation.com
