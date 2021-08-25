@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.25
-# Last modified: 25 Aug 2021 00:13:32 UTC
+# Last modified: 25 Aug 2021 08:02:45 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2856,6 +2856,7 @@ arakari.com.jo
 aras.com
 arb.ru
 arboretumviewanimalhospital.com
+arc.epoq.de
 arc.msn.com
 arc.nexx.cloud
 arcabanca.it
@@ -4268,6 +4269,7 @@ bexi.co.id
 beyondweb.com
 bezirkssparkasse-dillenburg.de
 bezpecnost.csas.cz
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfa.ru
 bfast.com
 bfc.com.ve
