@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Aug 2021 16:03:05 UTC
+# Last modified: 25 Aug 2021 00:13:32 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -625,6 +625,7 @@ appspot-preview.l.google.com
 appspot.com
 appsumo.com
 ar.edubirdie.com
+arc.epoq.de
 armaholic.com
 arstechnica.com
 art19.com
@@ -738,6 +739,7 @@ beta.spotify.map.fastly.net
 betclic.com
 betfaq.ru
 betrad.com
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
 bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
