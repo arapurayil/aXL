@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.26
-# Last modified: 26 Aug 2021 00:13:01 UTC
+# Last modified: 26 Aug 2021 08:02:44 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4490,6 +4490,7 @@ blessinghospital.org
 blim.com
 blinky.me
 blip.tv
+blipblop.net
 blippr.com
 blizz.ly
 blizzard.com
@@ -5966,6 +5967,7 @@ cfsb.com
 cfsbancorp.com
 cfu.net
 cfvod.kaltura.com
+cgames.de
 cgd.pt
 cgi.adobe.com
 cgi.connect.qq.com
@@ -6342,6 +6344,7 @@ click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
 click.dji.com
+click.dtiserv2.com
 click.e.change.org
 click.email.sonos.com
 click.engage.xbox.com
@@ -6358,6 +6361,7 @@ click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
+click.taobao.com
 click.txn-email.playstation.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -6932,6 +6936,7 @@ content.sketch.sonymobile.com
 content.swrve.com
 content.vidgyor.com
 content.webcollage.net
+content.xilu.com
 content.yikyakapi.net
 contentexchange.me
 contentful.com
@@ -8348,8 +8353,10 @@ dsm.ok.ru
 dsms0mj1bbhn4.cloudfront.net
 dsns.gov.ua
 dsp.brand.sogou.com
+dspultra.com
 dstreet.pl
 dtbank.hu
+dtiserv2.com
 dto.vakifbank.com.tr
 dts.podtrac.com
 dtv.gov
@@ -8862,6 +8869,7 @@ embed-fastly.wistia.com
 embed.actionbutton.co
 embed.flowplayer.org
 embed.ly
+embed.mystream.to
 embed.spot.im
 embed.spotify.com
 embed.tawk.to
@@ -11730,6 +11738,8 @@ hessen-spion.de
 hestehospitalet.dk
 hetparool.nl
 hetzner.de
+heureka.cz
+heureka.sk
 hex.io
 hexun.com
 heymistr.com
@@ -12130,6 +12140,7 @@ hwk-bn.de
 hybrid-analysis.com
 hybrid.xiaomi.com
 hybridclient.naiadsystems.com
+hydracdn.network
 hydrax.net
 hygeia.gr
 hyperurl.co
@@ -13071,6 +13082,7 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
+imgshare.info
 imgsmail.ru
 imgssl.constantcontact.com
 imgstock.naver.com
@@ -13525,6 +13537,7 @@ islamweb.net
 islandsun.net
 isnbank.ru
 isnet.net.tr
+isnssdk.com
 isnssdk.com.edgekey.net
 isomedia.com
 isp.com
@@ -13651,6 +13664,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -16818,6 +16832,7 @@ naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
 naiadsystems.com
+naifei.shop
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -17269,6 +17284,7 @@ nobacon.de
 nobaeg.de
 nobook.com
 nocache.support.sonymobile.com
+nocdnrlly.xyz
 node.plexapp.com
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
@@ -20147,6 +20163,7 @@ redir.fr
 redir.lomadee.com
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
+redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
@@ -21458,7 +21475,6 @@ serverfault.com
 serverorigin.com
 servetown.com
 service.biv.sony.tv
-service.cz.nl
 service.fuib.com
 service.game-mode.net
 service.gov.uk
@@ -21546,6 +21562,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21690,6 +21707,7 @@ sift.com
 siftscience.com
 sightpusher.com
 sign-in.soundcloud.com
+signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
@@ -21880,6 +21898,7 @@ sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 slsp.sk
 slsteffisburg.ch
+sludini.lv
 sluhospital.com
 slushpool.com
 slycooper.playstation.com
@@ -27022,7 +27041,9 @@ xvideos.com
 xvp.akamaized.net
 xx.snap.com
 xxx.com.br
+xxxjmp.com
 xywy.com
+xzone.cz
 y2u.be
 y8.com
 ya.com
