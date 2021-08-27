@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Aug 2021 16:03:15 UTC
+# Last modified: 27 Aug 2021 00:15:24 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1073,7 +1073,6 @@ collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collect.igodigital.com
 collecting-consent.g5e.com
-collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
 com.com
@@ -2094,6 +2093,7 @@ insight.rapid7.com
 insightexpress.com
 insightexpressai.com
 insightexpressai.com.edgekey.net
+insights.samsung.com
 insitez.blob.core.windows.net
 insnw.net
 instabayim.com
