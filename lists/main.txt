@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.28
-# Last modified: 28 Aug 2021 00:13:01 UTC
+# Last modified: 28 Aug 2021 08:04:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -859,8 +859,6 @@ adrianstatebank.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
-ads-e-darwin.hulustream.com
-ads-serve.brave.com
 ads-v-darwin.hulustream.com
 ads.api.24ur.si
 ads.aws.fwmrm.net
@@ -1240,7 +1238,6 @@ aigbank.com.pl
 aigpb.com
 aigprivatebank.com
 aihs.net
-aii.sh
 aikb.ch
 aillis.line.me
 aimatch.com
@@ -3025,7 +3022,6 @@ assets.npo-data.nl
 assets.omidoo.com
 assets.penny-arcade.com
 assets.pinterest.com
-assets.rebelmouse.io
 assets.roar.media
 assets.software.eu.playstation.com
 assets.tumblr.com
@@ -7376,6 +7372,7 @@ cyber.rostbank.ru
 cybercon.com
 cybercrime-tracker.net
 cybercrime.gov
+cyberinc.nl
 cybermap.kaspersky.com
 cybermind-usa.net
 cyberone.com.au
@@ -10918,7 +10915,6 @@ go.co
 go.com
 go.daum.net
 go.digitalocean.com
-go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -10935,6 +10931,7 @@ go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
+go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -11563,7 +11560,6 @@ harzer-volksbank.de
 harzsparkasse.de
 hash.github.com
 hashnode.com
-hasoffers.com
 haspa-bank-in-hamburg.com
 haspa.de
 hastebin.com
@@ -13663,7 +13659,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -16336,7 +16331,6 @@ mobile.yandex.net
 mobileandroidapi.punchh.com
 mobilecns.alipay.com
 mobilecodec.alipay.com
-mobilecrashreporting.googleapis.com
 mobiledl.adobe.com
 mobilegw.alipay.cn
 mobilegw.alipay.com
@@ -17313,7 +17307,6 @@ nordpass.com
 nordstromhospital.fi
 nordthueringer-volksbank.de
 nordvpn.com
-nordvpn.hasoffers.com
 nordvpn.net
 norges-bank.no
 noriba.com
@@ -21474,6 +21467,7 @@ serverfault.com
 serverorigin.com
 servetown.com
 service.biv.sony.tv
+service.cz.nl
 service.fuib.com
 service.game-mode.net
 service.gov.uk
@@ -21561,7 +21555,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21671,7 +21664,6 @@ showbox-tr.dropbox.com
 shownieuws.nl
 shpd.motivtelecom.ru
 shrd.fncstatic.com
-shrink.pe
 shropshire-cc.gov.uk
 shrt.in
 shtyle.fm
@@ -25030,7 +25022,6 @@ uscg.gov
 uschoice.net
 usconsulate.gov
 usda.gov
-use-app03.hasoffers.com
 use-application-dns.net
 use.adserver.snapads.com
 use.fontawesome.com
