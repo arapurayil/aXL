@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Aug 2021 16:02:51 UTC
+# Last modified: 28 Aug 2021 00:13:01 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -161,8 +161,6 @@ adregain.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
-ads-e-darwin.hulustream.com
-ads-serve.brave.com
 ads-v-darwin.hulustream.com
 ads.api.24ur.si
 ads.aws.fwmrm.net
@@ -440,7 +438,6 @@ agkn.com
 agoda.com.edgekey.net
 ahd.ruten.com.tw
 ai.yimg.jp
-aii.sh
 aimatch.com
 airbrake.io
 ak.sail-horizon.com
@@ -639,7 +636,6 @@ assets.dwell.com
 assets.minutemediacdn.com
 assets.penny-arcade.com
 assets.pinterest.com
-assets.rebelmouse.io
 assetstore.unity.com
 asu.edu.et
 at-o.net
@@ -927,7 +923,6 @@ cdn.rlcdn.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
-cdn.shortpixel.ai
 cdn.siftscience.com
 cdn.split.io
 cdn.static-fra.de
@@ -1165,6 +1160,7 @@ cse.google.com
 cse3.chausport.com
 csgolounge.com
 csi.gstatic.com
+cst.cstwpush.com
 cstwpush.com
 ct.pinterest.com
 ct.sendgrid.net
@@ -1182,7 +1178,6 @@ custom.plausible.io
 customer.io
 customerevents.netflix.com
 customtraffic.impactradius.com
-cutt.ly
 cutt.us
 cw.choice.faktor.io
 cws-eu.conviva.com
@@ -1192,6 +1187,7 @@ cxense.com
 cxense.com.edgekey.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cy2.settings.data.microsoft.com.akadns.net
+cyberinc.nl
 d.agkn.com
 d.ghostery.com
 d.ifengimg.com
@@ -1534,7 +1530,6 @@ filman.tv
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
-firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1701,12 +1696,12 @@ glpals.com
 gm.gds.mmstat.com
 gm.mmstat.com
 go-corsair-com.ct.impactradius.com
-go.dlink.com
 go.neverware.com
 go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
+go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1794,7 +1789,6 @@ hackers.com
 hackersonlineclub.com
 hardreset.info
 harriscomputer.com
-hasoffers.com
 hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
@@ -2141,7 +2135,6 @@ iraiser.eu
 irchan.com
 iris.tv
 ironbeast.io
-is.gd
 is.snssdk.com
 isgprivacy.cbsi.com
 isnssdk.com
@@ -2162,7 +2155,6 @@ jackjones.com
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2268,7 +2260,6 @@ linkedin-learning.pxf.io
 linkev.com
 links.strava.com
 linksynergy.com
-linktr.ee
 litix.io
 live.primis.tech
 live.simcitybuildit.com
@@ -2291,7 +2282,6 @@ logfiles-va-6.zoom.us
 logfiles-va.zoom.us
 logfiles.zoom.us
 loggly.com
-login.microsoftonline.us
 loginfra.com
 logitech-benelux.com
 logrocket.com
@@ -2438,7 +2428,6 @@ mobile.cmtelematics.com
 mobile.pipe.aria.microsoft.com
 mobile.qzone.qq.com
 mobileandroidapi.punchh.com
-mobilecrashreporting.googleapis.com
 mobileiosapi.punchh.com
 mobilenetworkscoring-pa.googleapis.com
 mobilepartner.avcdn.net.edgekey.net
@@ -2545,7 +2534,6 @@ nllapps.com
 nlrb.gov
 nocdnrlly.xyz
 nonstoppartner.net
-nordvpn.hasoffers.com
 norstatsurveys.com
 notice.samsungcloudsolution.com
 notice.sp-prod.net
@@ -3147,6 +3135,7 @@ sentry.io
 serials.ws
 serve.adtrackers.net
 server.iad.liveperson.net
+service.cz.nl
 service.game-mode.net
 service.hotstar.com
 service.weibo.com
@@ -3162,7 +3151,6 @@ settingsfd-geo.trafficmanager.net
 sf-tb-sg.ibytedtos.com
 sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -3181,7 +3169,6 @@ shoppy.gg
 shopzilla.com
 shorte.st
 shortpixel.ai
-shrink.pe
 shutterstock.7eer.net
 sibboventures.mgr.consensu.org
 sickrage.ca
@@ -3630,7 +3617,6 @@ us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
 usage.trackjs.com
-use-app03.hasoffers.com
 use-application-dns.net
 use.typekit.com
 use.typekit.net
