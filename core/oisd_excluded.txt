@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Aug 2021 08:02:29 UTC
+# Last modified: 30 Aug 2021 16:03:17 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -2088,6 +2088,7 @@ jackjones.com
 jaleco.com
 janrain.com
 japantv.club
+java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2708,6 +2709,7 @@ polldaddy.com
 polyfill.io
 pomf.cat
 poneytelecom.eu
+pop-iad-2.cf.dash.row.aiv-cdn.net
 pornerbros.com
 portableroms.com
 portalroms.com
