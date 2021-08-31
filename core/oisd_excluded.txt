@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 31 Aug 2021 08:02:30 UTC
+# Last modified: 31 Aug 2021 16:03:15 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -799,6 +799,7 @@ by.uservoice.com
 byet.org
 byside.com
 bytedance.com
+c-api-bit.shopeemobile.com
 c.allegrostatic.pl
 c.cintnetworks.com
 c.evidon.com
@@ -1155,6 +1156,7 @@ d.ghostery.com
 d.ifengimg.com
 d.la1-c2-iad.salesforceliveagent.com
 d.toutiao.com
+d1bd3wxsyuz0t7.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
