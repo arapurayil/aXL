@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Aug 2021 16:03:17 UTC
+# Last modified: 31 Aug 2021 00:13:44 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -454,6 +454,7 @@ amway.com
 amznadsi.hs.llnwd.net
 an.yandex.ru
 analitik.edevlet.gov.tr
+analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics.console.aws.a2z.com
 analytics.edgekey.net
 analytics.google.com
@@ -807,6 +808,7 @@ c.microsoft.com
 c.msn.com
 c.msn.com.nsatc.net
 c.paypal.com
+c.woopic.com
 c.y.qq.com
 c.yes.youku.com
 c.youtube.com
@@ -886,6 +888,7 @@ cdn.optimizely.com.edgekey.net
 cdn.pendo.io
 cdn.printfriendly.com
 cdn.raygun.io
+cdn.reverso.net
 cdn.rlcdn.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
@@ -899,12 +902,14 @@ cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 cdn.tabnak.ir
 cdn.tinypass.com
+cdn.unid.go.com
 cdn.viafoura.net
 cdn.vidible.tv
 cdn.wearedevs.net
 cdn.wootric.com
 cdn.yimg.com
 cdn.ziffstatic.com
+cdn1.edgedatg.com
 cdn1.ettoday.net
 cdn2.hubspot.net
 cdn2.optimizely.com
@@ -1028,6 +1033,7 @@ collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collect.igodigital.com
 collecting-consent.g5e.com
+collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
 com.com
@@ -1168,6 +1174,7 @@ d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
+d25xi40x97liuc.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
@@ -1250,6 +1257,7 @@ disqus.com
 disquscdn.com
 districtm.ca
 djtflbt20bdde.cloudfront.net
+djvbdz1obemzo.cloudfront.net
 dl.360safe.com
 dl.downloadly.ir
 dl.packetstormsecurity.net
@@ -1290,6 +1298,7 @@ dpbolvw.net
 dpm.demdex.net
 dpstatic.com
 dpu.samsungelectronics.com
+dq4irj27fs462.cloudfront.net
 drift.com
 driftt.com
 drivethelife.com
@@ -1457,6 +1466,7 @@ fakeupdate.net
 faktor.io
 faktor.mgr.consensu.org
 falcoware.com
+fandom.wikia.com
 fast-anime.ru
 fast.appcues.com
 fast.wistia.net
@@ -1588,6 +1598,7 @@ gdpr-tcfv2.sp-prod.net
 gds.mmstat.com
 gecko-sg.byteoversea.com
 gekko.spiceworks.com
+geller-pa.googleapis.com
 gelnhausen.de
 gemius.pl
 generals.ea.com
@@ -2177,6 +2188,7 @@ leanplum.com
 learn.cisecurity.org
 ledgernote.com
 legalterms.cbsinteractive.com
+lexatrade.com
 lgsmartad.com
 lib.rus.ec
 libertymutual.com.edgekey.net
@@ -2486,6 +2498,7 @@ nuskin.com
 nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
+o.aolcdn.com
 o.auspost.com.au
 o.webmd.com
 o0bc.com
@@ -3118,6 +3131,7 @@ snxd.com
 socialize.eu1.gigya.com
 society6.com
 socket.streamable.com
+softcity.upclick.com
 softwareadvice.com
 som.aeroplan.com
 someonewhocares.com
@@ -3142,10 +3156,12 @@ spot.im
 springmetrics.com
 spywareterminator.com
 sqimg.qq.com
+src.litix.io
 srvtrck.com
 ssgmce.org
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
+ssl.cdn.turner.com
 ssl.kaptcha.com
 ssl.msdk.qq.com
 ssl.o.auspost.com.au
@@ -3185,6 +3201,7 @@ static.smi2.net
 static.springmetrics.com
 static.vrv.co
 static.wi-fi.ru
+static.wikia.nocookie.net
 statics-marketingsites-eus-ms-com.akamaized.net
 staticxx.facebook.com
 stats.adobe.com
@@ -3258,6 +3275,7 @@ tacticalrepublic.com
 tag.aticdn.net
 tag.aticdn.net.edgekey.net
 tag.getdrip.com
+tag.md-nx.com
 tag.shopping-feed.com
 tagcommander.com
 tagger.opecloud.com

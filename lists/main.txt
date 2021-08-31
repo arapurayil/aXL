@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.08.30
-# Last modified: 30 Aug 2021 16:03:17 UTC
+# Version: 2.08.31
+# Last modified: 31 Aug 2021 00:13:44 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -13596,6 +13596,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -18976,6 +18977,7 @@ pool.ntp.org
 poolhb.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
+pop-iad-2.cf.dash.row.aiv-cdn.net
 pop.com
 popcortona.it
 popolarebari.it
