@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.08.31
-# Last modified: 31 Aug 2021 00:13:44 UTC
+# Last modified: 31 Aug 2021 08:02:30 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2128,6 +2128,7 @@ anadolubank.com.tr
 anadolufinans.com.tr
 anaesthesie-lainz.at
 analitik.edevlet.gov.tr
+analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics.bsgwireless.com
 analytics.console.aws.a2z.com
 analytics.dev.azure.com
@@ -5099,6 +5100,7 @@ c.s-microsoft.com
 c.storage.googleapis.com
 c.t-online.de
 c.trello.com
+c.woopic.com
 c.y.qq.com
 c.yes.youku.com
 c.youtube.com
@@ -5695,6 +5697,7 @@ cdn.ravenjs.com
 cdn.rawgit.com
 cdn.raygun.io
 cdn.refersion.com
+cdn.reverso.net
 cdn.rlcdn.com
 cdn.samsung.com
 cdn.samsung.com.edgekey.net
@@ -5729,6 +5732,7 @@ cdn.theatlantic.com
 cdn.tinypass.com
 cdn.transifex.com
 cdn.ttgtmedia.com
+cdn.unid.go.com
 cdn.unpkg.com
 cdn.us.playstation.com
 cdn.viafoura.net
@@ -5749,6 +5753,7 @@ cdn.yimg.com
 cdn.ziffstatic.com
 cdn01.dailycaller.com
 cdn1.digitaltrends.com
+cdn1.edgedatg.com
 cdn1.ettoday.net
 cdn1.friendbuy.com
 cdn1.smartadserver.com
@@ -6622,6 +6627,7 @@ collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
+collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
 collegedrinkingprevention.gov
@@ -7377,6 +7383,7 @@ d2.naver.com
 d2.shared.global.fastly.net
 d21gpk1vhmjuf5.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
+d25xi40x97liuc.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
@@ -7951,6 +7958,7 @@ dji.com
 djix.com
 djtflbt20bdde.cloudfront.net
 djurslandsbank.dk
+djvbdz1obemzo.cloudfront.net
 dk-go.kelkoogroup.net
 dkb.de
 dkm.de
@@ -8205,6 +8213,7 @@ dplwebmarketing.com
 dpm.demdex.net
 dpstatic.com
 dpu.samsungelectronics.com
+dq4irj27fs462.cloudfront.net
 dr-bromba.de
 dr-john-consult.de
 draftprodoms.trafficmanager.net
@@ -9354,6 +9363,7 @@ fanboy.co.nz
 fandango.com
 fandmstbk.com
 fandom.com
+fandom.wikia.com
 fanninregionalhospital.com
 fanoespk.dk
 fantasy.premierleague.com
@@ -10579,6 +10589,7 @@ gekko.spiceworks.com
 gelbooru.com
 gelderlander.nl
 geldwaesche-seminare.de
+geller-pa.googleapis.com
 gelnhausen.de
 gelon.de
 gematsu.com
@@ -14635,6 +14646,7 @@ leumi.ro
 levihospital.com
 levo-bank.de
 lewrockwell.com
+lexatrade.com
 lexicon.net
 lexingtonpethospital.com
 lfg.com
@@ -21957,6 +21969,7 @@ sofinet.com.ve
 sofisadireto.com.br
 sofitasa.com
 soft98.ir
+softcity.upclick.com
 softlayer.com
 softonic.com
 software-download.microsoft.com
@@ -22600,6 +22613,7 @@ sr.gravatar.com
 sr2.liveperson.net
 sravni.ru
 srbank.ru
+src.litix.io
 srft.ch
 sro.ch
 srs.gov
@@ -22637,6 +22651,7 @@ ssl-images-amazon.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
 ssl.biglion.ru
+ssl.cdn.turner.com
 ssl.easypay.by
 ssl.google-analytics.com
 ssl.gs
@@ -22931,6 +22946,7 @@ static.vrv.co
 static.vtwonen.nl
 static.whatsapp.net
 static.wi-fi.ru
+static.wikia.nocookie.net
 static.wired.com
 static.wixstatic.com
 static.ws.126.net
@@ -23506,6 +23522,7 @@ tag.aticdn.net
 tag.aticdn.net.edgekey.net
 tag.blog.naver.com
 tag.getdrip.com
+tag.md-nx.com
 tag.partner.mairdumont.com
 tag.shopping-feed.com
 tagcommander.com
