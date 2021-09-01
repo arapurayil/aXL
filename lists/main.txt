@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.08.31
-# Last modified: 31 Aug 2021 16:03:15 UTC
+# Version: 2.09.01
+# Last modified: 01 Sep 2021 00:14:03 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5074,6 +5074,7 @@ bzbank.ch
 bzh.me
 bzwbk.pl
 c-adash.m.taobao.com
+c-api-bit.shopeemobile.com
 c.allegrostatic.pl
 c.amazon-adsystem.com
 c.apple.com
@@ -7373,6 +7374,7 @@ d10lpsik1i8c69.cloudfront.net
 d13itkw33a7sus.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
+d1bd3wxsyuz0t7.cloudfront.net
 d1bl11pgu3tw3h.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
