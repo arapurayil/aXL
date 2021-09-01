@@ -2,14 +2,13 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Sep 2021 08:04:01 UTC
+# Last modified: 01 Sep 2021 16:03:29 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
 1fichier.com
 1gr.cz
 1hosts.cf
-2-01-37d2-0006.cdx.cedexis.net
 2.android.pool.ntp.org
 2baksa.net
 2cnt.net
@@ -523,7 +522,6 @@ api.nextgen.guardianapps.co.uk
 api.opinary.com
 api.parse.com
 api.parsely.com
-api.peer5.com
 api.pinterest.com
 api.raygun.io
 api.rollbar.com
@@ -628,7 +626,6 @@ au.edubirdie.com
 audid-api.taobao.com
 audio-ec.spotify.com
 audio2.spotify.com
-audioboom.com
 auditrecording-pa.googleapis.com
 auditude.com
 auscanforum.com
@@ -899,7 +896,6 @@ cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 cdn.tabnak.ir
 cdn.tinypass.com
-cdn.unid.go.com
 cdn.viafoura.net
 cdn.vidible.tv
 cdn.wearedevs.net
@@ -1027,7 +1023,6 @@ collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collect.igodigital.com
 collecting-consent.g5e.com
-collector-main.trafficmanager.net
 collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
@@ -1258,6 +1253,7 @@ dl.downloadly.ir
 dl.packetstormsecurity.net
 dldir1.qq.com
 dlink.com.br
+dls.di.atlas.samsung.com
 dlvr.t-online.de
 dmd.metaservices.microsoft.com
 dna8twue3dlxq.cloudfront.net
@@ -1611,7 +1607,6 @@ geolite.maxmind.com
 geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
-geomobileservices-pa.googleapis.com
 georiot.com
 get-express-vpn.com
 get.x-link.pl
@@ -1813,7 +1808,6 @@ hypestat.com
 i.cdnpark.com
 i.click.taobao.com
 i.cmpnet.com
-i.gyazo.com
 i.icomoon.io
 i.plug.it
 i.yimg.jp
@@ -2136,7 +2130,6 @@ kharkov.ua
 kickass.cd
 kiks.yandex.ru
 kiks.yandex.ua
-kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kisshentai.net
 kiwifarms.net
@@ -2426,7 +2419,6 @@ newre-conversions.clickmeter.com
 newrelic.com
 news.ebc.net.tw
 news.smi2.ru
-newsbreak.com
 newsbtc.com
 newsletter.bdnews24.com
 newsletters.nationalgeographic.com
@@ -2592,7 +2584,6 @@ p2.music.126.net
 p3.music.126.net
 p3nlhclust404.shr.prod.phx3.secureserver.net
 p4.music.126.net
-p11.techlab-cdn.com
 paddleapi.com
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
@@ -2723,7 +2714,6 @@ pr0gramm.com
 prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
-preferences.truste.com
 presence-grpc-noneu.truecaller.com
 president.ac.id
 prf.hn
@@ -2883,7 +2873,6 @@ rqd.sparta.mig.tencent-cloud.net
 rs6.net
 rsci.app.link
 rubicon.wellsfargo.com
-rumble.com
 rumoremag.com
 runnerspace.com
 rutrk.org
@@ -3118,7 +3107,6 @@ soo.sg
 sourcepoint.mgr.consensu.org
 southbayparrish.org
 sp-mms.weather.com
-sp.rmbl.ws
 spade.twitch.tv
 spamassassin.1065346.n5.nabble.com
 spamhaus.net
@@ -3162,7 +3150,6 @@ static-asm.secure.skypeassets.com
 static.3001.net
 static.adsafeprotected.com
 static.apester.com
-static.cdn.responsys.net
 static.chartbeat.com
 static.cleverpush.com
 static.cloudflareinsights.com
@@ -3670,11 +3657,6 @@ xpu.samsungelectronics.com
 xrea.com
 xsph.ru
 xtra.co.nz
-xtra.gpsonextra.net
-xtra1.gpsonextra.net
-xtra2.gpsonextra.net
-xtra3.gpsonextra.net
-xtra4.gpsonextra.net
 y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com
