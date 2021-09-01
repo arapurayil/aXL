@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.01
-# Last modified: 01 Sep 2021 00:14:03 UTC
+# Last modified: 01 Sep 2021 08:04:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -168,6 +168,8 @@
 1weather.onelouder.com
 1webspace.org
 1xbet.com
+2-01-2c3e-005c.cdx.cedexis.net
+2-01-37d2-0006.cdx.cedexis.net
 2-01-3cf7-000c.cdx.cedexis.net
 2-edge-chat.facebook.com
 2-spyware.com
@@ -3130,6 +3132,7 @@ audio-fac.spotify.com
 audio-sp-fra2.pscdn.co
 audio-sp.spotify.com
 audio2.spotify.com
+audioboom.com
 audioknigi.club
 auditrecording-pa.googleapis.com
 auditude.com
@@ -5101,7 +5104,6 @@ c.s-microsoft.com
 c.storage.googleapis.com
 c.t-online.de
 c.trello.com
-c.woopic.com
 c.y.qq.com
 c.yes.youku.com
 c.youtube.com
@@ -5698,7 +5700,6 @@ cdn.ravenjs.com
 cdn.rawgit.com
 cdn.raygun.io
 cdn.refersion.com
-cdn.reverso.net
 cdn.rlcdn.com
 cdn.samsung.com
 cdn.samsung.com.edgekey.net
@@ -5754,7 +5755,6 @@ cdn.yimg.com
 cdn.ziffstatic.com
 cdn01.dailycaller.com
 cdn1.digitaltrends.com
-cdn1.edgedatg.com
 cdn1.ettoday.net
 cdn1.friendbuy.com
 cdn1.smartadserver.com
@@ -5935,7 +5935,6 @@ cfsb.com
 cfsbancorp.com
 cfu.net
 cfvod.kaltura.com
-cgames.de
 cgd.pt
 cgi.adobe.com
 cgi.connect.qq.com
@@ -6327,7 +6326,6 @@ click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
-click.taobao.com
 click.txn-email.playstation.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -6628,6 +6626,7 @@ collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
+collector-main.trafficmanager.net
 collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
@@ -7385,7 +7384,6 @@ d2.naver.com
 d2.shared.global.fastly.net
 d21gpk1vhmjuf5.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
-d25xi40x97liuc.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
@@ -7643,6 +7641,7 @@ deerhuntingnation.com
 deezer.com
 def-vef.xboxlive.com
 defcredit.com.au
+defensacentral.com
 definitions.net
 definitionupdates.microsoft.com
 deforestbank.com
@@ -7960,7 +7959,6 @@ dji.com
 djix.com
 djtflbt20bdde.cloudfront.net
 djurslandsbank.dk
-djvbdz1obemzo.cloudfront.net
 dk-go.kelkoogroup.net
 dkb.de
 dkm.de
@@ -8208,14 +8206,12 @@ dp.blog.naver.com
 dp.im.weibo.cn
 dp.msnmessenger.akadns.com
 dp8hsntg6do36.cloudfront.net
-dpbfm6h358sh7.cloudfront.net
 dpbolvw.net
 dpimg.ospserver.net
 dplwebmarketing.com
 dpm.demdex.net
 dpstatic.com
 dpu.samsungelectronics.com
-dq4irj27fs462.cloudfront.net
 dr-bromba.de
 dr-john-consult.de
 draftprodoms.trafficmanager.net
@@ -9365,7 +9361,6 @@ fanboy.co.nz
 fandango.com
 fandmstbk.com
 fandom.com
-fandom.wikia.com
 fanninregionalhospital.com
 fanoespk.dk
 fantasy.premierleague.com
@@ -10876,6 +10871,7 @@ go.co
 go.com
 go.daum.net
 go.digitalocean.com
+go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -11223,7 +11219,6 @@ gr.ph
 grab.com
 grabify.link
 grabillbank.com
-grabo.bg
 grabtaxi.com
 grade.market.yandex.ru
 graffiti.net
@@ -11686,8 +11681,6 @@ hessen-spion.de
 hestehospitalet.dk
 hetparool.nl
 hetzner.de
-heureka.cz
-heureka.sk
 hex.io
 hexun.com
 heymistr.com
@@ -13149,7 +13142,6 @@ infokredit.net
 infolink.com
 infolink.pavv.co.kr
 infoq.com
-informer.com
 informer.yandex.ru
 informz.net
 infos.anz.com
@@ -13609,7 +13601,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -13783,7 +13774,6 @@ jumpingcrab.com
 juniper.com
 juraklinik-schesslitz.de
 just4fun-magazin.de
-justanswer.com
 justcallhome.com
 justcatholic.net
 justhost.com
@@ -15633,6 +15623,7 @@ media-cdn.twitch.tv
 media-cdt1-1.cdn.whatsapp.net
 media-dfw5-1.cdn.whatsapp.net
 media-direct.cdn.viber.com
+media-expl1.licdn.com
 media-frt3-1.cdn.whatsapp.net
 media-frt3-2.cdn.whatsapp.net
 media-frx5-1.cdn.whatsapp.net
@@ -15749,7 +15740,6 @@ mediacorp.112.2o7.net
 mediafile.dcinside.com
 mediafire.com
 mediafiretrend.com
-mediagra.com
 mediakit.breitbart.com
 mediamarkt.at
 mediamarkt.de
@@ -16106,7 +16096,6 @@ mint.finance.intuit.com
 mintic.gov.co
 minu.me
 minutemediacdn.com
-minutemediaservices.com
 mir-s3-cdn-cf.behance.net
 mir.namba.kg
 mirabaud.com
@@ -16766,7 +16755,6 @@ naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
 naiadsystems.com
-naifei.shop
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -17068,6 +17056,7 @@ news.xbox.com
 news.yahoo.com
 news.ycombinator.com
 newsapi.com.au
+newsbreak.com
 newsbtc.com
 newscdn.com.au
 newsday.com
@@ -17217,7 +17206,6 @@ nobacon.de
 nobaeg.de
 nobook.com
 nocache.support.sonymobile.com
-nocdnrlly.xyz
 node.plexapp.com
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
@@ -18239,6 +18227,7 @@ p0.com
 p0.ipstatp.com
 p1.cn
 p1.soundcloud.com
+p11.techlab-cdn.com
 p2.music.126.net
 p20-calendars.icloud.com
 p2p.alfabank.ua
@@ -18708,7 +18697,6 @@ pi-hole.net
 pi.hole
 pi.pardot.com
 piacesprofit.hu
-pianomedia.eu
 pib.ru
 pib.ua
 pib.uobthailand.com
@@ -21517,6 +21505,7 @@ shc.org
 shealth.samsung.com
 shealth.samsunghealth.com
 sheets.googleapis.com
+shein.com
 sheldonbrown.com
 shell-cdn.marketing.adobe.com
 shellcheck.net
@@ -21805,7 +21794,6 @@ sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 slsp.sk
 slsteffisburg.ch
-sludini.lv
 sluhospital.com
 slushpool.com
 slycooper.playstation.com
@@ -22080,6 +22068,7 @@ sp-campaign.line.me
 sp-mms.weather.com
 sp.auth.adobe.com
 sp.naver.com
+sp.rmbl.ws
 spa.snap.com
 space.com
 space2u.com
@@ -22615,7 +22604,6 @@ sr.gravatar.com
 sr2.liveperson.net
 sravni.ru
 srbank.ru
-src.litix.io
 srft.ch
 sro.ch
 srs.gov
@@ -22653,7 +22641,6 @@ ssl-images-amazon.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
 ssl.biglion.ru
-ssl.cdn.turner.com
 ssl.easypay.by
 ssl.google-analytics.com
 ssl.gs
@@ -22948,7 +22935,6 @@ static.vrv.co
 static.vtwonen.nl
 static.whatsapp.net
 static.wi-fi.ru
-static.wikia.nocookie.net
 static.wired.com
 static.wixstatic.com
 static.ws.126.net
@@ -23524,7 +23510,6 @@ tag.aticdn.net
 tag.aticdn.net.edgekey.net
 tag.blog.naver.com
 tag.getdrip.com
-tag.md-nx.com
 tag.partner.mairdumont.com
 tag.shopping-feed.com
 tagcommander.com
@@ -23837,7 +23822,6 @@ thedailymodel.com
 thedailysheeple.com
 thedfirreport.com
 thefarmbank.com
-thefilter.com
 thefirma.org
 thefirst.com
 thefoothillsbank.com
@@ -24295,7 +24279,6 @@ trueidentity.com
 trulia.com
 trunc.it
 trust.ru
-trust.zone
 trust1bank.com
 trustar.com.au
 trustarc.com
@@ -25893,7 +25876,6 @@ vsassets.io
 vscode-update.azurewebsites.net
 vseinstrumenti.ru
 vsenashi.com
-vserv.bc.cdn.bitgravity.com
 vsetke.ru
 vsevjednom.cz
 vsll.eu
@@ -26925,9 +26907,7 @@ xvideos.com
 xvp.akamaized.net
 xx.snap.com
 xxx.com.br
-xxxjmp.com
 xywy.com
-xzone.cz
 y2u.be
 y8.com
 ya.com
