@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.02
-# Last modified: 02 Sep 2021 00:13:40 UTC
+# Last modified: 02 Sep 2021 08:02:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3077,7 +3077,6 @@ atlassian.com
 atlassian.net
 atmos.ucla.edu
 atomz.com
-atshop.io
 atspace.com
 att.com
 att.com.edgekey.net
@@ -6805,6 +6804,7 @@ config.viber.com
 config5.update.baofeng.com
 configprd.samsungcloudsolution.net
 configs.nabstudio.com
+configuration-vending.service.amazonsilk.com
 configuration.apple.com.akadns.net
 confirmit.com
 confraternitaet.at
@@ -10583,7 +10583,6 @@ gekko.spiceworks.com
 gelbooru.com
 gelderlander.nl
 geldwaesche-seminare.de
-geller-pa.googleapis.com
 gelnhausen.de
 gelon.de
 gematsu.com
@@ -10809,6 +10808,7 @@ global.mi.com
 global.moneygram.com
 global.msads.net
 global.passport.xiaomi.com
+global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 global.ssl.fastly.net
 global.uci.blackberry.com
@@ -15575,7 +15575,6 @@ mcsaeldo.com
 mcsandl.com
 mcsbnh.com
 mctcu.org
-mctrades.org
 md-nx.com
 mdap.alipay.com
 mdbank.com
@@ -17635,7 +17634,6 @@ ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
 ogury.io
-ogusers.com
 oh-kliniken.de
 ohio.gov
 ohiocountyhospital.com
@@ -23154,7 +23152,6 @@ streamlike.com
 streamplay.me
 streamplay.to
 strefa.fm
-stressthem.to
 stringtownanimalhospital.com
 stripe.com
 stripe.network
@@ -24131,6 +24128,7 @@ tracker.bittor.pw
 tracker.btzoo.eu
 tracker.debian.org
 tracker.dominos.com
+tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
