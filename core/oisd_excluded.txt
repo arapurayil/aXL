@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Sep 2021 16:03:29 UTC
+# Last modified: 02 Sep 2021 00:13:40 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -618,7 +618,6 @@ atharori.net
 ati-host.net
 atlassbx.com
 atmos.ucla.edu
-atshop.io
 atspace.com
 att.com.edgekey.net
 attraqt.com
@@ -1042,6 +1041,7 @@ config.ioam.de
 config.samqaicongen.com
 config.uca.cloud.unity3d.com
 configprd.samsungcloudsolution.net
+configuration-vending.service.amazonsilk.com
 confirmit.com
 conn.skype.com
 connect.darden.virginia.edu
@@ -1586,7 +1586,6 @@ gdpr-tcfv2.sp-prod.net
 gds.mmstat.com
 gecko-sg.byteoversea.com
 gekko.spiceworks.com
-geller-pa.googleapis.com
 gelnhausen.de
 gemius.pl
 generals.ea.com
@@ -1631,6 +1630,7 @@ glbdns2.microsoft.com
 gleam.io
 glimmer.hearstapps.com
 global-wildcard.insightexpressai.com.edgekey.net
+global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 globexbank.ru
 glomex.com
@@ -2267,7 +2267,6 @@ maxmind.com
 mb-cdn.stocard.de
 mc.corel.com
 mc.yandex.ru
-mctrades.org
 md-nx.com
 mdis.uz
 mds.yandex.net
@@ -2468,7 +2467,6 @@ nuancemobility.net
 nudatasecurity.com
 nui.media
 nul.ls
-nulled.to
 nuskin.com
 nutaku.com
 nv-sdk.jumio.com
@@ -2493,7 +2491,6 @@ oempprd.samsungcloudsolution.net
 ofb.uz
 offers-api.cliqz.com
 ogury.io
-ogusers.com
 oimagea1.ydstatic.com
 oimagea2.ydstatic.com
 oimagea3.ydstatic.com
@@ -3001,7 +2998,6 @@ segment.io
 segpay.com
 self-repair.mozilla.org
 self.events.data.microsoft.com
-sellix.io
 sematext.com
 semawur.com
 semgu.kz
@@ -3043,7 +3039,6 @@ shop.spreadshirt.com
 shop.zalo.me
 shop.zaloapp.com
 shopperapproved.com
-shoppy.gg
 shopzilla.com
 shorte.st
 sibboventures.mgr.consensu.org
@@ -3191,7 +3186,6 @@ stream-hk.viu.com
 streaming.adswizz.com
 streamlike.com
 streamplay.to
-stressthem.to
 stroeerdigitalgroup.de
 sub-pubsub.hotstar-labs.com
 sub.to
@@ -3336,6 +3330,7 @@ track.webgains.com
 trackcmp.net
 tracker.bittor.pw
 tracker.btzoo.eu
+tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net

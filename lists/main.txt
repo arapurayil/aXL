@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.09.01
-# Last modified: 01 Sep 2021 16:03:29 UTC
+# Version: 2.09.02
+# Last modified: 02 Sep 2021 00:13:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -169,7 +169,6 @@
 1webspace.org
 1xbet.com
 2-01-2c3e-005c.cdx.cedexis.net
-2-01-37d2-0006.cdx.cedexis.net
 2-01-3cf7-000c.cdx.cedexis.net
 2-edge-chat.facebook.com
 2-spyware.com
@@ -3132,7 +3131,6 @@ audio-fac.spotify.com
 audio-sp-fra2.pscdn.co
 audio-sp.spotify.com
 audio2.spotify.com
-audioboom.com
 audioknigi.club
 auditrecording-pa.googleapis.com
 auditude.com
@@ -5734,7 +5732,6 @@ cdn.theatlantic.com
 cdn.tinypass.com
 cdn.transifex.com
 cdn.ttgtmedia.com
-cdn.unid.go.com
 cdn.unpkg.com
 cdn.us.playstation.com
 cdn.viafoura.net
@@ -6626,7 +6623,6 @@ collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
-collector-main.trafficmanager.net
 collector.githubapp.com
 collector.lightstep.com
 collector.wallapop.com
@@ -8008,6 +8004,7 @@ dlied1.qq.com
 dlied6.qq.com
 dlink.com.br
 dll.xposed.info
+dls.di.atlas.samsung.com
 dls.net
 dlvr.it
 dlvr.t-online.de
@@ -10656,7 +10653,6 @@ geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
 geomed-klinik.de
-geomobileservices-pa.googleapis.com
 geomundos.com
 george.bcr.ro
 george.erstebank.hr
@@ -13998,7 +13994,6 @@ kinderhospital.de
 kinderkrankenhaus.net
 kindnesshospital.com
 kinect.co.nz
-kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kingfisherhospital.com
 kingston.gov.uk
@@ -17056,7 +17051,6 @@ news.xbox.com
 news.yahoo.com
 news.ycombinator.com
 newsapi.com.au
-newsbreak.com
 newsbtc.com
 newscdn.com.au
 newsday.com
@@ -18227,7 +18221,6 @@ p0.com
 p0.ipstatp.com
 p1.cn
 p1.soundcloud.com
-p11.techlab-cdn.com
 p2.music.126.net
 p20-calendars.icloud.com
 p2p.alfabank.ua
@@ -22068,7 +22061,6 @@ sp-campaign.line.me
 sp-mms.weather.com
 sp.auth.adobe.com
 sp.naver.com
-sp.rmbl.ws
 spa.snap.com
 space.com
 space2u.com
@@ -26888,11 +26880,6 @@ xsts.auth.xboxlive.com
 xt3.me
 xtgem.com
 xtra.co.nz
-xtra.gpsonextra.net
-xtra1.gpsonextra.net
-xtra2.gpsonextra.net
-xtra3.gpsonextra.net
-xtra4.gpsonextra.net
 xtreme.net.nz
 xtube.com
 xua.me
