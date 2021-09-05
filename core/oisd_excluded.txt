@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Sep 2021 16:03:13 UTC
+# Last modified: 05 Sep 2021 00:15:05 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -380,7 +380,6 @@ adtraction.com
 adulthub.ru
 adultswim.com
 adups.com
-adv.li
 advancedhosters.com
 advertisement.alibabacorp.com
 advertisement.tanx.com
@@ -418,6 +417,7 @@ amdc.m.taobao.com
 americanlisted.com
 amos.alicdn.com
 amplitude.com
+ams3.digitaloceanspaces.com
 an.yandex.ru
 analitik.edevlet.gov.tr
 analytics.edgekey.net
@@ -474,7 +474,6 @@ api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
 api.skype.com
-api.solvemedia.com
 api.techet.net
 api.traq.li
 api.tvpage.com
@@ -1411,7 +1410,6 @@ go2jump.org
 goatcounter.com
 godly.website
 goldbach.com
-goldenline.pl
 goliath.bi.miniclippt.com
 google-analytics.com
 google.sh
@@ -1660,7 +1658,6 @@ id.google.tg
 id.google.tn
 id.google.tt
 id.l.google.com
-id.rambler.ru
 id.remoteutilities.com
 id.server
 id.tinypass.com
@@ -1688,7 +1685,6 @@ imasdk.googleapis.com
 img-fotki.yandex.ru
 img.alibaba.com
 img.beeg.com
-img.blesk.cz
 img.digiket.net
 img.en25.com
 img.mp.itc.cn
@@ -1783,7 +1779,6 @@ j.gs
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -1943,7 +1938,6 @@ maropost.com
 mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
 maxcdn.bootstrapcdn.com
-maxmind.com
 mc.corel.com
 mc.yandex.ru
 md-nx.com
@@ -2029,7 +2023,6 @@ msh.amazon.com
 mss.handmark.com
 multiscreen.samsung.com
 multiscreensite.com
-muzeeum.nl
 mx.technolutions.net
 mx.yandex.ru
 mxmcdn.net
@@ -2052,6 +2045,7 @@ naytev.com
 ndmdhs.com
 neemu.com
 neobux.com
+net.etrality.com
 net.idealo-partner.com
 netcore.co.in
 netiq.com
@@ -2255,7 +2249,6 @@ piacesprofit.hu
 pic.iask.cn
 pico.tools
 pigu.lt
-ping-admin.ru
 ping.cloud.tencent.com
 ping.tapas.io
 ping.taplytics.com
@@ -2300,7 +2293,6 @@ pntra.com
 pntrac.com
 pntrs.com
 po.st
-pof.com
 pokerstrategy.com
 polldaddy.com
 polyfill.io
@@ -2485,7 +2477,6 @@ s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-us-west-1.amazonaws.com
 s3.pstatp.com
-s3.us-west-1.amazonaws.com
 s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
@@ -2663,6 +2654,7 @@ spade.twitch.tv
 spamhaus.net
 spankwire.com
 spclient.wg.spotify.com
+speedcheck.org
 speeddials.opera.com
 spgo.io
 spiegel-de.spiegel.de
@@ -3072,7 +3064,6 @@ weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 whatismyip.akamai.com
 whoami.akamai.net
-widget-cdn.rpxnow.com
 widget.intercom.io
 widget.trustpilot.com
 widget.uservoice.com

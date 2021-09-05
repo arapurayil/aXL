@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.09.04
-# Last modified: 04 Sep 2021 16:03:13 UTC
+# Version: 2.09.05
+# Last modified: 05 Sep 2021 00:15:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2762,7 +2762,6 @@ apt.sonarr.tv
 aquacard.co.uk
 aqva.pl
 ar-ar.about.flipboard.com
-ar.edubirdie.com
 ar.gravatar.com
 ar.wikipedia.com
 arab-bankers.co.uk
@@ -3031,7 +3030,6 @@ au-1.hide.me
 au-2.hide.me
 au.download.windowsupdate.com
 au.download.windowsupdate.com.edgesuite.net
-au.edubirdie.com
 au.ff.avast.sec.miui.com
 au.hide.me
 au.ign.com
@@ -4506,7 +4504,6 @@ bluehornet.com
 bluehost.com
 bluestarindia.com
 bluetoad.com
-bluewaterpower.com
 blueyonder.co.uk
 blz-suchen.de
 blz.nifox.de
@@ -5068,7 +5065,6 @@ ca-sudrhonealpes.fr
 ca-toulousain.fr
 ca-tourainepoitou.fr
 ca.cdn.survey.medallia.com
-ca.edubirdie.com
 ca.gov
 ca.gravatar.com
 ca.hide.me
@@ -7457,7 +7453,6 @@ dccss.banggood.com
 dchsystem.com
 dcinside.com
 dcms.1688.com
-dcpowerinc.com
 dcrypt.it
 dcs-vod.apis.anvato.net
 dcs.audi.com
@@ -8191,11 +8186,9 @@ duckdns.org
 duckduckgo.com
 dudley.gov.uk
 duepuntozero.com
-dummysoftware.com
 dumpert.nl
 dunant.gr
 duo.nl
-dupontregistry.com
 durov.ru
 dv.gd
 dvb.pandora.xiaomi.com
@@ -8246,7 +8239,6 @@ e-fotka.pl
 e-gulfbank.com
 e-hentai.or
 e-hospitalitycentral.org
-e-junkie.com
 e-learning.huawei.com
 e-life.ru
 e-norvik.eu
@@ -8509,7 +8501,6 @@ edrone.me
 eds.xboxlive.com
 edu.dcinside.com
 edu.hebnews.cn
-edubirdie.com
 education.ti.com
 ee.hit.gemius.pl
 eek.ch
@@ -8574,7 +8565,6 @@ el2.convertkit-mail.com
 elaach.com
 eladkarako.com
 eladkarako.github.io
-elakiri.com
 elance.com
 elandroidelibre.elespanol.com
 elasticbeanstalk.com
@@ -8708,7 +8698,6 @@ emote.vuukle.com
 emp.bbci.co.uk
 emperion.net
 empirebank.com
-empoweringparents.com
 emprendedordigital.com
 emprisebank.com
 emptyloop.com
@@ -8873,7 +8862,6 @@ espresso.economist.com
 esprima.org
 esquire.com
 essabank.com
-essayfactory.uk
 essex-fire.gov.uk
 essexsavings.com
 estore.sonymobile.com
@@ -9004,14 +8992,11 @@ everettbank.com
 evergage.com
 evergreenbanking.com
 evernote.com
-everstylish.com
 everychildmatters.gov.uk
 everydayhealth.com
 everypixel.com
 everything2.com
 everythingdsl.com
-everythinggundog.com
-everythingpolarisranger.com
 evidon.com
 eviltracker.net
 evintl-ocsp.verisign.com
@@ -9185,8 +9170,6 @@ fairviewhospital.org
 fairyseason.com
 faisalfinance.com
 fakecell.sys.miui.com
-fakenamegenerator.com
-fakeupdate.net
 faksedyrehospital.dk
 faktor.io
 faktura.ru
@@ -9700,7 +9683,6 @@ flinders.sa.gov.au
 fling.com
 flingo.tv
 flipboard.com
-fliphtml5.com
 flipkart.com
 flipp.com
 flipper.flipboard.com
@@ -9932,12 +9914,10 @@ forum.mikrotik.com
 forum.minergate.com
 forum.paradoxplaza.com
 forum.synology.com
-forum.tntvillage.scambioetico.org
 forum.ucweb.com
 forum.xda-developers.com
 forum.xfce.org
 forumadsales.software.eu.playstation.com
-forumnewspaper.com
 forums-origin.xbox.com
 forums-preview.xbox.com
 forums.adobe.com
@@ -10315,7 +10295,6 @@ gamespot.com
 gamestore.ign.com
 gamevn.com
 gaming.engadget.com
-gamingdragons.com
 gan.doubleclick.net
 gangirc.org
 gap.com
@@ -10333,7 +10312,6 @@ gasp.co.nz
 gate.ariuspay.ru
 gate.hockeyapp.net
 gate.vseplatezhi.ru
-gate2shop.com
 gatehousemedia.com
 gateway.fe.apple-dns.net
 gateway.icloud.com
@@ -10730,7 +10708,6 @@ gofundme.com
 gog-statics.com
 gog.com
 gogoanime.io
-gohacking.com
 gokano.com
 goldbach.com
 goldbanc.com
@@ -11196,7 +11173,6 @@ gus.host
 guta.ru
 gutapay.ru
 gutzwiller.ch
-guy4game.com
 gv-bayern.de
 gvt1.com
 gvt2.com
@@ -11244,9 +11220,7 @@ hackaday.com
 hackerearth.com
 hackernoon.com
 hackerone.com
-hackeroyale.com
 hackers.com
-hackersonlineclub.com
 hackthissite.org
 hadej.co
 hadstenbank.dk
@@ -11451,7 +11425,6 @@ henrycountybank.com
 henrys.com
 hentaihaven.org
 hera.co.at
-herbanman.com
 herbeauty.co
 here.com
 heritageanimalhospital.com
@@ -11802,7 +11775,6 @@ hsk-wiesbaden.de
 ht.ly
 ht.youporn.com
 htm.huawei.com
-html24.dk
 html5zombo.com
 htmlcommentbox.com
 http-test1.luminatinet.com
@@ -12874,7 +12846,6 @@ incredimail.com
 indd.adobe.com
 indeed.com
 independent-bank.com
-independent.academia.edu
 independent.co.uk
 independentreserve.com
 indevbank.com
@@ -14820,7 +14791,6 @@ loginfra.com
 loginhood.io
 loginpoll.wechat.com
 logins.daum.net
-logitech-benelux.com
 logitech.com
 logmein-gateway.com
 logmein.com
@@ -14972,7 +14942,6 @@ ma.techrepublic.com
 maasreusel.nl
 mabanque.bnpparibas
 mabanqueprivee.bnpparibas
-mac-torrent-download.net
 mac-torrents.com
 mac.pcbeta.com
 mac.search.naver.com
@@ -15080,7 +15049,6 @@ mallige.com
 malteser-krankenhaus-berlin.de
 malteser-krankenhaus-stjohannes.de
 malwagraminbank.com
-malware-board.com
 malwaredomainlist.com
 malwaredomains.com
 malwaredomains.lehigh.edu
@@ -15112,10 +15080,8 @@ manitu.de
 manjam.eu
 manjaro.org
 mansfieldbank.com
-manta.com
 mantenoanimalhospital.com
 manteresting.com
-manticorearms.com
 mantruckandbus.com
 manual-at.line.me
 manubank.com
@@ -15877,7 +15843,6 @@ mirror.co.uk
 mirror1.malwaredomains.com
 mirror2.internetdownloadmanager.com
 mirror3.internetdownloadmanager.com
-mirrorcreator.com
 mirrorfootball.co.uk
 mirrors.163.com
 mirrors.evowise.com
@@ -15904,7 +15869,6 @@ mitunes.game.xiaomi.com
 miui.com
 miui.net
 miwifi.com
-mix.com
 mix.ks.g.mi.com
 mix1065fm.cbslocal.com
 mixer.pl
@@ -15963,7 +15927,6 @@ mmi701.whatsapp.net
 mmi731.whatsapp.net
 mminternet.com
 mmla.net
-mmogah.com
 mms.huffingtonpost.com
 mms.libelle.nl
 mms.whatsapp.net
@@ -16268,7 +16231,6 @@ mundofotos.net
 munidraugi.lv
 mup.amp.mcafee.com
 murfreesborotn.gov
-muscatcollege.edu.om
 music-jp-coupon.line.me
 music-mag.line.me
 music.163.com
@@ -16372,7 +16334,6 @@ myaltyn.kz
 myanimelist.net
 myany.jp
 myapp.com
-myassignmenthelp.com
 mybank.com.tw
 mybank.fortebank.com
 mybank.nationstrust.com
@@ -16428,7 +16389,6 @@ mylivepage.com
 mylj.ru
 mymerrill.com
 mymoney.gov
-mynet.com
 myob.com
 mypc.naver.com
 myplate.gov
@@ -16745,7 +16705,6 @@ networking.engadget.com
 networks.feedburner.com
 networksolutions.com
 netzero.net
-netzkino.de
 neu1-urlp.secure.skypeassets.com
 neubethlehem.de
 neuebankag.li
@@ -17513,7 +17472,6 @@ onhax.me
 onhax.net
 onionriveranimalhospital.com
 online-banking.hsbc.com.ar
-online-barcode-generator.net
 online-metrix.net
 online.adcb.com
 online.adservicemedia.dk
@@ -18313,7 +18271,6 @@ people.skype.com
 peoplegrade.com
 peoplehub.xboxlive.com
 peoplepc.com
-peopleperhour.com
 peoples.com
 peoplesbancorp.com
 peoplesbankbyrdstown.com
@@ -18592,7 +18549,6 @@ player.twitch.tv
 player.vimeo.com
 player.vzaar.com
 player2.h-cdn.com
-playerauctions.com
 players.brightcove.com
 players.brightcove.net
 players.pluto.tv
@@ -18680,7 +18636,6 @@ polarnet.ru
 polgaribank.hu
 policy.naver.com
 policyandsafety.help.soundcloud.com
-polideportivosangabriel.es
 poliklinika.kremenki.su
 politico.com
 polka-staging.typekit.com
@@ -19191,7 +19146,6 @@ qa.marquee.net
 qa.sockets.stackexchange.com
 qantascu.com.au
 qantasmoney.com
-qatarairways.com
 qatarbank.com
 qbn.ru
 qbox.me
@@ -20060,7 +20014,6 @@ ro.wikipedia.com
 road.adblock.ro
 roadandtrack.com
 roaming.officeapps.live.com
-roanoke.com
 roar.media
 robank.ro
 robein.nl
@@ -20410,7 +20363,6 @@ sachsen-spion.de
 sachsenlb.de
 sacn.gov.uk
 sacramento.cbslocal.com
-sadeempc.com
 saderbank.com
 sadmin.brightcove.com
 safaribooksonline.com
@@ -20820,7 +20772,6 @@ search.techmeme.com
 search.travel.rakuten.co.jp
 search.twitter.com
 search.vimeo.com
-search2.quickbooksonline.com
 search5.samsung.com
 search5.samsung.com.edgekey.net
 searchapi.samsung.com
@@ -21564,7 +21515,6 @@ snapchat-payments-gateway.snapchat.com
 snapchat.com
 snapdeal.com
 snapfish.co.uk
-snapjudgment.org
 snappublisher.snapchat.com
 snapscouts.de
 snaptu-mini.c10r.facebook.com
@@ -21761,7 +21711,6 @@ spadaka-oeventrop.de
 spadaka-reken.de
 spade.twitch.tv
 spaengler.co.at
-spamassassin.1065346.n5.nabble.com
 spamhaus.net
 spanish.engadget.com
 spankwire.com
@@ -22231,7 +22180,6 @@ spoke.com
 spoluzaci.cz
 sport.onet.pl
 sport.pl
-sportinglife.ca
 sportmaster.ru
 sportrx.com
 sports-reports.com
@@ -22869,7 +22817,6 @@ styles.redditmedia.com
 su.pr
 suarankri.me
 sub-pubsub.hotstar-labs.com
-sub.to
 sube.halkbank.com.tr
 sube.iktisatbank.com
 sube.sekerbank.com.tr
@@ -23538,7 +23485,6 @@ thevalleyhospital.org
 theverge.com
 theweathernetwork.com
 thewindowsclub.com
-thewindowsupdate.com
 theworldexchange.net
 thewrap.com
 theync.com
@@ -24192,7 +24138,6 @@ uim.tifbs.net
 uisdc.com
 uk-cheapest.co.uk
 uk-go.kelkoogroup.net
-uk.edubirdie.com
 uk.gravatar.com
 uk.hide.me
 uk.ign.com
@@ -24361,7 +24306,6 @@ uolk.uol.com.br
 uongjowo.gravatar.com
 up.blog.naver.com
 up.cm.ksmobile.com
-up.edu.ps
 up.wps.kingsoft.com
 upay.megafon.ru
 upb.com.ua
@@ -24649,7 +24593,6 @@ v4.download.windowsupdate.com
 v5.gd
 v7.stats.avast.com
 v7event.stats.avast.com
-v7support.com
 va.gov
 va.logs.heroku.com
 va.sndcdn.com
@@ -25073,7 +25016,6 @@ vitacost.com
 vitalia.pl
 viva.gr
 viva.nl
-vivafm.com.pe
 vivaldi.com
 vivaldi.net
 vivildspk.dk
@@ -25844,7 +25786,6 @@ weeklyad.target.com.edgesuite.net
 weeronline.nl
 weerplaza.nl
 weeworld.com
-wefunder.com
 weheartit.com
 wehkamp.nl
 weibo.com
@@ -25982,7 +25923,6 @@ wiki.bitfinex.com
 wiki.codeaurora.org
 wiki.dcinside.com
 wiki.flipboard.com
-wiki.lxde.org
 wiki.mozilla.org
 wikia.com
 wikibooks.org
@@ -26554,7 +26494,6 @@ yandex-team.ru
 yandex.com
 yandex.ocsp-responder.com
 yandex.ru
-yandexcdn.com
 yandy.com
 yanettbank.ya.no
 yap.yahoo.com
@@ -26730,7 +26669,6 @@ zero.facebook.com
 zero.wikipedia.com
 zerodot1.gitlab.io
 zerohedge.com
-zesdak-mounde.tk
 zeustracker.abuse.ch
 zh-cn.about.flipboard.com
 zh-hk.about.flipboard.com
