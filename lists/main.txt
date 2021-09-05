@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.05
-# Last modified: 05 Sep 2021 00:15:05 UTC
+# Last modified: 05 Sep 2021 08:02:20 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2091,6 +2091,7 @@ ampproject.net
 ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
+ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -12458,7 +12459,6 @@ id.gravatar.com
 id.l.google.com
 id.m.wikipedia.com
 id.pilet.ee
-id.rambler.ru
 id.remoteutilities.com
 id.santanderconsumer.no
 id.server
@@ -12709,7 +12709,6 @@ img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
 img.animefreak.tv
 img.beeg.com
-img.blesk.cz
 img.breitbart.com
 img.brightcove.com
 img.buzzfeed.com
@@ -13354,7 +13353,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -16254,7 +16252,6 @@ muyinteresante.es
 muylinux.com
 muyseguridad.net
 muysexys.com
-muzeeum.nl
 muzmo.ru
 mv-spion.de
 mva.microsoft.com
@@ -16634,6 +16631,7 @@ nesn.com
 nest.com
 net.au
 net.edgekey.net
+net.etrality.com
 net.idealo-partner.com
 net.kentbank.hr
 net.ms
@@ -18407,7 +18405,6 @@ pinecitybank.com
 pineislandbank.com
 pineriverstatebank.com
 pinevillepethospitalonline.com
-ping-admin.ru
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.pdst.fm
@@ -22067,6 +22064,7 @@ spectre.twitch.tv
 spectrocoin.com
 speed4up.com
 speedbit.com
+speedcheck.org
 speeddials.opera.com
 speednames.com
 speedof.me
