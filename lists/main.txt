@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.06
-# Last modified: 06 Sep 2021 00:16:45 UTC
+# Last modified: 06 Sep 2021 08:02:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1093,7 +1093,6 @@ adswizz.com
 adtech.de
 adtidy.net
 adtidy.org
-adtify.pl
 adtrackers.net
 adtraction.com
 adulthub.ru
@@ -4496,6 +4495,7 @@ blooranimalhospital.com
 bls.gov
 blsk.de
 bltg.s-bol.com
+blueangelhost.com
 bluebillywig.com
 blueconic.com
 blueconic.net
@@ -4984,7 +4984,6 @@ byjusclasses.freshdesk.com
 byod-web.huawei.com
 byside.com
 bystrobank.ru
-bytedance.com
 bytepool.com
 bzbank.ch
 bzh.me
@@ -5825,6 +5824,7 @@ cfota5.ospserver.net
 cfront.alfabank.kiev.ua
 cfsb.com
 cfsbancorp.com
+cftrack.com
 cfu.net
 cfvod.kaltura.com
 cgd.pt
@@ -7256,7 +7256,6 @@ d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2.naver.com
 d2.shared.global.fastly.net
-d21gpk1vhmjuf5.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
@@ -7739,7 +7738,6 @@ digidip.net
 digiex.net
 digiket.com
 digiket.net
-diginetica.net
 digipills.com
 digirati.com.br
 digital.gov
@@ -10075,7 +10073,6 @@ fremontbank.com
 frepa.livedoor.com
 freshbooks.com
 freshdirect.com
-fresheye.com
 freunde.de
 freundeskreis.einslive.de
 freundeweb.net
@@ -11613,7 +11610,6 @@ homesteadbank.com
 homestreetbank.com
 hometownbancorp.com
 homf.com
-honeybadger.io
 honeycreekanimalhospital.com
 hoogo.com
 hooks.slack.com
@@ -12943,7 +12939,6 @@ inkom.lutsk.ua
 inkpeak.com
 inl.gov
 inlandrevenue.gov.uk
-inmoment.com
 inmotionhosting.com
 innovationresearch.huawei.com
 inoreader.com
@@ -13120,7 +13115,6 @@ iobsingapore.com
 ioconto.it
 ioffice.kz
 iol.cz
-iolam.it
 ioniahospital.org
 iopscience.iop.org
 ios.nccp.netflix.com
@@ -13189,7 +13183,6 @@ iqtest.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
-iraiser.eu
 irbbank.ch
 irc-galleria.net
 irc-ws-darklaunch.chat.twitch.tv
@@ -14196,6 +14189,7 @@ l.google.com
 l.googleusercontent.com
 l.qq.com
 l.yimg.com
+l2.io
 l9bjkkhaycw6f8f4.soundcloud.com
 la.wikipedia.com
 lab.vcc-ie.huawei.com
@@ -14785,7 +14779,6 @@ login.windows-ppe.net
 login.windows.net
 login.yahoo.com
 logincdn.msauth.net
-loginfra.com
 loginhood.io
 loginpoll.wechat.com
 logins.daum.net
@@ -16850,7 +16843,6 @@ nike.com
 nikkeibp.co.jp
 nikoil.az
 nil.naver.com
-nile.works
 nimhost.com
 nine.plugins.plexapp.com
 ning.com
@@ -18980,7 +18972,6 @@ proxy02.pop.ord.plex.bz
 prtimes.jp
 prudentbank.net
 prudentialsavingsbank.com
-prvsz4pe.micpn.com
 ps.software.eu.playstation.com
 ps2media.ign.com
 ps3media.ign.com
@@ -19662,7 +19653,6 @@ rd.yahoo.com
 rdrtr.com
 rds-assets.nvidia.com
 rdsig.yahoo.co.jp
-rdstation.com.br
 rdtcdn.com
 rdwest.playstation.com
 rdx2.lgtvsdp.com
@@ -23742,6 +23732,7 @@ track.upaknee.com
 track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
+tracker.cyber-hub.net
 tracker.debian.org
 tracker.dominos.com
 tracker.idocdn.com
@@ -26632,6 +26623,7 @@ zapier.com
 zapit.nu
 zapp.nl
 zappos.com
+zapr.in
 zapsibkombank.ru
 zapto.org
 zarech.ru
