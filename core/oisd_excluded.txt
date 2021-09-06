@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Sep 2021 16:02:36 UTC
+# Last modified: 06 Sep 2021 00:16:44 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -374,7 +374,6 @@ adsp.xunlei.com
 adswizz.com
 adtech.de
 adtidy.net
-adtify.pl
 adtrackers.net
 adtraction.com
 adulthub.ru
@@ -408,7 +407,6 @@ alepuniv.edu.sy
 alexa.com
 alicdn.com
 alimama.com
-alitems.com
 alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
@@ -639,6 +637,7 @@ blogcatalog.com
 blogsmithmedia.com
 blogspot.com.by
 blogtopsites.com
+blueangelhost.com
 blueconic.com
 blueconic.net
 bluecore.com
@@ -687,7 +686,6 @@ bxczchdxynw.com
 by.uservoice.com
 byet.org
 byside.com
-bytedance.com
 c-api-bit.shopeemobile.com
 c.allegrostatic.pl
 c.cintnetworks.com
@@ -790,6 +788,7 @@ ceuswatcab02.blob.core.windows.net
 cf1.vuze.com
 cf2.me
 cfeucdn.com
+cftrack.com
 cfvod.kaltura.com
 ch0p.darty.com
 channeladvisor.com
@@ -939,7 +938,6 @@ countere.com
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
-cpm.wargaming.net
 cpt.itv.com
 cptrack.de
 cquotient.com
@@ -1007,7 +1005,6 @@ d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
-d21gpk1vhmjuf5.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
@@ -1070,7 +1067,6 @@ diary.ru
 digidip.net
 digiket.com
 digiket.net
-diginetica.net
 digitaladvisor.dk
 digitalive.world
 digitalsmiths.net
@@ -1312,7 +1308,6 @@ freeexchange.ru
 freegeoip.net
 freeroms.com
 freesteamkeys.com
-fresheye.com
 frog.wix.com
 frontier.musical.ly
 fs.microsoft.com
@@ -1496,7 +1491,6 @@ hockeyapp.net
 hollyhockhill.com
 home.bt.com
 home.wanadoo.nl
-honeybadger.io
 hooks.slack.com
 hopto.org
 horriblevideos.com
@@ -1712,7 +1706,6 @@ infos.anz.com
 infos.telstra.com.au
 ingame-news.ubi.com
 ingest.sentry.io
-inmoment.com
 inquisition.goguardian.com
 inscname.net
 inside-graph.com
@@ -1738,7 +1731,6 @@ investingchannel.com
 invoca.net
 involve.asia
 ioam.de
-iolam.it
 ip-adress.com
 ip-api.com
 ip-info.ff.avast.com
@@ -1755,11 +1747,9 @@ ipinfodb.com
 ipla.hit.stat24.com
 ipm-provider.ff.avast.com
 ipoker.com
-ipqualityscore.com
 ipstack.com
 ipv4.tracker.harry.lu
 iqtest.com
-iraiser.eu
 irchan.com
 iris.tv
 ironbeast.io
@@ -1840,6 +1830,7 @@ l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
 l.qq.com
+l2.io
 labs-mqtt.xda-developers.com
 lads.myspace.com
 launcher.spot.im
@@ -1883,7 +1874,6 @@ log.quora.com
 log.tiktokv.com
 log.ys7.com
 loggly.com
-loginfra.com
 logrocket.com
 logs-01.loggly.com
 logs.amap.com
@@ -2066,7 +2056,6 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nfscars.net
 ngrok.io
-nile.works
 nl.sitestat.com
 nllapps.com
 nlrb.gov
@@ -2337,7 +2326,6 @@ promo.mobile.de
 promos.fling.com
 prov.samsungcloudsolution.com
 proxad.net
-prvsz4pe.micpn.com
 psicologia-online.com
 pstmrk.it
 public.popcorn-tracker.org
@@ -2396,7 +2384,6 @@ rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
 rdrtr.com
-rdstation.com.br
 rdx2.lgtvsdp.com
 realsrv.com
 realtime.services.disqus.com
@@ -2594,8 +2581,6 @@ sharethis.com
 sharewood.org
 shinobi.jp
 shop.spreadshirt.com
-shop.zalo.me
-shop.zaloapp.com
 shopperapproved.com
 shopzilla.com
 shorte.st
@@ -3143,6 +3128,7 @@ z-m.c10r.facebook.com
 z.zz.ht
 zaloapp.com
 zanox.com
+zapr.in
 zbiornik.com
 zdbb.net
 zee.cws.conviva.com
