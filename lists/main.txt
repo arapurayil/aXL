@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.07
-# Last modified: 07 Sep 2021 00:13:38 UTC
+# Last modified: 07 Sep 2021 08:02:51 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -253,7 +253,6 @@
 3.tw.pool.ntp.org
 3.ubuntu.pool.ntp.org
 3.us.pool.ntp.org
-31.media.tumblr.com
 356bank.com
 360.cn
 360.yahoo.com
@@ -2090,7 +2089,6 @@ ampproject.net
 ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -2644,7 +2642,6 @@ app.clickfunnels.com
 app.convertkit.com
 app.data.qq.com
 app.dharma.io
-app.e2ma.net
 app.energized.pro
 app.getresponse.com
 app.huawei.com
@@ -2720,7 +2717,6 @@ appnee.com
 apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
 apps-pub.samsungcloudcdn.com
-apps.corel.com
 apps.crashlytics.com
 apps.cybonline.co.uk
 apps.daum.net
@@ -5469,7 +5465,6 @@ cdn-www.xda-developers.com
 cdn-yams.schibsted.com
 cdn.abc.eamobile.com
 cdn.activistpost.com
-cdn.adc.eamobile.com
 cdn.adf.ly
 cdn.adrise.tv
 cdn.agilebits.com
@@ -5574,7 +5569,6 @@ cdn.office.net
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
 cdn.onesignal.com
-cdn.opencmp.net
 cdn.opinionlab.com
 cdn.optimizely.com
 cdn.optinmonster.com
@@ -6733,7 +6727,6 @@ consent.faz.net
 consent.google.nl
 consent.trustarc.com
 consent.truste.com
-consentmanager.mgr.consensu.org
 consilnet.com
 console.cloud.google.com
 consorsbank.de
@@ -7270,7 +7263,6 @@ d2zah9y47r7bi2.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d36eyd5j1kt1m6.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
@@ -8971,7 +8963,6 @@ eventgateway.soundcloud.com
 eventgateway.x.sndcdn.com
 eventlogger.soundcloud.com
 events.apester.com
-events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -9101,7 +9092,6 @@ extratorrent.cc
 extratorrent.com
 extreme-ip-lookup.com
 extrobank.ru
-eye.swfchan.com
 ez-sites.ws
 ezaimo.ru
 ezhospital.com
@@ -9843,7 +9833,6 @@ foothillsanimalhospital.com
 footlocker-inc.com
 footlocker.com
 footprint.net
-footprints-pa.googleapis.com
 forabank.ru
 forbank.dk
 forbes.com
@@ -10234,7 +10223,6 @@ g.justwatch.com
 g.live.com
 g.mi.com
 g.msn.com
-g.tbcdn.cn
 g.udimg.com
 g.whatsapp.net
 g00.me
@@ -13299,7 +13287,6 @@ iwiin.com
 iwin.com
 iwiw.hu
 iwiw.net
-iws.corel.com
 iww.ca
 ix.sk
 ixe.com.mx
@@ -13346,6 +13333,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -14589,7 +14577,6 @@ live.mi.com
 live.net
 live.part.xbox.com
 live.playstation.com
-live.primis.tech
 live.recode.net
 live.rtm.vint.xbox.com
 live.simcitybuildit.com
@@ -14964,7 +14951,6 @@ magazines.flipboard.com
 magbank.com
 magic.cloud.vimeo.com
 magicplayer-api.torrentstream.org
-magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magiskmanager.com
 magnetbank.hu
@@ -15106,7 +15092,6 @@ marca.com
 marcard.de
 marcus.com
 marfeel.com
-marfeel.mgr.consensu.org
 marfeelcache.com
 marfinbank.ua
 margevicius.lt
@@ -15280,7 +15265,6 @@ mbuzzy.com
 mbvt.com
 mbz19n.accounts.clickbank.com
 mc-siderail.spot.im
-mc.corel.com
 mc.yandex.ru
 mcaf.ee
 mcafee.com
@@ -15658,6 +15642,7 @@ metrics.aem.playstation.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.dickssportinggoods.com
+metrics.hackerrank.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.plex.tv
@@ -16979,7 +16964,6 @@ noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
 notice.samsungcloudsolution.com
-notice.sp-prod.net
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -18523,7 +18507,6 @@ playbooks-pa.googleapis.com
 playboyu.com
 playbuzz.com
 player-feedback-v1.glomex.com
-player.anyclip.com
 player.cnevids.com
 player.dacast.com
 player.glomex.com
@@ -19088,7 +19071,6 @@ pusanbank.co.kr
 push.api.bbci.co.uk
 push.buy.mi.com
 push.chocolatey.org
-push.rollout.io
 push.services.mozilla.com
 push.wps.cn
 push2.eastmoney.com
@@ -20056,7 +20038,6 @@ rottaler-raiba.de
 rottentomatoes.com
 round.ru
 roundrocktexas.gov
-router.bittorrent.com
 rover.ebay.co.uk
 rover.ebay.com
 rover.ebay.de
@@ -20311,7 +20292,6 @@ s3.eu-west-1.amazonaws.com
 s3.eu-west-2.amazonaws.com
 s3.eu-west-3.amazonaws.com
 s3.me-south-1.amazonaws.com
-s3.pstatp.com
 s3.sa-east-1.amazonaws.com
 s3.symcb.com
 s3.us-east-1.amazonaws.com
@@ -21211,7 +21191,6 @@ siasat.pk
 siatka.org
 sib.ci
 sibank.ru
-sibboventures.mgr.consensu.org
 sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
@@ -22527,7 +22506,6 @@ static.sh.st
 static.siteheart.com
 static.sitesbi.com
 static.skypeassets.com
-static.smi2.net
 static.soundcloud.com
 static.springmetrics.com
 static.startpagina.nl
@@ -23655,7 +23633,6 @@ tools.tracemyip.org
 toots-a.akamaihd.net
 top.cafe.daum.net
 top.mail.ru
-top.taobao.com
 top1.ro
 topface.com
 tophonors.com
@@ -23857,6 +23834,7 @@ tristateleague.info
 tritondigital.com
 trk.cp20.com
 trk.email.dynect.net
+trk.emlbest.com
 trk.klclick.com
 trk.klclick1.com
 trk.pinterest.com
@@ -24294,7 +24272,6 @@ uolhost.com.br
 uolk.uol.com.br
 uongjowo.gravatar.com
 up.blog.naver.com
-up.cm.ksmobile.com
 up.wps.kingsoft.com
 upay.megafon.ru
 upb.com.ua
@@ -25035,7 +25012,6 @@ vmp.boldchat.com
 vmp.qq.com
 vms-beta.boldchat.com
 vms-eu.boldchat.com
-vms-players.minutemediaservices.com
 vms.bluebillywig.com
 vms.boldchat.com
 vmss-beta.boldchat.com
@@ -26306,6 +26282,7 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
+www4.orangecyberdefense.com
 www5.2giga.link
 www6.2giga.link
 www6.9Anime.to
@@ -26509,7 +26486,6 @@ yinxiang.com
 yipes.com
 ykb.com
 ykb.nl
-ykrec.youku.com
 ynuf.aliapp.org
 ynuf.alipay.com
 yoakumhospital.org
