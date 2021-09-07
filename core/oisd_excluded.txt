@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Sep 2021 16:03:05 UTC
+# Last modified: 07 Sep 2021 00:13:38 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -24,7 +24,6 @@
 7eer.net
 7zap.com
 24.hu
-31.media.tumblr.com
 51.com
 51.la
 51yes.com
@@ -415,7 +414,6 @@ amdc.m.taobao.com
 americanlisted.com
 amos.alicdn.com
 amplitude.com
-ams3.digitaloceanspaces.com
 an.yandex.ru
 analitik.edevlet.gov.tr
 analytics.edgekey.net
@@ -498,7 +496,6 @@ app.adjust.net.in
 app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
-app.e2ma.net
 app.getresponse.com
 app.launchdarkly.com
 app.link
@@ -515,7 +512,6 @@ appletoolbox.com
 appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
-apps.corel.com
 apps.crashlytics.com
 apps.elfsight.com
 apps.skype.com
@@ -720,7 +716,6 @@ cdex.mu
 cdn-gl.imrworldwide.com
 cdn-image.com
 cdn-net.com
-cdn.adc.eamobile.com
 cdn.adf.ly
 cdn.akubebas.com
 cdn.ampproject.org
@@ -749,7 +744,6 @@ cdn.livefyre.com
 cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.onesignal.com
-cdn.opencmp.net
 cdn.optimizely.com
 cdn.pendo.io
 cdn.printfriendly.com
@@ -912,7 +906,6 @@ consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.faz.net
 consent.truste.com
-consentmanager.mgr.consensu.org
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
@@ -1008,7 +1001,6 @@ d10lpsik1i8c69.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d36eyd5j1kt1m6.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 da.feedsportal.com
 da.netease.com
@@ -1202,7 +1194,6 @@ eultech.fnac.com
 eurobet.it
 event.udn.com
 events.apester.com
-events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -1233,7 +1224,6 @@ external.xx.fbcdn.net
 extole.io
 extratorrent.ag
 extreme-ip-lookup.com
-eye.swfchan.com
 ezoic.net
 f-log-at.grammarly.io
 f.shopee.sg
@@ -1294,7 +1284,6 @@ fontanka.ru
 fontjoy.com
 fonts.googleapis.com
 fonts.net
-footprints-pa.googleapis.com
 ford.to
 forms.aweber.com
 forms.convertkit.com
@@ -1324,7 +1313,6 @@ fwmrm.net
 fy.v.vrv.co
 g.alicdn.com
 g.msn.com
-g.tbcdn.cn
 gall.dcinside.com
 galt.hit.gemius.pl
 game.baidu.com
@@ -1761,7 +1749,6 @@ itsfogo.com
 itv.ard.de
 iubenda.com
 iwin.com
-iws.corel.com
 iww.ca
 izeselet.hu
 izooto.com
@@ -1769,6 +1756,7 @@ j.gs
 jaleco.com
 janrain.com
 japantv.club
+java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -1857,7 +1845,6 @@ links.playon.tv
 links.strava.com
 linksynergy.com
 litix.io
-live.primis.tech
 live.simcitybuildit.com
 livefyre.com
 liveinternet.ru
@@ -1896,7 +1883,6 @@ madmimi.com
 mads-eu.amazon.com
 mads.amazon.com
 magicplayer-api.torrentstream.org
-magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magiskmanager.com
 mail01.virginpulse.com
@@ -1912,7 +1898,6 @@ mangler4.generals.ea.com
 manifest.auditude.com
 maps.windows.com
 marfeel.com
-marfeel.mgr.consensu.org
 marfeelcache.com
 marinetraffic.com
 marinsm.com
@@ -1928,7 +1913,6 @@ maropost.com
 mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
 maxcdn.bootstrapcdn.com
-mc.corel.com
 mc.yandex.ru
 md-nx.com
 mdis.uz
@@ -1956,6 +1940,7 @@ meteomaastricht.nl
 metok.sys.miui.com
 metric.gstatic.com
 metrics.claspws.tv
+metrics.hackerrank.com
 metrics.torproject.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
@@ -2062,7 +2047,6 @@ nlrb.gov
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
-notice.sp-prod.net
 noticecdn.samsungcloudsolution.com
 nova.collect.igodigital.com
 now.eloqua.com
@@ -2235,7 +2219,6 @@ photo.net
 phs.tanx.com
 pi.pardot.com
 piacesprofit.hu
-pic.iask.cn
 pico.tools
 pigu.lt
 ping.cloud.tencent.com
@@ -2265,7 +2248,6 @@ plausible.eurostocks.nl
 plausible.io
 playbuzz.com
 player-feedback-v1.glomex.com
-player.anyclip.com
 player.cnevids.com
 player.dacast.com
 player.h-cdn.com
@@ -2343,7 +2325,6 @@ pulsar.ebay.it
 pumppazh.com
 purch.com
 push.api.bbci.co.uk
-push.rollout.io
 pushauction.com
 pushdata.sendpulse.com
 pushengage.com
@@ -2427,7 +2408,6 @@ rm.api.weibo.com
 rmp.rakuten.com
 rollbar.com
 romsmania.com
-router.bittorrent.com
 rover.ebay.co.uk
 rover.ebay.com
 row-advil.waze.com
@@ -2463,7 +2443,6 @@ s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-us-west-1.amazonaws.com
-s3.pstatp.com
 s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
@@ -2584,7 +2563,6 @@ shop.spreadshirt.com
 shopperapproved.com
 shopzilla.com
 shorte.st
-sibboventures.mgr.consensu.org
 sickrage.ca
 sift.com
 siftscience.com
@@ -2683,7 +2661,6 @@ static.scroll.com
 static.siteheart.com
 static.sitesbi.com
 static.skypeassets.com
-static.smi2.net
 static.springmetrics.com
 static.vrv.co
 static.wi-fi.ru
@@ -2819,7 +2796,6 @@ tom.itv.com
 tongji.baidu.com
 toolbar.google.com
 toots-a.akamaihd.net
-top.taobao.com
 top1.ro
 torimochi.line-apps.com
 torrentsnipe.info
@@ -2875,6 +2851,7 @@ trial.api.huangye.miui.com
 trib.al
 tritondigital.com
 trk.email.dynect.net
+trk.emlbest.com
 trk.pinterest.com
 trk.s.sephora.com
 trojan-killer.net
@@ -2925,7 +2902,6 @@ unity.com
 unity3d.com
 unk.vver.kiae.rr
 untd.com
-up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
 update.miui.com
@@ -3005,7 +2981,6 @@ visualstudio-devdiv-c2s.msedge.net
 visualwebsiteoptimizer.com
 vizury.com
 vk.cc
-vms-players.minutemediaservices.com
 vms.boldchat.com
 vofcw7x.x.incapdns.net
 voodoo.com
@@ -3090,6 +3065,7 @@ www.adverts.ie
 www1.amnhealthcare.com
 www3.bloomingdales.com
 www3.webhostingtalk.com
+www4.orangecyberdefense.com
 x.co
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
@@ -3111,7 +3087,6 @@ yahoo.adnetasia.com
 yahoodns.net
 yap.yahoo.com
 yimg.com
-ykrec.youku.com
 ynuf.aliapp.org
 ynuf.alipay.com
 youtube-nocookie.com
