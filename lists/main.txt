@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.07
-# Last modified: 07 Sep 2021 08:02:51 UTC
+# Last modified: 07 Sep 2021 16:03:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -19045,6 +19045,7 @@ publix.com
 pubs.acs.org
 pubster.twitch.tv
 pubsub-edge.twitch.tv
+pubsub.googleapis.com
 pubsub.plex.bz
 pubsub.plex.tv
 pueblobankandtrust.com
