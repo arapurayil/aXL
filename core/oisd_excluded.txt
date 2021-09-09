@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Sep 2021 16:03:01 UTC
+# Last modified: 09 Sep 2021 00:14:17 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -552,7 +552,6 @@ auth.samsungosp.com
 authbe.sec.intl.miui.com
 auto.search.msn.com
 autoappassionati.it
-autoitscript.com
 autolinkmaker.itunes.apple.com
 autopilothq.com
 avantlink.com
@@ -910,7 +909,6 @@ consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
 content.awaze.com
-content.barracuda.com
 content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
@@ -942,6 +940,7 @@ creditonebank.com
 credomobile.com
 crisp.chat
 crl.comodoca.com
+crl.identrust.com
 crl.microsoft.com
 cross-plus-a.com
 crowdtwist.com
@@ -1112,6 +1111,7 @@ drp.su
 ds-aksb-a.akamaihd.net
 ds1.nl
 dspultra.com
+dt51.net
 dtiserv2.com
 dts.podtrac.com
 duck.sh
@@ -1379,11 +1379,9 @@ glomex.com
 gloyah.net
 glpals.com
 gm.mmstat.com
-go.dlink.com
 go.neverware.com
 go.pardot.com
 go.redirectingat.com
-go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1458,7 +1456,6 @@ hbbtv.sixx.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
-hdredirect-lb7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
@@ -1756,7 +1753,6 @@ j.gs
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -3005,6 +3001,7 @@ watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
+web.vortex.data.microsoft.com
 webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
