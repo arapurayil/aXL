@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.09
-# Last modified: 09 Sep 2021 00:14:17 UTC
+# Last modified: 09 Sep 2021 08:02:37 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3113,7 +3113,6 @@ autobank.at
 autocomplete.kaspersky.com
 autodiscover.funimation.com
 autohome.com.cn
-autoitscript.com
 autolinkmaker.itunes.apple.com
 autopays.ru
 autopilothq.com
@@ -6751,7 +6750,6 @@ content-icc.pulselive.com
 content-storage-upload.googleapis.com
 content.aimatch.com
 content.awaze.com
-content.barracuda.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -7028,6 +7026,7 @@ critic.api.playstation.com
 crl-ds.ws.symantec.com.edgekey.net
 crl.adobe.com
 crl.comodoca.com
+crl.identrust.com
 crl.microsoft.com
 crl.verisign.net
 crmla.org
@@ -8162,6 +8161,7 @@ dsms0mj1bbhn4.cloudfront.net
 dsns.gov.ua
 dsp.brand.sogou.com
 dspultra.com
+dt51.net
 dtbank.hu
 dtiserv2.com
 dto.vakifbank.com.tr
@@ -10654,7 +10654,6 @@ go.co
 go.com
 go.daum.net
 go.digitalocean.com
-go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -10670,7 +10669,6 @@ go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
-go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -11327,7 +11325,6 @@ hdfcbank.com
 hdh-voba.de
 hdhs.com.au
 hdo.to
-hdredirect-lb7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com
 hdrezka.ag
 hdserver.nirsoft.net
 hdv-darmstadt.de
@@ -13333,7 +13330,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
