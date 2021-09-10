@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Sep 2021 16:03:13 UTC
+# Last modified: 10 Sep 2021 00:15:34 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -70,6 +70,7 @@ a248.e.akamai.net
 a771.dscq.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
+ablink.e.hungryjacks.com.au
 aboutads.info
 accengage.com
 accesstrade.co.id
@@ -1247,6 +1248,7 @@ fembed.com
 ffdns.net
 file.market.xiaomi.com
 filehorse.com
+files.im
 files.viva64.com
 fili.cc
 filters.adtidy.org
@@ -1379,6 +1381,7 @@ glomex.com
 gloyah.net
 glpals.com
 gm.mmstat.com
+go-mpulse.net
 go.neverware.com
 go.pardot.com
 go.redirectingat.com
