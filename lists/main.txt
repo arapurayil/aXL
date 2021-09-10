@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.10
-# Last modified: 10 Sep 2021 00:15:34 UTC
+# Last modified: 10 Sep 2021 08:02:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -501,6 +501,7 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
+ablink.e.hungryjacks.com.au
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -9455,6 +9456,7 @@ files.coinmarketcap.com
 files.dcinside.com
 files.fm
 files.gumroad.com
+files.im
 files.msal.ru
 files.overclock.net
 files.slack.com
@@ -10647,6 +10649,7 @@ gnbbank.com
 gnbsudameris.com.co
 gnty.com
 gnu.org
+go-mpulse.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
