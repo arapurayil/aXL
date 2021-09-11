@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Sep 2021 16:02:59 UTC
+# Last modified: 11 Sep 2021 00:14:27 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -820,6 +820,7 @@ click.cptrack.de
 click.dtiserv2.com
 click.email.sonos.com
 click.engage.xbox.com
+click.icptrack.com
 click.linksynergy.com
 click.ml.mailersend.com
 click.official.nike.com
@@ -913,7 +914,6 @@ content.awaze.com
 content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
-convertertogenerator.com
 conviva.com
 cooey-coe.org
 cookie.monster.com
@@ -941,7 +941,6 @@ creditonebank.com
 credomobile.com
 crisp.chat
 crl.comodoca.com
-crl.identrust.com
 crl.microsoft.com
 cross-plus-a.com
 crowdtwist.com
@@ -1533,6 +1532,7 @@ ib.snssdk.com
 ic3.events.data.microsoft.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
+icptrack.com
 id.google.ad
 id.google.al
 id.google.at
@@ -1647,7 +1647,6 @@ id.unity.com
 idcdn.de
 idealmedia.io
 identity.mparticle.com
-ideone.com
 idevaffiliate.com
 idiagnostics.apple.com
 idv0h0h.qiniudns.com
@@ -1778,6 +1777,7 @@ js.pusher.com
 js.recurly.com
 js.sohu.com
 js.stripe.com
+js.taplytics.com
 jssdks.mparticle.com
 juvander.net
 jwpcdn.com
@@ -1829,7 +1829,6 @@ leadpages.net
 leakreality.com
 leanplum.com
 learn.cisecurity.org
-ledgernote.com
 legalterms.cbsinteractive.com
 lgsmartad.com
 lib.rus.ec
@@ -2266,7 +2265,6 @@ po.st
 pokerstrategy.com
 polldaddy.com
 polyfill.io
-pomf.cat
 pornerbros.com
 portableroms.com
 portalroms.com
@@ -2358,7 +2356,6 @@ ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
-rayli.com.cn
 rbc.ua
 rbx.gg
 rd.rakuten.co.jp
@@ -2533,6 +2530,7 @@ sensors.binance.cloud
 sentry.io
 serials.ws
 serve.adtrackers.net
+servedby.o2.co.uk
 server.iad.liveperson.net
 service.game-mode.net
 service.hotstar.com
@@ -2581,6 +2579,7 @@ slimpuls.nl
 sliptalk.com
 sls.update.microsoft.com.akadns.net
 smallseotools.com
+smart.link
 smartasset.com
 smartclip.net
 smartlock.google.com
@@ -2683,6 +2682,7 @@ storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stptrisakti.ac.id
 stream-hk.viu.com
+streamate.com
 streaming.adswizz.com
 streamlike.com
 streamplay.to
@@ -2789,7 +2789,6 @@ tkqlhce.com
 tm.a.prd.aadg.trafficmanager.net
 tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
-tmclub.eu
 todhamilton.pro
 tom.itv.com
 tongji.baidu.com
@@ -3008,7 +3007,6 @@ web.vortex.data.microsoft.com
 webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
-webcindario.com
 webgains.com
 webmasterplan.com
 webpayment-promo.internet.apps.samsung.com
@@ -3112,10 +3110,8 @@ ziboupdater.net
 ziffdavis.com
 zip.net
 zipansion.com
-zombsroyale.io
 zoo.sandiegozoo.org
 zopim.com
 ztd.dds.microsoft.com
-ztm.waw.pl
 zytpirwai.net
 zzb.bz
