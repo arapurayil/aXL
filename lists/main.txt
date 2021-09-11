@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.11
-# Last modified: 11 Sep 2021 00:14:27 UTC
+# Last modified: 11 Sep 2021 08:02:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7027,7 +7027,6 @@ critic.api.playstation.com
 crl-ds.ws.symantec.com.edgekey.net
 crl.adobe.com
 crl.comodoca.com
-crl.identrust.com
 crl.microsoft.com
 crl.verisign.net
 crmla.org
@@ -13481,6 +13480,7 @@ js.pusher.com
 js.recurly.com
 js.sohu.com
 js.stripe.com
+js.taplytics.com
 js.ui-portal.de
 js1.t.sinajs.cn
 jsafrasarasin.de
@@ -14327,7 +14327,6 @@ leaseweb.com
 leben.org
 leboutique.com
 lechbank.com
-ledgernote.com
 ledgerwallet.com
 ledyardbank.com
 leeds.gov.uk
@@ -18618,7 +18617,6 @@ poloniex.com
 polyclinic.kremenki.su
 polyfill.io
 polygon.com
-pomf.cat
 pommerschevb.de
 pontosconsult.de
 pool.btc.com
@@ -19416,7 +19414,6 @@ rawhttp.cloudflareworkers.com
 raxco.com
 rayfile.com
 raygun.io
-rayli.com.cn
 razorpay.com
 rb-adel-siel.de
 rb-af.de
@@ -20973,6 +20970,7 @@ serve.adtrackers.net
 servebbs.net
 servebeer.com
 servedby.flashtalking.com
+servedby.o2.co.uk
 servepics.com
 server-54-230-93-120.fra2.r.cloudfront.net
 server.iad.liveperson.net
@@ -21406,6 +21404,7 @@ smallpdf.com
 smallseotools.com
 smart.com.ph
 smart.gov
+smart.link
 smartandsexy.com
 smartasset.com
 smartbank.ru
@@ -22742,6 +22741,7 @@ stratus.soundcloud.com
 stream-hk.viu.com
 stream.highwebmedia.com
 stream.twitch.tv
+streamate.com
 streamer.tawenda-tech.org
 streaming.adswizz.com
 streamlike.com
@@ -23573,7 +23573,6 @@ tmba.org
 tmbdirect.com
 tmblr.co
 tmcaz.com
-tmclub.eu
 tmdb.np.dl.playstation.net
 tmearn.com
 tmi.twitch.tv
@@ -25674,7 +25673,6 @@ webcache.googleusercontent.com
 webcam.yahoo.com
 webcamflushcrush.com
 webcare.byside.com
-webcindario.com
 webcityfed.com
 webcollage.net
 webconferencia.net
@@ -26686,7 +26684,6 @@ zoho.in
 zomato.com
 zomato.com.edgekey.net
 zombo.com
-zombsroyale.io
 zona.media
 zone.ee
 zoo.sandiegozoo.org
