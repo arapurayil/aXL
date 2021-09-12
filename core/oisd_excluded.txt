@@ -2,11 +2,10 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Sep 2021 16:02:58 UTC
+# Last modified: 12 Sep 2021 00:15:41 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
-1gr.cz
 1hosts.cf
 2baksa.net
 2cnt.net
@@ -60,7 +59,6 @@ a.nonstoppartner.net
 a.pomf.cat
 a.pr-cy.ru
 a.realsrv.com
-a.tcog.news.com.au
 a.wishabi.com
 a1.mzstatic.com
 a2.xinhuanet.com
@@ -126,7 +124,6 @@ adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
 ads-v-darwin.hulustream.com
-ads.api.24ur.si
 ads.google.com
 ads.harvard.edu
 ads.reddit.com
@@ -452,7 +449,6 @@ api.device.xiaomi.net
 api.facebook.com
 api.faceid.com
 api.gfe.nvidia.com
-api.groupon.com
 api.hubapi.com
 api.io.mi.com
 api.ipify.org
@@ -568,7 +564,6 @@ az667904.vo.msecnd.net
 az700632.vo.msecnd.net
 azabu-u.ac.jp
 azurewebsites.net
-b.hatena.ne.jp
 b.koodomobile.com
 b.scorecardresearch.com
 b.stats.paypal.com
@@ -729,7 +724,6 @@ cdn.cxense.com
 cdn.derekseaman.com
 cdn.districtm.ca
 cdn.dynamicyield.com
-cdn.elev.io
 cdn.engine.4dsply.com
 cdn.flurry.com
 cdn.gigya.com
@@ -753,7 +747,6 @@ cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
 cdn.siftscience.com
-cdn.static-fra.de
 cdn.streamlike.com
 cdn.stroeerdigitalgroup.de
 cdn.syndication.twimg.com
@@ -934,7 +927,6 @@ cpt.itv.com
 cptrack.de
 cquotient.com
 crashlytics.com
-crbcdn.jsfiddle.net
 creative.ak.fbcdn.net
 creatives.ancoraplatform.com
 creditonebank.com
@@ -1159,7 +1151,6 @@ embed.tawk.to
 embed.windy.com
 emjcd.com
 emkei.cz
-emp.bbci.co.uk
 emptyloop.com
 en25.com
 endpoint1.collection.eu.sumologic.com
@@ -1250,6 +1241,7 @@ filehorse.com
 files.im
 files.viva64.com
 fili.cc
+filmha.top
 filters.adtidy.org
 findglocal.com
 firebaselogging-pa.googleapis.com
@@ -1525,7 +1517,6 @@ iad-03.braze.com
 iad.liveperson.net
 iam-agof-app.irquest.com
 iap-mob.ubi.com
-iapref.orange.fr
 ias.r10s.jp
 ias.rakuten.co.jp
 ib.snssdk.com
@@ -1669,7 +1660,6 @@ img.beeg.com
 img.digiket.net
 img.en25.com
 img.mp.itc.cn
-img.nui.media
 img.pr0gramm.com
 img1.sj.qq.com
 img2.autoimg.cn
@@ -1774,7 +1764,6 @@ js.indexww.com
 js.intercomcdn.com
 js.maxmind.com
 js.pusher.com
-js.recurly.com
 js.sohu.com
 js.stripe.com
 js.taplytics.com
@@ -1846,7 +1835,6 @@ litix.io
 live.simcitybuildit.com
 livefyre.com
 liveinternet.ru
-livepassdl.conviva.com
 liveperson.com
 liveperson.net
 liveupdate.mac.sandai.net
@@ -1930,7 +1918,6 @@ meebo.com
 meetyourmessenger.co.uk
 meltwater.com
 messagemedia.com
-messengerpeople.com
 met2.hp.com
 meta.vn
 metaffiliation.com
@@ -1979,7 +1966,6 @@ movie.xunlei.com
 mp.huangye.miui.com
 mp.pianomedia.eu
 mp.twitch.tv
-mp.weixin.qq.com
 mparticle.com
 mplxtms.com
 mpsnare.iesnare.com
@@ -2023,7 +2009,6 @@ net.idealo-partner.com
 netcore.co.in
 netiq.com
 netupdater.info
-networkedblogs.com
 newrelic.com
 news.ebc.net.tw
 news.smi2.ru
@@ -2205,7 +2190,6 @@ peerius.com
 pendo.io
 people-pa.googleapis.com
 peoplehub.xboxlive.com
-pepper.com
 pepperjamnetwork.com
 perfdrive.com
 performgroup.com
@@ -2239,7 +2223,6 @@ planet.net
 plarium.com
 platform.linkedin.com
 platform.sharethis.com
-platform.tout.com
 platform.tumblr.com
 platform.twitter.com
 plausible.eurostocks.nl
@@ -2434,7 +2417,6 @@ s.ytimg.com
 s.zkcdn.net
 s0.2mdn.net
 s1.yimg.com
-s2.static.cfgr3.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
@@ -2475,7 +2457,6 @@ sci.intuit.com
 sclark.xyz
 scone-pa.clients6.google.com
 scontent.xx.fbcdn.net
-scoop.it
 scorecardresearch.com
 scr.wfcdn.de
 screenshots.goguardian.com
@@ -2496,7 +2477,6 @@ seal.godaddy.com
 seal.verisign.com
 sealserver.trustwave.com
 search.services.mozilla.com
-search.twitter.com
 searchencrypt.com
 seccdn-gl.imrworldwide.com
 secure-gl.imrworldwide.com
@@ -2609,7 +2589,6 @@ softwareadvice.com
 som.aeroplan.com
 someonewhocares.com
 soo.gd
-sourcepoint.mgr.consensu.org
 sp-mms.weather.com
 spade.twitch.tv
 spamhaus.net
@@ -2620,7 +2599,6 @@ speeddials.opera.com
 spgo.io
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
-spoj.com
 spot.im
 springmetrics.com
 spywareterminator.com
@@ -2636,7 +2614,6 @@ sso.internetat.tv
 ssp.meba.kr
 sstats.adobe.com
 st.chatango.com
-stacksocial.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
 star.c10r.facebook.com
@@ -2747,8 +2724,6 @@ tc.tradetracker.net
 tce.alicdn.com
 tcog.news.com.au
 td.demdex.net
-td.vs3.com
-tdn.gtranslate.net
 tdn.r42tag.com
 tealium.com
 teams.events.data.microsoft.com
@@ -2822,7 +2797,6 @@ tracker.pomf.se
 tracker.publicbt.com
 tracker2.wasabii.com.tw
 trackersimulator.org
-tracking.bol.com
 tracking.bp01.net
 tracking.epicgames.com
 tracking.lengow.com
@@ -2844,7 +2818,6 @@ travelzoo.com
 trbna.com
 trbo.com
 treehousei.com
-treg.hearstnp.com
 trial.api.huangye.miui.com
 trib.al
 tritondigital.com
@@ -2888,6 +2861,7 @@ uib.ff.avast.com
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
+ulogin.ru
 ultimedia.com
 umwatsonc.events.data.microsoft.com
 unagi-na.amazon.com
@@ -3015,7 +2989,6 @@ webpushr.com
 webredir.vip.gandi.net
 websecurity.norton.com
 websecurityguard.com
-weheartit.com
 wellsfargodealerservices.com
 westbyte.com
 weus2watcab01.blob.core.windows.net
@@ -3025,7 +2998,6 @@ whoami.akamai.net
 widget.intercom.io
 widget.trustpilot.com
 widget.uservoice.com
-widgets.getpocket.com
 widgets.prisjakt.nu
 widgets.trustedshops.com
 widgets.twimg.com
