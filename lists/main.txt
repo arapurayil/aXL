@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.12
-# Last modified: 12 Sep 2021 00:15:42 UTC
+# Last modified: 12 Sep 2021 08:01:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -409,7 +409,6 @@ a.sellpoint.net
 a.shifen.com
 a.slack-edge.com
 a.stat.xiaomi.com
-a.tcog.news.com.au
 a.thumbs.redditmedia.com
 a.tiles.mapbox.com
 a.trellocdn.com
@@ -831,7 +830,6 @@ adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
 ads-v-darwin.hulustream.com
-ads.api.24ur.si
 ads.dh.duba.com
 ads.exoclick.com
 ads.google.com
@@ -5518,7 +5516,6 @@ cdn.dnaindia.com
 cdn.dynamicyield.com
 cdn.ea.com
 cdn.edgesuite.net
-cdn.elev.io
 cdn.embed.ly
 cdn.embedly.com
 cdn.engine.4dsply.com
@@ -5605,7 +5602,6 @@ cdn.sift.com
 cdn.siftscience.com
 cdn.speedof.me
 cdn.sstatic.net
-cdn.static-fra.de
 cdn.staticaly.com
 cdn.staticfile.org
 cdn.stream.schibsted.media
@@ -9468,6 +9464,7 @@ filetrans.blog.naver.com
 filetransfer.coinbase.com
 fili.cc
 fili.tv
+filmha.top
 filmweb.pl
 filmyhd.net
 filson.com
@@ -11983,7 +11980,6 @@ iadsdk.apple.com.edgekey.net
 iam-agof-app.irquest.com
 iamcredentials.googleapis.com
 iap-mob.ubi.com
-iapref.orange.fr
 ias.r10s.jp
 ias.rakuten.co.jp
 ib-sachsen-anhalt.de
@@ -12709,7 +12705,6 @@ img.hulu.com
 img.investorwords.com
 img.mediaset.it
 img.mp.itc.cn
-img.nui.media
 img.onesignal.com
 img.over-blog-kiwi.com
 img.particlenews.com
@@ -13477,7 +13472,6 @@ js.maxmind.com
 js.passport.qihucdn.com
 js.pulseinsights.com
 js.pusher.com
-js.recurly.com
 js.sohu.com
 js.stripe.com
 js.taplytics.com
@@ -15609,7 +15603,6 @@ messenger.hotmail.com
 messenger.live.com
 messenger.msn.com
 messenger.yahoo.com
-messengerpeople.com
 met2.hp.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
@@ -16094,7 +16087,6 @@ mp.huangye.miui.com
 mp.microsoft.com
 mp.pianomedia.eu
 mp.twitch.tv
-mp.weixin.qq.com
 mp.weixinbridge.com
 mp3-archives.com
 mp3-community.spot.im
@@ -16674,7 +16666,6 @@ netupdater.info
 netwizards.com
 network.bazaarvoice.com
 network.hu
-networkedblogs.com
 networking.engadget.com
 networks.feedburner.com
 networksolutions.com
@@ -18258,7 +18249,6 @@ peoplesnationalbank.com
 peoplestring.com
 pepagnh.gr
 pepfar.gov
-pepper.com
 pepperjamnetwork.com
 peppermint.samsung.com
 peraita.net
@@ -18473,7 +18463,6 @@ platform.instagram.com
 platform.linkedin.com
 platform.sharethis.com
 platform.stumbleupon.com
-platform.tout.com
 platform.tumblr.com
 platform.twitter.com
 platform.vine.co
@@ -20251,7 +20240,6 @@ s1.yimg.com
 s1325.t.eloqua.com
 s1777052651.t.eloqua.com
 s2.coinmarketcap.com
-s2.static.cfgr3.com
 s2.symcb.com
 s2.vuukle.com
 s2.wp.com
@@ -20633,7 +20621,6 @@ scontent-yyz1-1.xx.fbcdn.net
 scontent.cdninstagram.com
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
-scoop.it
 scorch.co.nz
 scorecardresearch.com
 scorito.com
@@ -21633,7 +21620,6 @@ source.typekit.com
 sourceforge.io
 sourceforge.mirrorservice.org
 sourceforge.net
-sourcepoint.mgr.consensu.org
 sousuo.xm.sjzhushou.com
 south-america.pool.ntp.org
 south-ayrshire.gov.uk
@@ -22141,7 +22127,6 @@ spl.hit.gemius.pl
 splitskabanka.hr
 spm.is
 spn.sr
-spoj.com
 spoke.com
 spoluzaci.cz
 sport.onet.pl
@@ -23193,7 +23178,6 @@ tcrn.ch
 tcsgo.com
 td.com
 td.demdex.net
-td.vs3.com
 tda.gov.uk
 tdameritrade.com
 tdbank.com
@@ -23201,7 +23185,6 @@ tdbanknorth.com
 tdcanadatrust.com
 tdjt.cz
 tdk.gov.tr
-tdn.gtranslate.net
 tdn.r42tag.com
 tdscpc.gov.in
 tdstelecom.com
@@ -23722,7 +23705,6 @@ tracker.trackerfix.com
 tracker2.wasabii.com.tw
 trackersimulator.org
 tracking-protection.cdn.mozilla.net
-tracking.bol.com
 tracking.bp01.net
 tracking.epicgames.com
 tracking.feedpress.it
@@ -23791,7 +23773,6 @@ treasurydirect.gov
 treehousei.com
 treexml.baofeng.net
 treezip.baofeng.net
-treg.hearstnp.com
 trello.com
 tremor.com
 trezor.io
@@ -24125,6 +24106,7 @@ ulink.adjust.com
 ulmart.ru
 ulmt.in
 ulmwp.org
+ulogin.ru
 ulrici-kliniken.de
 ulsterbank.co.uk
 ulsterbank.com

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Sep 2021 00:15:41 UTC
+# Last modified: 12 Sep 2021 08:01:55 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -410,7 +410,6 @@ amazon-adsystem.com
 amazonbusiness.com
 amdc.m.taobao.com
 americanlisted.com
-amos.alicdn.com
 amplitude.com
 an.yandex.ru
 analitik.edevlet.gov.tr
@@ -573,6 +572,7 @@ b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
+backtrack-linux.org
 badoo.com
 bam-x.com
 bank360.hu
@@ -953,6 +953,7 @@ ctest.cdn.nintendo.net
 cts.businesswire.com
 cuci.nl
 cudasvc.com
+cultdeadcow.com
 cur.lv
 curalate.com
 custom.plausible.io
@@ -1855,7 +1856,6 @@ lomadee.com
 lootcrate.com
 lptag.liveperson.net
 lvbet.pl
-m.baidu.com
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
@@ -2544,7 +2544,6 @@ sickrage.ca
 sift.com
 siftscience.com
 signal-collector.gemaltodigitalbankingidcloud.com
-simba.taobao.com
 simply.com
 sinematurk.com
 singular.net
@@ -2832,7 +2831,6 @@ truste.com
 trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tu-darmstadt.de
-tui.taobao.com
 tuta.io
 tv.sohu.com
 tvn.adocean.pl
