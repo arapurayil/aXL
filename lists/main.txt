@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.12
-# Last modified: 12 Sep 2021 08:01:55 UTC
+# Last modified: 12 Sep 2021 16:03:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3248,6 +3248,7 @@ backpage.com
 backstage.soundcloud.com
 backstage.taboola.com
 backstagepass20.sdse.disney.com
+backtrack-linux.org
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 bad-waldseer-bank.de
 badbitcoin.org
@@ -7139,6 +7140,7 @@ cuci.nl
 cudasvc.com
 cudder.it
 cuidadodesalud.gov
+cultdeadcow.com
 culturarecreacionydeporte.gov.co
 cumberlandhospital.com
 cuponclub.net
@@ -21217,7 +21219,6 @@ silverlakeanimalhospital.com
 silvertonhospital.org
 simage.gshifen.com
 simasfinance.co.id
-simba.taobao.com
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
@@ -23874,7 +23875,6 @@ tudou.com
 tuenti.com
 tuenti.net
 tuentiadictos.es
-tui.taobao.com
 tumblr.com
 tunein.com
 tupelosmallanimalhospital.com
