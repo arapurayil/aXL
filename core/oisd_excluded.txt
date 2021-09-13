@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Sep 2021 16:03:13 UTC
+# Last modified: 13 Sep 2021 00:14:51 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1307,6 +1307,7 @@ fwmrm.net
 fy.v.vrv.co
 g.alicdn.com
 g.msn.com
+gala.spiceworks.com
 gall.dcinside.com
 galt.hit.gemius.pl
 game.baidu.com
@@ -1746,6 +1747,7 @@ j.gs
 jaleco.com
 janrain.com
 japantv.club
+java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2339,6 +2341,7 @@ ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
+rayli.com.cn
 rbc.ua
 rbx.gg
 rd.rakuten.co.jp
@@ -2652,6 +2655,7 @@ steamanalyst.com
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
+storage.googleapis.com
 store-stc.zdn.vn
 store.qq.com
 storeedgefd.dsx.mp.microsoft.com
