@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.14
-# Last modified: 14 Sep 2021 08:02:15 UTC
+# Last modified: 14 Sep 2021 16:02:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -21123,6 +21123,7 @@ shimo.im
 shinhan.de
 shinhanbank.com
 shinobi.jp
+shinseibank.com
 shkb.ch
 shockplay.com
 shockwave.com
