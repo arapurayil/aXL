@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.14
-# Last modified: 14 Sep 2021 00:14:33 UTC
+# Last modified: 14 Sep 2021 08:02:15 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -628,6 +628,7 @@ acenar.com
 acer.com
 aciforex.com
 acikdeniz.denizbank.com
+ackcdn.net
 acledabank-internetbanking.com
 acledabank.com.kh
 acmedctr.org
@@ -2214,6 +2215,7 @@ anvil.opentok.com
 anwb.nl
 any-in-2015.1e100.net
 any.gs
+anycast.adnxs.com
 anz.co.jp
 anz.co.nz
 anz.com
@@ -3134,6 +3136,7 @@ avanzaprivatebanking.com
 avast.com
 avataaars.io
 avatar.skype.com
+avatars.mds.yandex.net
 avatars0.githubusercontent.com
 avatars1.githubusercontent.com
 avatars2.githubusercontent.com
@@ -11989,6 +11992,7 @@ ib-sachsen-anhalt.de
 ib.ablv.com
 ib.agrambanka.hr
 ib.airbank.cz
+ib.anycast.adnxs.com
 ib.apkbank.ru
 ib.aversbank.ru
 ib.baltikums.eu
@@ -13330,7 +13334,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -20290,6 +20293,7 @@ s3.us-west-1.amazonaws.com
 s3.us-west-2.amazonaws.com
 s3.vuukle.com
 s3.wp.com
+s3t3d2y7.ackcdn.net
 s4.symcb.com
 s5.symcb.com
 s7.addthis.com
