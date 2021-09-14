@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Sep 2021 16:02:41 UTC
+# Last modified: 14 Sep 2021 00:14:33 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -75,6 +75,7 @@ accesstrade.co.id
 account.wire.com
 accounts.pkr.com.invalid
 acenar.com
+ackcdn.net
 acpbdf.com.br
 acr0.samsungcloudsolution.com
 acs.m.taobao.com
@@ -427,6 +428,7 @@ answerhub.com
 antionline.com
 antiphishing.cliqz.com
 anura.io
+anycast.adnxs.com
 apac1.notify.windows.com.akadns.net
 apester.com
 api-iam.intercom.io
@@ -1521,6 +1523,7 @@ iam-agof-app.irquest.com
 iap-mob.ubi.com
 ias.r10s.jp
 ias.rakuten.co.jp
+ib.anycast.adnxs.com
 ib.snssdk.com
 ic3.events.data.microsoft.com
 ichnaea-web.netflix.com
@@ -1747,7 +1750,6 @@ j.gs
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2424,6 +2426,7 @@ s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-us-west-1.amazonaws.com
+s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
@@ -2655,7 +2658,6 @@ steamanalyst.com
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
-storage.googleapis.com
 store-stc.zdn.vn
 store.qq.com
 storeedgefd.dsx.mp.microsoft.com
