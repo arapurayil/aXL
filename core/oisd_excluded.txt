@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Sep 2021 16:02:51 UTC
+# Last modified: 15 Sep 2021 00:14:17 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -2818,6 +2818,7 @@ trafficguard.ai
 trafficjunky.net
 trafficrouter.io
 trafic.ro
+transfer.sh
 traq.li
 travelzoo.com
 trbna.com
