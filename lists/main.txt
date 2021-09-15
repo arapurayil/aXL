@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.15
-# Last modified: 15 Sep 2021 00:14:18 UTC
+# Last modified: 15 Sep 2021 08:02:33 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7200,6 +7200,7 @@ cy.gravatar.com
 cy.wikipedia.com
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cy2.settings.data.microsoft.com.akadns.net
+cyber-hub.net
 cyber.rostbank.ru
 cybercon.com
 cybercrime-tracker.net
