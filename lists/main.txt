@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.16
-# Last modified: 16 Sep 2021 00:14:17 UTC
+# Last modified: 16 Sep 2021 08:08:19 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5190,8 +5190,17 @@ captcha.hd.mi.com
 captcha.wechat.com
 captions.cloud.vimeo.com
 captivateprime.adobe.com
+captive.adservice.google.co.id
 captive.adservice.google.co.in
+captive.adservice.google.co.jp
+captive.adservice.google.co.th
+captive.adservice.google.co.za
 captive.adservice.google.com
+captive.adservice.google.com.br
+captive.adservice.google.com.mx
+captive.adservice.google.com.ng
+captive.adservice.google.com.ph
+captive.adservice.google.com.vn
 captive.apple.com
 captur.in
 caravan.ru
@@ -5805,7 +5814,6 @@ cfbk.com
 cfbnk.com
 cfbwartburg.com
 cfda.gov
-cfeucdn.com
 cfg.smt.docomo.ne.jp
 cfi.mb.seb.se
 cfo.gov
@@ -5821,6 +5829,7 @@ cfsbancorp.com
 cftrack.com
 cfu.net
 cfvod.kaltura.com
+cgames.de
 cgd.pt
 cgi.adobe.com
 cgi.connect.qq.com
@@ -6208,6 +6217,7 @@ click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
+click.taobao.com
 click.txn-email.playstation.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -7479,6 +7489,7 @@ de.pool.ntp.org
 de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
+dealabs.digidip.net
 dealersocket.com
 deals.breitbart.com
 deals.macupdate.com
@@ -7731,6 +7742,7 @@ digidip.net
 digiex.net
 digiket.com
 digiket.net
+diginetica.net
 digipills.com
 digirati.com.br
 digital.gov
@@ -8908,6 +8920,7 @@ eu1.p2.documentsawsperf.adobe.com
 eubank.kz
 eudora.qualcomm.com
 eulerian.brandalley.fr
+eulerian.net
 eultech.fnac.com
 euping.igamecj.com
 eur01.safelinks.protection.outlook.com
@@ -8965,6 +8978,7 @@ eventgateway.soundcloud.com
 eventgateway.x.sndcdn.com
 eventlogger.soundcloud.com
 events.apester.com
+events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -13335,6 +13349,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -14346,6 +14361,7 @@ lemonade.com
 lemonde.fr
 lens-storage.storage.googleapis.com
 lensstudio.snapchat.com
+lenta.ru
 leomoney.com
 leon.com.do
 leopoldina-krankenhaus.com
@@ -15930,6 +15946,7 @@ mobile-ap.spotify.com
 mobile-blog.line.me
 mobile-collector.newrelic.com
 mobile-update.bithumb.com
+mobile.anycast.adnxs.com
 mobile.bet365.com
 mobile.beta.facebook.com
 mobile.binance.com
@@ -16437,6 +16454,7 @@ naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
 naiadsystems.com
+naifei.shop
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -17425,6 +17443,7 @@ onedrive.com
 onedrive.live.com
 onegoodthingbyjillee.com
 oneid.mmstat.com
+onelaunch.com
 onelink-translations.com
 onelink.me
 onelogin.com
@@ -18377,6 +18396,7 @@ pinecitybank.com
 pineislandbank.com
 pineriverstatebank.com
 pinevillepethospitalonline.com
+ping-admin.ru
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.pdst.fm
@@ -19997,6 +20017,7 @@ rockstarwarehouse.com
 rod.gs
 rodnayasvyaz.ru
 rodovidbank.com
+roem.ru
 roendespar.dk
 roflc.at
 rogers.com
@@ -20783,6 +20804,7 @@ secure-photo.mylife.com
 secure-us.imrworldwide.com
 secure.aadcdn.microsoftonline-p.com
 secure.acquiropay.com
+secure.adnxs.com
 secure.anedot.com
 secure.authority.ru
 secure.avangate.com
@@ -24277,6 +24299,7 @@ update.kies.samsung.com
 update.micloud.xiaomi.net
 update.microsoft.com
 update.miui.com
+update.onelaunch.com
 update.pan.baidu.com
 update.sonymobile.com
 update.unisdk.easebar.com
