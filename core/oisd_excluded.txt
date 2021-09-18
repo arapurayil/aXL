@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 Sep 2021 16:03:23 UTC
+# Last modified: 18 Sep 2021 00:13:18 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -381,6 +381,7 @@ advancedhosters.com
 advertisement.alibabacorp.com
 advertisement.tanx.com
 advertisement.tanx.com.gds.alibabadns.com
+advertising-module.api.dpgmedia.cloud
 advertising.amazon.com
 advertising.com
 adverts.ie
@@ -577,6 +578,7 @@ babyneeds.ro
 backtrack-linux.org
 badoo.com
 bam-x.com
+bam.eu01.nr-data.net
 bank360.hu
 banners.spiceworks.com
 bannertrack.net
@@ -901,7 +903,6 @@ configprd.samsungcloudsolution.net
 configuration-vending.service.amazonsilk.com
 confirmit.com
 conn.skype.com
-connect.auone.jp
 connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
@@ -1162,6 +1163,7 @@ ek21.com
 ekg.riotgames.com
 ellation.map.fastly.net
 eloqua.com
+em.dynamicyield.com
 email.uber.com
 embed.mystream.to
 embed.tawk.to
@@ -1766,7 +1768,6 @@ j.gs
 jaleco.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -2052,6 +2053,7 @@ ngrok.io
 nl.sitestat.com
 nllapps.com
 nlrb.gov
+non.li
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
@@ -2571,6 +2573,7 @@ shop.spreadshirt.com
 shopperapproved.com
 shopzilla.com
 shorte.st
+sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
