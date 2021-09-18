@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.18
-# Last modified: 18 Sep 2021 00:13:18 UTC
+# Last modified: 18 Sep 2021 08:02:37 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1110,6 +1110,7 @@ advcash.com
 advertisement.alibabacorp.com
 advertisement.tanx.com
 advertisement.tanx.com.gds.alibabadns.com
+advertising-module.api.dpgmedia.cloud
 advertising.amazon.com
 advertising.com
 advertising.soundcloud.com
@@ -3288,6 +3289,7 @@ baltcosavings.com
 baltimore.cbslocal.com
 baltimoretrustco.com
 bam-x.com
+bam.eu01.nr-data.net
 bam.it
 bam.nr-data.net
 bambenekconsulting.com
@@ -8640,6 +8642,7 @@ elvenar.com
 ely.re
 em.bm23.com
 em.data.ea.com
+em.dynamicyield.com
 em.eadpdata.ddns.ea.com
 em.funimation.com
 em1.typekit.com
@@ -13349,7 +13352,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -16908,6 +16910,7 @@ noexit.tv
 noip.com
 nokss.ru
 nolp.dhl.de
+non.li
 nonstoppartner.net
 nooksackanimalhospital.com
 nor.no
@@ -21212,6 +21215,7 @@ sibank.ru
 sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
+sibforms.com
 sibs.pt
 sicax.net
 sickrage.ca

@@ -3,7 +3,7 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2021-09-18T00:13:24.769Z
+! Last modified: 2021-09-18T08:02:47.221Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11,6 +11,7 @@
 @@||advertisement.alibabacorp.com^
 @@||advertisement.tanx.com^
 @@||advertisement.tanx.com.gds.alibabadns.com^
+@@||advertising-module.api.dpgmedia.cloud^
 @@||advertising.amazon.com^
 @@||advertising.com^
 @@||advertising.soundcloud.com^
