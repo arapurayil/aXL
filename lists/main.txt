@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.19
-# Last modified: 19 Sep 2021 00:15:07 UTC
+# Last modified: 19 Sep 2021 08:02:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8744,6 +8744,7 @@ enfieldfederal.com
 enforcement.spro.xbox.com
 enforcement.xbox.com
 engadget.com
+engage.windows.com
 engine.4dsply.com
 engineering.coinbase.com
 engineering.flipboard.com
@@ -14363,7 +14364,6 @@ lemonade.com
 lemonde.fr
 lens-storage.storage.googleapis.com
 lensstudio.snapchat.com
-lenta.ru
 leomoney.com
 leon.com.do
 leopoldina-krankenhaus.com
@@ -26451,6 +26451,7 @@ xvideos.com
 xvp.akamaized.net
 xx.snap.com
 xxx.com.br
+xxxjmp.com
 xywy.com
 y2u.be
 y8.com
