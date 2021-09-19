@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Sep 2021 16:04:50 UTC
+# Last modified: 19 Sep 2021 00:15:07 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -619,6 +619,7 @@ bild.de
 bilder-upload.eu
 bit.do
 bit.ly
+bitbucket.org
 bitcast-a.v1.iad1.bitgravity.com
 bitly.com
 bizrate.com
@@ -1174,6 +1175,7 @@ emptyloop.com
 en25.com
 endpoint1.collection.eu.sumologic.com
 energizect.com
+engage.windows.com
 engine.4dsply.com
 enigmasoftware.com
 ensighten.com
@@ -1842,7 +1844,6 @@ leakreality.com
 leanplum.com
 learn.cisecurity.org
 legalterms.cbsinteractive.com
-lenta.ru
 lgsmartad.com
 lib.rus.ec
 license.unity3d.com
@@ -3084,6 +3085,7 @@ xpu.samsungelectronics.com
 xrea.com
 xsph.ru
 xtra.co.nz
+xxxjmp.com
 y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com
