@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.20
-# Last modified: 20 Sep 2021 00:14:16 UTC
+# Last modified: 20 Sep 2021 08:02:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -106,6 +106,7 @@
 110mbfree.com
 112.2o7.net
 1177.se
+1188.lv
 122.2o7.net
 123-reg.co.uk
 123-webhost.nl
