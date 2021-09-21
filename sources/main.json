@@ -216,7 +216,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 1672
+            "num_unblock_rules": 1673
         },
         {
             "name": "oisd.nl excludes",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3120
+            "num_unblock_rules": 3121
         },
         {
             "name": "ookangzheng blahdns whitelist",
@@ -261,7 +261,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 744
+            "num_unblock_rules": 745
         },
         {
             "name": "rspamd spf_dkim_whitelist spf dkim",

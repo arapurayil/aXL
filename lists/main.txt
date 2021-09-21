@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.21
-# Last modified: 21 Sep 2021 00:13:28 UTC
+# Last modified: 21 Sep 2021 08:03:09 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6706,7 +6706,6 @@ conn.skype.akadns.net
 conn.skype.com
 connatix.com
 connect.auone.jp
-connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6764,6 +6763,7 @@ content-icc.pulselive.com
 content-storage-upload.googleapis.com
 content.aimatch.com
 content.awaze.com
+content.barracuda.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -10679,6 +10679,7 @@ go.co
 go.com
 go.daum.net
 go.digitalocean.com
+go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -10689,11 +10690,13 @@ go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
+go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
+go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -14450,6 +14453,7 @@ licensing.xboxlive.com
 licensingphone.mp.microsoft.com
 lichfielddc.gov.uk
 lick.my
+lidl.media01.eu
 lids.com
 lien.li
 lien.pl
@@ -14878,6 +14882,7 @@ luckyorange.com
 lueghausenpartner.de
 luffy.chia-anime.tv
 lufthansa-group.com
+lufthansa.com
 luisenhospital.de
 lukas-krankenhaus.de
 lukasstiftung-altenburg.de
@@ -18034,6 +18039,7 @@ part.xbox.com
 particlenews.com
 partner-ads.com
 partner-bank.at
+partner.bol.com
 partner.ceneo.pl
 partner.googleadservices.com
 partner.huawei.com
