@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Sep 2021 16:03:11 UTC
+# Last modified: 21 Sep 2021 00:13:27 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -620,7 +620,6 @@ bild.de
 bilder-upload.eu
 bit.do
 bit.ly
-bitbucket.org
 bitcast-a.v1.iad1.bitgravity.com
 bitly.com
 bizrate.com
@@ -905,7 +904,6 @@ configprd.samsungcloudsolution.net
 configuration-vending.service.amazonsilk.com
 confirmit.com
 conn.skype.com
-connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.rom.miui.com
@@ -920,6 +918,7 @@ consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
 content.awaze.com
+content.barracuda.com
 content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
@@ -1276,7 +1275,6 @@ fkp.samsungcloudsolution.net
 flbag.net
 fling.com
 flingo.tv
-flipp.com
 flirt.com
 flix360.com
 flixcar.com
@@ -1398,9 +1396,12 @@ gloyah.net
 glpals.com
 gm.mmstat.com
 go-mpulse.net
+go.dlink.com
 go.neverware.com
+go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
+go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1849,6 +1850,7 @@ lgsmartad.com
 lib.rus.ec
 license.unity3d.com
 licensingphone.mp.microsoft.com
+lidl.media01.eu
 lifewire.com
 limneos.net
 lindy.co.id
@@ -2202,6 +2204,7 @@ parklogic.com
 parsely.com
 particlenews.com
 partner-ads.com
+partner.bol.com
 partner2profit.com
 partnerprogramma.bol.com
 partners.salesforce.com
@@ -2848,7 +2851,6 @@ trafficguard.ai
 trafficjunky.net
 trafficrouter.io
 trafic.ro
-transfer.sh
 traq.li
 travelzoo.com
 trbna.com
@@ -3067,7 +3069,6 @@ www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
-www1.amnhealthcare.com
 www3.bloomingdales.com
 www3.webhostingtalk.com
 www4.orangecyberdefense.com
