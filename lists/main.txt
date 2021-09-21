@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.21
-# Last modified: 21 Sep 2021 08:03:09 UTC
+# Last modified: 21 Sep 2021 16:03:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -481,6 +481,7 @@ abcbancorp.com
 abcbank.com
 abcbank.de
 abchina.com
+abcn.ws
 abcnews.com.co
 abcnews.go.com
 abcthebank.com
@@ -2609,6 +2610,7 @@ apm.wetest.qq.com
 apmebf.com
 apn-settings.com
 apnacircle.com
+apne.ws
 apnupdate.sonymobile.com
 apo.st
 apobank.de
@@ -5386,6 +5388,7 @@ cbsinteractive.com
 cbsistatic.com
 cbsl.gov.lk
 cbslocal.com
+cbsn.ws
 cbsnews.com
 cbssports.com
 cbt.net
@@ -10228,6 +10231,7 @@ fx.cc
 fxag.ch
 fxcomtky.com
 fxhome.com
+fxn.ws
 fy.v.vrv.co
 fyre.co
 fzmovies.net
@@ -11505,6 +11509,7 @@ highpointbank.com
 highwaycode.gov.uk
 highwebmedia.com
 hike-res.cloudinary.com
+hill.cm
 hillingdon.gov.uk
 hilp.it
 hilton.com
@@ -16559,6 +16564,7 @@ nbcbank.com
 nbcbham.com
 nbci.snap.com
 nbcnews.com
+nbcnews.to
 nbcnewyork.com
 nbd.ru
 nbdbank.ru
@@ -17176,6 +17182,7 @@ nydailynews.com
 nykredit.dk
 nymag.com
 nypost.com
+nyti.ms
 nytimes.com
 nyu.edu
 nz.pool.ntp.org
@@ -19890,6 +19897,7 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
+reut.rs
 reuters.com
 revdl.com
 revenue.ie
@@ -25567,6 +25575,7 @@ wap.uc.cn
 wap.ucweb.com
 wapi.voot.com
 wapking.guru
+wapo.st
 waptrick.com
 warburg-bank.de
 warez-bb.org
