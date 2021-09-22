@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Sep 2021 16:03:18 UTC
+# Last modified: 22 Sep 2021 00:14:51 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1267,7 +1267,6 @@ fili.cc
 filmha.top
 filters.adtidy.org
 findglocal.com
-firebaselogging-pa.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com

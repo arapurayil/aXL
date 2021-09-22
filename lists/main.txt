@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.09.21
-# Last modified: 21 Sep 2021 16:03:18 UTC
+# Version: 2.09.22
+# Last modified: 22 Sep 2021 00:14:51 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
