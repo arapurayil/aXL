@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Sep 2021 16:03:54 UTC
+# Last modified: 23 Sep 2021 00:14:37 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -407,6 +407,7 @@ alepuniv.edu.sy
 alexa.com
 alicdn.com
 alimama.com
+alitems.com
 alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
@@ -2056,7 +2057,6 @@ ngrok.io
 nl.sitestat.com
 nllapps.com
 nlrb.gov
-non.li
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
@@ -2371,6 +2371,7 @@ radeant.com
 ramp.purch.com
 rapidvideo.com
 raxco.com
+raybadenergy.com
 rayfile.com
 rayli.com.cn
 rbc.ua
