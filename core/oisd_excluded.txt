@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Sep 2021 08:02:54 UTC
+# Last modified: 24 Sep 2021 16:03:44 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1328,6 +1328,7 @@ fusion.google.com
 fwmrm.net
 fy.v.vrv.co
 g.alicdn.com
+g.ezoic.net
 g.msn.com
 gala.spiceworks.com
 gall.dcinside.com
@@ -2542,6 +2543,7 @@ self.events.data.microsoft.com
 sematext.com
 semawur.com
 semnaniau.ac.ir
+sendpul.se
 sendpulse.com
 sendsay.ru
 sensic.net
