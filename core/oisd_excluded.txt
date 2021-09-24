@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Sep 2021 16:03:01 UTC
+# Last modified: 24 Sep 2021 00:14:06 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -842,6 +842,7 @@ clickbank.net
 clickcease.com
 clickdimensions.com
 clickfunnels.com
+clickmail.stubhub.com
 clickmeter.com
 clicks.aweber.com
 clickserve.cc-dt.com
