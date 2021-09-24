@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.24
-# Last modified: 24 Sep 2021 00:14:06 UTC
+# Last modified: 24 Sep 2021 08:02:54 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6239,6 +6239,7 @@ clickcash.onelink.me
 clickcease.com
 clickdimensions.com
 clickfunnels.com
+clickmail.stubhub.com
 clickmeter.com
 clicknupload.link
 clicknupload.org
