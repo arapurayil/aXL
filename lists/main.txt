@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.09.24
-# Last modified: 24 Sep 2021 16:03:44 UTC
+# Version: 2.09.25
+# Last modified: 25 Sep 2021 00:14:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -20984,6 +20984,7 @@ send.firefox.com
 sendai-kousei-hospital.jp
 sendgrid.net
 sendinblue.hitbtc.com
+sendpul.se
 sendpulse.com
 sendsay.ru
 sendspace.com
