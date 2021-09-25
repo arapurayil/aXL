@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.25
-# Last modified: 25 Sep 2021 00:14:43 UTC
+# Last modified: 25 Sep 2021 08:02:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3179,6 +3179,7 @@ awogsd.de
 aws.amazon.com
 awsg.at
 awssgp0-files.fds.api.xiaomi.com
+awstrack.me
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 ax.init.itunes.apple.com
 ax.itunes.apple.com
@@ -17199,7 +17200,6 @@ o.breitbart.com
 o.co.za
 o.dailycaller.com
 o.go2yd.com
-o.webmd.com
 o.xbox.com
 o0bc.com
 o1.em.typekit.com
@@ -22083,6 +22083,7 @@ spencersonline.com
 sperrer.de
 spgo.io
 sph.is
+sphdigital.com
 sphosp.com
 spiceworks.com
 spickmich.de
@@ -23886,6 +23887,7 @@ trueidentity.com
 trulia.com
 trunc.it
 trust.ru
+trust.zone
 trust1bank.com
 trustar.com.au
 trustarc.com
