@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Sep 2021 16:03:13 UTC
+# Last modified: 29 Sep 2021 00:14:02 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -559,7 +559,6 @@ autolinkmaker.itunes.apple.com
 autopilothq.com
 avantlink.com
 avatarservices.xboxlive.com
-avgle.com
 aviasales.ru
 awaps.yandex.ru
 aweber.com
@@ -1095,6 +1094,7 @@ dlvr.t-online.de
 dmd.metaservices.microsoft.com
 dna8twue3dlxq.cloudfront.net
 dnn506yrbagrg.cloudfront.net
+dns.msftncsi.com
 dnspod.cn
 dnspod.com
 dnsseed.bitcoin.dashjr.org
@@ -1407,12 +1407,9 @@ gloyah.net
 glpals.com
 gm.mmstat.com
 go-mpulse.net
-go.dlink.com
 go.neverware.com
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
-go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -2291,6 +2288,7 @@ pntra.com
 pntrac.com
 pntrs.com
 po.st
+poczta.pl
 pokerstrategy.com
 polldaddy.com
 polyfill.io
@@ -2469,6 +2467,7 @@ s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-us-west-1.amazonaws.com
+s3.us-west-2.amazonaws.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
