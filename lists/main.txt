@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.29
-# Last modified: 29 Sep 2021 00:14:03 UTC
+# Last modified: 29 Sep 2021 08:02:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3150,7 +3150,6 @@ avbank.ru
 avbpgh.com
 avenuespethospital.com
 avg.com
-avgle.com
 avhospital.org
 avia.ideabank.ua
 aviasales.ru
@@ -10689,7 +10688,6 @@ go.co
 go.com
 go.daum.net
 go.digitalocean.com
-go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -10700,13 +10698,11 @@ go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
-go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -14430,6 +14426,7 @@ li.techrepublic.com
 liantu.com
 lib.baomitu.com
 lib.in
+lib.onet.pl
 lib.rus.ec
 liba.org.uk
 libcom.org
@@ -18626,6 +18623,7 @@ pobladores.com
 pochta.ru
 pocketmath-cdn.com
 pocketnow.com
+poczta.pl
 podcasting.help.soundcloud.com
 podcasts.engadget.com
 podcasts.shiftyjelly.com.au
