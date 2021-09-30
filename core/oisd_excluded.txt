@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Sep 2021 16:03:21 UTC
+# Last modified: 30 Sep 2021 00:16:05 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -632,6 +632,7 @@ blackhatworld.com
 blastingnews.com
 blipblop.net
 blockthrough.com
+blog.disqus.com
 blogcatalog.com
 blogsmithmedia.com
 blogspot.com.by
@@ -737,7 +738,6 @@ cdn.ampproject.org
 cdn.appdynamics.com
 cdn.branch.io
 cdn.cliqz.com
-cdn.cohesionapps.com
 cdn.cookielaw.org
 cdn.cquotient.com
 cdn.cxense.com
@@ -1094,7 +1094,6 @@ dlvr.t-online.de
 dmd.metaservices.microsoft.com
 dna8twue3dlxq.cloudfront.net
 dnn506yrbagrg.cloudfront.net
-dns.msftncsi.com
 dnspod.cn
 dnspod.com
 dnsseed.bitcoin.dashjr.org
@@ -1684,6 +1683,7 @@ ifastnet.com
 igg-games.com
 ignorelist.com
 igodigital.com
+image.ard.de
 image.ceneo.pl
 images.dmca.com
 images.sohu.com
@@ -1840,6 +1840,7 @@ kubanmedia.org
 l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
+l.franceculture.fr
 l.qq.com
 l2.io
 labs-mqtt.xda-developers.com
@@ -2018,6 +2019,7 @@ msftncsi.com
 msh.amazon.co.uk
 msh.amazon.com
 mss.handmark.com
+multiesfera.com
 multiscreen.samsung.com
 multiscreensite.com
 mx.technolutions.net
@@ -2226,6 +2228,7 @@ pavv.co.kr
 payeer.com
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
+pcekspert.com
 pcrisk.com
 pdc.micloud.xiaomi.net
 peerius.com
@@ -2288,7 +2291,6 @@ pntra.com
 pntrac.com
 pntrs.com
 po.st
-poczta.pl
 pokerstrategy.com
 polldaddy.com
 polyfill.io
@@ -2467,7 +2469,6 @@ s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-us-west-1.amazonaws.com
-s3.us-west-2.amazonaws.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
@@ -3033,6 +3034,7 @@ watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
 weather-analytics-events.apple.com
+web.vortex.data.microsoft.com
 webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
