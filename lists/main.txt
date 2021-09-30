@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.09.30
-# Last modified: 30 Sep 2021 00:16:05 UTC
+# Last modified: 30 Sep 2021 08:02:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4422,6 +4422,7 @@ blog.csdn.net
 blog.daum.net
 blog.de.playstation.com
 blog.diigo.com
+blog.disqus.com
 blog.eu.playstation.com
 blog.experts-exchange.com
 blog.feedspot.com
@@ -5517,7 +5518,6 @@ cdn.chocolatey.org
 cdn.clearload.bid
 cdn.cliqz.com
 cdn.cloudflare.net
-cdn.cohesionapps.com
 cdn.content.prod.cms.msn.com
 cdn.contentful.com
 cdn.convertkit.com
@@ -12598,6 +12598,7 @@ iltalehti.fi
 im.rediff.com
 im.twitch.tv
 image.api.np.km.playstation.net
+image.ard.de
 image.box.xiaomi.com
 image.ceneo.pl
 image.coolblue.nl
@@ -14203,6 +14204,7 @@ l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
 l.facebook.com
+l.franceculture.fr
 l.google.com
 l.googleusercontent.com
 l.qq.com
@@ -16228,6 +16230,7 @@ mueritz-sparkasse.de
 muganbank.az
 multcloud.com
 multibandcom.com
+multiesfera.com
 multimania.de
 multiply.com
 multiscreen.samsung.com
@@ -18230,6 +18233,7 @@ pcbanker.com
 pcbeta.com
 pcbrowser.dd.qq.com
 pcbypass.com
+pcekspert.com
 pcfg.wps.cn
 pcfinancial.ca
 pcgames-download.com
@@ -18623,7 +18627,6 @@ pobladores.com
 pochta.ru
 pocketmath-cdn.com
 pocketnow.com
-poczta.pl
 podcasting.help.soundcloud.com
 podcasts.engadget.com
 podcasts.shiftyjelly.com.au
