@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Sep 2021 16:03:03 UTC
+# Last modified: 01 Oct 2021 00:15:36 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -2704,6 +2704,7 @@ statsfe2.update.microsoft.com.akadns.net
 statusapi.micloud.xiaomi.net
 stc.za.zaloapp.com
 steamanalyst.com
+stereomag.ro
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
