@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.02
-# Last modified: 02 Oct 2021 08:02:19 UTC
+# Last modified: 02 Oct 2021 16:03:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6219,6 +6219,7 @@ click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.member.americanexpress.com
 click.ml.mailersend.com
+click.myctm.canadiantire.ca
 click.official.nike.com
 click.policy.farmers.com
 click.pstmrk.it
@@ -23414,6 +23415,7 @@ the-bank.com
 the-exchange-bank.com
 the-eye.eu
 the-fidelity.com
+the-home-depot-ca.pxf.io
 the-housingbank.com
 the-housingbank.com.jo
 the.earth.li
