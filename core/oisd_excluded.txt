@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Oct 2021 16:03:13 UTC
+# Last modified: 02 Oct 2021 00:13:59 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -452,6 +452,7 @@ api.cxense.com
 api.device.xiaomi.net
 api.facebook.com
 api.faceid.com
+api.gameanalytics.com
 api.gfe.nvidia.com
 api.hubapi.com
 api.io.mi.com
@@ -786,6 +787,7 @@ cdnapi.kaltura.com
 cdnjs.tvpage.com
 cdns.gigya.com
 cdnstatic.detik.com
+cdp.cloud.unity3d.com
 cec.ro
 cedexis.com
 cedexis.net
@@ -929,6 +931,7 @@ content.barracuda.com
 content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
+conversantmedia.com
 conviva.com
 cooey-coe.org
 cookie.monster.com
@@ -1344,6 +1347,7 @@ galt.hit.gemius.pl
 game.baidu.com
 game.weibo.com
 game.xiaomi.com
+gameanalytics.com
 gamedl.ru
 gamehouse.com
 gan.doubleclick.net
@@ -1778,6 +1782,7 @@ izeselet.hu
 izooto.com
 j.gs
 jaleco.com
+jamfcloud.com
 janrain.com
 japantv.club
 javbooks.com
@@ -2019,7 +2024,6 @@ msftncsi.com
 msh.amazon.co.uk
 msh.amazon.com
 mss.handmark.com
-multiesfera.com
 multiscreen.samsung.com
 multiscreensite.com
 mx.technolutions.net
@@ -2615,6 +2619,7 @@ smart.link
 smartasset.com
 smartclip.net
 smartlock.google.com
+smartplugin.youbora.com
 smartredirect.de
 smarturl.it
 smetrics.costco.com
@@ -3117,6 +3122,7 @@ yap.yahoo.com
 yimg.com
 ynuf.aliapp.org
 ynuf.alipay.com
+youbora.com
 youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.de
