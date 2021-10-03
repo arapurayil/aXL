@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Oct 2021 16:03:01 UTC
+# Last modified: 03 Oct 2021 00:16:25 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -2146,6 +2146,7 @@ ola.com
 olmprodpowerlift-cdn.azureedge.net
 om.cbsi.com
 om.symantec.com
+omarsys.com
 omaze.com
 omgpl.com
 omniture-ssl.walmart.com
