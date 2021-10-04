@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.04
-# Last modified: 04 Oct 2021 00:15:44 UTC
+# Last modified: 04 Oct 2021 08:03:03 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -21715,6 +21715,7 @@ soycostarricense.com
 sozialbank.de
 sp-campaign.line.me
 sp-mms.weather.com
+sp-seller.webkul.com
 sp.auth.adobe.com
 sp.naver.com
 spa.snap.com
