@@ -18,7 +18,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3488
+            "num_unblock_rules": 3516
         },
         {
             "name": "AdguardTeam exclusions/firefox",
@@ -45,7 +45,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 93
+            "num_unblock_rules": 92
         },
         {
             "name": "anudeepND whitelist",

@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.05
-# Last modified: 05 Oct 2021 08:03:17 UTC
+# Last modified: 05 Oct 2021 16:05:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -363,6 +363,7 @@
 9apps.com
 9gag.com
 9to5google.com
+Bbancobmg.com.br
 L9.fr
 Lvvk.com
 OneDrive-Collection.device.mobileengagement.windows.net
@@ -1120,6 +1121,7 @@ advice.hmrc.gov.uk
 advil.waze.com
 adweek.com
 adwords.google.com
+adyen.com
 ae.online.standardchartered.com
 ae01.alicdn.com
 ae911truth.org
@@ -2030,6 +2032,7 @@ amd.cdn.turner.com
 amd.com
 amdc.m.taobao.com
 ameblo.jp
+amedigital.com
 ameos.de
 amerantbank.com
 america.net
@@ -3371,6 +3374,7 @@ banco.bradesco
 bancoactivo.com
 bancoagrario.gov.co
 bancoagricola.com
+bancoamazonia.com.br
 bancobcr.com
 bancobga.com
 bancobrasil.co.jp
@@ -3413,6 +3417,7 @@ bancomext.com
 bancomoc.mz
 bancon.bancor.com.ar
 bancoomeva.com.co
+bancopan.com.br
 bancopatagonia.com.ar
 bancopichincha.com.co
 bancoplaza.com
@@ -4534,6 +4539,7 @@ bn5x.net
 bna.com.ar
 bnb.be
 bnb.bg
+bnb.gov.br
 bnbank.com
 bnc.ca
 bnc.com.ve
@@ -4860,6 +4866,7 @@ btc.com
 btc.top
 btcc.com
 btconnect.com
+btgpactual.com
 btgpactualdigital.com.br
 btguard.com
 btinternet.com
@@ -4959,6 +4966,7 @@ buzzfeed.com
 buzzmein.com
 buzznet.com
 bv-activebanking.de
+bv.com.br
 bvchd.com
 bve.ch
 bve.li
@@ -5028,6 +5036,7 @@ c1.microsoft.com
 c1.xmssmc.mws.xiaomi.net
 c212.net
 c3.xmssmc.mws.xiaomi.net
+c6bank.com.br
 ca-alpesprovence.fr
 ca-anjou-maine.fr
 ca-aquitaine.fr
@@ -5291,7 +5300,6 @@ cathospitalofaustin.com
 catndoghospital.com
 catshospital.com
 cattlebank.com
-cav.receita.fazenda.gov.br
 cavb.com
 cavecreek.net
 cavmont.com.zm
@@ -6067,6 +6075,7 @@ cibeg.com
 cic.fr
 cica.ky
 cidel.com
+cielo.com.br
 cifraclub.com.br
 cimage.adobe.com
 cimb.com
@@ -6182,6 +6191,7 @@ clck.yandex.com.tr
 clck.yandex.ru
 cleancss.com
 cleaner.daum.net
+clear.com.br
 clearbit.com
 clearcreeknationalbank.com
 cleargay.com
@@ -15578,7 +15588,9 @@ menshealth.com
 mercadobitcoin.com.br
 mercadolibre.com.ar
 mercadolivre.com.br
+mercadopago.com.br
 mercantilbanco.com
+mercantildobrasil.com.br
 mercantile.net
 mercantilebk.com
 mercedes-benz-bank.de
@@ -16772,6 +16784,7 @@ newyorkfed.org
 nexo.io
 next.daisuki.net
 next.exchange
+next.me
 nextbank.com.tw
 nextbank.dk
 nextday.media
@@ -17740,6 +17753,7 @@ origin-na.ssl-images-amazon.com
 origin.co.za
 origin.com
 origin2.samsung.com
+original.com.br
 originassets.akamaized.net
 origincache-atn.fbcdn.net
 originus.samsung.com
@@ -17933,6 +17947,7 @@ paddle8.com
 paddleapi.com
 paessler.com
 pafnet.de
+pagbrasil.com
 page.line.me
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
@@ -17991,6 +18006,7 @@ paracelsus-spital.ch
 paradisevalleyhospital.com
 paragonbankmn.com
 parallels.com
+paranabanco.com.br
 parastorage.com
 pardot.com
 parex.net
@@ -18371,6 +18387,7 @@ pic.twitter.com
 picena.bcc.it
 pich.in
 pico.tools
+picpay.com
 picscdn.redblue.de
 pictet.com
 picupload.ebay.com
@@ -19676,6 +19693,7 @@ rebrandly.com
 rebrandlydomain.com
 rec.voot.com
 recaptcha.net
+recargapay.com.br
 receiptbank.com
 receita.economia.gov.br
 recipe.rakuten.co.jp
@@ -19887,6 +19905,7 @@ reviews.pt.samsung.com
 revinate.com
 revistaeventos.com.br
 revistasobrerodas.com.br
+revolut.com
 revue.com
 rewards.xbox.com
 rexdl.com
@@ -19917,6 +19936,7 @@ richlandbank.com
 richlandhospital.com
 richmond.gov.uk
 richrelevance.com
+rico.com.vc
 ridefox.com
 ridgewoodbank.com
 rietumu.com
@@ -22683,6 +22703,7 @@ stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 stocks-sparkline.apple.com
 stockservice.vimeo.com
+stone.com.br
 stonebridgebank.com
 stonehambank.com
 stonesav.com
@@ -23635,6 +23656,7 @@ tom.itv.com
 tomballhospital.org
 tomshardware.com
 tomsk.gov.ru
+ton.com.br
 ton.twimg.com
 tongji.baidu.com
 toolbar.google.com
@@ -24184,6 +24206,7 @@ unibytes.com
 unicaja.es
 unicajabanco.es
 unicor.gov
+unicred.com.br
 unicredit-italia.it
 unicredit.de
 unicredit.it
@@ -24492,6 +24515,7 @@ userapi.zee5.com-v4.edgekey.net
 usercentrics.com
 usercentrics.eu
 userecho.com
+userede.com.br
 userguide-files.sonymobile.com
 userguide.sonymobile.com
 userid.xiaomi.com
