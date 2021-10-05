@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Oct 2021 16:03:08 UTC
+# Last modified: 05 Oct 2021 00:15:02 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -69,7 +69,6 @@ a248.e.akamai.net
 a771.dscq.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
-ablink.e.hungryjacks.com.au
 aboutads.info
 accengage.com
 accesstrade.co.id
@@ -125,7 +124,6 @@ adregain.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
-ads-v-darwin.hulustream.com
 ads.google.com
 ads.harvard.edu
 ads.reddit.com
@@ -411,7 +409,6 @@ alitems.com
 alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
-amazonbusiness.com
 amdc.m.taobao.com
 americanlisted.com
 amplitude.com
@@ -503,7 +500,6 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.sephora.com
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -576,7 +572,6 @@ b.scorecardresearch.com
 b.stats.paypal.com
 b.wishabi.com
 b02.black.ndmdhs.com
-b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
@@ -708,7 +703,6 @@ ca.iadsdk.apple.com
 cafe24.com
 cafeomai.com.au
 calendar.fontanka.ru
-campaign.abb.com
 campaign.adobe.com
 canadapharmacy.com
 captive.adservice.google.co.id
@@ -798,7 +792,6 @@ cf1.vuze.com
 cf2.me
 cftrack.com
 cfvod.kaltura.com
-cgames.de
 ch0p.darty.com
 channeladvisor.com
 chartbeat.com
@@ -838,18 +831,14 @@ click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.ml.mailersend.com
-click.official.nike.com
 click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
-click.taobao.com
-click.zoom.us
 clickbank.com
 clickbank.net
 clickcease.com
 clickdimensions.com
 clickfunnels.com
-clickmail.stubhub.com
 clickmeter.com
 clicks.aweber.com
 clickserve.cc-dt.com
@@ -880,7 +869,6 @@ cmp-cdn.ghostery.com
 cmp.choice.faktor.io
 cmp.nextday.media
 cmstool.youku.com
-cnbj1.fds.api.xiaomi.com
 cnetcontentsolutions.com
 cnetmedia-a.akamaihd.net
 cnzz.com
@@ -917,7 +905,6 @@ connect.facebook.com
 connect.facebook.net
 connect.rom.miui.com
 connect.scroll.com
-connect.zebra.com
 consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
@@ -926,9 +913,6 @@ consent.truste.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
-content.awaze.com
-content.barracuda.com
-content.xilu.com
 contentexchange.me
 continuum.dds.microsoft.com
 conversantmedia.com
@@ -1164,7 +1148,6 @@ edgecast-vod.yahoo.net
 edgecastcdn.net
 edgesuite.net
 edigitalsurvey.com
-edm.crikey.com.au
 edrone.me
 edu.hebnews.cn
 ee.hit.gemius.pl
@@ -1179,7 +1162,6 @@ ellation.map.fastly.net
 eloqua.com
 em.dynamicyield.com
 email.uber.com
-embed.mystream.to
 embed.tawk.to
 embed.windy.com
 emjcd.com
@@ -1220,7 +1202,6 @@ eultech.fnac.com
 eurobet.it
 event.udn.com
 events.apester.com
-events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -1242,12 +1223,9 @@ example.net
 example.org
 exchange4media.com
 exosrv.com
-experience.jcu.edu.au
 experience.tinypass.com
-explore.amd.com
 ext.goguardian.com
 extern.prisjakt.nu
-external.xx.fbcdn.net
 extole.io
 extratorrent.ag
 extreme-ip-lookup.com
@@ -1410,7 +1388,6 @@ gloyah.net
 glpals.com
 gm.mmstat.com
 go-mpulse.net
-go.neverware.com
 go.pardot.com
 go.redirectingat.com
 go.theregister.com
@@ -1490,8 +1467,8 @@ hbbtvapp.sonnenklar.tv
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
-hello.heroku.com
 hello.myfonts.net
+heraldm.com
 here.com
 herokussl.com
 hetzner.de
@@ -1540,7 +1517,6 @@ hugedomains.com
 humanpresence.app
 hw-cdn.trafficjunky.net
 hw-cdn2.adtng.com
-hydracdn.network
 hyperurl.co
 hypestat.com
 i.cdnpark.com
@@ -1553,7 +1529,6 @@ ia.media-imdb.com
 iad-03.braze.com
 iad.liveperson.net
 iam-agof-app.irquest.com
-iap-mob.ubi.com
 ias.r10s.jp
 ias.rakuten.co.jp
 ib.anycast.adnxs.com
@@ -1703,7 +1678,6 @@ img.pr0gramm.com
 img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
-imgshare.info
 impactradius.com
 imrworldwide.com
 in.appcenter.ms
@@ -1720,7 +1694,6 @@ informer.yandex.ru
 informz.net
 infos.anz.com
 infos.telstra.com.au
-ingame-news.ubi.com
 ingest.sentry.io
 inquisition.goguardian.com
 inscname.net
@@ -1769,7 +1742,6 @@ iqtest.com
 irchan.com
 iris.tv
 ironbeast.io
-is.snssdk.com
 isgprivacy.cbsi.com
 isnssdk.com
 ist-track.com
@@ -1804,7 +1776,6 @@ js.indexww.com
 js.intercomcdn.com
 js.maxmind.com
 js.pusher.com
-js.sohu.com
 js.stripe.com
 js.taplytics.com
 jssdks.mparticle.com
@@ -1844,7 +1815,6 @@ krxd.net
 kubanmedia.org
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.franceculture.fr
 l.qq.com
 l2.io
@@ -1858,7 +1828,6 @@ lcprd2.samsungcloudsolution.net
 leadpages.net
 leakreality.com
 leanplum.com
-learn.cisecurity.org
 legalterms.cbsinteractive.com
 lgsmartad.com
 lib.rus.ec
@@ -1870,8 +1839,6 @@ limneos.net
 lindy.co.id
 link.p0.com
 linkev.com
-links.playon.tv
-links.strava.com
 linksynergy.com
 litix.io
 live.simcitybuildit.com
@@ -1912,7 +1879,6 @@ mads.amazon.com
 magicplayer-api.torrentstream.org
 magicplayer-s.torrentstream.org
 magiskmanager.com
-mail01.virginpulse.com
 mailerlite.com
 mailfoogae.appspot.com
 mairdumont.com
@@ -2041,7 +2007,6 @@ myxns.cn
 n24.de
 nabbr.com
 naiadsystems.com
-naifei.shop
 nanigans.com
 nanovisor.io
 navitime.co.jp
@@ -2090,7 +2055,6 @@ nsimg.net
 nsm.dell.com
 nsstatic.com
 nsstatic.net
-nstool.netease.com
 nsupdate.info
 nsx.np.dl.playstation.net
 ntv.io
@@ -2172,7 +2136,6 @@ openmobile.qq.com
 openscad.info
 openvim.com
 opinionstage.com
-ops.bpost.be
 optanon.blob.core.windows.net
 optimizely.com
 optimizely.com.edgekey.net
@@ -2276,7 +2239,6 @@ platform.linkedin.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
-plausible.eurostocks.nl
 plausible.io
 playbuzz.com
 player-feedback-v1.glomex.com
@@ -2292,6 +2254,7 @@ plugin.mediavoice.com
 plusgrade.com
 plusone.google.com
 pm0.net
+pmcares.fund
 pntra.com
 pntrac.com
 pntrs.com
@@ -2390,7 +2353,6 @@ ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
-rayli.com.cn
 rbc.ua
 rbx.gg
 rd.rakuten.co.jp
@@ -2404,7 +2366,6 @@ recruitics.com
 recs.richrelevance.com
 redefine.hit.stat24.com
 redefine2.hit.stat24.com
-redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.viglink.com
@@ -2437,7 +2398,6 @@ rink.hockeyapp.net
 rlcdn.com
 rm.api.weibo.com
 rmp.rakuten.com
-roem.ru
 rollbar.com
 romsmania.com
 rover.ebay.co.uk
@@ -2601,7 +2561,6 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
-signal-collector.gemaltodigitalbankingidcloud.com
 simply.com
 sinematurk.com
 singular.net
@@ -2887,9 +2846,7 @@ tritondigital.com
 trk.email.dynect.net
 trk.emlbest.com
 trk.pinterest.com
-trk.s.sephora.com
 trojan-killer.net
-trust.zone
 trustarc.com
 trustarc.mgr.consensu.org
 truste.com
@@ -3074,7 +3031,6 @@ win8.ipv6.microsoft.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 wl.jd.com
-wl.spotify.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
@@ -3099,7 +3055,6 @@ www.advertising.com
 www.adverts.ie
 www3.bloomingdales.com
 www3.webhostingtalk.com
-www4.orangecyberdefense.com
 x.co
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
