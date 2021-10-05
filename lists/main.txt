@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.05
-# Last modified: 05 Oct 2021 00:15:02 UTC
+# Last modified: 05 Oct 2021 08:03:17 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -502,7 +502,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablink.e.hungryjacks.com.au
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -832,7 +831,6 @@ adrianstatebank.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
-ads-v-darwin.hulustream.com
 ads.dh.duba.com
 ads.exoclick.com
 ads.google.com
@@ -2015,7 +2013,6 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
-amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -2673,7 +2670,6 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
-app.sephora.com
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -3236,7 +3232,6 @@ b00.fr
 b02.black.ndmdhs.com
 b2.ndb24.ru
 b23.ru
-b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -5145,7 +5140,6 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
-campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -5838,7 +5832,6 @@ cfsbancorp.com
 cftrack.com
 cfu.net
 cfvod.kaltura.com
-cgames.de
 cgd.pt
 cgi.adobe.com
 cgi.connect.qq.com
@@ -6220,14 +6213,12 @@ click.mail.macmillan.com
 click.member.americanexpress.com
 click.ml.mailersend.com
 click.myctm.canadiantire.ca
-click.official.nike.com
 click.policy.farmers.com
 click.pstmrk.it
 click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
-click.taobao.com
 click.txn-email.playstation.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -6236,14 +6227,12 @@ click.virt.s4.exacttarget.com
 click.virt.s5.exacttarget.com
 click.virt.s6.exacttarget.com
 click.virt.s7.exacttarget.com
-click.zoom.us
 clickbank.com
 clickbank.net
 clickcash.onelink.me
 clickcease.com
 clickdimensions.com
 clickfunnels.com
-clickmail.stubhub.com
 clickmeter.com
 clicknupload.link
 clicknupload.org
@@ -6433,7 +6422,6 @@ cnbc.com
 cnbeta.com
 cnbgreeley.com
 cnbil.com
-cnbj1.fds.api.xiaomi.com
 cnbohio.com
 cnbs.gov.hn
 cnbt.com
@@ -6726,7 +6714,6 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
-connect.zebra.com
 connect2.lenovo.com
 connected.sonymusic.com
 connection.support.playstation.com
@@ -6770,8 +6757,6 @@ contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
 content.aimatch.com
-content.awaze.com
-content.barracuda.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -6792,7 +6777,6 @@ content.sketch.sonymobile.com
 content.swrve.com
 content.vidgyor.com
 content.webcollage.net
-content.xilu.com
 content.yikyakapi.net
 contentexchange.me
 contentful.com
@@ -8510,7 +8494,6 @@ edition.cnn.com
 editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
-edm.crikey.com.au
 edm03.huawei.com
 ednaonline.com
 ednetz.de
@@ -8689,7 +8672,6 @@ embed-fastly.wistia.com
 embed.actionbutton.co
 embed.flowplayer.org
 embed.ly
-embed.mystream.to
 embed.spot.im
 embed.spotify.com
 embed.tawk.to
@@ -8993,7 +8975,6 @@ eventgateway.soundcloud.com
 eventgateway.x.sndcdn.com
 eventlogger.soundcloud.com
 events.apester.com
-events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -9077,7 +9058,6 @@ expedia.com
 expedia.se
 expediamail.com
 experian.com
-experience.jcu.edu.au
 experience.tinypass.com
 experienceproject.com
 expertcity.com
@@ -10697,7 +10677,6 @@ go.ign.com
 go.infoblox.com
 go.leanplum.com
 go.microsoft.com
-go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -11403,7 +11382,6 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
-hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -11445,6 +11423,7 @@ henrycountybank.com
 henrys.com
 hentaihaven.org
 hera.co.at
+heraldm.com
 herbeauty.co
 here.com
 heritageanimalhospital.com
@@ -11873,7 +11852,6 @@ hwcdn.net
 hwk-bn.de
 hybrid-analysis.com
 hybrid.xiaomi.com
-hydracdn.network
 hydrax.net
 hygeia.gr
 hyperurl.co
@@ -12018,7 +11996,6 @@ iadsdk.apple.com
 iadsdk.apple.com.edgekey.net
 iam-agof-app.irquest.com
 iamcredentials.googleapis.com
-iap-mob.ubi.com
 ias.r10s.jp
 ias.rakuten.co.jp
 ib-sachsen-anhalt.de
@@ -12800,7 +12777,6 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
-imgshare.info
 imgsmail.ru
 imgstock.naver.com
 imgur.com
@@ -12935,7 +12911,6 @@ ing.es
 ing.fm
 ing.nl
 ing.ru
-ingame-news.ubi.com
 ingbank.com.tr
 ingbank.hu
 ingbank.nl
@@ -13229,7 +13204,6 @@ irwinunion.com
 is.alicdn.com
 is.gd
 is.hide.me
-is.snssdk.com
 isb-algona.com
 isb.rlp.de
 isbank.com.tr
@@ -13514,7 +13488,6 @@ js.maxmind.com
 js.passport.qihucdn.com
 js.pulseinsights.com
 js.pusher.com
-js.sohu.com
 js.stripe.com
 js.taplytics.com
 js.ui-portal.de
@@ -14206,7 +14179,6 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.facebook.com
 l.franceculture.fr
 l.google.com
@@ -14354,7 +14326,6 @@ leadpages.co
 leadpages.net
 leakreality.com
 leanplum.com
-learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -14554,8 +14525,6 @@ links.mkt81.net
 links.mkt91.net
 links.notification.intuit.com
 links.notifications.soundcloud.com
-links.playon.tv
-links.strava.com
 linkshrink.net
 linksynergy.com
 linkto.com.br
@@ -15026,7 +14995,6 @@ mail.vimeo.com
 mail.xda-developers.com
 mail.yahoo.com
 mail01.tinyletterapp.com
-mail01.virginpulse.com
 mail03.cloud.huawei.com
 mail05.cloud.huawei.com
 mail2.daum.net
@@ -16477,7 +16445,6 @@ naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
 naiadsystems.com
-naifei.shop
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -17123,7 +17090,6 @@ nsopw.gov
 nsstatic.com
 nsstatic.net
 nstarbank.com
-nstool.netease.com
 nstore.naver.com
 nsupdate.info
 nsw.gov.au
@@ -17723,7 +17689,6 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
-ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -18528,7 +18493,6 @@ platipokarte.ru
 platiza.ru
 platron.ru
 platzi.com
-plausible.eurostocks.nl
 plausible.io
 play-asia.com
 play.app.goo.gl
@@ -18608,6 +18572,7 @@ pm.wu.cz
 pm0.net
 pmall.migc.xiaomi.com
 pmbank.com
+pmcares.fund
 pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
 pmf.gov
@@ -19460,7 +19425,6 @@ rawhttp.cloudflareworkers.com
 raxco.com
 rayfile.com
 raygun.io
-rayli.com.cn
 razorpay.com
 rb-adel-siel.de
 rb-af.de
@@ -19746,7 +19710,6 @@ redir.ec
 redir.fr
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
-redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
@@ -20047,7 +20010,6 @@ rockstarwarehouse.com
 rod.gs
 rodnayasvyaz.ru
 rodovidbank.com
-roem.ru
 roendespar.dk
 roflc.at
 rogers.com
@@ -21257,7 +21219,6 @@ sierravistaregional.com
 sift.com
 siftscience.com
 sign-in.soundcloud.com
-signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
@@ -23891,7 +23852,6 @@ trk.emlbest.com
 trk.klclick.com
 trk.klclick1.com
 trk.pinterest.com
-trk.s.sephora.com
 trkr.ws
 trlibor.org
 trojan-killer.net
@@ -23906,7 +23866,6 @@ trueidentity.com
 trulia.com
 trunc.it
 trust.ru
-trust.zone
 trust1bank.com
 trustar.com.au
 trustarc.com
@@ -26038,7 +25997,6 @@ wkk-online.de
 wko.at
 wl-in-f14.1e100.net
 wl.jd.com
-wl.spotify.com
 wlan.three.com.hk
 wlga.gov.uk
 wlo.ospserver.net
@@ -26339,7 +26297,6 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
-www4.orangecyberdefense.com
 www5.2giga.link
 www6.2giga.link
 www6.9Anime.to
