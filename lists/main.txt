@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.06
-# Last modified: 06 Oct 2021 00:14:58 UTC
+# Last modified: 06 Oct 2021 08:02:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4170,12 +4170,10 @@ bexi.co.id
 beyondweb.com
 bezirkssparkasse-dillenburg.de
 bezpecnost.csas.cz
-bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
-bfp.capitalone.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -8579,6 +8577,7 @@ eladkarako.github.io
 elance.com
 elandroidelibre.elespanol.com
 elasticbeanstalk.com
+elastx.net
 elba.at
 elbank.lviv.ua
 elbe-jeetzel-klinik.de
@@ -14190,7 +14189,6 @@ l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
 l.facebook.com
-l.franceculture.fr
 l.google.com
 l.googleusercontent.com
 l.qq.com
@@ -14593,6 +14591,7 @@ live.mi.com
 live.net
 live.part.xbox.com
 live.playstation.com
+live.primis.tech
 live.recode.net
 live.rtm.vint.xbox.com
 live.simcitybuildit.com
@@ -15660,7 +15659,6 @@ metrics.apple.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.dickssportinggoods.com
-metrics.hackerrank.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.plex.tv
@@ -23096,6 +23094,7 @@ t.en25.com
 t.hulu.com
 t.indeed.com
 t.ks.ua
+t.ly
 t.me
 t.myvisualiq.net
 t.ow.ly
