@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Oct 2021 16:05:04 UTC
+# Last modified: 06 Oct 2021 00:14:58 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -607,9 +607,7 @@ beta.spotify.map.fastly.net
 betclic.com
 betfaq.ru
 betrad.com
-bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
-bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
 bi.gazeta.pl
 bi.medscape.com
@@ -1158,6 +1156,7 @@ ehow.com
 eielectronics.com
 ek21.com
 ekg.riotgames.com
+elastx.net
 ellation.map.fastly.net
 eloqua.com
 em.dynamicyield.com
@@ -1815,7 +1814,6 @@ krxd.net
 kubanmedia.org
 l.betrad.com
 l.doubleclick.net
-l.franceculture.fr
 l.qq.com
 l2.io
 labs-mqtt.xda-developers.com
@@ -1841,6 +1839,7 @@ link.p0.com
 linkev.com
 linksynergy.com
 litix.io
+live.primis.tech
 live.simcitybuildit.com
 livefyre.com
 liveinternet.ru
@@ -1934,7 +1933,6 @@ metok.sys.miui.com
 metric.gstatic.com
 metrics.apple.com
 metrics.claspws.tv
-metrics.hackerrank.com
 metrics.torproject.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
