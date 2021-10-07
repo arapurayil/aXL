@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.07
-# Last modified: 07 Oct 2021 00:15:42 UTC
+# Last modified: 07 Oct 2021 08:03:26 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2385,7 +2385,6 @@ api.foursquare.com
 api.foxnews.com
 api.freeletics.com
 api.gallery.intl.miui.com
-api.gameanalytics.com
 api.getpocket.com
 api.gfe.nvidia.com
 api.github.com
@@ -8529,7 +8528,6 @@ efirstbankca.com
 efirstfed.com
 efs-f5rp.sdse.disney.com
 eftel.com
-eftps.com
 eftps.gov
 egolomt.mn
 ehh.dk
@@ -8876,7 +8874,6 @@ essabank.com
 essex-fire.gov.uk
 essexsavings.com
 estore.sonymobile.com
-estpak.ee
 estream.to
 esube.abank.com.tr
 esube.albarakaturk.com.tr
@@ -10287,7 +10284,6 @@ game.line.me
 game.naver.com
 game.weibo.com
 game.xiaomi.com
-gameanalytics.com
 gamecopyworld.click
 gamedl.ru
 gamehouse.com
@@ -11545,6 +11541,7 @@ hkb.de
 hkbc.com
 hkconfig.gcloud.qq.com
 hkexporter.net
+hkg1.aastocks.com
 hkicl.com.hk
 hkping.igamecj.com
 hkspeed.igamecj.com
@@ -12881,7 +12878,6 @@ infinas.com
 info-msk.rusfinance.ru
 info.baikalinvestbank.ru
 info.binance.com
-info.com
 info.cyberplat.ru
 info.deltacredit.ru
 info.gov.hk
