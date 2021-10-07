@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Oct 2021 16:02:36 UTC
+# Last modified: 07 Oct 2021 00:15:42 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -449,7 +449,6 @@ api.cxense.com
 api.device.xiaomi.net
 api.facebook.com
 api.faceid.com
-api.gameanalytics.com
 api.gfe.nvidia.com
 api.hubapi.com
 api.io.mi.com
@@ -1151,7 +1150,6 @@ edu.hebnews.cn
 ee.hit.gemius.pl
 effiliation.com
 effinghamanimalhospital.com
-eftps.com
 ehow.com
 eielectronics.com
 ek21.com
@@ -1185,7 +1183,6 @@ err.taobao.com
 error.fc2.com
 errorception.com
 es.wowhead.com
-estpak.ee
 et.nytimes.com
 etl.tindersparks.com
 etn.fm
@@ -1324,7 +1321,6 @@ galt.hit.gemius.pl
 game.baidu.com
 game.weibo.com
 game.xiaomi.com
-gameanalytics.com
 gamedl.ru
 gamehouse.com
 gan.doubleclick.net
@@ -1479,12 +1475,12 @@ hit.bg
 hit.gemius.pl
 hit.stat24.com
 hitmarkerjobs.com
+hkg1.aastocks.com
 hockeyapp.net
 hollyhockhill.com
 home.bt.com
 home.wanadoo.nl
 hooks.slack.com
-hopto.org
 horriblevideos.com
 horror-comics.com
 host-tracker.com
@@ -1685,7 +1681,6 @@ incredibarvuz1.com
 indexww.com
 inetinteractive.com
 inference.location.live.net
-info.com
 info.lgsmartad.com
 info.seek.com
 infolink.pavv.co.kr
@@ -2163,7 +2158,6 @@ p.yotpo.com
 p0.com
 p2.music.126.net
 p3.music.126.net
-p3nlhclust404.shr.prod.phx3.secureserver.net
 p4.music.126.net
 paddleapi.com
 pagead.l.doubleclick.net
@@ -2439,7 +2433,6 @@ s1325.t.eloqua.com
 sa.aol.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
-safelinking.net
 sail-horizon.com
 sajari.com
 sakura.goguardian.com
