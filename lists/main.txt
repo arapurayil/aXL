@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.09
-# Last modified: 09 Oct 2021 00:14:24 UTC
+# Last modified: 09 Oct 2021 08:02:17 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4628,7 +4628,6 @@ booking.naver.com
 bookmark.naver.com
 bookmate.com
 bookrosa.com
-books-analytics-events.apple.com
 books.google.com
 books.rakuten.co.jp
 books.ru
@@ -5075,7 +5074,6 @@ ca.cdn.survey.medallia.com
 ca.gov
 ca.gravatar.com
 ca.hide.me
-ca.iadsdk.apple.com
 ca.ign.com
 ca.pool.ntp.org
 ca.statcounter.com
@@ -7071,7 +7069,6 @@ cryptopia.co.nz
 crystallakebank.com
 cs.daum.net
 cs.gravatar.com
-cs.iadsdk.apple.com
 cs.mbgame.gamesafe.qq.com
 cs.money
 cs.twitch.tv
@@ -7361,7 +7358,6 @@ dashbox.soundcloud.com
 dashlane.com
 dasumo.com
 data.agkn.com
-data.alexa.com
 data.cnn.com
 data.flurry.com
 data.fotmob.com
@@ -15651,7 +15647,6 @@ metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
 metric.gstatic.com
 metrics.aem.playstation.com
-metrics.apple.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.dickssportinggoods.com
@@ -16973,7 +16968,6 @@ notabug.org
 note.microsoft.com
 noteapi.micloud.xiaomi.net
 notepad-plus-plus.org
-notes-analytics-events.apple.com
 noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
@@ -20896,7 +20890,6 @@ securel.longtailvideo.com
 securelist.com
 securemecca.com
 securemetrics.apple.com
-securemvt.apple.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
@@ -22812,7 +22805,6 @@ style.sndcdn.com
 stylehive.com
 stylem.com
 styles.redditmedia.com
-su.iadsdk.apple.com
 su.pr
 suarankri.me
 sub-pubsub.hotstar-labs.com
@@ -25648,7 +25640,6 @@ wealthbar.com
 wealthsimple.com
 wearables.engadget.com
 weareanimalhospital.com
-weather-analytics-events.apple.com
 weather.com
 weather.gov
 weather.naver.com
