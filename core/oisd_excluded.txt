@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Oct 2021 16:03:04 UTC
+# Last modified: 09 Oct 2021 00:14:24 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -505,8 +505,6 @@ appboy-images.com
 appbrain.com
 appcast.io
 appcloud.mcafee.com
-appleglobal.112.2o7.net
-applestoreus.112.2o7.net
 appletoolbox.com
 appmetrica.yandex.com
 appmetrica.yandex.ru
@@ -642,7 +640,6 @@ bm23.com
 bn5x.net
 bnc.lt
 boldchat.com
-books-analytics-events.apple.com
 borneobulletin.com.bn
 bp01.net
 brakrock.be
@@ -696,7 +693,6 @@ c.yes.youku.com
 c.youtube.com
 c.ypcdn.com
 c1.microsoft.com
-ca.iadsdk.apple.com
 cafe24.com
 cafeomai.com.au
 calendar.fontanka.ru
@@ -912,7 +908,6 @@ contactapi.micloud.xiaomi.net
 content.aimatch.com
 contentexchange.me
 continuum.dds.microsoft.com
-conversantmedia.com
 conviva.com
 cooey-coe.org
 cookie.monster.com
@@ -945,7 +940,6 @@ cross-plus-a.com
 crowdtwist.com
 crunchyroll.adtrackers.net
 crunchyroll.bannertrack.net
-cs.iadsdk.apple.com
 cs.money
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
@@ -1014,7 +1008,6 @@ dart.l.doubleclick.net
 dartsearch.net
 dashboard-03.braze.com
 data.agkn.com
-data.alexa.com
 data.cnn.com
 data.livefyre.com
 data.mistat.intl.xiaomi.com
@@ -1926,7 +1919,6 @@ metaffiliation.com
 meteomaastricht.nl
 metok.sys.miui.com
 metric.gstatic.com
-metrics.apple.com
 metrics.claspws.tv
 metrics.torproject.org
 mgtracker.org
@@ -2032,7 +2024,6 @@ nllapps.com
 nlrb.gov
 nonstoppartner.net
 norstatsurveys.com
-notes-analytics-events.apple.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
 nova.collect.igodigital.com
@@ -2498,7 +2489,6 @@ secure.skypeassets.com
 secure.trust-guard.com
 secure.upc.ua
 securemetrics.apple.com
-securemvt.apple.com
 sedoparking.com
 seed.bitcoin.sipa.be
 seed.bitcoinstats.com
@@ -2676,7 +2666,6 @@ streaming.adswizz.com
 streamlike.com
 streamplay.to
 stroeerdigitalgroup.de
-su.iadsdk.apple.com
 sub-pubsub.hotstar-labs.com
 suggestqueries-clients6.youtube.com
 sumologic.com
@@ -2989,8 +2978,6 @@ watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
-weather-analytics-events.apple.com
-web.vortex.data.microsoft.com
 webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
