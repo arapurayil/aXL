@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.10.09
-# Last modified: 09 Oct 2021 16:03:49 UTC
+# Version: 2.10.10
+# Last modified: 10 Oct 2021 00:15:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6238,6 +6238,7 @@ clickcash.onelink.me
 clickcease.com
 clickdimensions.com
 clickfunnels.com
+clickhouse.com
 clickmeter.com
 clicknupload.link
 clicknupload.org
