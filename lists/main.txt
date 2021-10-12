@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.12
-# Last modified: 12 Oct 2021 00:16:05 UTC
+# Last modified: 12 Oct 2021 08:02:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -22308,6 +22308,7 @@ st-nikolaus-hospital.de
 st-rochus-dieburg.de
 st-vincenz.de
 st-vinzenz-bs.de
+st.bahn.de
 st.chatango.com
 st.hitbtc.com
 st.mycdn.me
