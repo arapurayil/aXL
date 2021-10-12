@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Oct 2021 16:03:22 UTC
+# Last modified: 12 Oct 2021 00:16:04 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -65,6 +65,7 @@ a1.mzstatic.com
 a2.xinhuanet.com
 a2z.com
 a3.mediagra.com
+a8onlineshop.trendmicro.co.jp
 a248.e.akamai.net
 a771.dscq.akamai.net
 aan.amazon.com
@@ -2617,6 +2618,7 @@ ssm1.internet.sony.tv
 sso.internetat.tv
 ssp.meba.kr
 sstats.adobe.com
+st.bahn.de
 st.chatango.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
