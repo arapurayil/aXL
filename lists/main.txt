@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.13
-# Last modified: 13 Oct 2021 00:14:56 UTC
+# Last modified: 13 Oct 2021 08:03:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9989,6 +9989,7 @@ fpdownload.adobe.com
 fpdownload.macromedia.com
 fpn.firefox.com
 fpn.flipboard.com
+fpt.microsoft.com
 fpt.xbox.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-ca.gravatar.com
@@ -11994,7 +11995,10 @@ ia601203.us.archive.org
 ia801005.us.archive.org
 iabankers.com
 iacb.org
+iad-01.braze.com
+iad-02.braze.com
 iad-03.braze.com
+iad-04.braze.com
 iad.liveperson.net
 iadb.org
 iadsdk.apple.com
@@ -20702,6 +20706,8 @@ sdk-os.mpsdk.easebar.com
 sdk-stockhausen.de
 sdk.accountkit.com
 sdk.hockeyapp.net
+sdk.iad-01.braze.com
+sdk.iad-02.braze.com
 sdk.iad-03.braze.com
 sdk.out.usbla.net
 sdk.peppermint.samsung.com
