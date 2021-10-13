@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Oct 2021 16:03:53 UTC
+# Last modified: 13 Oct 2021 00:14:55 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1287,6 +1287,7 @@ forms.aweber.com
 forms.convertkit.com
 forter.com
 fourier.taobao.com
+fpt.microsoft.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
@@ -1518,7 +1519,10 @@ i.plug.it
 i.yimg.jp
 i1.ytimg.com
 ia.media-imdb.com
+iad-01.braze.com
+iad-02.braze.com
 iad-03.braze.com
+iad-04.braze.com
 iad.liveperson.net
 iam-agof-app.irquest.com
 ias.r10s.jp
@@ -2466,6 +2470,8 @@ scripts.kataweb.it
 scroll.com
 sdk-gcp.privacy-center.org
 sdk.hockeyapp.net
+sdk.iad-01.braze.com
+sdk.iad-02.braze.com
 sdk.iad-03.braze.com
 sdk.privacy-center.org
 sdk.waze.com
