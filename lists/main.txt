@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.14
-# Last modified: 14 Oct 2021 00:14:45 UTC
+# Last modified: 14 Oct 2021 08:07:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -22971,6 +22971,7 @@ surveys.twilio.com
 susqbanc.com
 susquehanna.net
 sutorbank.de
+sutterhealth.org
 sutton.gov.uk
 suupohjanosuuspankki.fi
 sux.cz
@@ -23187,6 +23188,7 @@ tapresearch.com
 taraleighcobble.com
 target.com
 target.georiot.com
+target.microsoft.com
 target.scene7.com
 targobank.de
 taringa.net
