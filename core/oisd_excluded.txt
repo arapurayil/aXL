@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Oct 2021 16:03:12 UTC
+# Last modified: 14 Oct 2021 00:14:45 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -2732,6 +2732,7 @@ tanx.com
 taplytics.com
 tapresearch.com
 taraleighcobble.com
+target.microsoft.com
 tawk.to
 tbskip.taobao.com
 tc.tradetracker.net

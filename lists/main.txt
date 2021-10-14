@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.10.13
-# Last modified: 13 Oct 2021 16:03:12 UTC
+# Version: 2.10.14
+# Last modified: 14 Oct 2021 00:14:45 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2236,6 +2236,7 @@ ap.ign.com
 ap.org
 ap.orgdict.leo.org
 ap.spotify.com
+ap6.ssl.msdk.qq.com
 apa.org
 apac1.notify.windows.com.akadns.net
 apache.org
