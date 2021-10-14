@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.14
-# Last modified: 14 Oct 2021 08:07:53 UTC
+# Last modified: 14 Oct 2021 16:03:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1169,6 +1169,7 @@ agenciatributaria.gob.es
 agfirst.com
 aggewebhost.com
 aggio.kiev.ua
+agibank.com.br
 agilean.in
 agingstats.gov
 agkb.ch
@@ -3375,11 +3376,13 @@ banco.bradesco
 bancoactivo.com
 bancoagrario.gov.co
 bancoagricola.com
+bancoalfa.com.br
 bancoamazonia.com.br
 bancobcr.com
 bancobga.com
 bancobrasil.co.jp
 bancobrasil.com.br
+bancobs2.com.br
 bancocajasocial.com
 bancocaroni.com.ve
 bancocetelem.es
@@ -3391,6 +3394,7 @@ bancodeoccidente.com.co
 bancodeoro.com.ph
 bancodeoro.ph
 bancodevenezuela.com
+bancodigimais.com.br
 bancodisangiorgio.it
 bancodisicilia.it
 bancodobrasil.com.br
@@ -3400,6 +3404,7 @@ bancoex.gov.ve
 bancoexterior.com
 bancofalabella.cl
 bancofalabella.com.co
+bancofibra.com.br
 bancofilipino.com
 bancofinandina.com
 bancofrances.com.ar
@@ -3785,6 +3790,7 @@ banorte.com
 banorte.com.mx
 banorte.mx
 banpais.hn
+banpara.b.br
 banplus.com
 banplusonline.com
 banque-cantonale.ch
@@ -4024,6 +4030,7 @@ bde.es
 bdg.ch
 bdimg.com
 bdl.gov.lb
+bdmg.mg.gov.br
 bdo.com.ph
 bdvenlinea.banvenez.com
 bdydns.com
@@ -4212,6 +4219,7 @@ bia.lu
 bia2vip.site
 bialystok.tvp.pl
 bianca.com
+bib.com.br
 bibank.com
 bibessen.de
 bibm.ad
@@ -6447,6 +6455,7 @@ cnet4.cbsistatic.com
 cnetcontentsolutions.com
 cnetmedia-a.akamaihd.net
 cnevids.com
+cnisnet.inss.gov.br
 cnn.com
 cnnct.soundcloud.com
 cnnespanol.cnn.com
@@ -7746,6 +7755,7 @@ digiex.net
 digiket.com
 digiket.net
 diginetica.net
+digio.com.br
 digipills.com
 digirati.com.br
 digital.gov
@@ -15675,6 +15685,7 @@ metropolitanbank.com
 metrotel.com.ar
 metuchensavingsbank.com
 metzler.com
+meu.inss.gov.br
 mevas.com
 mewkid.net
 mfb.hu
@@ -15986,6 +15997,7 @@ mobisystems.mobisystems.com
 mochahost.com
 mocospace.com
 mod.gov.az
+modalmais.com.br
 modapkdown.com
 moddb.com
 moderation.spot.im
@@ -16616,6 +16628,7 @@ neobux.com
 neogen.ro
 neolabs.kz
 neolane.net
+neon.com.br
 neoplanet.snap.com
 neoseeker.com
 neosonline.ndbbank.com
@@ -17009,6 +17022,7 @@ novaconnect.net
 novasavingsbank.com
 novatocommunity.org
 novb.com
+novo.brb.com.br
 now.bt.co
 now.eloqua.com
 now.sh
@@ -17116,6 +17130,9 @@ nttdocomo.co.jp
 nturl.com
 ntv.io
 ntvcld-a.akamaihd.net
+nu.com.ar
+nu.com.co
+nu.com.mx
 nu.nl
 nuancemobility.net
 nubank.com.br
@@ -17125,6 +17142,7 @@ nudatasecurity.com
 nuernberg.de
 nuernberger-klinik.de
 nui.media
+nuinvest.com.br
 nulled.to
 nulledfree.pw
 nullsoft.com
@@ -17479,6 +17497,7 @@ online.baltinvest.com
 online.bancamiga.com
 online.bankaustria.at
 online.bankcard.ru
+online.bankfab.com
 online.bankirdom.com
 online.bankofcyprus.com
 online.bankotsar.co.il
@@ -17618,6 +17637,7 @@ onlinevideoconverter.com
 onlysimchas.com
 onmpeg.com
 ono.com
+onpointcu.com
 onrpg.com
 onstmettinger-bank.de
 onurtrakyahastanesi.com
@@ -17717,6 +17737,7 @@ or1gtm003.adobe.com
 ora.tv
 oracle.112.2o7.net
 oracle.com
+orama.com.br
 orange.co.uk
 orange.es
 orange.fr
@@ -18687,6 +18708,7 @@ portfolio.adobe.com
 porthuronhospital.org
 portmanat.az
 portmone.com.ua
+portoseguro.com.br
 portsmouthhospital.com
 posb.com.sg
 post.gov.tw
@@ -19185,6 +19207,7 @@ quainator.com
 quaintoak.com
 qualcomm.com
 qualtrics.com
+quantaprevidencia.com.br
 quantcast.com
 quantcast.mgr.consensu.org
 quantummetric.com
@@ -23687,6 +23710,7 @@ torbay.gov.uk
 toreedgefd.dsx.mp.microsoft.com
 torimochi.line-apps.com
 torlock.com
+toroinvestimentos.com.br
 toronto.my.kaspersky.com
 torproject.org
 torrentfreak.com
