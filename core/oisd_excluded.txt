@@ -2,11 +2,12 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Oct 2021 16:03:22 UTC
+# Last modified: 15 Oct 2021 00:14:52 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
 1hosts.cf
+2-spyware.com
 2baksa.net
 2cnt.net
 2ip.ru
@@ -26,7 +27,6 @@
 51.com
 51.la
 51yes.com
-56.com
 102.122.2o7.net
 112.2o7.net
 122.2o7.net
@@ -422,7 +422,6 @@ analytics.twitter.com
 android.bugly.qq.com
 androidweblog.com
 anexia-it.com
-angelfire.com
 angolotesti.it
 anrdoezrs.net
 answerhub.com
@@ -597,8 +596,6 @@ beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
 beacon.netflix.com
 benefits.sovendus.com
-best.aliexpress.com
-bestgore.com
 bestofmedia.com
 bestvpnrating.com
 beta.spotify.map.fastly.net
@@ -823,7 +820,6 @@ click.cptrack.de
 click.dtiserv2.com
 click.email.sonos.com
 click.engage.xbox.com
-click.icptrack.com
 click.linksynergy.com
 click.ml.mailersend.com
 click.pstmrk.it
@@ -922,7 +918,6 @@ coolrom.com
 core.cloud.unity3d.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
-cotc.net
 countere.com
 countess.twitch.tv
 countvoncount.goguardian.com
@@ -956,7 +951,6 @@ ct.pinterest.com
 ct.sendgrid.net
 ctest.cdn.nintendo.net
 cts.businesswire.com
-cuci.nl
 cudasvc.com
 cultdeadcow.com
 cur.lv
@@ -1049,7 +1043,6 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 dff2h0hbfv6w4.cloudfront.net
-dgit.com
 dhgate.com
 diagnostics.meethue.com
 diagnostics.support.microsoft.com
@@ -1082,7 +1075,6 @@ dnsseed.bluematt.me
 do-not-tracker.org
 docs.bugsnag.com
 doctortro.com
-documentingreality.com
 doiop.com
 dolphincdn.xyz
 domain.com
@@ -1289,7 +1281,6 @@ forter.com
 fourier.taobao.com
 fpt.microsoft.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
-fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
 frameip.com
 freeexchange.ru
@@ -1353,8 +1344,6 @@ geoloc.arte.tv
 geolocation.daznservices.com
 geolocation.onetrust.com
 georiot.com
-get-express-vpn.com
-get.x-link.pl
 getadmiral.com
 getblueshift.com
 getchu.com
@@ -1402,7 +1391,6 @@ googletagmanager.com
 googletagservices.com
 goohost.ru
 gopjn.com
-goregrish.com
 gotraffic.net
 gpm.samsungqbe.com
 grab.com
@@ -1414,7 +1402,6 @@ graph.instagram.com
 gravatar.com
 gravityrd-services.com
 greenheartmed.org
-gremimedia.pl
 groupon.pl
 growth-pa.googleapis.com
 gs.statcounter.com
@@ -1479,7 +1466,6 @@ hollyhockhill.com
 home.bt.com
 home.wanadoo.nl
 hooks.slack.com
-horriblevideos.com
 horror-comics.com
 host-tracker.com
 hosting-1a.mijndomein-ws.nl
@@ -1665,7 +1651,6 @@ images.sohu.com
 imagesak.secureserver.net
 imasdk.googleapis.com
 img-fotki.yandex.ru
-img.alibaba.com
 img.beeg.com
 img.digiket.net
 img.en25.com
@@ -1729,7 +1714,6 @@ ipinfo.info
 ipinfo.io
 ipinfodb.com
 ipla.hit.stat24.com
-ipm-provider.ff.avast.com
 ipoker.com
 ipstack.com
 ipv4.tracker.harry.lu
@@ -1780,7 +1764,6 @@ jwpltx.com
 k.cocooncenter.com
 k.sinaimg.cn
 kampyle.com
-kaotic.com
 katcr.to
 kawaii.sh
 kaxsdc.com
@@ -1799,7 +1782,6 @@ kiwifarms.net
 klclick.com
 klclick1.com
 ko.wowhead.com
-kodu.neti.ee
 kolabsys.com
 komachi.yomiuri.co.jp
 komoona.com
@@ -1820,7 +1802,6 @@ laureus.com
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
 leadpages.net
-leakreality.com
 leanplum.com
 legalterms.cbsinteractive.com
 lgsmartad.com
@@ -1858,7 +1839,6 @@ logs.juspay.in
 lomadee.com
 lootcrate.com
 lptag.liveperson.net
-lvbet.pl
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
@@ -1944,7 +1924,6 @@ minecraftprod.rtep.msgamestudios.com
 miningpoolhub.com
 minorshort.weixin.qq.com
 mis.migc.xiaomi.com
-miscopy.com
 mistat.xiaomi.com
 mixi.media
 mixnews.lv
@@ -2288,7 +2267,6 @@ prod.mobile.roku.com
 prod.nexusrules.live.com.akadns.net
 prod.telemetry.ros.rockstargames.com
 productsup.com
-prodxnews1blob.blob.core.windows.net
 promo.mobile.de
 promos.fling.com
 prov.samsungcloudsolution.com
@@ -2591,7 +2569,6 @@ snrcdn.net
 snssdk.com
 snu.lge.com
 snxd.com
-socialize.eu1.gigya.com
 socket.streamable.com
 softcity.upclick.com
 softwareadvice.com
@@ -2696,7 +2673,6 @@ syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
 sypi.gpshopper.com
-systweak.com
 szentkoronaradio.com
 szlong.weixin.qq.com
 t.eloqua.com
@@ -2760,7 +2736,6 @@ thebrighttag.com
 thecounter.com
 thedfirreport.com
 theintelligencer.com
-theync.com
 thirdparty.bnc.lt
 thumb.pr0gramm.com
 tickle.com
@@ -2800,7 +2775,6 @@ track.grab.in
 track.kuronekoyamato.co.jp
 track.nzz.ch
 track.omgpl.com
-track.upaknee.com
 track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
@@ -2818,7 +2792,6 @@ tracking.lengow.com
 tracking.publicidees.com
 tracking.s24.com
 tracking.surveycheck.com
-tracking.truthfinder.com
 trackjs.com
 tradedoubler.com
 tradetracker.net
@@ -2847,7 +2820,6 @@ trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tu-darmstadt.de
 tuta.io
-tv.sohu.com
 tvn.adocean.pl
 tvn.hit.gemius.pl
 tvpage.com
@@ -2864,7 +2836,6 @@ ublock.org
 uca.cloud.unity3d.com
 ucam.me
 ucweb.com
-udec.cl
 udimg.com
 ue.flipboard.com
 ufrpe.br
