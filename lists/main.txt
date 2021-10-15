@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.15
-# Last modified: 15 Oct 2021 00:14:52 UTC
+# Last modified: 15 Oct 2021 08:03:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -313,7 +313,6 @@
 55.ru
 550access.com
 55fast.com
-56.com
 58.com
 58pic.com
 5em.cz
@@ -4131,7 +4130,6 @@ best-hospital.jp
 best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
-bestgore.com
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -7162,7 +7160,6 @@ cubano.pw
 cubared.com
 cubbank.com
 cubestat.com
-cuci.nl
 cudasvc.com
 cudder.it
 cuidadodesalud.gov
@@ -7955,7 +7952,6 @@ doctor.ndtv.com
 doctorpk.mywibes.com
 doctorshospitaldallas.com
 doctortro.com
-documentingreality.com
 docusign.net
 dodgersdigest.com
 doe.gov
@@ -10981,7 +10977,6 @@ goolive.de
 goorm.io
 gopjn.com
 gora.golf.rakuten.co.jp
-goregrish.com
 gorhamsavingsbank.com
 gorod23.ru
 gosign.adobe.com
@@ -11645,7 +11640,6 @@ horizon.huffingtonpost.com
 horizonbank.com
 horizoncable.com
 horl.com
-horriblevideos.com
 horror-comics.com
 horseanswerstoday.com
 horten.ws
@@ -13571,7 +13565,6 @@ kansasstatebank.com
 kanton-spion.ch
 kantonalbank.ch
 kantonsspitalglarus.ch
-kaotic.com
 kapitalbank.az
 karafarinbank.com
 karalyte.com
@@ -13924,7 +13917,6 @@ ko.wowhead.com
 koblenzer-volksbank.de
 kocbank.com.tr
 kocbank.nl
-kodu.neti.ee
 koe-klinik.de
 koeln-kh-augustinerinnen.de
 kohls.com
@@ -14342,7 +14334,6 @@ lds.org
 lds.org.edgekey.net
 leadpages.co
 leadpages.net
-leakreality.com
 leanplum.com
 learn.elephantjournal.com
 learndownload.adobe.com
@@ -15852,7 +15843,6 @@ mirrorservice.org
 mirtesen.ru
 mis.g.mi.com
 mis.migc.xiaomi.com
-miscopy.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
 mismo.org
@@ -23516,7 +23506,6 @@ theweathernetwork.com
 thewindowsclub.com
 theworldexchange.net
 thewrap.com
-theync.com
 thinair.net.nz
 thinkroadsafety.gov.uk
 thirdparty.bnc.lt
@@ -23769,7 +23758,6 @@ track.omgpl.com
 track.rediff.com
 track.spiceworks.com
 track.ucas.com
-track.upaknee.com
 track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
@@ -23799,7 +23787,6 @@ tracking.nw.de
 tracking.publicidees.com
 tracking.s24.com
 tracking.surveycheck.com
-tracking.truthfinder.com
 trackingthetrackers.com
 trackitonline.ru
 trackjs.com
