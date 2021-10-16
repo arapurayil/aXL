@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.10.15
-# Last modified: 15 Oct 2021 16:03:47 UTC
+# Version: 2.10.16
+# Last modified: 16 Oct 2021 00:16:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -313,6 +313,7 @@
 55.ru
 550access.com
 55fast.com
+56.com
 58.com
 58pic.com
 5em.cz
@@ -4044,6 +4045,7 @@ beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
 beacon.geo.netflix.com
 beacon.netflix.com
+beaconhealthsystem.org
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -4130,6 +4132,7 @@ best-hospital.jp
 best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
+bestgore.com
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -4176,10 +4179,12 @@ bexi.co.id
 beyondweb.com
 bezirkssparkasse-dillenburg.de
 bezpecnost.csas.cz
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
+bfp.capitalone.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -4597,6 +4602,7 @@ boddenkliniken.de
 bodenseebank.de
 bodinternet.com
 bodmillenium.com
+bodyforwife.com
 bodyinstitut.com
 boemre.gov
 bof.fi
@@ -5793,6 +5799,7 @@ centurybankfl.com
 centurylink.com
 cepteteb.com.tr
 ceredigion.gov.uk
+ceres.org.au
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
 certification.bithumb.com
@@ -7160,6 +7167,7 @@ cubano.pw
 cubared.com
 cubbank.com
 cubestat.com
+cuci.nl
 cudasvc.com
 cudder.it
 cuidadodesalud.gov
@@ -7952,6 +7960,7 @@ doctor.ndtv.com
 doctorpk.mywibes.com
 doctorshospitaldallas.com
 doctortro.com
+documentingreality.com
 docusign.net
 dodgersdigest.com
 doe.gov
@@ -10977,6 +10986,7 @@ goolive.de
 goorm.io
 gopjn.com
 gora.golf.rakuten.co.jp
+goregrish.com
 gorhamsavingsbank.com
 gorod23.ru
 gosign.adobe.com
@@ -11640,6 +11650,7 @@ horizon.huffingtonpost.com
 horizonbank.com
 horizoncable.com
 horl.com
+horriblevideos.com
 horror-comics.com
 horseanswerstoday.com
 horten.ws
@@ -13356,6 +13367,7 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
+java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -13565,6 +13577,7 @@ kansasstatebank.com
 kanton-spion.ch
 kantonalbank.ch
 kantonsspitalglarus.ch
+kaotic.com
 kapitalbank.az
 karafarinbank.com
 karalyte.com
@@ -13917,6 +13930,7 @@ ko.wowhead.com
 koblenzer-volksbank.de
 kocbank.com.tr
 kocbank.nl
+kodu.neti.ee
 koe-klinik.de
 koeln-kh-augustinerinnen.de
 kohls.com
@@ -14191,6 +14205,7 @@ l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
 l.facebook.com
+l.franceculture.fr
 l.google.com
 l.googleusercontent.com
 l.qq.com
@@ -14334,6 +14349,7 @@ lds.org
 lds.org.edgekey.net
 leadpages.co
 leadpages.net
+leakreality.com
 leanplum.com
 learn.elephantjournal.com
 learndownload.adobe.com
@@ -15107,6 +15123,7 @@ marbletownanimalhospital.com
 marca.com
 marcard.de
 marcus.com
+mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marfinbank.ua
@@ -15659,6 +15676,7 @@ metrics.aem.playstation.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.dickssportinggoods.com
+metrics.hackerrank.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.plex.tv
@@ -15843,6 +15861,7 @@ mirrorservice.org
 mirtesen.ru
 mis.g.mi.com
 mis.migc.xiaomi.com
+miscopy.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
 mismo.org
@@ -16367,6 +16386,7 @@ mygayspace.com
 mygirlyspace.com
 mygw.alipay.com
 myhalyk.kz
+myhealth.net.au
 myhighlandvet.com
 myhome.naver.com
 myhomefed.com
@@ -16913,6 +16933,7 @@ noexit.tv
 noip.com
 nokss.ru
 nolp.dhl.de
+non.li
 nonstoppartner.net
 nooksackanimalhospital.com
 nor.no
@@ -19677,6 +19698,7 @@ rdz.me
 reach.com
 reacheyes.com
 reactos.org
+readberserk.com
 readee.rakuten.co.jp
 reader.browser.miui.com
 readinghospital.org
@@ -19738,6 +19760,7 @@ redir.ec
 redir.fr
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
+redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
@@ -19850,6 +19873,7 @@ res.static.xiaomi.net
 res.wechat.com
 res.wx.qq.com
 resbank.co.za
+rescure.fruxlabs.com
 research-platform.line.me
 research.rakuten.co.jp
 researchgate.net
@@ -21173,6 +21197,7 @@ shinhanbank.com
 shinobi.jp
 shinseibank.com
 shkb.ch
+shockgore.com
 shockplay.com
 shockwave.com
 shoes.app-xae.xiaomi.com
@@ -23061,9 +23086,11 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
+syndikat-asphaltfieber.de
 syndonline.in
 synergybank.com
 synology.com
+synology.me
 synologynotification.com
 synterra.ru
 synthesisbank.com
@@ -23449,6 +23476,7 @@ thecooperativebank.com
 thecornerstonebank.com
 thecounter.com
 thecountybank.com
+thedad.com
 thedailybeast.com
 thedailymodel.com
 thedailysheeple.com
@@ -23506,6 +23534,7 @@ theweathernetwork.com
 thewindowsclub.com
 theworldexchange.net
 thewrap.com
+theync.com
 thinair.net.nz
 thinkroadsafety.gov.uk
 thirdparty.bnc.lt
@@ -23758,6 +23787,7 @@ track.omgpl.com
 track.rediff.com
 track.spiceworks.com
 track.ucas.com
+track.upaknee.com
 track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
@@ -23787,6 +23817,7 @@ tracking.nw.de
 tracking.publicidees.com
 tracking.s24.com
 tracking.surveycheck.com
+tracking.truthfinder.com
 trackingthetrackers.com
 trackitonline.ru
 trackjs.com
@@ -23889,6 +23920,7 @@ trk.klclick1.com
 trk.pinterest.com
 trkr.ws
 trlibor.org
+troegs.com
 trojan-killer.net
 trophy01.np.community.playstation.net
 trouw.nl
@@ -23990,7 +24022,6 @@ tvgids.nl
 tvgidsassets.nl
 tvguide.com
 tvn.adocean.pl
-tvn.hit.gemius.pl
 tvn24.pl
 tvnow.de
 tvnstyle.pl
@@ -24908,6 +24939,7 @@ vice-web-statics-cdn.vice.com
 vice.com
 vicsuper.com.au
 victoriasecret.com
+victoriousfestival.co.uk
 vid.pr0gramm.com
 vidaextra.com
 vidazoo.com
@@ -25636,6 +25668,7 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
+waveneyrivercentre.co.uk
 way2traffic.com
 wayerless.com
 wayforpay.com
@@ -26459,6 +26492,7 @@ xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com
 xpg.uol.com.br
 xpi.com.br
+xpixl.me
 xplornet.com
 xposed.info
 xpu.samsungelectronics.com
@@ -26600,6 +26634,7 @@ ysear.ch
 yt.facebook.com
 yt.vu
 yt3.ggpht.com
+yt4.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytimg.l.google.com
