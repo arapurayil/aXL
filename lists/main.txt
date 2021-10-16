@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.16
-# Last modified: 16 Oct 2021 00:16:07 UTC
+# Last modified: 16 Oct 2021 08:02:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -23090,7 +23090,6 @@ syndikat-asphaltfieber.de
 syndonline.in
 synergybank.com
 synology.com
-synology.me
 synologynotification.com
 synterra.ru
 synthesisbank.com
