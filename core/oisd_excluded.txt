@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Oct 2021 16:03:18 UTC
+# Last modified: 17 Oct 2021 00:15:30 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -10,7 +10,6 @@
 2-spyware.com
 2baksa.net
 2cnt.net
-2ip.ru
 2ip.ua
 2mdn.net
 2o7.net
@@ -434,7 +433,6 @@ anura.io
 anycast.adnxs.com
 apac1.notify.windows.com.akadns.net
 apester.com
-api-iam.intercom.io
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-xl9-ssl.xunlei.com
@@ -589,6 +587,7 @@ barracudacentral.org
 batasnatin.com
 batch.com
 bbin.ru
+bblck.me
 bc.marfeel.com
 bc.marfeelcache.com
 bc.vc
@@ -695,7 +694,6 @@ c.microsoft.com
 c.msn.com
 c.msn.com.nsatc.net
 c.paypal.com
-c.y.qq.com
 c.yes.youku.com
 c.youtube.com
 c.ypcdn.com
@@ -1125,7 +1123,6 @@ dtiserv2.com
 dts.podtrac.com
 duck.sh
 duckdns.org
-dw-online.ksosoft.com
 dw.cbsi.com
 dw.com
 dw.com.com
@@ -1137,6 +1134,7 @@ e.kc-education.com
 e.reddit.com
 ea.galerieslafayette.com
 eaglenews.in
+easycounter.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 ebates.com
@@ -1152,6 +1150,7 @@ edgesuite.net
 edigitalsurvey.com
 edrone.me
 edu.hebnews.cn
+ee.hit.gemius.pl
 effiliation.com
 effinghamanimalhospital.com
 ehow.com
@@ -1231,7 +1230,6 @@ extratorrent.ag
 extreme-ip-lookup.com
 ezoic.net
 f-log-at.grammarly.io
-f.shopee.sg
 f1.g.mi.com
 f5.market.xiaomi.com
 fabric.io
@@ -1306,7 +1304,6 @@ freesteamkeys.com
 frog.wix.com
 frontier.musical.ly
 fs.microsoft.com
-fstream.binance.com
 ftp.byethost11.com
 ftp.drivehq.com
 ftpcontent.worldnow.com
@@ -1322,15 +1319,19 @@ g.ezoic.net
 g.msn.com
 gala.spiceworks.com
 gall.dcinside.com
+galt.hit.gemius.pl
 game.baidu.com
 game.weibo.com
 game.xiaomi.com
 gamedl.ru
 gamehouse.com
 gan.doubleclick.net
+gapl.hit.gemius.pl
 gardenstatehelicopters.com
 gate.hockeyapp.net
 gateway.reddit.com
+gatr.hit.gemius.pl
+gaua.hit.gemius.pl
 gc.zgo.at
 gcp.api.snapchat.com
 gdpr-tcfv2.sp-prod.net
@@ -1709,6 +1710,7 @@ intelliad.de
 intellimize.co
 intercom.com
 intergi.com
+interia.hit.gemius.pl
 internal.unity3d.com
 internet.apps.samsung.com
 internetbrands.com
@@ -1752,10 +1754,8 @@ izeselet.hu
 izooto.com
 j.gs
 jaleco.com
-jamfcloud.com
 janrain.com
 japantv.club
-java-forum.org
 javbooks.com
 jdoqocy.com
 jeddunk.xyz
@@ -1821,7 +1821,6 @@ l2.io
 labs-mqtt.xda-developers.com
 lads.myspace.com
 launcher.spot.im
-launchpad.binance.com
 laureus.com
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
@@ -1991,7 +1990,6 @@ msedge.net
 msftncsi.com
 msh.amazon.co.uk
 msh.amazon.com
-mss.handmark.com
 multiscreen.samsung.com
 multiscreensite.com
 mx.technolutions.net
@@ -2031,7 +2029,6 @@ newsletters.nationalgeographic.com
 newstube.ru
 newtonpaiva.br
 nextday.media
-nexus-websocket-a.intercom.io
 nexus.ensighten.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -2203,7 +2200,6 @@ pcrisk.com
 pdc.micloud.xiaomi.net
 peerius.com
 pendo.io
-people-pa.googleapis.com
 peoplehub.xboxlive.com
 pepperjamnetwork.com
 perfdrive.com
@@ -2230,6 +2226,7 @@ pioneer-audiovisual.eu
 pipe.aria.microsoft.com
 piwik.org
 pixel.everesttech.net
+pixeldrain.com
 pixelzirkus.gameforge.com
 pjatr.com
 pjtra.com
@@ -2345,7 +2342,6 @@ qzs.qq.com
 r.bbci.co.uk
 r.mail.ru
 r.orange.fr
-r.search.yahoo.com
 r.sg.sec.miui.com
 r1.ykimg.com
 r42tag.com
@@ -2379,11 +2375,11 @@ refer.ccbill.com
 referrer.disqus.com
 refersion.com
 relevant-digital.com
+remington700chassis.com
 reports.cliqz.com
 repository.cliqz.com
 res-x.com
 res.cloudinary.com
-rescure.fruxlabs.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
@@ -2417,6 +2413,7 @@ rubicon.wellsfargo.com
 rutrk.org
 rv.furaffinity.net
 s-bid.rmp.rakuten.com
+s-jena.de
 s.aolcdn.com
 s.btstatic.com
 s.click.taobao.com
@@ -2519,7 +2516,6 @@ seed.bitcoinstats.com
 segment.com
 segment.io
 segpay.com
-self-repair.mozilla.org
 self.events.data.microsoft.com
 sematext.com
 semawur.com
@@ -2528,7 +2524,6 @@ sendpul.se
 sendpulse.com
 sendsay.ru
 sensic.net
-sensors.binance.cloud
 sentry.io
 serials.ws
 serve.adtrackers.net
@@ -2546,7 +2541,6 @@ sessionstack.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
-sf-tb-sg.ibytedtos.com
 sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
 sgpac.account.xiaomi.com
@@ -2867,6 +2861,7 @@ tu-darmstadt.de
 tuta.io
 tv.sohu.com
 tvn.adocean.pl
+tvn.hit.gemius.pl
 tvpage.com
 tvpassport.com
 tvzap.kataweb.it
@@ -3029,7 +3024,6 @@ whatismyip.akamai.com
 whoami.akamai.net
 widget.intercom.io
 widget.trustpilot.com
-widget.uservoice.com
 widgets.prisjakt.nu
 widgets.trustedshops.com
 widgets.twimg.com
@@ -3058,7 +3052,6 @@ ws.batch.com
 ws.mmstat.com
 wt-eu02.net
 wumii.com
-wurfl.io
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.advertising.com
@@ -3076,7 +3069,6 @@ xlmc.sandai.net
 xlog-va.musical.ly
 xmrpool.eu
 xp.apple.com
-xpixl.me
 xpu.samsungelectronics.com
 xrea.com
 xsph.ru
