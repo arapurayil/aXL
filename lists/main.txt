@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.17
-# Last modified: 17 Oct 2021 00:15:31 UTC
+# Last modified: 17 Oct 2021 08:02:37 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3929,6 +3929,7 @@ bbi.co.im
 bbin.ru
 bbl.be
 bbl.co.th
+bblck.me
 bblinz.at
 bbobank.ch
 bbr.ru
@@ -5035,7 +5036,6 @@ c.s-microsoft.com
 c.storage.googleapis.com
 c.t-online.de
 c.trello.com
-c.y.qq.com
 c.yes.youku.com
 c.youtube.com
 c.ypcdn.com
@@ -8368,6 +8368,7 @@ easy-jack.co.uk
 easy.box
 easybank.at
 easybytez.com
+easycounter.com
 easycredit.de
 easyfreehosting.com
 easylist-downloads.adblockplus.org
@@ -9141,7 +9142,6 @@ f-i-s.lu
 f-log-at.grammarly.io
 f-secure.com
 f.kinja-static.com
-f.shopee.sg
 f.thumbs.redditmedia.com
 f.youku.com
 f000.backblazeb2.com
@@ -10172,7 +10172,6 @@ fsnh.com
 fsround.org
 fssb.com
 fstbnk.com
-fstream.binance.com
 ft.com
 ft.tt
 ftb.com
@@ -13353,7 +13352,6 @@ jak.se
 jaleco.com
 jalopnik.com
 jamaicahospital.org
-jamfcloud.com
 jamunabankbd.com
 janatabank-bd.com
 janrain.com
@@ -13367,7 +13365,6 @@ jappy.mobi
 jappy.tv
 jaring.my
 jarvis-dev.sonymobile.com
-java-forum.org
 javbooks.com
 javdict.disqus.com
 jba.org.jm
@@ -14302,7 +14299,6 @@ launchdarkly.com
 launcher.nirsoft.net
 launcher.spot.im
 launcher.twitch.tv
-launchpad.binance.com
 launchpad.net
 launchpadlibrarian.net
 laurelsb.com
@@ -16198,7 +16194,6 @@ mspb.gov
 mspbank.ru
 msport.gov.pl
 mss-offermgmt.modpim.com
-mss.handmark.com
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -18484,6 +18479,7 @@ pixel.everesttech.net
 pixel.nymag.com
 pixel.quantserve.com
 pixel.wp.com
+pixeldrain.com
 pixelsdesign.net
 pixelzirkus.gameforge.com
 pixhost.to
@@ -19836,6 +19832,7 @@ relstage.typekit.com
 remadaro.com
 remember.to
 reminders-pa.googleapis.com
+remington700chassis.com
 remla.com
 remote-data.urbanairship.com
 remoteworkcentral.com
@@ -19873,7 +19870,6 @@ res.static.xiaomi.net
 res.wechat.com
 res.wx.qq.com
 resbank.co.za
-rescure.fruxlabs.com
 research-platform.line.me
 research.rakuten.co.jp
 researchgate.net
@@ -21023,7 +21019,6 @@ seninbankan.com.tr
 seniorcorps.gov
 seniorentreff.de
 sensic.net
-sensors.binance.cloud
 sentry.cloud.vimeo.com
 sentry.flipboard.com
 sentry.io
@@ -21096,7 +21091,6 @@ seviercobank.com
 sexebook-affiliation.com
 sexyono.com
 seznam.cz
-sf-tb-sg.ibytedtos.com
 sf.api.np.km.playstation.net
 sf.prod.sonyentertainmentnetwork.com
 sf1-ttcdn-tos.pstatp.com
@@ -24021,6 +24015,7 @@ tvgids.nl
 tvgidsassets.nl
 tvguide.com
 tvn.adocean.pl
+tvn.hit.gemius.pl
 tvn24.pl
 tvnow.de
 tvnstyle.pl
@@ -25943,7 +25938,6 @@ widget.intercom.io
 widget.pushbullet.com
 widget.sndcdn.com
 widget.trustpilot.com
-widget.uservoice.com
 widgetdata.tradingview.com
 widgets.amazon.co.uk
 widgets.amazon.com
@@ -26216,7 +26210,6 @@ wumii.com
 wunderground.com
 wunderlist.com
 wupload.com
-wurfl.io
 wurl.nl
 wuu.wikipedia.com
 wvacb.com
@@ -26491,7 +26484,6 @@ xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com
 xpg.uol.com.br
 xpi.com.br
-xpixl.me
 xplornet.com
 xposed.info
 xpu.samsungelectronics.com
