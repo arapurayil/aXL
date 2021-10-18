@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.18
-# Last modified: 18 Oct 2021 00:15:33 UTC
+# Last modified: 18 Oct 2021 08:04:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10697,6 +10697,7 @@ go.ign.com
 go.infoblox.com
 go.leanplum.com
 go.microsoft.com
+go.mybusinessacademy.ph
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -17257,6 +17258,7 @@ obk.be
 oblhospital.com.ua
 oboom.com
 observer.com
+obviousidea.com
 obxhost.net
 oca-api.netflix.com
 oca.telemetry.microsoft.com
