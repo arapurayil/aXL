@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Oct 2021 16:04:01 UTC
+# Last modified: 19 Oct 2021 00:14:59 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -528,6 +528,7 @@ assets.adobedtm.com
 assets.penny-arcade.com
 assets.pinterest.com
 assetstore.unity.com
+assoc-amazon.com
 at-o.net
 atconnect.npo.nl
 atdmt.com
@@ -597,7 +598,6 @@ bea4.v.fwmrm.net
 beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
 beacon.netflix.com
-beaconhealthsystem.org
 benefits.sovendus.com
 best.aliexpress.com
 bestgore.com
@@ -644,7 +644,6 @@ bm.pl
 bm23.com
 bn5x.net
 bnc.lt
-bodyforwife.com
 boldchat.com
 borneobulletin.com.bn
 bp01.net
@@ -784,7 +783,6 @@ cdp.cloud.unity3d.com
 cec.ro
 cedexis.com
 cedexis.net
-ceres.org.au
 certona.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
@@ -1012,7 +1010,6 @@ dailydot.com
 damoh.schneevonmorgen.com
 damoh.spiegel.de
 dansguardian.org
-danskretursystem.dk
 darknet.org.uk
 dart.l.doubleclick.net
 dartsearch.net
@@ -1747,7 +1744,6 @@ ist-track.com
 itsfogo.com
 itv.ard.de
 iubenda.com
-iwelt.de
 iwin.com
 iww.ca
 izeselet.hu
@@ -1802,7 +1798,6 @@ kisshentai.net
 kiwifarms.net
 klclick.com
 klclick1.com
-klusbeter.nl
 ko.wowhead.com
 kodu.neti.ee
 kolabsys.com
@@ -1871,7 +1866,6 @@ m.pr0gramm.com
 m.yap.yahoo.com
 m1.fwmrm.net
 m365log.com
-maasreusel.nl
 mackeeper.com
 macromedia.com
 madmimi.com
@@ -1891,7 +1885,6 @@ mangler3.generals.ea.com
 mangler4.generals.ea.com
 manifest.auditude.com
 maps.windows.com
-mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marinetraffic.com
@@ -2000,7 +1993,6 @@ my.adocean.pl
 myairbridge.com
 mybloglog.com
 myftpupload.com
-myhealth.net.au
 myvisualiq.net
 myway.com
 mywot.com
@@ -2064,7 +2056,6 @@ nudatasecurity.com
 nui.media
 nutaku.com
 nv.vi-serve.com
-o.auspost.com.au
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2357,7 +2348,6 @@ rd.rakuten.co.jp
 rd.yahoo.com
 rdrtr.com
 rdx2.lgtvsdp.com
-readberserk.com
 realsrv.com
 realtime.services.disqus.com
 rebrand.ly
@@ -2375,7 +2365,6 @@ refer.ccbill.com
 referrer.disqus.com
 refersion.com
 relevant-digital.com
-remington700chassis.com
 reports.cliqz.com
 repository.cliqz.com
 res-x.com
@@ -2413,7 +2402,6 @@ rubicon.wellsfargo.com
 rutrk.org
 rv.furaffinity.net
 s-bid.rmp.rakuten.com
-s-jena.de
 s.aolcdn.com
 s.btstatic.com
 s.click.taobao.com
@@ -2704,7 +2692,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-syndikat-asphaltfieber.de
 sypi.gpshopper.com
 systweak.com
 szentkoronaradio.com
@@ -2768,7 +2755,6 @@ theafterparty.tv
 theannoyingsite.com
 thebrighttag.com
 thecounter.com
-thedad.com
 thedfirreport.com
 theintelligencer.com
 theync.com
@@ -2850,7 +2836,6 @@ tritondigital.com
 trk.email.dynect.net
 trk.emlbest.com
 trk.pinterest.com
-troegs.com
 trojan-killer.net
 trustarc.com
 trustarc.mgr.consensu.org
@@ -2888,6 +2873,7 @@ ulink.adjust.com
 ulmwp.org
 ulogin.ru
 ultimedia.com
+umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 unagi-na.amazon.com
 unagi.amazon.co.jp
@@ -2960,7 +2946,6 @@ vgwort.de
 vi-serve.com
 via.placeholder.com
 viarnd.112.2o7.net
-victoriousfestival.co.uk
 vid.pr0gramm.com
 vidazoo.com
 video-fa.scdn.co
@@ -3002,9 +2987,9 @@ wallstreetcn.com
 watch-jav.com
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
-waveneyrivercentre.co.uk
 way2traffic.com
 wayin.com
+web.vortex.data.microsoft.com
 webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
