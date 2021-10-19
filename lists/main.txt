@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.19
-# Last modified: 19 Oct 2021 00:14:59 UTC
+# Last modified: 19 Oct 2021 08:03:30 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4046,7 +4046,6 @@ beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
 beacon.geo.netflix.com
 beacon.netflix.com
-beaconhealthsystem.org
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -4603,7 +4602,6 @@ boddenkliniken.de
 bodenseebank.de
 bodinternet.com
 bodmillenium.com
-bodyforwife.com
 bodyinstitut.com
 boemre.gov
 bof.fi
@@ -5799,7 +5797,6 @@ centurybankfl.com
 centurylink.com
 cepteteb.com.tr
 ceredigion.gov.uk
-ceres.org.au
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
 certification.bithumb.com
@@ -15120,7 +15117,6 @@ marbletownanimalhospital.com
 marca.com
 marcard.de
 marcus.com
-mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marfinbank.ua
@@ -16382,7 +16378,6 @@ mygayspace.com
 mygirlyspace.com
 mygw.alipay.com
 myhalyk.kz
-myhealth.net.au
 myhighlandvet.com
 myhome.naver.com
 myhomefed.com
@@ -17205,7 +17200,6 @@ o-bank.com
 o-x.fr
 o.9nl.com
 o.aolcdn.com
-o.auspost.com.au
 o.breitbart.com
 o.co.za
 o.dailycaller.com
@@ -19696,7 +19690,6 @@ rdz.me
 reach.com
 reacheyes.com
 reactos.org
-readberserk.com
 readee.rakuten.co.jp
 reader.browser.miui.com
 readinghospital.org
@@ -19834,7 +19827,6 @@ relstage.typekit.com
 remadaro.com
 remember.to
 reminders-pa.googleapis.com
-remington700chassis.com
 remla.com
 remote-data.urbanairship.com
 remoteworkcentral.com
@@ -23082,7 +23074,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-syndikat-asphaltfieber.de
 syndonline.in
 synergybank.com
 synology.com
@@ -23471,7 +23462,6 @@ thecooperativebank.com
 thecornerstonebank.com
 thecounter.com
 thecountybank.com
-thedad.com
 thedailybeast.com
 thedailymodel.com
 thedailysheeple.com
@@ -23915,7 +23905,6 @@ trk.klclick1.com
 trk.pinterest.com
 trkr.ws
 trlibor.org
-troegs.com
 trojan-killer.net
 trophy01.np.community.playstation.net
 trouw.nl
@@ -24223,6 +24212,7 @@ umich.edu
 umla.org
 umn.edu
 umpquabank.com
+umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 umweltbank.de
 un.org
@@ -24935,7 +24925,6 @@ vice-web-statics-cdn.vice.com
 vice.com
 vicsuper.com.au
 victoriasecret.com
-victoriousfestival.co.uk
 vid.pr0gramm.com
 vidaextra.com
 vidazoo.com
@@ -25664,7 +25653,6 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
-waveneyrivercentre.co.uk
 way2traffic.com
 wayerless.com
 wayforpay.com
