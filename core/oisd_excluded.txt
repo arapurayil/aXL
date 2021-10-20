@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Oct 2021 08:02:50 UTC
+# Last modified: 20 Oct 2021 16:03:32 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -655,6 +655,7 @@ bridgetrack.com
 brightcove.com
 brightedge.com
 bronto.com
+browser-update.org
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
@@ -1943,7 +1944,6 @@ microsoftwindowsupdate.net
 mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
-miningpoolhub.com
 minorshort.weixin.qq.com
 mis.migc.xiaomi.com
 miscopy.com
@@ -3052,7 +3052,6 @@ xhcom.edu.cn
 xhost.ro
 xlmc.sandai.net
 xlog-va.musical.ly
-xmrpool.eu
 xp.apple.com
 xpu.samsungelectronics.com
 xrea.com

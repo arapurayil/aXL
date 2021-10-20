@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.20
-# Last modified: 20 Oct 2021 08:02:50 UTC
+# Last modified: 20 Oct 2021 16:03:32 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -23491,6 +23491,7 @@ thejnet.com
 thekitchn.com
 thelakebank.com
 thelastofus.playstation.com
+theluckygene.com
 theme-shop.coffeecup.com
 themeforest.net
 themegrill.com
