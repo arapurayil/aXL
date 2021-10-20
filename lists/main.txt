@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.20
-# Last modified: 20 Oct 2021 00:16:10 UTC
+# Last modified: 20 Oct 2021 08:02:50 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6793,6 +6793,7 @@ content.production.cdn.art19.com
 content.r9cdn.net
 content.samsung.com
 content.samsung.com.edgesuite.net
+content.shoprunner.com
 content.sketch.sonymobile.com
 content.swrve.com
 content.vidgyor.com
@@ -12477,7 +12478,6 @@ id.gravatar.com
 id.l.google.com
 id.m.wikipedia.com
 id.pilet.ee
-id.remoteutilities.com
 id.santanderconsumer.no
 id.server
 id.smt.docomo.ne.jp
@@ -14747,6 +14747,7 @@ log.zoom.us
 logansportsavings.com
 logback.qos.ch
 logbuch-netzpolitik.de
+logentries.com
 logfiles.zoom.us
 loggly.com
 login.aliexpress.com
@@ -25643,7 +25644,6 @@ watchdog-spark.energized.pro
 watchdog-ultimate.energized.pro
 watchdog-unified.energized.pro
 watchdog.net.nz
-watchdogdns.duckdns.org
 waterburyhospital.org
 watertownanimalhospital.com
 watrust.com
