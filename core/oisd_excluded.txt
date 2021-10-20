@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Oct 2021 16:03:52 UTC
+# Last modified: 20 Oct 2021 00:16:10 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -912,6 +912,7 @@ consent.truste.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
+content.shoprunner.com
 contentexchange.me
 continuum.dds.microsoft.com
 conviva.com
@@ -1641,7 +1642,6 @@ id.google.tg
 id.google.tn
 id.google.tt
 id.l.google.com
-id.remoteutilities.com
 id.server
 id.tinypass.com
 id.unity.com
@@ -1850,6 +1850,7 @@ log.mmstat.com
 log.quora.com
 log.tiktokv.com
 log.ys7.com
+logentries.com
 loggly.com
 logrocket.com
 logs-01.loggly.com
@@ -2985,7 +2986,6 @@ wallpaper.pandora.xiaomi.com
 wallpapers.com
 wallstreetcn.com
 watch-jav.com
-watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
