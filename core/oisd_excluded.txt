@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Oct 2021 16:03:32 UTC
+# Last modified: 21 Oct 2021 00:16:56 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -561,11 +561,11 @@ aweber.com
 awemwh.com
 awin1.com
 awstrack.me
-az416426.vo.msecnd.net
 az667904.vo.msecnd.net
 az700632.vo.msecnd.net
 azabu-u.ac.jp
 azurewebsites.net
+b.catgirlsare.sexy
 b.koodomobile.com
 b.scorecardresearch.com
 b.stats.paypal.com
@@ -672,7 +672,6 @@ bufferapp.com
 bugetul.ro
 bugly.qq.com
 bugsnag.com
-burnside.dtcn.com
 buscape.com.br
 business.opera.com
 buy.tinypass.com
@@ -962,7 +961,6 @@ ct.sendgrid.net
 ctest.cdn.nintendo.net
 cts.businesswire.com
 cuci.nl
-cudasvc.com
 cultdeadcow.com
 cur.lv
 curalate.com
@@ -1001,6 +999,7 @@ d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
+d15k2d11r6t6rl.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
@@ -1219,7 +1218,6 @@ exacttarget.com
 example.com
 example.net
 example.org
-exchange4media.com
 exosrv.com
 experience.tinypass.com
 ext.goguardian.com
@@ -1373,7 +1371,6 @@ gia.jd.com
 gigazine.asia
 gigya.com
 glam.com
-glancecdn.net
 glbdns.microsoft.com
 glbdns2.microsoft.com
 gleam.io
@@ -1722,7 +1719,6 @@ ip-api.com
 ip-info.ff.avast.com
 ip.goguardian.com
 ip2location.com
-ipapi.co
 ipcheck.tmgrup.com.tr
 ipgmkdri.edu.my
 iphonesubmissions.apple.com
@@ -1794,7 +1790,6 @@ kharkov.ua
 kickass.cd
 kiks.yandex.ru
 kiks.yandex.ua
-kinesis.us-east-1.amazonaws.com
 kisshentai.net
 kiwifarms.net
 klclick.com
@@ -1945,12 +1940,15 @@ mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
 minorshort.weixin.qq.com
+mip.api.mcafeewebadvisor.com
 mis.migc.xiaomi.com
 miscopy.com
 mistat.xiaomi.com
 mixi.media
 mixnews.lv
 mkt51.net
+mlsend.com
+mmfiles.amp.mcafee.com
 mmstat.com
 mmtro.com
 mobile.anycast.adnxs.com
@@ -2132,7 +2130,6 @@ optanon.blob.core.windows.net
 optimizely.com
 optimizely.com.edgekey.net
 oracle.112.2o7.net
-organicfruitapps.com
 orkut.com
 orkut.com.br
 osaka-med.ac.jp
@@ -2430,6 +2427,7 @@ s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
 sa.aol.com
+sadownload.mcafee.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 sail-horizon.com
@@ -2640,6 +2638,7 @@ static.cleverpush.com
 static.cloudflareinsights.com
 static.fastpic.ru
 static.mediav.com
+static.nortoncdn.com
 static.parsely.com
 static.quantcast.mgr.consensu.org
 static.scroll.com
@@ -2674,6 +2673,7 @@ streamate.com
 streaming.adswizz.com
 streamlike.com
 streamplay.to
+stripe.network
 stroeerdigitalgroup.de
 sub-pubsub.hotstar-labs.com
 sucmetrics.unicredit.it
@@ -2855,6 +2855,7 @@ tw.cx
 txxx.com
 typeform.com
 typekit.net
+u.to
 uamobile.net
 uarating.com
 ub.edu.ph
