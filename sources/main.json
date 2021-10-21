@@ -18,7 +18,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3546
+            "num_unblock_rules": 3548
         },
         {
             "name": "AdguardTeam exclusions/firefox",

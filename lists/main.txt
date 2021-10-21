@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.21
-# Last modified: 21 Oct 2021 08:02:36 UTC
+# Last modified: 21 Oct 2021 16:16:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4940,6 +4940,7 @@ burner.bonanza.com
 bus.ideabank.ua
 buscape.com.br
 busey.com
+business.faktura.ru
 business.gov
 business.hide.me
 business.line.me
@@ -9665,6 +9666,7 @@ fitness.gov
 five-starbank.com
 fiverr-res.cloudinary.com
 fiverr.com
+fiz.tavrich.ru
 fjsb.com
 fkb.ch
 fkbk.be
