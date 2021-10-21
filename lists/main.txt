@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.21
-# Last modified: 21 Oct 2021 00:16:57 UTC
+# Last modified: 21 Oct 2021 08:02:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3219,6 +3219,7 @@ b-graph.facebook.com
 b-w-h.com
 b-www.facebook.com
 b.bdstatic.com
+b.catgirlsare.sexy
 b.config.skype.com
 b.engadget.com
 b.hatena.ne.jp
@@ -4936,7 +4937,6 @@ burgerliche-ek-bern.ch
 burkeandherbertbank.com
 burlbank.com
 burner.bonanza.com
-burnside.dtcn.com
 bus.ideabank.ua
 buscape.com.br
 busey.com
@@ -7166,7 +7166,6 @@ cubared.com
 cubbank.com
 cubestat.com
 cuci.nl
-cudasvc.com
 cudder.it
 cuidadodesalud.gov
 cultdeadcow.com
@@ -7265,6 +7264,7 @@ d.yimg.com
 d0m.us
 d10lpsik1i8c69.cloudfront.net
 d13itkw33a7sus.cloudfront.net
+d15k2d11r6t6rl.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
@@ -9060,7 +9060,6 @@ exchange.futureswap.com
 exchange.gemini.com
 exchange.globitex.com
 exchange.kaspersky.com
-exchange4media.com
 exchangebk.com
 exetervethospital.com
 eximb.com
@@ -10602,7 +10601,6 @@ gl.statcounter.com
 glacierbank.com
 glam.com
 glamuse.com
-glancecdn.net
 glantal-klinik-meisenheim.de
 glarner-regionalbank.ch
 glass.twitch.tv
@@ -15833,6 +15831,7 @@ mint.finance.intuit.com
 mintic.gov.co
 minu.me
 minutemediacdn.com
+mip.api.mcafeewebadvisor.com
 mir-s3-cdn-cf.behance.net
 mir.namba.kg
 mirabaud.com
@@ -15913,6 +15912,7 @@ mll.me
 mlog.search.xiaomi.net
 mlp.de
 mls.com
+mlsend.com
 mm.ph
 mma.daum.net
 mmb.daum.net
@@ -17761,7 +17761,6 @@ org-fota-dn.ospserver.net
 org.au
 org.downloadcenter.samsung.com
 org.uk
-organicfruitapps.com
 orgaplan.de
 orgresbank.com
 orig.sc.g.mi.com
@@ -20385,6 +20384,7 @@ sacn.gov.uk
 sacramento.cbslocal.com
 saderbank.com
 sadmin.brightcove.com
+sadownload.mcafee.com
 safaribooksonline.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
@@ -22553,6 +22553,7 @@ static.moddb.com
 static.moovitapp.com
 static.naver.com
 static.networkedblogs.com
+static.nortoncdn.com
 static.opentok.com
 static.ow.ly
 static.parastorage.com
