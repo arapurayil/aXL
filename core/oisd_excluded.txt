@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Oct 2021 16:16:46 UTC
+# Last modified: 22 Oct 2021 00:18:22 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -2875,7 +2875,6 @@ ulink.adjust.com
 ulmwp.org
 ulogin.ru
 ultimedia.com
-umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 unagi-na.amazon.com
 unagi.amazon.co.jp
@@ -2990,7 +2989,6 @@ watch-jav.com
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
-web.vortex.data.microsoft.com
 webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
