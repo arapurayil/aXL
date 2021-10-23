@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Oct 2021 16:03:24 UTC
+# Last modified: 23 Oct 2021 00:14:58 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -72,6 +72,7 @@ aan.amazon.com
 aax-us-iad.amazon.com
 aboutads.info
 accengage.com
+accessfreevpn.com
 accesstrade.co.id
 account.wire.com
 accounts.pkr.com.invalid
@@ -367,6 +368,7 @@ adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
 adservicemedia.dk
+adserving-edge.videoplaza.tv
 adserwer.afilo.pl
 adsp.xunlei.com
 adswizz.com
@@ -459,6 +461,7 @@ api.jr.mi.com
 api.leanplum.com
 api.mapbox.com
 api.micloud.xiaomi.net
+api.miwifi.com
 api.opinary.com
 api.parse.com
 api.parsely.com
@@ -565,7 +568,6 @@ az667904.vo.msecnd.net
 az700632.vo.msecnd.net
 azabu-u.ac.jp
 azurewebsites.net
-b.catgirlsare.sexy
 b.koodomobile.com
 b.scorecardresearch.com
 b.stats.paypal.com
@@ -999,7 +1001,6 @@ d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
-d15k2d11r6t6rl.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
@@ -1349,6 +1350,7 @@ geo3.ggpht.com
 geoip-db.com
 geoip.hmageo.com
 geoip.hotstar.com
+geoip.redirect-ads.com
 geolite.maxmind.com
 geoloc.arte.tv
 geolocation.daznservices.com
@@ -1407,6 +1409,7 @@ gotraffic.net
 gpm.samsungqbe.com
 grab.com
 grabify.link
+grabo.bg
 grade.market.yandex.ru
 graph.accountkit.com
 graph.facebook.com
@@ -1496,6 +1499,7 @@ hs-scripts.com
 hs.eloqua.com
 hsforms.com
 hsforms.net
+ht.cdn.turner.com
 ht.ly
 ht.youporn.com
 http-test1.luminatinet.com
@@ -2019,7 +2023,6 @@ newsletter.bdnews24.com
 newsletters.nationalgeographic.com
 newstube.ru
 newtonpaiva.br
-nextday.media
 nexus.ensighten.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -2243,6 +2246,7 @@ plusgrade.com
 plusone.google.com
 pm0.net
 pmcares.fund
+pnapi.invoca.net
 pntra.com
 pntrac.com
 pntrs.com
@@ -2535,6 +2539,7 @@ sgqcvfjvr.onet.pl
 sgsnssdk.com
 share.dmca.gripe
 shareaholic.com
+shareasale-analytics.com
 shareasale.com
 sharethis.com
 sharewood.org
@@ -2650,7 +2655,10 @@ static.vrv.co
 static.wi-fi.ru
 staticxx.facebook.com
 stats.adobe.com
+stats.gc-apple.com.akadns.net
 stats.gc.apple.com
+stats.gc.fe.apple-dns.net
+stats.nba.com
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
@@ -2855,7 +2863,6 @@ tw.cx
 txxx.com
 typeform.com
 typekit.net
-u.to
 uamobile.net
 uarating.com
 ub.edu.ph
@@ -3019,6 +3026,7 @@ win8.ipv6.microsoft.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 wl.jd.com
+wl.spotify.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
