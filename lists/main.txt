@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.23
-# Last modified: 23 Oct 2021 00:14:58 UTC
+# Last modified: 23 Oct 2021 08:02:34 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -570,6 +570,7 @@ accessbank.az
 accessbanking.com.ar
 accessbankplc.com
 accesscomm.ca
+accessfreevpn.com
 accesshorizon.com
 accesstrade.co.id
 accessus.net
@@ -1085,6 +1086,7 @@ adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
 adservicemedia.dk
+adserving-edge.videoplaza.tv
 adserwer.afilo.pl
 adshostnet.com
 adsl-service-providers.net
@@ -3219,7 +3221,6 @@ b-graph.facebook.com
 b-w-h.com
 b-www.facebook.com
 b.bdstatic.com
-b.catgirlsare.sexy
 b.config.skype.com
 b.engadget.com
 b.hatena.ne.jp
@@ -7265,7 +7266,6 @@ d.yimg.com
 d0m.us
 d10lpsik1i8c69.cloudfront.net
 d13itkw33a7sus.cloudfront.net
-d15k2d11r6t6rl.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
@@ -10470,6 +10470,7 @@ geoip.hmageo.com
 geoip.hotstar.com
 geoip.nekudo.com
 geoip.newsdev.nytimes.com
+geoip.redirect-ads.com
 geoip.sonymobile.com
 geoip.tnt-ea.com
 geolite.maxmind.com
@@ -11027,6 +11028,7 @@ gr.ph
 grab.com
 grabify.link
 grabillbank.com
+grabo.bg
 grabtaxi.com
 grade.market.yandex.ru
 graffiti.net
@@ -11791,6 +11793,7 @@ hsforms.com
 hsforms.net
 hsh-nordbank.de
 hsk-wiesbaden.de
+ht.cdn.turner.com
 ht.ly
 ht.youporn.com
 htm.huawei.com
@@ -16802,7 +16805,6 @@ next.exchange
 next.me
 nextbank.com.tw
 nextbank.dk
-nextday.media
 nextdns.io
 nextdoor.com
 nextrim.ru
@@ -18618,6 +18620,7 @@ pmdssl.flixkart.com.edgekey.net
 pmf.gov
 pmi.gov
 pmir.sec.miui.com
+pnapi.invoca.net
 pnb.com.ph
 pnbindia.com
 pnbindia.in
@@ -22611,9 +22614,11 @@ statistics.laerd.com
 stats.adobe.com
 stats.api.xiaomi.net
 stats.channel4.com
+stats.gc-apple.com.akadns.net
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
+stats.nba.com
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
@@ -26052,6 +26057,7 @@ wkk-online.de
 wko.at
 wl-in-f14.1e100.net
 wl.jd.com
+wl.spotify.com
 wlan.three.com.hk
 wlga.gov.uk
 wlo.ospserver.net
