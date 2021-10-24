@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.24
-# Last modified: 24 Oct 2021 00:16:30 UTC
+# Last modified: 24 Oct 2021 08:04:17 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -391,7 +391,6 @@ a-v2.x.sndcdn.com
 a.apkpure.com
 a.baidu.com
 a.config.skype.com
-a.disquscdn.com
 a.espncdn.com
 a.fsdn.com
 a.gsmarena.com
@@ -5433,7 +5432,6 @@ ccbank.bg
 ccbank.com
 ccbank.ru
 ccbg.com
-ccbill.com
 ccblv.com
 ccbonline.com
 ccbt.com
@@ -5797,6 +5795,7 @@ centurionbank.com
 century-bank.com
 centurybankfl.com
 centurylink.com
+centurylink.net
 cepteteb.com.tr
 ceredigion.gov.uk
 cert.halo.part.xbox.com
@@ -6258,7 +6257,6 @@ clickmeter.com
 clicknupload.link
 clicknupload.org
 clickprishtina.com
-clicks.aweber.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 clicksfly.com
@@ -6990,7 +6988,6 @@ creative.adobe.com
 creative.ak.fbcdn.net
 creative.mylife.com
 creativecommons.org
-creatives.ancoraplatform.com
 creator-mag.line.me
 creator.line.me
 creatorguide.soundcloud.com
@@ -7756,8 +7753,6 @@ digicert.com
 digid.nl
 digidip.net
 digiex.net
-digiket.com
-digiket.net
 diginetica.net
 digio.com.br
 digipills.com
@@ -8629,6 +8624,7 @@ elisabethinen.at
 elisabethinen.or.at
 elita.fr
 eliteoz.com.au
+elitereaders.com
 elivr.com
 elkjop.no
 ellation.map.fastly.net
@@ -9175,6 +9171,7 @@ faces.md
 facesmoldova.com
 facester.me
 fachkrankenhaus-coswig.de
+factinate.com
 factoring.mb.seb.se
 factoring.seb.de
 factorio.com
@@ -10068,6 +10065,7 @@ freebsd.org
 freedombankwv.com
 freedomhacker.net
 freeexchange.ru
+freegeoip.app
 freegeoip.net
 freehosting.net
 freehostking.com
@@ -10508,7 +10506,6 @@ getadmiral.com
 getalife.com.au
 getalinkandshare.com
 getblueshift.com
-getchu.com
 getdrip.com
 getdropbox.com
 getlogin.rosbank.ru
@@ -11445,6 +11442,7 @@ henrys.com
 hentaihaven.org
 hera.co.at
 heraldm.com
+heraldweekly.com
 herbeauty.co
 here.com
 heritageanimalhospital.com
@@ -11962,7 +11960,6 @@ i.mi.com
 i.neoseeker.com
 i.pcbeta.com
 i.pinimg.com
-i.plug.it
 i.postimg.cc
 i.redd.it
 i.reddit.com
@@ -12603,7 +12600,6 @@ iltalehti.fi
 im.rediff.com
 im.twitch.tv
 image.api.np.km.playstation.net
-image.ard.de
 image.box.xiaomi.com
 image.ceneo.pl
 image.coolblue.nl
@@ -12736,7 +12732,6 @@ img.brightcove.com
 img.buzzfeed.com
 img.cdn.mvideo.xiaomi.com
 img.daisuki.net
-img.digiket.net
 img.digitaltrends.com
 img.dnaindia.com
 img.elephantjournal.com
@@ -17299,7 +17294,6 @@ octafx.com
 octopop.com
 oculus.com
 odc.officeapps.live.com
-odc.weather.com
 odcdn.com
 oddo-bhf.com
 oddo.fr
@@ -18777,7 +18771,6 @@ ppt.cc
 ppt.li
 ppurifier.game.xiaomi.com
 pr-clinica.ru
-pr-cy.ru
 pr.oneplus.com
 pr.sendpulse.com
 pr0gramm.com
@@ -18892,7 +18885,6 @@ pro.coinbase.com
 pro.coinmarketcap.com
 pro.fontawesome.com
 pro.hit.gemius.pl
-pro.ip-api.com
 processon.com
 prochan.com
 procreditbank.bg
@@ -19623,7 +19615,6 @@ rbbn.de
 rbborken.de
 rbbutjadingenabbehausen.de
 rbc.com
-rbc.ua
 rbcroyalbank.com
 rbd.ru
 rbelbmarsch.de
@@ -20196,7 +20187,6 @@ rv-bank-lif.de
 rv-banken.de
 rv-direkt.de
 rv-ebe.de
-rv.furaffinity.net
 rv2.com
 rvb-bad-staffelstein.de
 rvb-direkt.de
@@ -20273,7 +20263,6 @@ s.pinimg.com.gslb.pinterest.com
 s.put.re
 s.reddit.com
 s.s-bol.com
-s.sa.aol.com
 s.sc-cdn.net
 s.sc-jpl.com
 s.shopify.com
@@ -22573,7 +22562,6 @@ static.siteheart.com
 static.sitesbi.com
 static.skypeassets.com
 static.soundcloud.com
-static.springmetrics.com
 static.startpagina.nl
 static.stumbleupon.com
 static.template.pcbeta.com
@@ -23709,7 +23697,6 @@ tools.tracemyip.org
 toots-a.akamaihd.net
 top.cafe.daum.net
 top.mail.ru
-top1.ro
 topface.com
 tophonors.com
 topics.breitbart.com
@@ -24065,7 +24052,6 @@ twurl.nl
 twven.com
 txbank.com
 txloanstar.com
-txxx.com
 tycotelecom.com
 typeface.nyt.com
 typeform.com
@@ -24350,6 +24336,7 @@ up.blog.naver.com
 up.wps.kingsoft.com
 upay.megafon.ru
 upb.com.ua
+upbeatnews.com
 upc.pl
 upchk.api.playstation.com
 update-nl.huawei.com
@@ -24393,7 +24380,6 @@ uploaded.net
 uploaded.to
 uploading.com
 uploads.gdata.youtube.com
-upmostly.com
 uppit.com
 ups.com
 upside.app.link
@@ -24582,7 +24568,6 @@ usphs.gov
 uspis.gov
 usps.com
 usps.gov
-ust.chatango.com
 ustream.tv
 ustreas.gov
 ustrust.com
