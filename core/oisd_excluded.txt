@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Oct 2021 08:02:55 UTC
+# Last modified: 25 Oct 2021 16:03:51 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -603,7 +603,6 @@ beacon-fullpage-predictor.goguardian.com
 beacon.errorception.com
 beacon.netflix.com
 benefits.sovendus.com
-best.aliexpress.com
 bestgore.com
 bestofmedia.com
 bestvpnrating.com
@@ -1053,7 +1052,6 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 dff2h0hbfv6w4.cloudfront.net
-dgit.com
 dhgate.com
 diagnostics.meethue.com
 diagnostics.support.microsoft.com
@@ -1418,7 +1416,6 @@ gravatar.com
 gravityrd-services.com
 greenheartmed.org
 gremimedia.pl
-groupon.pl
 growth-pa.googleapis.com
 gs.statcounter.com
 gscounters.us1.gigya.com
@@ -1854,7 +1851,6 @@ logs.juspay.in
 lomadee.com
 lootcrate.com
 lptag.liveperson.net
-lvbet.pl
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
@@ -2212,7 +2208,6 @@ pioneer-audiovisual.eu
 pipe.aria.microsoft.com
 piwik.org
 pixel.everesttech.net
-pixeldrain.com
 pixelzirkus.gameforge.com
 pjatr.com
 pjtra.com
@@ -2237,7 +2232,6 @@ playwire.com
 plex.direct
 plugin.mediavoice.com
 plusgrade.com
-plusone.google.com
 pm0.net
 pmcares.fund
 pnapi.invoca.net
@@ -2330,7 +2324,6 @@ r.orange.fr
 r.sg.sec.miui.com
 r1.ykimg.com
 r42tag.com
-rackcdn.com
 radeant.com
 ramp.purch.com
 rapidvideo.com
@@ -2480,7 +2473,6 @@ secure-gl.imrworldwide.com
 secure-media.hotstar.com
 secure-us.imrworldwide.com
 secure.adnxs.com
-secure.eloqua.com
 secure.footprint.net
 secure.info.seek.com
 secure.insightexpressai.com
@@ -2530,6 +2522,7 @@ shareasale-analytics.com
 shareasale.com
 sharethis.com
 sharewood.org
+shasta-rrs.norton.com
 shinobi.jp
 shockgore.com
 shop.spreadshirt.com
@@ -2579,12 +2572,10 @@ snrcdn.net
 snssdk.com
 snu.lge.com
 snxd.com
-socialize.eu1.gigya.com
 socket.streamable.com
 softcity.upclick.com
 softwareadvice.com
 som.aeroplan.com
-someonewhocares.com
 soo.gd
 sp-mms.weather.com
 sp-seller.webkul.com
@@ -2675,7 +2666,6 @@ suggestqueries-clients6.youtube.com
 sumologic.com
 supercell.net
 survey.confirmit.com
-surveygizmo.com
 surveyrouter.com
 surveys.insightexpressai.com
 svonm.com
@@ -2836,7 +2826,6 @@ trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tu-darmstadt.de
 tuta.io
-tv.sohu.com
 tvn.adocean.pl
 tvn.hit.gemius.pl
 tvpage.com
@@ -3047,7 +3036,6 @@ xrea.com
 xsph.ru
 xtra.co.nz
 xxxjmp.com
-y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com
 yahoodns.net
