@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Oct 2021 16:03:51 UTC
+# Last modified: 26 Oct 2021 00:15:05 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1216,6 +1216,7 @@ example.net
 example.org
 exosrv.com
 experience.tinypass.com
+exploit.in
 ext.goguardian.com
 extern.prisjakt.nu
 extole.io
@@ -1328,6 +1329,7 @@ gate.hockeyapp.net
 gateway.reddit.com
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl
+gbhackers.com
 gc.zgo.at
 gcp.api.snapchat.com
 gdpr-tcfv2.sp-prod.net

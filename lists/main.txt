@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.10.25
-# Last modified: 25 Oct 2021 16:03:52 UTC
+# Version: 2.10.26
+# Last modified: 26 Oct 2021 00:15:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -11099,7 +11099,6 @@ groupon.com
 groupon.es
 groupon.hk
 groupon.it
-groupon.pl
 groups.diigo.com
 groups.gameservices.ea.com
 groups.google.com
@@ -18473,7 +18472,6 @@ pixel.everesttech.net
 pixel.nymag.com
 pixel.quantserve.com
 pixel.wp.com
-pixeldrain.com
 pixelsdesign.net
 pixelzirkus.gameforge.com
 pixhost.to
@@ -18597,7 +18595,6 @@ plus.google.com
 plus.l.google.com
 plus.net
 plusgrade.com
-plusone.google.com
 plusonline.nl
 pluwen.com
 plymouth.gov.uk
@@ -21153,6 +21150,7 @@ sharethis.com
 sharewood.org
 shark.douyucdn.cn
 sharonhospital.com
+shasta-rrs.norton.com
 shavar.prod.mozaws.net
 shavar.services.mozilla.com
 shaw.ca
@@ -26495,7 +26493,6 @@ xxx.com.br
 xxxjmp.com
 xywy.com
 y2u.be
-y8.com
 ya.com
 ya.ru
 yaari.com
