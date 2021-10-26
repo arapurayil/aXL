@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.26
-# Last modified: 26 Oct 2021 00:15:05 UTC
+# Last modified: 26 Oct 2021 08:03:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6963,6 +6963,7 @@ crabdance.com
 cracantu.it
 crackberry.com
 cracked.com
+cracking.org
 crackingpatching.com
 crackle.com
 cracksurl.com
@@ -9078,6 +9079,7 @@ experience.tinypass.com
 experienceproject.com
 expertcity.com
 experts-exchange.com
+exploit.in
 explore.amd.com
 explore.next.exchange
 explore.pinterest.com
@@ -10363,6 +10365,7 @@ gbank.rsk.kg
 gbba.net
 gbbk.com
 gbg.com.pl
+gbhackers.com
 gbm.ru
 gbp.ma
 gbtcalhoun.com
@@ -15288,6 +15291,7 @@ mbs.de
 mbuzzy.com
 mbvt.com
 mbz19n.accounts.clickbank.com
+mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net
 mc-siderail.spot.im
 mc.yandex.ru
 mcaf.ee
