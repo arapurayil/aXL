@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.27
-# Last modified: 27 Oct 2021 00:15:07 UTC
+# Last modified: 27 Oct 2021 08:02:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6806,6 +6806,7 @@ continuum.dds.microsoft.com
 contributor.google.com
 control.com
 control.phone.com
+controleng.com
 controller.tv.mi.com
 controllers.xbox.com
 conversantmedia.com
@@ -10365,7 +10366,6 @@ gbank.rsk.kg
 gbba.net
 gbbk.com
 gbg.com.pl
-gbhackers.com
 gbm.ru
 gbp.ma
 gbtcalhoun.com
@@ -15330,7 +15330,6 @@ mdl29.net
 mdmba.org
 mdmbank.ru
 mdmdown.mayitek.com
-mds.yandex.net
 me-en.kaspersky.com
 me.ign.com
 me.kaspersky.com
@@ -17203,6 +17202,7 @@ o-bank.com
 o-x.fr
 o.9nl.com
 o.aolcdn.com
+o.auspost.com.au
 o.breitbart.com
 o.co.za
 o.dailycaller.com
@@ -20379,7 +20379,6 @@ sacn.gov.uk
 sacramento.cbslocal.com
 saderbank.com
 sadmin.brightcove.com
-sadownload.mcafee.com
 safaribooksonline.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
@@ -21154,7 +21153,6 @@ sharethis.com
 sharewood.org
 shark.douyucdn.cn
 sharonhospital.com
-shasta-rrs.norton.com
 shavar.prod.mozaws.net
 shavar.services.mozilla.com
 shaw.ca
@@ -22549,7 +22547,6 @@ static.moddb.com
 static.moovitapp.com
 static.naver.com
 static.networkedblogs.com
-static.nortoncdn.com
 static.opentok.com
 static.ow.ly
 static.parastorage.com
@@ -26457,6 +26454,7 @@ xmcs.mi.com
 xmpp-redirector-prod.tnt-ea.com
 xmpp-server.l.google.com
 xmr.to
+xmrpool.eu
 xn--80aae3af7av6a7a.xn--p1ai
 xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
