@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Oct 2021 16:03:29 UTC
+# Last modified: 27 Oct 2021 00:15:07 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -427,7 +427,6 @@ analytics.twitter.com
 android.bugly.qq.com
 androidweblog.com
 anexia-it.com
-angelfire.com
 angolotesti.it
 anrdoezrs.net
 answerhub.com
@@ -917,6 +916,7 @@ content.aimatch.com
 content.shoprunner.com
 contentexchange.me
 continuum.dds.microsoft.com
+controleng.com
 conviva.com
 cooey-coe.org
 cookie.monster.com
@@ -1329,7 +1329,6 @@ gate.hockeyapp.net
 gateway.reddit.com
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl
-gbhackers.com
 gc.zgo.at
 gcp.api.snapchat.com
 gdpr-tcfv2.sp-prod.net
@@ -1395,7 +1394,6 @@ godly.website
 goldbach.com
 goliath.bi.miniclippt.com
 google-analytics.com
-google.com.gt
 google.sh
 googleadapis.l.google.com
 googleadservices.com
@@ -1713,7 +1711,6 @@ investingchannel.com
 invoca.net
 involve.asia
 ioam.de
-ip-adress.com
 ip-api.com
 ip-info.ff.avast.com
 ip.goguardian.com
@@ -1899,7 +1896,6 @@ maxmind.com
 mc.yandex.ru
 md-nx.com
 mdis.uz
-mds.yandex.net
 media.complex.com
 media.expedia.com
 media.richrelevance.com
@@ -1945,7 +1941,6 @@ mixi.media
 mixnews.lv
 mkt51.net
 mlsend.com
-mmfiles.amp.mcafee.com
 mmstat.com
 mmtro.com
 mobile.anycast.adnxs.com
@@ -2051,6 +2046,7 @@ nudatasecurity.com
 nui.media
 nutaku.com
 nv.vi-serve.com
+o.auspost.com.au
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2414,7 +2410,6 @@ s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
 sa.aol.com
-sadownload.mcafee.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 sail-horizon.com
@@ -2524,7 +2519,6 @@ shareasale-analytics.com
 shareasale.com
 sharethis.com
 sharewood.org
-shasta-rrs.norton.com
 shinobi.jp
 shockgore.com
 shop.spreadshirt.com
@@ -2623,7 +2617,6 @@ static.cleverpush.com
 static.cloudflareinsights.com
 static.fastpic.ru
 static.mediav.com
-static.nortoncdn.com
 static.parsely.com
 static.quantcast.mgr.consensu.org
 static.scroll.com
@@ -2901,6 +2894,7 @@ users.telenet.be
 usher.ttvnw.net
 uzreklam.com
 v.fwmrm.net
+v.gd
 v.shopify.com
 v2.zopim.com
 v2html.atm.youku.com
@@ -3032,6 +3026,7 @@ xhcom.edu.cn
 xhost.ro
 xlmc.sandai.net
 xlog-va.musical.ly
+xmrpool.eu
 xp.apple.com
 xpu.samsungelectronics.com
 xrea.com
