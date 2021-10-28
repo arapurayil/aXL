@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Oct 2021 16:03:32 UTC
+# Last modified: 28 Oct 2021 00:15:11 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -772,6 +772,7 @@ cdn.vidible.tv
 cdn.wootric.com
 cdn.yimg.com
 cdn.ziffstatic.com
+cdn.zomap.de
 cdn1.ettoday.net
 cdn2.optimizely.com
 cdn3.optimizely.com
@@ -2521,6 +2522,7 @@ sharethis.com
 sharewood.org
 shinobi.jp
 shockgore.com
+shodanhq.com
 shop.spreadshirt.com
 shopperapproved.com
 shopzilla.com
@@ -2648,6 +2650,7 @@ store.qq.com
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stptrisakti.ac.id
+stradeanas.it
 stream-hk.viu.com
 streamate.com
 streaming.adswizz.com
@@ -2739,6 +2742,7 @@ theync.com
 thirdparty.bnc.lt
 thumb.pr0gramm.com
 tickle.com
+tidebuy.com
 tiendastec.com.pe
 tigase.net
 tile-service.weather.microsoft.com
