@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.28
-# Last modified: 28 Oct 2021 00:15:11 UTC
+# Last modified: 28 Oct 2021 08:02:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5668,6 +5668,7 @@ cdn.wololo.net
 cdn.wootric.com
 cdn.yimg.com
 cdn.ziffstatic.com
+cdn.zomap.de
 cdn01.dailycaller.com
 cdn1.digitaltrends.com
 cdn1.ettoday.net
@@ -21183,6 +21184,7 @@ shkb.ch
 shockgore.com
 shockplay.com
 shockwave.com
+shodanhq.com
 shoes.app-xae.xiaomi.com
 shop-pro.jp
 shop-redapi.daum.net
@@ -22792,6 +22794,7 @@ stpatrickhospital.org
 stpetes.org
 stptrisakti.ac.id
 str.hit.gemius.pl
+stradeanas.it
 straitstimes.com
 strangled.net
 strat.ru
@@ -23553,6 +23556,7 @@ ticketland.ru
 tickle.com
 tid.canon.com
 tidal.com
+tidebuy.com
 tiendastec.com.pe
 tier1net.com
 tier2.ios.skypeassets.com
