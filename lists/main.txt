@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.29
-# Last modified: 29 Oct 2021 00:14:57 UTC
+# Last modified: 29 Oct 2021 08:03:32 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -229,6 +229,7 @@
 2l.me
 2long.cc
 2mdn.net
+2miners.com
 2o7.net
 2shared.com
 2t.com
@@ -2639,6 +2640,7 @@ app.adjust.com
 app.adjust.io
 app.adjust.net.in
 app.alipay.com
+app.any.run
 app.appsflyer.com
 app.bemyeyes.com
 app.bilibili.com
@@ -4180,12 +4182,10 @@ bexi.co.id
 beyondweb.com
 bezirkssparkasse-dillenburg.de
 bezpecnost.csas.cz
-bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
-bfp.capitalone.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -5835,6 +5835,7 @@ cfbk.com
 cfbnk.com
 cfbwartburg.com
 cfda.gov
+cfemedia.com
 cfg.smt.docomo.ne.jp
 cfi.mb.seb.se
 cfo.gov
@@ -7283,6 +7284,7 @@ d29usylhdk1xyu.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2cmedia.ca
+d2e0sxz09bo7k2.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
@@ -14201,7 +14203,6 @@ l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
 l.facebook.com
-l.franceculture.fr
 l.google.com
 l.googleusercontent.com
 l.qq.com
@@ -15671,7 +15672,6 @@ metrics.aem.playstation.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.dickssportinggoods.com
-metrics.hackerrank.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.plex.tv
@@ -17357,6 +17357,7 @@ ohiosavingsbank.com
 ohost.de
 oi.bankia.es
 oidc.techcrunch.com
+oilandgaseng.com
 oimagea1.ydstatic.com
 oimagea2.ydstatic.com
 oimagea3.ydstatic.com
@@ -18510,6 +18511,7 @@ planeta.ru
 planetlivenow.com
 planetsky.com
 planopethospital.com
+plantengineering.com
 planters-bank.com
 plantersbank.com.ph
 plantersbank.net
@@ -22100,7 +22102,6 @@ spencersonline.com
 sperrer.de
 spgo.io
 sph.is
-sphdigital.com
 sphosp.com
 spiceworks.com
 spickmich.de
@@ -24319,6 +24320,7 @@ unk.vver.kiae.rr
 unlc.us
 unlockbootloader.sonymobile.com
 unlocker.emptyloop.com
+unmineable.com
 uno-e.com
 unpkg.com
 unsere-raiba.de
@@ -26045,7 +26047,6 @@ wkk-online.de
 wko.at
 wl-in-f14.1e100.net
 wl.jd.com
-wl.spotify.com
 wlan.three.com.hk
 wlga.gov.uk
 wlo.ospserver.net
