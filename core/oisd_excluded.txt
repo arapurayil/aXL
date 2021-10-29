@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Oct 2021 16:03:33 UTC
+# Last modified: 29 Oct 2021 00:14:57 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -496,6 +496,7 @@ app-cdn.spot.im
 app.adjust.com
 app.adjust.io
 app.adjust.net.in
+app.any.run
 app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
@@ -609,9 +610,7 @@ beta.spotify.map.fastly.net
 betclic.com
 betfaq.ru
 betrad.com
-bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
-bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
 bi.gazeta.pl
 bi.medscape.com
@@ -791,6 +790,7 @@ ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 cf1.vuze.com
 cf2.me
+cfemedia.com
 cftrack.com
 cfvod.kaltura.com
 ch0p.darty.com
@@ -990,6 +990,7 @@ d1oxlq5h9kq8q5.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
+d2e0sxz09bo7k2.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -1252,7 +1253,6 @@ fili.cc
 filmha.top
 filters.adtidy.org
 findglocal.com
-firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1743,6 +1743,7 @@ iww.ca
 izeselet.hu
 izooto.com
 j.gs
+j.mp
 jaleco.com
 janrain.com
 japantv.club
@@ -1803,7 +1804,6 @@ krxd.net
 kubanmedia.org
 l.betrad.com
 l.doubleclick.net
-l.franceculture.fr
 l.qq.com
 l2.io
 labs-mqtt.xda-developers.com
@@ -1919,7 +1919,6 @@ meteomaastricht.nl
 metok.sys.miui.com
 metric.gstatic.com
 metrics.claspws.tv
-metrics.hackerrank.com
 metrics.torproject.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
@@ -2063,6 +2062,7 @@ oempprd.samsungcloudsolution.net
 ofb.uz
 offers-api.cliqz.com
 ogury.io
+oilandgaseng.com
 oimagea1.ydstatic.com
 oimagea2.ydstatic.com
 oimagea3.ydstatic.com
@@ -2213,6 +2213,7 @@ pjtra.com
 pl.rdx2.lgtvsdp.com
 placehold.it
 planet.net
+plantengineering.com
 plarium.com
 platform.linkedin.com
 platform.sharethis.com
@@ -2392,7 +2393,6 @@ s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
-s.id
 s.media-imdb.com
 s.shopify.com
 s.thebrighttag.com
@@ -2584,7 +2584,6 @@ spclient.wg.spotify.com
 speedcheck.org
 speeddials.opera.com
 spgo.io
-sphdigital.com
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
 spot.im
@@ -2898,7 +2897,6 @@ users.telenet.be
 usher.ttvnw.net
 uzreklam.com
 v.fwmrm.net
-v.gd
 v.shopify.com
 v2.zopim.com
 v2html.atm.youku.com
@@ -2997,7 +2995,6 @@ win8.ipv6.microsoft.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 wl.jd.com
-wl.spotify.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
