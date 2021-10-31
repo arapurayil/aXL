@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.10.31
-# Last modified: 31 Oct 2021 00:16:27 UTC
+# Last modified: 31 Oct 2021 08:02:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2639,8 +2639,8 @@ app.aave.com
 app.adjust.com
 app.adjust.io
 app.adjust.net.in
+app.adjust.world
 app.alipay.com
-app.any.run
 app.appsflyer.com
 app.bemyeyes.com
 app.bilibili.com
@@ -6716,7 +6716,6 @@ config.viber.com
 config5.update.baofeng.com
 configprd.samsungcloudsolution.net
 configs.nabstudio.com
-configuration-vending.service.amazonsilk.com
 configuration.apple.com.akadns.net
 confirmit.com
 confraternitaet.at
@@ -10634,7 +10633,6 @@ global.mi.com
 global.moneygram.com
 global.msads.net
 global.passport.xiaomi.com
-global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 global.ssl.fastly.net
 global.uci.blackberry.com
@@ -16927,7 +16925,6 @@ noexit.tv
 noip.com
 nokss.ru
 nolp.dhl.de
-non.li
 nonstoppartner.net
 nooksackanimalhospital.com
 nor.no
@@ -17208,6 +17205,7 @@ o.breitbart.com
 o.co.za
 o.dailycaller.com
 o.go2yd.com
+o.webmd.com
 o.xbox.com
 o0bc.com
 o1.em.typekit.com
@@ -19466,6 +19464,7 @@ rawhttp.cloudflareworkers.com
 raxco.com
 rayfile.com
 raygun.io
+rayli.com.cn
 razorpay.com
 rb-adel-siel.de
 rb-af.de
@@ -19751,7 +19750,6 @@ redir.ec
 redir.fr
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
-redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
@@ -21556,7 +21554,6 @@ sngb.ru
 sngpartners.in
 sni.star.xhcdn.com.fpbns.net
 snickers.com
-snip.ly
 snippets.cdn.mozilla.net
 snipurl.com
 snmmd.nl
