@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Oct 2021 16:02:51 UTC
+# Last modified: 31 Oct 2021 00:16:26 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -496,7 +496,7 @@ app-cdn.spot.im
 app.adjust.com
 app.adjust.io
 app.adjust.net.in
-app.any.run
+app.adjust.world
 app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
@@ -899,7 +899,6 @@ config.ioam.de
 config.samqaicongen.com
 config.uca.cloud.unity3d.com
 configprd.samsungcloudsolution.net
-configuration-vending.service.amazonsilk.com
 confirmit.com
 conn.skype.com
 connect.facebook.com
@@ -1253,6 +1252,7 @@ fili.cc
 filmha.top
 filters.adtidy.org
 findglocal.com
+firebase-settings.crashlytics.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1375,7 +1375,6 @@ glam.com
 glbdns.microsoft.com
 glbdns2.microsoft.com
 gleam.io
-global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 glomex.com
 gloyah.net
@@ -1743,7 +1742,6 @@ iww.ca
 izeselet.hu
 izooto.com
 j.gs
-j.mp
 jaleco.com
 janrain.com
 japantv.club
@@ -1861,7 +1859,6 @@ m365log.com
 mackeeper.com
 macromedia.com
 madmimi.com
-mads-eu.amazon.com
 mads.amazon.com
 magicplayer-api.torrentstream.org
 magicplayer-s.torrentstream.org
@@ -2019,7 +2016,6 @@ ngrok.io
 nl.sitestat.com
 nllapps.com
 nlrb.gov
-non.li
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
@@ -2047,6 +2043,7 @@ nui.media
 nutaku.com
 nv.vi-serve.com
 o.auspost.com.au
+o.webmd.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2329,6 +2326,7 @@ ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
+rayli.com.cn
 rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
@@ -2341,7 +2339,6 @@ recruitics.com
 recs.richrelevance.com
 redefine.hit.stat24.com
 redefine2.hit.stat24.com
-redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.viglink.com
@@ -2565,7 +2562,6 @@ smp.sankei.co.jp
 snap.licdn.com
 snat.goguardian.com
 sngpartners.in
-snip.ly
 snrcdn.net
 snssdk.com
 snu.lge.com
