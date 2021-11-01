@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.01
-# Last modified: 01 Nov 2021 00:17:01 UTC
+# Last modified: 01 Nov 2021 08:03:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4182,10 +4182,12 @@ bexi.co.id
 beyondweb.com
 bezirkssparkasse-dillenburg.de
 bezpecnost.csas.cz
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
+bfp.capitalone.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -14201,6 +14203,7 @@ l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
 l.facebook.com
+l.franceculture.fr
 l.google.com
 l.googleusercontent.com
 l.qq.com
@@ -15670,6 +15673,7 @@ metrics.aem.playstation.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.dickssportinggoods.com
+metrics.hackerrank.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.plex.tv
@@ -19001,6 +19005,7 @@ proxy02.pop.ord.plex.bz
 prtimes.jp
 prudentbank.net
 prudentialsavingsbank.com
+prvsz4pe.micpn.com
 ps.software.eu.playstation.com
 ps2media.ign.com
 ps3media.ign.com
@@ -26044,6 +26049,7 @@ wkk-online.de
 wko.at
 wl-in-f14.1e100.net
 wl.jd.com
+wl.spotify.com
 wlan.three.com.hk
 wlga.gov.uk
 wlo.ospserver.net
