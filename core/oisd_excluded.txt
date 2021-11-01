@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 31 Oct 2021 16:03:14 UTC
+# Last modified: 01 Nov 2021 00:17:01 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -610,7 +610,9 @@ beta.spotify.map.fastly.net
 betclic.com
 betfaq.ru
 betrad.com
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
+bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
 bi.gazeta.pl
 bi.medscape.com
@@ -622,6 +624,7 @@ bit.do
 bit.ly
 bitcast-a.v1.iad1.bitgravity.com
 bitly.com
+bitly.ws
 bizrate.com
 bj.bcebos.com
 blackcanyoncoffee.com
@@ -1253,6 +1256,7 @@ filmha.top
 filters.adtidy.org
 findglocal.com
 firebase-settings.crashlytics.com
+firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1731,6 +1735,7 @@ iqtest.com
 irchan.com
 iris.tv
 ironbeast.io
+is.gd
 isgprivacy.cbsi.com
 isnssdk.com
 ist-track.com
@@ -1802,6 +1807,7 @@ krxd.net
 kubanmedia.org
 l.betrad.com
 l.doubleclick.net
+l.franceculture.fr
 l.qq.com
 l2.io
 labs-mqtt.xda-developers.com
@@ -1916,6 +1922,7 @@ meteomaastricht.nl
 metok.sys.miui.com
 metric.gstatic.com
 metrics.claspws.tv
+metrics.hackerrank.com
 metrics.torproject.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
@@ -2277,6 +2284,7 @@ promo.mobile.de
 promos.fling.com
 prov.samsungcloudsolution.com
 proxad.net
+prvsz4pe.micpn.com
 psicologia-online.com
 pstmrk.it
 public.popcorn-tracker.org
@@ -2991,6 +2999,7 @@ win8.ipv6.microsoft.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 wl.jd.com
+wl.spotify.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
