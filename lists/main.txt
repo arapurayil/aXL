@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.03
-# Last modified: 03 Nov 2021 00:15:20 UTC
+# Last modified: 03 Nov 2021 08:03:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2216,7 +2216,6 @@ antonprokschinstitut.at
 antonveneta.it
 antpool.com
 antrimveterinaryhospital.com
-anura.io
 anurl.com
 anvil.opentok.com
 anwb.nl
@@ -2701,7 +2700,6 @@ appboot.netflix.com
 appboy-images.com
 appbrain.com
 appc.baidu.com
-appcast.io
 appcloud.ironbeast.io
 appcloud.mcafee.com
 appdown.naver.com
@@ -3959,7 +3957,6 @@ bc.marfeel.com
 bc.marfeelcache.com
 bc.mbr.ru
 bc.vc
-bc0a.com
 bca.co.id
 bcaf.bg
 bcb.com.my
@@ -4107,7 +4104,6 @@ beneficial.de
 beneficialsavings.com
 benefitcosmetics.com
 benefits.gov
-benefits.sovendus.com
 benfranklinbank.com
 benfranklinsavings.com
 bensbergerbank.de
@@ -4517,12 +4513,10 @@ blueangelhost.com
 bluebillywig.com
 blueconic.com
 blueconic.net
-bluecore.com
 bluecrosspethospital.onsmartpages.com
 bluehornet.com
 bluehost.com
 bluestarindia.com
-bluetoad.com
 blueyonder.co.uk
 blz-suchen.de
 blz.nifox.de
@@ -4695,7 +4689,6 @@ boxcryptor.com
 boxrec.com
 boz.zm
 bp.blogspot.com
-bp01.net
 bpa.gov
 bpa.it
 bpam.fr
@@ -4805,7 +4798,6 @@ broker-live.mozillamessaging.com
 brokers.tcsbank.ru
 brom.ro
 bromley.gov.uk
-bronto.com
 brookhavencathospital.com
 brookingshospital.org
 brooklinebank.com
@@ -5003,7 +4995,6 @@ byethost10.com
 byjusclasses.com
 byjusclasses.freshdesk.com
 byod-web.huawei.com
-byside.com
 bystrobank.ru
 bytepool.com
 bzbank.ch
@@ -5850,7 +5841,6 @@ cfota5.ospserver.net
 cfront.alfabank.kiev.ua
 cfsb.com
 cfsbancorp.com
-cftrack.com
 cfu.net
 cfvod.kaltura.com
 cgd.pt
@@ -6221,7 +6211,6 @@ clevelandstatebank.com
 cleverpush.com
 clhs.kiev.ua
 cli.gs
-click-url.com
 click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
@@ -6521,7 +6510,6 @@ coebank.org
 coffeecup.com
 cofidis.be
 cognito-identity.us-east-1.amazonaws.com
-cohesionapps.com
 cohuttabank.com
 coinbase.com
 coinmama.com
@@ -6802,7 +6790,6 @@ content.swrve.com
 content.vidgyor.com
 content.webcollage.net
 content.yikyakapi.net
-contentexchange.me
 contentful.com
 contests.dailycaller.com
 continuum.dds.microsoft.com
@@ -7177,7 +7164,6 @@ culturarecreacionydeporte.gov.co
 cumberlandhospital.com
 cuponclub.net
 cur.lv
-curalate.com
 curiosity.com
 curl.im
 currency.com
@@ -7511,7 +7497,6 @@ de.wikipedia.com
 dealabs.digidip.net
 dealersocket.com
 deals.breitbart.com
-deals.macupdate.com
 deanbank.com
 dear-lover.com
 debankers.com
@@ -7759,14 +7744,12 @@ digicert.com
 digid.nl
 digidip.net
 digiex.net
-diginetica.net
 digio.com.br
 digipills.com
 digirati.com.br
 digital.gov
 digital.noorbank.com
 digital.peoplesbank.lk
-digitaladvisor.dk
 digitalassetlinks.googleapis.com
 digitalcameras.engadget.com
 digitalcanvas.com
@@ -8929,6 +8912,7 @@ eu.cdn.survey.medallia.com
 eu.community.samsung.com
 eu.pipe.aria.microsoft.com
 eu.playstation.com
+eu.spgo.io
 eu.static.mega.co.nz
 eu.techcrunch.com
 eu.vortex.data.microsoft.com
@@ -9124,7 +9108,6 @@ extras.mnginteractive.com
 extratorrent.ag
 extratorrent.cc
 extratorrent.com
-extreme-ip-lookup.com
 extrobank.ru
 ez-sites.ws
 ezaimo.ru
@@ -9332,7 +9315,6 @@ fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 fe4.edge.pantheon.io
 feabie.com
-feature.fm
 featured-profiles.soundcloud.com
 features.engadget.com
 feb.gov
@@ -9552,7 +9534,6 @@ firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 firebog.net
-fireflyengagement.com
 firefox.com
 firefox.settings.services.mozilla.com
 firehousehospital.com
@@ -10030,6 +10011,7 @@ fr.statcounter.com
 fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
+fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -10071,7 +10053,6 @@ freebr.org
 freebsd.org
 freedombankwv.com
 freedomhacker.net
-freeexchange.ru
 freegeoip.app
 freegeoip.net
 freehosting.net
@@ -11546,7 +11527,6 @@ hitbtc.com
 hitf.to
 hitfile.net
 hitfilm.com
-hitmarkerjobs.com
 hitomi.la
 hiv.gov
 hj-story.com
@@ -11722,7 +11702,6 @@ hostwindsor.com
 hotdoc.com.au
 hotel.travel.rakuten.co.jp
 hotels.com
-hotelscombined.com.au
 hotjar.com
 hotkeys.com
 hotlanta.com
@@ -11843,7 +11822,6 @@ hugedomains.com
 hulenhillsanimalhospital.com
 hulkshare.com
 hulu.com
-humanpresence.app
 humansarefree.com
 humblebundle-a.akamaihd.net
 humblebundle.com
@@ -13121,7 +13099,6 @@ invite.integration.viber.com
 invite.twitch.tv
 invite.viber.com
 invoca.net
-involve.asia
 iny.cc
 iny.com
 iny123.com
@@ -13463,7 +13440,6 @@ joseyranchpethospital.com
 jotform.com
 journey.playstation.com
 journey.wired.com
-journity.com
 joybuy.com
 joyreactor.cc
 jp-bank.japanpost.jp
@@ -14208,7 +14184,6 @@ l.google.com
 l.googleusercontent.com
 l.qq.com
 l.yimg.com
-l2.io
 l9bjkkhaycw6f8f4.soundcloud.com
 la.wikipedia.com
 lab.vcc-ie.huawei.com
@@ -14345,7 +14320,6 @@ lcut.in
 lds.org
 lds.org.edgekey.net
 leadpages.co
-leadpages.net
 leakreality.com
 leanplum.com
 learn.elephantjournal.com
@@ -14828,7 +14802,6 @@ loli.io
 loli.net
 lolipop.jp
 lollandsbank.dk
-lomadee.com
 lomalindahealth.org
 lombardodierdarierhentsch.com
 lonestarflba.com
@@ -14944,7 +14917,6 @@ m2.nsimg.net
 m24.comertbank.md
 m2mbank.ru
 m2u.maybank.co.id
-m365log.com
 m3mi.com
 ma.hide.me
 ma.techrepublic.com
@@ -14981,8 +14953,6 @@ magazine.rakuten.co.jp
 magazines.flipboard.com
 magbank.com
 magic.cloud.vimeo.com
-magicplayer-api.torrentstream.org
-magicplayer-s.torrentstream.org
 magiskmanager.com
 magnetbank.hu
 magpie.daum.net
@@ -15039,7 +15009,6 @@ mainebank.com
 mainebankers.com
 maineisp.net
 mainlandbank.com
-mairdumont.com
 majorgeeks.com
 mak.com
 make.my
@@ -15174,7 +15143,6 @@ marketing.etorostatic.com
 marketing.hostgator.com
 marketing.net.idealo-partner.com
 marketing.tllms.com
-marketingautomation.services
 marketingplatform.google.com
 marketo.com
 marketplace-origin.xbox.com
@@ -15321,7 +15289,6 @@ mcsaeldo.com
 mcsandl.com
 mcsbnh.com
 mctcu.org
-md-nx.com
 mdap.alipay.com
 mdbank.com
 mdbankers.com
@@ -16045,7 +16012,6 @@ moneyman.kz
 moneyman.ru
 moneyou.de
 moneyou.nl
-moneyplatform.biz
 moneysavingexpert.com
 moneyveo.ua
 mongolbank.mn
@@ -16074,7 +16040,6 @@ mooo.com
 moourl.com
 mooval.de
 moovitapp.com
-mopinion.com
 mopub.com
 more.sh
 moredruzey.ru
@@ -16109,7 +16074,6 @@ moundcitybank.com
 mountaincable.net
 mouseflow.com
 movable-ink-2183.com
-movable-ink-397.com
 movavi.com
 movie.daum.net
 movie.naver.com
@@ -16545,7 +16509,6 @@ navyfederal.org
 naxcivanbank.az
 nayemador.com
 naymz.com
-naytev.com
 nazarethhospital.org
 nazwa.pl
 nb-go.kelkoogroup.net
@@ -16626,7 +16589,6 @@ nea.gov
 nebankers.org
 nebula-collector.huawei.com
 nedbank.co.za
-neemu.com
 neklassniki.ru
 nekto.me
 nelincs.gov.uk
@@ -16708,7 +16670,6 @@ nettbedriften.evry.com
 nettby.no
 netteller.com
 netuno.net
-netupdater.info
 netwizards.com
 network.bazaarvoice.com
 network.hu
@@ -16805,6 +16766,7 @@ next.exchange
 next.me
 nextbank.com.tw
 nextbank.dk
+nextdns.com
 nextdns.io
 nextdoor.com
 nextrim.ru
@@ -17117,7 +17079,6 @@ nsite.ca
 nsm.dell.com
 nsopr.gov
 nsopw.gov
-nsstatic.com
 nsstatic.net
 nstarbank.com
 nstore.naver.com
@@ -17204,12 +17165,10 @@ o-bank.com
 o-x.fr
 o.9nl.com
 o.aolcdn.com
-o.auspost.com.au
 o.breitbart.com
 o.co.za
 o.dailycaller.com
 o.go2yd.com
-o.webmd.com
 o.xbox.com
 o0bc.com
 o1.em.typekit.com
@@ -18432,7 +18391,6 @@ pinecitybank.com
 pineislandbank.com
 pineriverstatebank.com
 pinevillepethospitalonline.com
-ping-admin.ru
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.pdst.fm
@@ -18763,7 +18721,6 @@ pp.ru
 pp.userapi.com
 ppa.launchpad.net
 ppbank.com
-ppcprotect.com
 ppfbanka.cz
 ppfr.it
 pphs.org
@@ -18837,7 +18794,6 @@ primenetwork.net
 primetime-a.akamaihd.net
 primewire.ag
 primgw.vowifi2.spcsdns.net
-primis.tech
 primusdsl.net
 princegeorgeshospital.org
 princeton.edu
@@ -19005,7 +18961,6 @@ proxy02.pop.ord.plex.bz
 prtimes.jp
 prudentbank.net
 prudentialsavingsbank.com
-prvsz4pe.micpn.com
 ps.software.eu.playstation.com
 ps2media.ign.com
 ps3media.ign.com
@@ -19126,7 +19081,6 @@ push.chocolatey.org
 push.services.mozilla.com
 push.wps.cn
 push2.eastmoney.com
-pushauction.com
 pushcrew.com
 pushdata.sendpulse.com
 pushengage.com
@@ -19821,7 +19775,6 @@ releases.flowplayer.com
 releases.flowplayer.org
 releases.hashicorp.com
 releases.mozilla.org
-relevant-digital.com
 reliabank.com
 relink.fr
 relocationapi.micloud.xiaomi.net
@@ -20362,7 +20315,6 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
-sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -21067,7 +21019,6 @@ servizioelettriconazionale.it
 servserv.generals.ea.com
 sesiahs.health.nsw.gov.au
 sessioncam.com
-sessionstack.com
 settings-sandbox.data.microsoft.com
 settings-ssl.xboxlive.com
 settings-win.data.microsoft.com
@@ -21186,6 +21137,7 @@ shinhanbank.com
 shinobi.jp
 shinseibank.com
 shkb.ch
+shminorshort.weixin.qq.com
 shockgore.com
 shockplay.com
 shockwave.com
@@ -21335,7 +21287,6 @@ sitecheck7.opera.com
 sitefights.com
 sitefinder-idn.verisign.com
 sitefinder.verisign.com
-siteplug.com
 sitepoint.com
 sites.engadget.com
 sites.google.com
@@ -22102,7 +22053,6 @@ spenceranimalhospital.com
 spencersavingsloans.com
 spencersonline.com
 sperrer.de
-spgo.io
 sph.is
 sphosp.com
 spiceworks.com
@@ -22962,6 +22912,7 @@ support.spro.xbox.com
 support.us.playstation.com
 support.viber.com
 support.wechat.com
+support.weixin.qq.com
 support.xbox.com
 support2.kaspersky.com
 support2.xbox.com
@@ -23156,7 +23107,6 @@ taboola.map.fastly.net
 tabunghaji.gov.my
 tabzi.com
 tac.blog.naver.com
-tacticalrepublic.com
 tag.aticdn.net
 tag.blog.naver.com
 tag.getdrip.com
@@ -23294,7 +23244,6 @@ tech2-cdn.com
 techcommunity.microsoft.com
 techcrunch.com
 techguy.org
-techlab-cdn.com
 techmeme.com
 technobezz.com
 technologyreview.com
@@ -23819,7 +23768,6 @@ traffic.alexa.com
 traffic.libsyn.com
 traffic.spot.im
 trafficdeposit.com
-trafficguard.ai
 trafficjunky.net
 trafficmanager.net
 trafficrouter.io
@@ -24077,7 +24025,6 @@ u.to
 u.wechat.com
 uabonline.org
 ualberta.ca
-uamobile.net
 uaprof.sonymobile.com
 uarating.com
 uarel.com
@@ -24538,7 +24485,6 @@ use.fontawesome.com
 use.typekit.com
 use.typekit.net
 use.typekit.net.edgekey.net
-useinsider.com
 usenix.org
 user.binance.com
 useraction.zee5.com-v2.edgekey.net
@@ -25342,7 +25288,6 @@ volunteer.gov
 volvofinans.se
 vonessenbank.de
 vontobel.com
-voodoo.com
 voot.com
 vorbank.dk
 vorne.de
@@ -26604,7 +26549,6 @@ youtube.com
 youtube.de
 youtube.googleapis.com
 youtubei.googleapis.com
-youvisit.com
 youxi.baidu.com
 yoyo.org
 yoyo.pl

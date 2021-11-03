@@ -216,7 +216,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 1683
+            "num_unblock_rules": 1685
         },
         {
             "name": "oisd.nl excludes",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3073
+            "num_unblock_rules": 3013
         },
         {
             "name": "ookangzheng blahdns whitelist",
@@ -234,7 +234,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 827
+            "num_unblock_rules": 832
         },
         {
             "name": "PracticalChip RawWhitelist",
