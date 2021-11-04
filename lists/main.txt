@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.04
-# Last modified: 04 Nov 2021 00:15:33 UTC
+# Last modified: 04 Nov 2021 08:02:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8007,6 +8007,7 @@ dotellall.com
 dotomi.com
 doubanio.com
 doubleclick.net
+doublepimp.com
 douglascountybank.com
 doulike.us
 douyin.com
@@ -8746,6 +8747,7 @@ enforcement.xbox.com
 engadget.com
 engage.windows.com
 engine.4dsply.com
+engine.phn.doublepimp.com
 engineering.coinbase.com
 engineering.flipboard.com
 engineering.taboola.com
@@ -10728,6 +10730,7 @@ golfsavingsbank.com
 goliath.bi.miniclippt.com
 goloci.de
 gongzhushe.com
+goo-gl.me
 goo.gl
 goo.lu
 goo.ne.jp
@@ -17882,6 +17885,7 @@ ozon.ru
 ozon.travel
 p-hbbtv.superrtl.de
 p-store.rakuten.co.jp
+p.brid.tv
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
@@ -20881,6 +20885,7 @@ securel.longtailvideo.com
 securelist.com
 securemecca.com
 securemetrics.apple.com
+securemvt.apple.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
@@ -21015,6 +21020,7 @@ serving-sys.com
 servint.com
 servint.net
 servis24.cz
+servix.idnes.cz
 servizioelettriconazionale.it
 servserv.generals.ea.com
 sesiahs.health.nsw.gov.au
@@ -21387,6 +21393,7 @@ slide.com
 slides.diigo.com
 slideshare.com
 slideshare.net
+slike.indiatimes.com
 slimpuls.nl
 slimroms.net
 slingshot.co.nz
@@ -23585,6 +23592,7 @@ tllg.net
 tlnbank.com
 tlu.dl.delivery.mp.microsoft.com
 tm.a.prd.aadg.trafficmanager.net
+tm.jsuol.com.br
 tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
 tmall.com

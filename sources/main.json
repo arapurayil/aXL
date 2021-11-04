@@ -99,7 +99,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 418
+            "num_unblock_rules": 419
         },
         {
             "name": "chadmayfield allow list",
@@ -216,7 +216,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 1685
+            "num_unblock_rules": 1686
         },
         {
             "name": "oisd.nl excludes",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3013
+            "num_unblock_rules": 3022
         },
         {
             "name": "ookangzheng blahdns whitelist",
