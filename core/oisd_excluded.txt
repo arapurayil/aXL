@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Nov 2021 16:03:47 UTC
+# Last modified: 04 Nov 2021 00:15:33 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -412,6 +412,7 @@ alexa.com
 alicdn.com
 alimama.com
 alitems.com
+amauthprd.samsungcloudsolution.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amdc.m.taobao.com
@@ -1076,6 +1077,7 @@ donorschoose.org
 dopc.cz
 dotomi.com
 doubleclick.net
+doublepimp.com
 down.360safe.com
 down.sandai.net
 download-dc1.gfe.nvidia.com
@@ -1153,6 +1155,7 @@ endpoint1.collection.eu.sumologic.com
 energizect.com
 engage.windows.com
 engine.4dsply.com
+engine.phn.doublepimp.com
 enigmasoftware.com
 ensighten.com
 enter-system.com
@@ -1985,6 +1988,7 @@ nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
+noticefile.samsungcloudsolution.com
 nova.collect.igodigital.com
 now.eloqua.com
 nozonenet.com
@@ -2098,6 +2102,7 @@ otnprd11.samsungcloudsolution.net
 ouo.io
 outbrain.com
 ow.ly
+p.brid.tv
 p.jwpcdn.com
 p.tanx.com
 p.typekit.net
@@ -2433,6 +2438,7 @@ secure.oneallcdn.com
 secure.skypeassets.com
 secure.trust-guard.com
 securemetrics.apple.com
+securemvt.apple.com
 sedoparking.com
 seed.bitcoin.sipa.be
 seed.bitcoinstats.com
@@ -2458,6 +2464,7 @@ services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
 services.zam.com
 serving-sys.com
+servix.idnes.cz
 servserv.generals.ea.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
@@ -2492,6 +2499,7 @@ sitetracker.com
 skidrow-games.com
 skimlinks.com
 skimresources.com
+slike.indiatimes.com
 slimpuls.nl
 sliptalk.com
 sls.update.microsoft.com.akadns.net
@@ -2703,6 +2711,7 @@ tiqcdn.com
 tkn.fux.com
 tkqlhce.com
 tm.a.prd.aadg.trafficmanager.net
+tm.jsuol.com.br
 tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
 todhamilton.pro
