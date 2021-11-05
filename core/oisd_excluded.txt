@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Nov 2021 16:03:31 UTC
+# Last modified: 05 Nov 2021 00:15:32 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -382,6 +382,7 @@ adulthub.ru
 adultswim.com
 adups.com
 advancedhosters.com
+advcash.com
 advertisement.alibabacorp.com
 advertisement.tanx.com
 advertisement.tanx.com.gds.alibabadns.com
@@ -418,6 +419,7 @@ amazon-adsystem.com
 amdc.m.taobao.com
 americanlisted.com
 amplitude.com
+ams3.digitaloceanspaces.com
 an.yandex.ru
 analitik.edevlet.gov.tr
 analytics.dev.azure.com
@@ -621,7 +623,6 @@ bit.do
 bit.ly
 bitcast-a.v1.iad1.bitgravity.com
 bitly.com
-bitly.ws
 bizrate.com
 bj.bcebos.com
 blackcanyoncoffee.com
@@ -1205,6 +1206,7 @@ exacttarget.com
 example.com
 example.net
 example.org
+exchange.xforce.ibmcloud.com
 exosrv.com
 experience.tinypass.com
 exploit.in
@@ -1241,7 +1243,6 @@ filmha.top
 filters.adtidy.org
 findglocal.com
 firebase-settings.crashlytics.com
-firebasestorage.googleapis.com
 fishki.net
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
@@ -1281,7 +1282,6 @@ fpt.microsoft.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
-fra1.digitaloceanspaces.com
 frameip.com
 freegeoip.app
 freegeoip.net
@@ -1779,7 +1779,6 @@ komoona.com
 kount.com
 kqzyfj.com
 kredytbank.com.ua
-kriskintel.com
 krxd.net
 kubanmedia.org
 l.betrad.com
@@ -2313,7 +2312,6 @@ refersion.com
 reports.cliqz.com
 repository.cliqz.com
 res-x.com
-res.cloudinary.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
@@ -2352,6 +2350,7 @@ s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
+s.id
 s.media-imdb.com
 s.shopify.com
 s.thebrighttag.com
@@ -2593,7 +2592,6 @@ stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
 stats.t-online.de
-statsfe2.update.microsoft.com.akadns.net
 statusapi.micloud.xiaomi.net
 stc.za.zaloapp.com
 steamanalyst.com
@@ -2676,7 +2674,6 @@ td.demdex.net
 tdn.r42tag.com
 tealium.com
 teams.events.data.microsoft.com
-techradar.com
 tecnosell.com
 teeth.co.jp
 tekweis.com
