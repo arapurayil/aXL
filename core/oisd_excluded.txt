@@ -2,10 +2,9 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Nov 2021 16:03:58 UTC
+# Last modified: 06 Nov 2021 00:15:03 UTC
 000webhostapp.com
 1coolbox.com
-1drv.ms
 1hosts.cf
 2-spyware.com
 2baksa.net
@@ -56,7 +55,6 @@ a.gsmarena.com
 a.kickass.to
 a.klaviyo.com
 a.nonstoppartner.net
-a.pomf.cat
 a.pr-cy.ru
 a.realsrv.com
 a.wishabi.com
@@ -1150,7 +1148,6 @@ embed.tawk.to
 embed.windy.com
 emjcd.com
 emkei.cz
-emptyloop.com
 en25.com
 endpoint1.collection.eu.sumologic.com
 energizect.com
@@ -1419,7 +1416,6 @@ guidetopetersburg.com
 gunosy.com
 gvt2.com
 gwx.windows.com
-gynvael.coldwind.pl
 h-sdk.online-metrix.net
 h.online-metrix.net
 h5.qzone.qq.com
@@ -1635,7 +1631,6 @@ idv0h0h.qiniudns.com
 ientrymail.com
 ieonlinews.microsoft.com
 iesnare.com
-ietf.org
 ifastnet.com
 igg-games.com
 ignorelist.com
@@ -1959,7 +1954,6 @@ nabbr.com
 naiadsystems.com
 nanigans.com
 nanovisor.io
-navitime.co.jp
 ndmdhs.com
 neobux.com
 net.etrality.com
@@ -2274,7 +2268,6 @@ quantcast.mgr.consensu.org
 quantummetric.com
 questionpro.com
 quiddity.goguardian.com
-quttera.com
 qzonestyle.gtimg.cn
 qzs.qq.com
 r.bbci.co.uk
