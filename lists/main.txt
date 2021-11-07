@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.07
-# Last modified: 07 Nov 2021 00:16:17 UTC
+# Last modified: 07 Nov 2021 08:02:31 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -15044,6 +15044,7 @@ manga-blog.line.me
 manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
+mange-news.com
 mangler1.generals.ea.com
 mangler2.generals.ea.com
 mangler3.generals.ea.com
