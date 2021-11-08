@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.11.07
-# Last modified: 07 Nov 2021 16:02:58 UTC
+# Version: 2.11.08
+# Last modified: 08 Nov 2021 00:16:30 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -404,6 +404,7 @@ a.mini.eastday.com
 a.nonstoppartner.net
 a.nytimes.com
 a.ooyala.com
+a.pomf.cat
 a.pr-cy.ru
 a.realsrv.com
 a.sellpoint.net
@@ -427,7 +428,6 @@ a248.e.akamai.net
 a24m.a-bank.com.ua
 a2z.com
 a2zapk.com
-a3.mediagra.com
 a4.mzstatic.com
 a463.w10.akamai.net
 a5.behance.net
@@ -503,6 +503,7 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
+ablink.e.hungryjacks.com.au
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -791,7 +792,6 @@ adlandpro.com
 adli.pw
 adlice.com
 adm.fwmrm.net
-adm3.autoimg.cn
 admarkt.marktplaats.nl
 admdownload.adobe.com
 admin-official.line.me
@@ -1202,6 +1202,7 @@ ahwatukeecommonsveterinaryhospital.vetsuite.com
 ai.ly
 ai.yimg.jp
 aib.ie
+aic-ngfts.lge.com
 aicdn.com
 aicp-rom.com
 aids.gov
@@ -2095,7 +2096,6 @@ ampproject.net
 ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -2221,6 +2221,7 @@ anvil.opentok.com
 anwb.nl
 any-in-2015.1e100.net
 any.gs
+anybookreader.de
 anycast.adnxs.com
 anz.co.jp
 anz.co.nz
@@ -2240,7 +2241,6 @@ ap.orgdict.leo.org
 ap.spotify.com
 ap6.ssl.msdk.qq.com
 apa.org
-apac1.notify.windows.com.akadns.net
 apache.org
 apachefriends.org
 apartments.com
@@ -2378,6 +2378,7 @@ api.ebay-kleinanzeigen.de
 api.entrance.sonymobile.com
 api.erabu.sony.tv
 api.erabu.sonymobile.com
+api.euro.hismarttv.com
 api.exchange.coinbase.com
 api.facebook.com
 api.faceid.com
@@ -2541,6 +2542,7 @@ api.uaq.xiaomi.net
 api.uca.cloud.unity3d.com
 api.unsplash.com
 api.urbandictionary.com
+api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
 api.vc.bilibili.com
@@ -2677,6 +2679,7 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
+app.sephora.com
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -2725,7 +2728,6 @@ appnee.com
 apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
 apps-pub.samsungcloudcdn.com
-apps.crashlytics.com
 apps.cybonline.co.uk
 apps.daum.net
 apps.elfsight.com
@@ -4027,6 +4029,7 @@ bd.nl
 bdaf.gp
 bdc.ca
 bdc.com.eg
+bdcore-apr-lb.bda.ndmdhs.com
 bde.es
 bdg.ch
 bdimg.com
@@ -4985,7 +4988,6 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
-bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -7292,7 +7294,6 @@ d4f.de
 d5nxst8fruw4z.cloudfront.net
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
-da.feedsportal.com
 da.gravatar.com
 da.netease.com
 da.victoriabank.md
@@ -8205,7 +8206,6 @@ dvbbank.com
 dvd.netflix.com
 dvrb.de
 dw-online.ksosoft.com
-dw.cbsi.com
 dw.com
 dw.com.com
 dw.techrepublic.com
@@ -9049,7 +9049,6 @@ exchange.futureswap.com
 exchange.gemini.com
 exchange.globitex.com
 exchange.kaspersky.com
-exchange.xforce.ibmcloud.com
 exchangebk.com
 exetervethospital.com
 eximb.com
@@ -9318,6 +9317,7 @@ fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 fe4.edge.pantheon.io
 feabie.com
+feature.fm
 featured-profiles.soundcloud.com
 features.engadget.com
 feb.gov
@@ -9390,7 +9390,6 @@ ffbnk.com
 ffbonline.com
 ffbtn.com
 ffc-icons.oobesaas.adobe.com
-ffdns.net
 fff.re
 fff.to
 fff.wf
@@ -9537,6 +9536,7 @@ firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 firebog.net
+fireflyengagement.com
 firefox.com
 firefox.settings.services.mozilla.com
 firehousehospital.com
@@ -10433,7 +10433,6 @@ genovolksbank.de
 genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
-geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -10618,6 +10617,7 @@ global.mi.com
 global.moneygram.com
 global.msads.net
 global.passport.xiaomi.com
+global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 global.ssl.fastly.net
 global.uci.blackberry.com
@@ -11189,11 +11189,11 @@ gwapi.zee5.com-v2.edgekey.net
 gwhospital.com
 gwk.nl
 gws.sauberbank.com
-gwx.windows.com
 gwynedd.gov.uk
 gwyneddvethospital.com
 gyazo.com
 gyggs.com
+gynvael.coldwind.pl
 gz-lb1.internet.spanner.alipaydns.com
 h-cdn.com
 h-sdk.online-metrix.net
@@ -12288,6 +12288,7 @@ ibm.com
 ibna.an
 ibo.es
 iboc.com
+ibs.lgappstv.com
 ibs.spurtbank.ru
 ibsc.org
 ibtco.com
@@ -12464,7 +12465,6 @@ id.l.google.com
 id.m.wikipedia.com
 id.pilet.ee
 id.santanderconsumer.no
-id.server
 id.smt.docomo.ne.jp
 id.sonyentertainmentnetwork.com
 id.tinypass.com
@@ -12517,6 +12517,7 @@ ientrymail.com
 ieonline.microsoft.com
 ieonlinews.microsoft.com
 iesnare.com
+ietf.org
 ifastnet.com
 ifbag.com
 ifibank.com
@@ -13100,6 +13101,7 @@ invite.integration.viber.com
 invite.twitch.tv
 invite.viber.com
 invoca.net
+involve.asia
 iny.cc
 iny.com
 iny123.com
@@ -14179,6 +14181,7 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
+l.engage.canva.com
 l.facebook.com
 l.franceculture.fr
 l.google.com
@@ -14522,6 +14525,7 @@ links.mkt81.net
 links.mkt91.net
 links.notification.intuit.com
 links.notifications.soundcloud.com
+links.strava.com
 linkshrink.net
 linksynergy.com
 linkto.com.br
@@ -15045,7 +15049,6 @@ manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
 mange-news.com
-mangler1.generals.ea.com
 mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
@@ -16096,7 +16099,6 @@ mozilla.org
 mozillazine.org
 mp.huangye.miui.com
 mp.microsoft.com
-mp.pianomedia.eu
 mp.twitch.tv
 mp.weixinbridge.com
 mp3-archives.com
@@ -16353,6 +16355,7 @@ myhalyk.kz
 myhighlandvet.com
 myhome.naver.com
 myhomefed.com
+myhomescreen.tv
 myhosting247.com
 myindependence.com
 myinvestorsbank.com
@@ -16455,7 +16458,6 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
-nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -16504,6 +16506,7 @@ naverapp.naver.com
 navercast.naver.com
 navicat.com
 navismithapis-cdn.com
+navitime.co.jp
 navpoint.com
 navyfcu.org
 navyfederal.org
@@ -17080,6 +17083,7 @@ nsite.ca
 nsm.dell.com
 nsopr.gov
 nsopw.gov
+nsstatic.com
 nsstatic.net
 nstarbank.com
 nstore.naver.com
@@ -18496,6 +18500,7 @@ platipokarte.ru
 platiza.ru
 platron.ru
 platzi.com
+plausible.eurostocks.nl
 plausible.io
 play-asia.com
 play.app.goo.gl
@@ -19189,6 +19194,7 @@ quizilla.com
 quizlet.com
 quizup.com
 quora.com
+quttera.com
 quup.com
 qweb.quercia.com
 qwest.net
@@ -21019,7 +21025,6 @@ servint.net
 servis24.cz
 servix.idnes.cz
 servizioelettriconazionale.it
-servserv.generals.ea.com
 sesiahs.health.nsw.gov.au
 sessioncam.com
 settings-sandbox.data.microsoft.com
@@ -22258,7 +22263,6 @@ ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
-ssl4anyone2.com
 sslbl.abuse.ch
 sslshare.gshifen.com
 ssm.pd.biv.sony.tv
@@ -23034,6 +23038,7 @@ syndication.twitter.com
 syndonline.in
 synergybank.com
 synology.com
+synology.me
 synologynotification.com
 synterra.ru
 synthesisbank.com
@@ -23776,7 +23781,6 @@ trafficdeposit.com
 trafficjunky.net
 trafficmanager.net
 trafficrouter.io
-trafic.ro
 trailers.apple.com
 train.ideabank.ua
 trak.in
@@ -24407,6 +24411,7 @@ us-v20.events.data.microsoft.com
 us-west-2.uploads-regional.twitch.tv
 us.account.samsung.com
 us.account.samsung.com.gslb.cdnetworks.net
+us.ad.lgsmartad.com
 us.api.io.mi.com
 us.api.micloud.xiaomi.net
 us.battle.net
@@ -24548,7 +24553,6 @@ uwbankindia.com
 uwchildrenshospital.org
 uwhospital.org
 uwzorgonline.nl
-uzreklam.com
 v-vb.de
 v.daum.net
 v.firebog.net
@@ -24831,7 +24835,6 @@ vermontmba.com
 vermontnationalbank.com
 version.bind
 version.hybrid.api.here.com
-version.server
 verwandt.de
 very.co.uk
 veryweird.com
@@ -25603,7 +25606,6 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
-way2traffic.com
 wayerless.com
 wayforpay.com
 wayin.com
@@ -26409,6 +26411,7 @@ xlmc.sandai.net
 xlog-va.musical.ly
 xmccb.com
 xmcs.mi.com
+xml.opera.com
 xmpp-redirector-prod.tnt-ea.com
 xmpp-server.l.google.com
 xmr.to
