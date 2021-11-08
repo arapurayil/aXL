@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.08
-# Last modified: 08 Nov 2021 00:16:30 UTC
+# Last modified: 08 Nov 2021 08:03:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -18367,6 +18367,7 @@ pi-hole.net
 pi.hole
 pi.pardot.com
 piacesprofit.hu
+piano.io
 pib.ru
 pib.ua
 pib.uobthailand.com
