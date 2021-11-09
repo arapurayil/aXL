@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Nov 2021 16:03:38 UTC
+# Last modified: 09 Nov 2021 00:15:31 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -37,6 +37,7 @@
 207.net
 265.com
 360.yahoo.com
+801.tianya.cn
 888poker.com
 1188.lv
 2222mb.com
@@ -421,6 +422,7 @@ americanlisted.com
 amplitude.com
 an.yandex.ru
 analitik.edevlet.gov.tr
+analyticacdn.com
 analytics.dev.azure.com
 analytics.edgekey.net
 analytics.google.com
@@ -752,7 +754,6 @@ cdn.rlcdn.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
-cdn.shopify.com
 cdn.siftscience.com
 cdn.streamlike.com
 cdn.stroeerdigitalgroup.de
@@ -1835,6 +1836,7 @@ mailerlite.com
 mailfoogae.appspot.com
 malaya.com.ph
 mallgroup.com
+manga-news.com
 mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
@@ -1971,6 +1973,7 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nfscars.net
 ngrok.io
+nitrogensports.eu
 nllapps.com
 nlrb.gov
 nonstoppartner.net
@@ -2000,6 +2003,7 @@ nudatasecurity.com
 nui.media
 nutaku.com
 nv.vi-serve.com
+o.auspost.com.au
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2146,6 +2150,7 @@ photo.net
 phs.tanx.com
 pi.pardot.com
 piacesprofit.hu
+piano.io
 pico.tools
 pigu.lt
 ping.cloud.tencent.com
@@ -2615,7 +2620,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-synology.me
 sypi.gpshopper.com
 systweak.com
 szentkoronaradio.com
@@ -2940,6 +2944,7 @@ ws-adv.ais.co.th
 ws.126.net
 ws.batch.com
 ws.mmstat.com
+wss.analyticacdn.com
 wt-eu02.net
 wumii.com
 www-google-analytics.l.google.com
