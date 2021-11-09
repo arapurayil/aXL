@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.09
-# Last modified: 09 Nov 2021 00:15:31 UTC
+# Last modified: 09 Nov 2021 08:03:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -345,6 +345,7 @@
 7li.in
 7vd.cn
 7zap.com
+801.tianya.cn
 888poker.com
 8ch.net
 8k.ro
@@ -2107,6 +2108,7 @@ anadolubank.com.tr
 anadolufinans.com.tr
 anaesthesie-lainz.at
 analitik.edevlet.gov.tr
+analyticacdn.com
 analytics.bsgwireless.com
 analytics.dev.azure.com
 analytics.edgekey.net
@@ -11155,6 +11157,7 @@ guce.huffingtonpost.com.au
 guce.oath.com
 guce.techcrunch.com
 guce.yahoo.com
+guerrillamail.com
 guestbook.blog.naver.com
 gugeys.com
 guiama.is
@@ -15045,6 +15048,7 @@ mandrillapp.com
 mandtbank.com
 mandurainmotion.com
 manga-blog.line.me
+manga-news.com
 manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
@@ -16844,6 +16848,7 @@ nispa.de
 nist.gov
 nitestar.de
 nitroflare.com
+nitrogensports.eu
 nittanybank.com
 niubie.com
 nixonlibrary.gov
@@ -17170,6 +17175,7 @@ o-bank.com
 o-x.fr
 o.9nl.com
 o.aolcdn.com
+o.auspost.com.au
 o.breitbart.com
 o.co.za
 o.dailycaller.com
@@ -23039,7 +23045,6 @@ syndication.twitter.com
 syndonline.in
 synergybank.com
 synology.com
-synology.me
 synologynotification.com
 synterra.ru
 synthesisbank.com
@@ -26134,6 +26139,7 @@ wsimg.com
 wsj.com
 wsk-bank.at
 wsnb.com
+wss.analyticacdn.com
 wss.bithumb.com
 wss.kryptex.org
 wt-eu02.net
