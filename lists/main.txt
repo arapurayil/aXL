@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.10
-# Last modified: 10 Nov 2021 00:15:54 UTC
+# Last modified: 10 Nov 2021 08:08:06 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -405,7 +405,6 @@ a.mini.eastday.com
 a.nonstoppartner.net
 a.nytimes.com
 a.ooyala.com
-a.pomf.cat
 a.pr-cy.ru
 a.realsrv.com
 a.sellpoint.net
@@ -2450,6 +2449,7 @@ api.miui.security.xiaomi.com
 api.miwifi.com
 api.mixpanel.com
 api.monitor.azure.com
+api.narrativ.com
 api.naver.com
 api.netflix.com
 api.next.exchange
@@ -5032,6 +5032,7 @@ c.s-microsoft.com
 c.storage.googleapis.com
 c.t-online.de
 c.trello.com
+c.xbox.com
 c.yes.youku.com
 c.youtube.com
 c.ypcdn.com
@@ -11196,7 +11197,6 @@ gwynedd.gov.uk
 gwyneddvethospital.com
 gyazo.com
 gyggs.com
-gynvael.coldwind.pl
 gz-lb1.internet.spanner.alipaydns.com
 h-cdn.com
 h-sdk.online-metrix.net
@@ -11526,6 +11526,7 @@ history.com
 history.paypal.com
 hit.bg
 hit.gemius.pl
+hit.interia.pl
 hit.me
 hit.stat24.com
 hitbtc.com
@@ -12520,7 +12521,6 @@ ientrymail.com
 ieonline.microsoft.com
 ieonlinews.microsoft.com
 iesnare.com
-ietf.org
 ifastnet.com
 ifbag.com
 ifibank.com
@@ -16468,6 +16468,7 @@ naping.igamecj.com
 napisy24.pl
 narayanahealth.org
 narmc.com
+narrativ.com
 nasa.gov
 nasb.com
 nasbank.bg
@@ -16510,7 +16511,6 @@ naverapp.naver.com
 navercast.naver.com
 navicat.com
 navismithapis-cdn.com
-navitime.co.jp
 navpoint.com
 navyfcu.org
 navyfederal.org
@@ -19201,7 +19201,6 @@ quizilla.com
 quizlet.com
 quizup.com
 quora.com
-quttera.com
 quup.com
 qweb.quercia.com
 qwest.net
