@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.11
-# Last modified: 11 Nov 2021 00:16:11 UTC
+# Last modified: 11 Nov 2021 08:05:44 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -405,6 +405,7 @@ a.mini.eastday.com
 a.nonstoppartner.net
 a.nytimes.com
 a.ooyala.com
+a.pomf.cat
 a.pr-cy.ru
 a.realsrv.com
 a.sellpoint.net
@@ -11197,6 +11198,7 @@ gwynedd.gov.uk
 gwyneddvethospital.com
 gyazo.com
 gyggs.com
+gynvael.coldwind.pl
 gz-lb1.internet.spanner.alipaydns.com
 h-cdn.com
 h-sdk.online-metrix.net
@@ -12521,6 +12523,7 @@ ientrymail.com
 ieonline.microsoft.com
 ieonlinews.microsoft.com
 iesnare.com
+ietf.org
 ifastnet.com
 ifbag.com
 ifibank.com
@@ -16511,6 +16514,7 @@ naverapp.naver.com
 navercast.naver.com
 navicat.com
 navismithapis-cdn.com
+navitime.co.jp
 navpoint.com
 navyfcu.org
 navyfederal.org
@@ -19201,6 +19205,7 @@ quizilla.com
 quizlet.com
 quizup.com
 quora.com
+quttera.com
 quup.com
 qweb.quercia.com
 qwest.net
@@ -23044,6 +23049,7 @@ syndication.twitter.com
 syndonline.in
 synergybank.com
 synology.com
+synology.me
 synologynotification.com
 synterra.ru
 synthesisbank.com
