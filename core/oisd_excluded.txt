@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Nov 2021 16:03:53 UTC
+# Last modified: 13 Nov 2021 00:15:05 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -436,7 +436,6 @@ anrdoezrs.net
 answerhub.com
 antionline.com
 antiphishing.cliqz.com
-anybookreader.de
 anycast.adnxs.com
 apester.com
 api-secure.solvemedia.com
@@ -1276,6 +1275,7 @@ fpt.microsoft.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
+fra1.digitaloceanspaces.com
 frameip.com
 freegeoip.app
 freegeoip.net
@@ -1686,7 +1686,6 @@ internetbrands.com
 intstatcheck.wsecure.schneider-electric.com
 investingchannel.com
 invoca.net
-involve.asia
 ioam.de
 ip-api.com
 ip-info.ff.avast.com
@@ -1776,6 +1775,7 @@ kqzyfj.com
 kredytbank.com.ua
 krxd.net
 kubanmedia.org
+kutt.it
 l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
@@ -2349,7 +2349,6 @@ s.btstatic.com
 s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
-s.id
 s.media-imdb.com
 s.shopify.com
 s.thebrighttag.com
@@ -2467,6 +2466,7 @@ settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -2625,7 +2625,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-synology.me
 sypi.gpshopper.com
 systweak.com
 szentkoronaradio.com
@@ -2980,6 +2979,7 @@ yabs.yandex.ru
 yahoo.adnetasia.com
 yahoodns.net
 yap.yahoo.com
+yeshen.com
 yimg.com
 ynuf.aliapp.org
 ynuf.alipay.com
