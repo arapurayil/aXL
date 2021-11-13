@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.13
-# Last modified: 13 Nov 2021 00:15:05 UTC
+# Last modified: 13 Nov 2021 08:05:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2223,7 +2223,6 @@ anvil.opentok.com
 anwb.nl
 any-in-2015.1e100.net
 any.gs
-anybookreader.de
 anycast.adnxs.com
 anz.co.jp
 anz.co.nz
@@ -10018,6 +10017,7 @@ fr.statcounter.com
 fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
+fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -13107,7 +13107,6 @@ invite.integration.viber.com
 invite.twitch.tv
 invite.viber.com
 invoca.net
-involve.asia
 iny.cc
 iny.com
 iny123.com
@@ -21093,6 +21092,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -23050,7 +23050,6 @@ syndication.twitter.com
 syndonline.in
 synergybank.com
 synology.com
-synology.me
 synologynotification.com
 synterra.ru
 synthesisbank.com
@@ -26511,6 +26510,7 @@ yenibayi.passotaksit.com.tr
 yep.it
 yerl.org
 yesbank.in
+yeshen.com
 yetti.be
 yhd.com
 yimg.com
