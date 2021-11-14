@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.14
-# Last modified: 14 Nov 2021 00:16:14 UTC
+# Last modified: 14 Nov 2021 08:02:49 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -504,7 +504,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablink.e.hungryjacks.com.au
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -1156,7 +1155,6 @@ afraid.org
 afreximbank.com
 africa.pool.ntp.org
 africanbank.co.za
-afrobarometer.org
 afroterminal.com
 afs.org.uk
 afsbonline.com
@@ -2594,7 +2592,6 @@ api4.origin.com
 api5.origin.com
 apicache.vudu.com
 apihub.daum.net
-apiit.edu.my
 apilocate.amap.com
 apimobile.lifelog.sonymobile.com
 apis.daum.net
@@ -2681,7 +2678,6 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
-app.sephora.com
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -3022,7 +3018,6 @@ atlasbank.com
 atlassbx.com
 atlassian.com
 atlassian.net
-atmos.ucla.edu
 atomz.com
 atspace.com
 att.com
@@ -6923,6 +6918,7 @@ covefi.com
 coventry.gov.uk
 coventrybuildingsociety.co.uk
 covid19.ncdhhs.gov
+covid19at.net
 cowtransfer.com
 cox-internet.com
 cox.com
@@ -7878,7 +7874,6 @@ dldir1.qq.com
 dlglobal.qq.com
 dlied1.qq.com
 dlied6.qq.com
-dlink.com.br
 dll.xposed.info
 dls.di.atlas.samsung.com
 dls.net
@@ -8740,7 +8735,6 @@ encrypted-tbn0.gstatic.com
 endic.naver.com
 endpoint1.collection.eu.sumologic.com
 endpoint1.collection.sumologic.com
-energizect.com
 energized.pro
 energystar.gov
 enews.techrepublic.com
@@ -9320,7 +9314,6 @@ fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 fe4.edge.pantheon.io
 feabie.com
-feature.fm
 featured-profiles.soundcloud.com
 features.engadget.com
 feb.gov
@@ -9539,7 +9532,6 @@ firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
 firebog.net
-fireflyengagement.com
 firefox.com
 firefox.settings.services.mozilla.com
 firehousehospital.com
@@ -10017,7 +10009,6 @@ fr.statcounter.com
 fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
-fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -11019,7 +11010,6 @@ gr.ph
 grab.com
 grabify.link
 grabillbank.com
-grabo.bg
 grabtaxi.com
 grade.market.yandex.ru
 graffiti.net
@@ -13919,7 +13909,6 @@ koeln-kh-augustinerinnen.de
 kohls.com
 kokobank.com
 kokomopostofficecu.com
-kolabsys.com
 komachi.yomiuri.co.jp
 kombank.com
 kommunalkredit.at
@@ -14187,7 +14176,6 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.facebook.com
 l.franceculture.fr
 l.google.com
@@ -14531,7 +14519,6 @@ links.mkt81.net
 links.mkt91.net
 links.notification.intuit.com
 links.notifications.soundcloud.com
-links.strava.com
 linkshrink.net
 linksynergy.com
 linkto.com.br
@@ -15025,7 +15012,6 @@ mak.com
 make.my
 making.vimeo.com
 mal.ly
-malaya.com.ph
 malayanbank.com
 malc0de.com
 malekal.com
@@ -15307,7 +15293,6 @@ mdbankers.com
 mdhospitals.org
 mdidesign.ca
 mdihospital.org
-mdis.uz
 mdl29.net
 mdmba.org
 mdmbank.ru
@@ -17092,7 +17077,6 @@ nsite.ca
 nsm.dell.com
 nsopr.gov
 nsopw.gov
-nsstatic.com
 nsstatic.net
 nstarbank.com
 nstore.naver.com
@@ -17299,7 +17283,6 @@ oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 oenb.at
 oevag.com
-ofb.uz
 ofc.ru
 ofcm.gov
 ofd.yandex.ru
@@ -18430,7 +18413,6 @@ pinterest.de
 pinterest.es
 pinterest.jp
 pinterest.se
-pioneer-audiovisual.eu
 pioneerbankandtrust.com
 pioneerbankstl.com
 pioneersb.com
@@ -18511,7 +18493,6 @@ platipokarte.ru
 platiza.ru
 platron.ru
 platzi.com
-plausible.eurostocks.nl
 plausible.io
 play-asia.com
 play.app.goo.gl
@@ -19443,7 +19424,6 @@ rawhttp.cloudflareworkers.com
 raxco.com
 rayfile.com
 raygun.io
-rayli.com.cn
 razorpay.com
 rb-adel-siel.de
 rb-af.de
@@ -19729,6 +19709,7 @@ redir.ec
 redir.fr
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
+redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
@@ -20969,7 +20950,6 @@ sematext.com
 semawur.com
 sembank.ru
 semnan.ac.ir
-semnaniau.ac.ir
 semrush.com
 senate.gov
 senator.ru
@@ -21094,7 +21074,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21410,7 +21389,6 @@ slides.diigo.com
 slideshare.com
 slideshare.net
 slike.indiatimes.com
-slimpuls.nl
 slimroms.net
 slingshot.co.nz
 sliptalk.com
@@ -22769,7 +22747,6 @@ stpatrickhospital.org
 stpetes.org
 stptrisakti.ac.id
 str.hit.gemius.pl
-stradeanas.it
 straitstimes.com
 strangled.net
 strat.ru
@@ -23535,7 +23512,6 @@ tiendastec.com.pe
 tier1net.com
 tier2.ios.skypeassets.com
 tifafinance.co.id
-tigase.net
 tigger-citadel.touchtype-fluency.com
 tiistenjoenop.fi
 tikker.emta.ee
@@ -24120,7 +24096,6 @@ uedna.com
 ufa.wifi.domru.ru
 ufb-ffed.com
 ufcfightclub.com
-ufrpe.br
 ufscla.org
 ug.cz
 ugbi.ro
