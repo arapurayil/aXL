@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Nov 2021 16:03:38 UTC
+# Last modified: 14 Nov 2021 00:16:14 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -69,7 +69,6 @@ a248.e.akamai.net
 a771.dscq.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
-ablink.e.hungryjacks.com.au
 aboutads.info
 accengage.com
 accessfreevpn.com
@@ -382,7 +381,6 @@ adulthub.ru
 adultswim.com
 adups.com
 advancedhosters.com
-advcash.com
 advertisement.alibabacorp.com
 advertisement.tanx.com
 advertisement.tanx.com.gds.alibabadns.com
@@ -394,7 +392,6 @@ affex.org
 affiliate.dmm.com
 affiliatefuture.com
 afilo.pl
-afrobarometer.org
 agacelebir.com
 agkn.com
 ahd.ruten.com.tw
@@ -409,7 +406,6 @@ akstat.io
 akvideo.stream
 al.dmm.co.jp
 alb.reddit.com
-alepuniv.edu.sy
 alexa.com
 alicdn.com
 alimama.com
@@ -491,7 +487,6 @@ api.xiaomi.com
 api.xmpush.xiaomi.com
 api2.branch.io
 api3.siftscience.com
-apiit.edu.my
 apilocate.amap.com
 apis.google.com
 apiservices.krxd.net
@@ -510,7 +505,6 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.sephora.com
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -544,7 +538,6 @@ atdmt.com
 atharori.net
 ati-host.net
 atlassbx.com
-atmos.ucla.edu
 atspace.com
 attraqt.com
 audid-api.taobao.com
@@ -777,7 +770,6 @@ cdnjs.tvpage.com
 cdns.gigya.com
 cdnstatic.detik.com
 cdp.cloud.unity3d.com
-cec.ro
 cedexis.com
 cedexis.net
 centurylink.net
@@ -922,6 +914,7 @@ countere.com
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
+covid19at.net
 cpt.itv.com
 cptrack.de
 cquotient.com
@@ -1051,7 +1044,6 @@ districtm.ca
 djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.packetstormsecurity.net
-dlink.com.br
 dls.di.atlas.samsung.com
 dlvr.t-online.de
 dmd.metaservices.microsoft.com
@@ -1146,7 +1138,6 @@ emkei.cz
 emptyloop.com
 en25.com
 endpoint1.collection.eu.sumologic.com
-energizect.com
 engage.windows.com
 engine.4dsply.com
 engine.phn.doublepimp.com
@@ -1222,7 +1213,6 @@ fc.vodafone.de
 fccinteractive.com
 fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
-feature.fm
 feedblitz.com
 fembed.com
 file.market.xiaomi.com
@@ -1235,7 +1225,6 @@ filters.adtidy.org
 findglocal.com
 firebase-settings.crashlytics.com
 firebasestorage.googleapis.com
-fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
@@ -1275,7 +1264,6 @@ fpt.microsoft.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
-fra1.digitaloceanspaces.com
 frameip.com
 freegeoip.app
 freegeoip.net
@@ -1386,7 +1374,6 @@ gotraffic.net
 gpm.samsungqbe.com
 grab.com
 grabify.link
-grabo.bg
 grade.market.yandex.ru
 graph.accountkit.com
 graph.facebook.com
@@ -1726,7 +1713,6 @@ jdoqocy.com
 jeddunk.xyz
 jesuswalk.com
 jiathis.com
-jiit.ac.in
 jimdo.com
 jivox.com
 joyreactor.cc
@@ -1755,7 +1741,6 @@ kaxsdc.com
 keepvid.com
 kek.sh
 kelkoogroup.net
-kemsos.go.id
 kepler.jd.com
 kharkov.ua
 kickass.cd
@@ -1767,7 +1752,6 @@ klclick.com
 klclick1.com
 ko.wowhead.com
 kodu.neti.ee
-kolabsys.com
 komachi.yomiuri.co.jp
 komoona.com
 kount.com
@@ -1778,7 +1762,6 @@ kubanmedia.org
 kutt.it
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.franceculture.fr
 l.qq.com
 labs-mqtt.xda-developers.com
@@ -1799,7 +1782,6 @@ lifewire.com
 limneos.net
 lindy.co.id
 linkev.com
-links.strava.com
 linksynergy.com
 litix.io
 live.primis.tech
@@ -1837,7 +1819,6 @@ mads.amazon.com
 magiskmanager.com
 mailerlite.com
 mailfoogae.appspot.com
-malaya.com.ph
 mallgroup.com
 manga-news.com
 mangler2.generals.ea.com
@@ -1861,7 +1842,6 @@ mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
 maxcdn.bootstrapcdn.com
 mc.yandex.ru
-mdis.uz
 media.complex.com
 media.expedia.com
 media.richrelevance.com
@@ -1967,7 +1947,6 @@ news.ebc.net.tw
 news.smi2.ru
 newsbtc.com
 newsletter.bdnews24.com
-newsletters.bancsabadell.com
 newsletters.nationalgeographic.com
 newstube.ru
 newtonpaiva.br
@@ -1979,7 +1958,6 @@ nfscars.net
 ngrok.io
 nitrogensports.eu
 nllapps.com
-nlrb.gov
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
@@ -1996,7 +1974,6 @@ ns-cdn.neustar.biz
 ns11.whois.co.kr
 nsimg.net
 nsm.dell.com
-nsstatic.com
 nsstatic.net
 nsupdate.info
 nsx.np.dl.playstation.net
@@ -2021,7 +1998,6 @@ odindownload.com
 odinpc.com
 oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
-ofb.uz
 offers-api.cliqz.com
 ogury.io
 oilandgaseng.com
@@ -2165,7 +2141,6 @@ ping.ui.com
 pings.conviva.com
 pinnacle.com
 pinnaclesports.com
-pioneer-audiovisual.eu
 pipe.aria.microsoft.com
 piwik.org
 pixel.everesttech.net
@@ -2181,7 +2156,6 @@ platform.linkedin.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
-plausible.eurostocks.nl
 plausible.io
 playbuzz.com
 player-feedback-v1.glomex.com
@@ -2288,7 +2262,6 @@ ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
-rayli.com.cn
 rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
@@ -2301,6 +2274,7 @@ recruitics.com
 recs.richrelevance.com
 redefine.hit.stat24.com
 redefine2.hit.stat24.com
+redirect-ads.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.viglink.com
@@ -2444,7 +2418,6 @@ segpay.com
 self.events.data.microsoft.com
 sematext.com
 semawur.com
-semnaniau.ac.ir
 sendpul.se
 sendpulse.com
 sendsay.ru
@@ -2466,7 +2439,6 @@ settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -2496,7 +2468,6 @@ skidrow-games.com
 skimlinks.com
 skimresources.com
 slike.indiatimes.com
-slimpuls.nl
 sliptalk.com
 sls.update.microsoft.com.akadns.net
 smallseotools.com
@@ -2600,7 +2571,6 @@ store.qq.com
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stptrisakti.ac.id
-stradeanas.it
 stream-hk.viu.com
 streamate.com
 streaming.adswizz.com
@@ -2692,7 +2662,6 @@ thumb.pr0gramm.com
 tickle.com
 tidebuy.com
 tiendastec.com.pe
-tigase.net
 tile-service.weather.microsoft.com
 tiles.services.mozilla.com
 time.samsungcloudsolution.com
@@ -2781,7 +2750,6 @@ tw.cx
 typeform.com
 typekit.net
 uarating.com
-ub.edu.ph
 ublock.org
 uca.cloud.unity3d.com
 ucam.me
@@ -2789,7 +2757,6 @@ ucweb.com
 udec.cl
 udimg.com
 ue.flipboard.com
-ufrpe.br
 ui.skype.akadns.net
 uib.ff.avast.com
 uim.tifbs.net
@@ -2803,7 +2770,6 @@ unagi.amazon.co.jp
 unid.go.com
 unionbanknig.com
 uniregistry.com
-unitedbike.com
 unity.com
 unity3d.com
 untd.com
@@ -3007,7 +2973,6 @@ ziboupdater.net
 ziffdavis.com
 zip.net
 zipansion.com
-zoo.sandiegozoo.org
 zopim.com
 ztd.dds.microsoft.com
 zytpirwai.net
