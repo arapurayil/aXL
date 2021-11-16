@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Nov 2021 16:03:51 UTC
+# Last modified: 16 Nov 2021 00:15:53 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -609,6 +609,7 @@ bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
 bi.gazeta.pl
 bi.medscape.com
+bigairusa.com
 bigdata.ssp.samsung.com
 bigmir.net
 bild.de
@@ -672,6 +673,7 @@ buzzmein.com
 bwin.com
 by.uservoice.com
 byet.org
+byteimg.com
 c-api-bit.shopeemobile.com
 c.allegrostatic.pl
 c.cintnetworks.com
@@ -914,7 +916,6 @@ countere.com
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
-covid19at.net
 cpt.itv.com
 cptrack.de
 cquotient.com
@@ -2262,6 +2263,7 @@ ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
+rayli.com.cn
 rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
@@ -2800,6 +2802,7 @@ usabilla.com
 usage.trackjs.com
 use.typekit.com
 use.typekit.net
+useinsider.com
 usercentrics.com
 usercentrics.eu
 users.atw.hu
