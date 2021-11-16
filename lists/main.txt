@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.16
-# Last modified: 16 Nov 2021 00:15:54 UTC
+# Last modified: 16 Nov 2021 08:03:31 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4240,6 +4240,7 @@ bifbu.de
 big.at
 big.pt
 bigadda.com
+bigairusa.com
 bigalohost.us
 bigbank.ee
 bigcartel.com
@@ -4995,6 +4996,7 @@ byjusclasses.com
 byjusclasses.freshdesk.com
 byod-web.huawei.com
 bystrobank.ru
+byteimg.com
 bytepool.com
 bzbank.ch
 bzh.me
@@ -6918,7 +6920,6 @@ covefi.com
 coventry.gov.uk
 coventrybuildingsociety.co.uk
 covid19.ncdhhs.gov
-covid19at.net
 cowtransfer.com
 cox-internet.com
 cox.com
@@ -19424,6 +19425,7 @@ rawhttp.cloudflareworkers.com
 raxco.com
 rayfile.com
 raygun.io
+rayli.com.cn
 razorpay.com
 rb-adel-siel.de
 rb-af.de
@@ -24483,6 +24485,7 @@ use.fontawesome.com
 use.typekit.com
 use.typekit.net
 use.typekit.net.edgekey.net
+useinsider.com
 usenix.org
 user.binance.com
 useraction.zee5.com-v2.edgekey.net
