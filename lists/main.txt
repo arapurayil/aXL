@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.20
-# Last modified: 20 Nov 2021 00:15:47 UTC
+# Last modified: 20 Nov 2021 08:03:08 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10488,6 +10488,7 @@ get.x-link.pl
 get.xda-developers.com
 get3.adobe.com
 getadmiral.com
+getairmail.com
 getalife.com.au
 getalinkandshare.com
 getblueshift.com
