@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.21
-# Last modified: 21 Nov 2021 08:02:30 UTC
+# Last modified: 21 Nov 2021 16:03:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -407,6 +407,7 @@ a.ooyala.com
 a.pomf.cat
 a.pr-cy.ru
 a.realsrv.com
+a.run.app
 a.sellpoint.net
 a.shifen.com
 a.slack-edge.com
@@ -3089,6 +3090,7 @@ australiancentral.com.au
 australiancu.com
 austria-spion.at
 auth-prod.ros.rockstargames.com
+auth-relay-pqj6ndd4jq-uc.a.run.app
 auth.api.np.ac.playstation.net
 auth.be.sec.miui.com
 auth.factorio.com
