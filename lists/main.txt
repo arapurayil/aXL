@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.21
-# Last modified: 21 Nov 2021 00:16:58 UTC
+# Last modified: 21 Nov 2021 08:02:30 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -216,7 +216,6 @@
 29773.v.fwmrm.net
 2a.me
 2ad.in
-2baksa.net
 2ch.net
 2checkout.com
 2cnt.net
@@ -787,6 +786,8 @@ adiu.amap.com
 adj.st
 adjust.com
 adjust.io
+adjust.net.in
+adjust.world
 adl.windows.com
 adlandpro.com
 adli.pw
@@ -828,7 +829,6 @@ adocean.pl
 adollo.com
 ador.com
 adp.com
-adregain.com
 adrianstatebank.com
 adrise.tv
 ads-blocker.com
@@ -1097,7 +1097,6 @@ adtidy.net
 adtidy.org
 adtrackers.net
 adtraction.com
-adulthub.ru
 adultswim.com
 adups.com
 adv.li
@@ -2405,7 +2404,6 @@ api.hide.me
 api.hitbtc.com
 api.hostip.info
 api.hotstar.com
-api.hubapi.com
 api.hybrid.intl.xiaomi.com
 api.hybrid.xiaomi.com
 api.icq.net
@@ -2447,7 +2445,6 @@ api.miui.security.xiaomi.com
 api.miwifi.com
 api.mixpanel.com
 api.monitor.azure.com
-api.narrativ.com
 api.naver.com
 api.netflix.com
 api.next.exchange
@@ -2705,6 +2702,7 @@ appcloud.ironbeast.io
 appcloud.mcafee.com
 appdown.naver.com
 appengine.google.com
+appier.com
 appldnld.apple.com
 apple-dns.net
 apple.com
@@ -5540,7 +5538,6 @@ cdn.digitaltrends.com
 cdn.discordapp.com
 cdn.districtm.ca
 cdn.dnaindia.com
-cdn.dynamicyield.com
 cdn.ea.com
 cdn.edgesuite.net
 cdn.embed.ly
@@ -6406,7 +6403,6 @@ cmicapui.ce.gov.br
 cml.org.uk
 cmla.com
 cmp-cdn.ghostery.com
-cmp.choice.faktor.io
 cmp.nextday.media
 cmr.cl
 cms-portal.qualcomm.com
@@ -6692,7 +6688,6 @@ conductor-prod.ros.rockstargames.com
 conduit-services.com
 conduit.mailchimpapp.com
 confib.ifmo.ru
-config-prod.choice.faktor.io
 config.a-mo.net
 config.edge.skype.com
 config.fp.measure.office.com
@@ -7202,7 +7197,6 @@ cvp1.cdn.turner.com
 cvs.adobe.com
 cvs.com
 cvw-privatbank-ag.de
-cw.choice.faktor.io
 cw.phncdn.com
 cwahi.net
 cwbank.com
@@ -7302,6 +7296,7 @@ daa.pl
 dab-bank.de
 dacotahbank.com
 dada.net
+dadata.ru
 daegubank.co.kr
 daemon-tools.cc
 daemon.indapass.hu
@@ -8643,7 +8638,6 @@ elvenar.com
 ely.re
 em.bm23.com
 em.data.ea.com
-em.dynamicyield.com
 em.eadpdata.ddns.ea.com
 em.funimation.com
 em1.typekit.com
@@ -8982,6 +8976,7 @@ eventgateway.soundcloud.com
 eventgateway.x.sndcdn.com
 eventlogger.soundcloud.com
 events.apester.com
+events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -9215,7 +9210,6 @@ farmersfrankfort.com
 farmersnational.com
 farmside.co.nz
 fashionista.com
-fast-anime.ru
 fast.appcues.com
 fast.com
 fast.fonts.net
@@ -9869,6 +9863,7 @@ foreseeresults.com
 forex.se
 form.jotform.com
 form.office.naver.com
+formcrafts.com
 forms.aweber.com
 forms.breitbart.com
 forms.convertkit.com
@@ -10257,6 +10252,7 @@ gabler-saliter-bank.de
 gacollector.l.google.com
 gadesh.com
 gadsdenregional.com
+gahu.hit.gemius.pl
 gaiaonline.com
 gala.spiceworks.com
 galandsmc.org
@@ -10695,7 +10691,6 @@ go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
-go.urbanairship.com
 go.wechat.com
 go2cloud.org
 go2jump.org
@@ -11012,6 +11007,7 @@ gr.ph
 grab.com
 grabify.link
 grabillbank.com
+grabo.bg
 grabtaxi.com
 grade.market.yandex.ru
 graffiti.net
@@ -11619,7 +11615,6 @@ hometownbancorp.com
 homf.com
 honeycreekanimalhospital.com
 hoogo.com
-hooks.slack.com
 hoopshype.com
 hootsuite.com
 hopeanimalhospital.com
@@ -11798,7 +11793,6 @@ hub.flowplayer.com
 hub.hr
 hub5pn.sandai.net
 hubank.com
-hubapi.com
 hubblecontent.osi.office.net
 hubciddata.sandai.net
 hubspot.com
@@ -14786,6 +14780,7 @@ logout.xiaomi.net
 logrocket.com
 logs-01.loggly.com
 logs.amap.com
+logs.datadoghq.eu
 logs.heroku.com
 logs.juspay.in
 logsss.com
@@ -16634,6 +16629,7 @@ netbanking.erstebank.me
 netbanking.erstebank.rs
 netbk.co.jp
 netbsd.org
+netc.sfr.fr
 netcore.co.in
 netcoresmartech.com
 netcraft.com
@@ -17771,6 +17767,7 @@ oschadnybank.com
 oscp.apple.com
 osgv.de
 osha.gov
+oshi.at
 oshrc.gov
 osimg.nbcuni.com
 osint.bambenekconsulting.com
@@ -18278,6 +18275,7 @@ perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
 perfdrive.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -18653,6 +18651,7 @@ porn.com
 pornerbros.com
 pornhub.com
 pornmd.com
+pornrabbit.com
 porschebank.at
 porschefinance.hu
 port.sec.intl.miui.com
@@ -18736,7 +18735,6 @@ ppt.li
 ppurifier.game.xiaomi.com
 pr-clinica.ru
 pr.oneplus.com
-pr.sendpulse.com
 pr0gramm.com
 practice.typekit.com
 practivate.adobe.com
@@ -19083,7 +19081,6 @@ push.services.mozilla.com
 push.wps.cn
 push2.eastmoney.com
 pushcrew.com
-pushdata.sendpulse.com
 pushengage.com
 pusher.com
 pusherapp.com
@@ -19426,7 +19423,6 @@ rawhttp.cloudflareworkers.com
 raxco.com
 rayfile.com
 raygun.io
-rayli.com.cn
 razorpay.com
 rb-adel-siel.de
 rb-af.de
@@ -20478,6 +20474,7 @@ santandernet.com.br
 santanderrio.com.ar
 santannahospital.it
 santis.ch
+sap.org.ar
 saping.igamecj.com
 sara.internet.apps.samsung.com
 saradar.com
@@ -20959,9 +20956,9 @@ senator.ru
 send.firefox.com
 sendai-kousei-hospital.jp
 sendgrid.net
+sendibt3.com
 sendinblue.hitbtc.com
 sendpul.se
-sendpulse.com
 sendsay.ru
 sendspace.com
 sendwyre.com
@@ -23235,6 +23232,7 @@ team.stumbleupon.com
 teams.cdn.office.net
 teams.events.data.microsoft.com
 teams.microsoft.com
+teamsinsight.myanalytics.cdn.office.net
 teamviewer.com
 teaparty.org
 teb.com.tr
@@ -23504,6 +23502,7 @@ tibbank.com
 tibsite.com
 ticcity.de
 ticino.com
+tickcounter.com
 ticket.rakuten.co.jp
 ticket.uz.gov.ua
 ticketland.ru
@@ -23914,6 +23913,7 @@ tumblr.com
 tunein.com
 tupelosmallanimalhospital.com
 turanbank.az
+turbo-yandex-ru.clstorage.net
 turbobit.net
 turkbank.com.tr
 turkbase.de
@@ -24341,7 +24341,6 @@ uptime.com
 uptimerobot.com
 uptobox.com
 uptostream.com
-uptracker.ru
 upu.samsungelectronics.com
 upwork.com
 upzat.com
@@ -25527,7 +25526,6 @@ waldkrankenhaus-rudolf-elle.de
 waldkrankenhaus.de
 walgreens.com
 walkme.com
-wallet-api.urbanairship.com
 wallet.advcash.com
 wallet.best
 wallet.bitcoin.com
@@ -25727,7 +25725,6 @@ webpayment-promo.internet.apps.samsung.com
 webpower.eu
 webprecision.com
 webprosnetwork.com
-webpushr.com
 webredir.vip.gandi.net
 webring.com
 webs.com
@@ -26336,6 +26333,7 @@ x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
 xalqbank.az
 xanga.com
+xapi.ozon.ru
 xataka.com
 xatakaciencia.com
 xatakahome.com
