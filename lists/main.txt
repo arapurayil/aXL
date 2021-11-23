@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.23
-# Last modified: 23 Nov 2021 00:16:20 UTC
+# Last modified: 23 Nov 2021 08:03:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9707,7 +9707,6 @@ flowershospital.com
 flowgo.com
 flowplayer.com
 fls-cn.amazon.cn
-fls-cn.amazon.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
 fls-eu.amazon.de
@@ -9715,7 +9714,6 @@ fls-eu.amazon.es
 fls-eu.amazon.fr
 fls-eu.amazon.it
 fls-fe.amazon.co.jp
-fls-fe.amazon.com
 fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
@@ -15041,7 +15039,6 @@ manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
 mange-news.com
-mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mangomoney.ru
@@ -15853,6 +15850,7 @@ mixpanel.com
 mizellmh.com
 mizrahi-tefahot.co.il
 mizuhobank.co.jp
+mjt.lu
 mkb.hu
 mkb.ru
 mkbnetbankar.hu
@@ -15875,6 +15873,7 @@ mlbs.ch
 mlg.ru
 mlg.tv
 mlife.lg.com
+mljt.tech
 mlk-berlin.de
 mll.me
 mlog.search.xiaomi.net
@@ -16604,7 +16603,6 @@ nest.com
 net.au
 net.edgekey.net
 net.etrality.com
-net.idealo-partner.com
 net.kentbank.hr
 net.ms
 net.pnb.com
@@ -17769,7 +17767,6 @@ oschadnybank.com
 oscp.apple.com
 osgv.de
 osha.gov
-oshi.at
 oshrc.gov
 osimg.nbcuni.com
 osint.bambenekconsulting.com
@@ -17971,7 +17968,6 @@ pando.com
 pandora.com
 pandora.mi.com
 panduoduo.net
-panel.adtify.pl
 pangaliit.ee
 pankkiyhdistys.fi
 panoak.com
@@ -18553,6 +18549,7 @@ plex.tv
 plimus.com
 plixi.com
 plots.fr
+pltraffic8.com
 plugin.mediavoice.com
 plugins.longtailvideo.com
 plugweb.com.br
@@ -23776,6 +23773,7 @@ trafficmanager.net
 trafficrouter.io
 trailers.apple.com
 train.ideabank.ua
+training-equipment.net
 trak.in
 trakt.tv
 trakyagoz.com.tr
@@ -26424,6 +26422,7 @@ xpi.com.br
 xplornet.com
 xposed.info
 xpu.samsungelectronics.com
+xqqyu.mjt.lu
 xrea.com
 xrl.us
 xseno.nl
