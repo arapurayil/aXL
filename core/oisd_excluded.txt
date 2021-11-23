@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Nov 2021 16:03:46 UTC
+# Last modified: 23 Nov 2021 00:16:20 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -416,7 +416,6 @@ amdc.m.taobao.com
 americanlisted.com
 amplitude.com
 an.yandex.ru
-analitik.edevlet.gov.tr
 analyticacdn.com
 analytics.dev.azure.com
 analytics.edgekey.net
@@ -513,7 +512,6 @@ appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
 apps.elfsight.com
-apps.skype.com
 appsflyer.com
 appspot-preview.l.google.com
 appspot.com
@@ -677,7 +675,6 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
-c.microsoft.com
 c.msn.com
 c.msn.com.nsatc.net
 c.paypal.com
@@ -1203,8 +1200,6 @@ fast.appcues.com
 fast.wistia.net
 fc.vodafone.de
 fccinteractive.com
-fe2.update.microsoft.com.akadns.net
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 feedblitz.com
 fembed.com
 file.market.xiaomi.com
@@ -1228,7 +1223,6 @@ flix360.com
 flixcar.com
 flowgo.com
 fls-cn.amazon.cn
-fls-cn.amazon.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
 fls-eu.amazon.de
@@ -1236,7 +1230,6 @@ fls-eu.amazon.es
 fls-eu.amazon.fr
 fls-eu.amazon.it
 fls-fe.amazon.co.jp
-fls-fe.amazon.com
 fls-na.amazon.ca
 fls-na.amazon.com
 flux.com
@@ -1815,7 +1808,6 @@ mailerlite.com
 mailfoogae.appspot.com
 mallgroup.com
 manga-news.com
-mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 manifest.auditude.com
@@ -1878,6 +1870,7 @@ mis.migc.xiaomi.com
 miscopy.com
 mistat.xiaomi.com
 mixi.media
+mixnews.lv
 mkt51.net
 mlsend.com
 mmstat.com
@@ -1932,7 +1925,6 @@ navitime.co.jp
 ndmdhs.com
 neobux.com
 net.etrality.com
-net.idealo-partner.com
 netc.sfr.fr
 netcore.co.in
 netiq.com
@@ -2059,7 +2051,6 @@ osaka-med.ac.jp
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
-oshi.at
 osimg.nbcuni.com
 ospserver.net
 otn.samsungcloudcdn.com
@@ -2087,7 +2078,6 @@ pagead46.l.doubleclick.net
 pages03.net
 pair.com
 pandapush-iad-prod.inscloudgate.net
-panel.adtify.pl
 panther.goguardian.com
 paperlesspost.com
 pardot.com
@@ -2162,6 +2152,7 @@ players.brightcove.net
 playhydrax.com
 playwire.com
 plex.direct
+pltraffic8.com
 plugin.mediavoice.com
 plusgrade.com
 pm0.net
@@ -2185,7 +2176,6 @@ postmediamontrealgazette2.files.wordpress.com
 powr.io
 powvideo.net
 ppro.de
-ppurifier.game.xiaomi.com
 pr0gramm.com
 prd.jwpltx.com
 prebid.adnxs.com
@@ -2356,7 +2346,6 @@ sandai.net
 sap.org.ar
 sas.com
 sas.samsungcloudsolution.com
-sascdn.com
 sb.scorecardresearch.com
 sc-static.net
 scanverify.com
@@ -2720,6 +2709,7 @@ traffic.alexa.com
 traffic.spot.im
 trafficjunky.net
 trafficrouter.io
+training-equipment.net
 traq.li
 travelzoo.com
 trbna.com
