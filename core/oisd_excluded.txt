@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Nov 2021 16:03:56 UTC
+# Last modified: 24 Nov 2021 00:16:10 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1211,7 +1211,6 @@ filmha.top
 filters.adtidy.org
 findglocal.com
 firebase-settings.crashlytics.com
-firebasestorage.googleapis.com
 fishki.net
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
@@ -1678,7 +1677,6 @@ iqtest.com
 irchan.com
 iris.tv
 ironbeast.io
-is.gd
 isgprivacy.cbsi.com
 isnssdk.com
 ist-track.com
@@ -1785,6 +1783,7 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
+login.vodafonemail.de
 logrocket.com
 logs-01.loggly.com
 logs.amap.com
@@ -2307,7 +2306,6 @@ s.btstatic.com
 s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
-s.id
 s.media-imdb.com
 s.shopify.com
 s.thebrighttag.com
