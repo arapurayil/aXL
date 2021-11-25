@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Nov 2021 16:03:48 UTC
+# Last modified: 25 Nov 2021 00:16:14 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -552,6 +552,7 @@ autopilothq.com
 avantlink.com
 avatarservices.xboxlive.com
 aviasales.ru
+aviatnetworks.com
 awaps.yandex.ru
 aweber.com
 awemwh.com
@@ -962,6 +963,7 @@ d2c8v52ll5s99u.cloudfront.net
 d2e0sxz09bo7k2.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
+d2ve5d3ejm85c1.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d3c3cq33003psk.cloudfront.net
@@ -1802,6 +1804,7 @@ mackeeper.com
 macromedia.com
 madmimi.com
 mads.amazon.com
+mads.de
 magiskmanager.com
 mailerlite.com
 mailfoogae.appspot.com
@@ -2640,6 +2643,7 @@ thebrighttag.com
 thecounter.com
 thedfirreport.com
 theintelligencer.com
+thethings.com
 theync.com
 thirdparty.bnc.lt
 thumb.pr0gramm.com
@@ -2685,7 +2689,6 @@ track.upaknee.com
 track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
-tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
@@ -2907,6 +2910,7 @@ www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
+www.mads.de
 www3.bloomingdales.com
 www3.webhostingtalk.com
 x.co
