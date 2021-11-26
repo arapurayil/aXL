@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.11.26
-# Last modified: 26 Nov 2021 00:16:20 UTC
+# Last modified: 26 Nov 2021 08:03:03 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1124,6 +1124,8 @@ advil.waze.com
 adweek.com
 adwords.google.com
 adyen.com
+adzerk.com
+adzerk.net
 ae.online.standardchartered.com
 ae01.alicdn.com
 ae911truth.org
@@ -3155,7 +3157,6 @@ avg.com
 avhospital.org
 avia.ideabank.ua
 aviasales.ru
-aviatnetworks.com
 avito.ru
 avon.payupay.ru
 avonanimalhospital.com
@@ -4933,6 +4934,7 @@ burgerliche-ek-bern.ch
 burkeandherbertbank.com
 burlbank.com
 burner.bonanza.com
+burnermail.io
 bus.ideabank.ua
 buscape.com.br
 busey.com
@@ -7284,6 +7286,7 @@ d3a510xmpll7o6.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
@@ -9214,6 +9217,7 @@ farmersfrankfort.com
 farmersnational.com
 farmside.co.nz
 fashionista.com
+fast-anime.ru
 fast.appcues.com
 fast.com
 fast.fonts.net
@@ -18654,7 +18658,6 @@ porn.com
 pornerbros.com
 pornhub.com
 pornmd.com
-pornrabbit.com
 porschebank.at
 porschefinance.hu
 port.sec.intl.miui.com
