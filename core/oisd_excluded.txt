@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Nov 2021 16:03:39 UTC
+# Last modified: 26 Nov 2021 00:16:20 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -387,6 +387,8 @@ advertising-module.api.dpgmedia.cloud
 advertising.amazon.com
 advertising.com
 adverts.ie
+adzerk.com
+adzerk.net
 affex.org
 affiliate.dmm.com
 affiliatefuture.com
@@ -552,7 +554,6 @@ autopilothq.com
 avantlink.com
 avatarservices.xboxlive.com
 aviasales.ru
-aviatnetworks.com
 awaps.yandex.ru
 aweber.com
 awemwh.com
@@ -968,6 +969,7 @@ d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
@@ -1198,6 +1200,7 @@ factinate.com
 fairyseason.com
 faktor.io
 falcoware.com
+fast-anime.ru
 fast.appcues.com
 fast.wistia.net
 fc.vodafone.de
@@ -1744,6 +1747,7 @@ kqzyfj.com
 kredytbank.com.ua
 krxd.net
 kubanmedia.org
+kutt.it
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2075,7 +2079,6 @@ p3.music.126.net
 p4.music.126.net
 paddleapi.com
 pagead.l.doubleclick.net
-pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pages03.net
 pair.com
@@ -2168,7 +2171,6 @@ pokerstrategy.com
 polldaddy.com
 polyfill.io
 pornerbros.com
-pornrabbit.com
 portableroms.com
 portalroms.com
 post.spmailtechno.com
@@ -2910,7 +2912,12 @@ www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.advertising.com
 www.adverts.ie
+www.d2r1yp2w7bby2u.cloudfront.net
+www.d2405b0jymm2dk.cloudfront.net
+www.googleadservices.com
+www.googletagservices.com
 www.mads.de
+www.omaze.com
 www3.bloomingdales.com
 www3.webhostingtalk.com
 x.co
