@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Nov 2021 16:04:27 UTC
+# Last modified: 30 Nov 2021 00:16:50 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
