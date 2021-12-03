@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.03
-# Last modified: 03 Dec 2021 08:05:55 UTC
+# Last modified: 03 Dec 2021 16:04:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2535,6 +2535,7 @@ app.snapchat.com
 app.stumbleupon.com
 app.syndicaster.tv
 app.townsq.io
+app.traderepublic.com
 app.twitch.tv
 app.vsaex.visualstudio.com
 app.wechat.com
@@ -5581,6 +5582,7 @@ charterbankwa.com
 charterbusiness.com
 charternationalbank.com
 charterone.com
+chartersavingsbank.co.uk
 charts.profinance.ru
 chase.com
 chasecanada.ca
@@ -13435,6 +13437,7 @@ leeds.gov.uk
 leesportbank.com
 legal.medium.com
 legal.qualcomm.com
+legalandgeneral.com
 legbank.kiev.ua
 lego.com
 lehigh.edu
@@ -16465,6 +16468,7 @@ online.tkbbank.ru
 online.transstroybank.ru
 online.tskb.com.tr
 online.unicombank.com.ua
+online.virginmoney.com
 online.vostbank.ru
 online.vtb-bank.kz
 online.vtb.ru
@@ -17767,6 +17771,7 @@ promotions.soundcloud.com
 propublica.org
 prosper-hospital.de
 prosperitybanktx.com
+prosperitybankusa.com
 prospertx.gov
 prostocash.com
 prothom-alo.com
@@ -19271,6 +19276,7 @@ sbcards.com.ph
 sbcglobal.net
 sbclinics.org
 sbdanbury.com
+sber-bank.by
 sberbank-ast.ru
 sberbank.hu
 sberbank.kz
@@ -24888,6 +24894,7 @@ yarbank.ru
 yastatic.net
 yau.sh
 ybrd.com.ye
+ybs.co.uk
 ycbank.com
 yeca.eu
 yect.com
