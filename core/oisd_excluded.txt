@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Dec 2021 08:03:52 UTC
+# Last modified: 04 Dec 2021 16:03:55 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -220,7 +220,6 @@ amdc.m.taobao.com
 americanlisted.com
 amplitude.com
 an.yandex.ru
-analyticacdn.com
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics.console.aws.a2z.com
 analytics.dev.azure.com
@@ -1536,6 +1535,7 @@ igg-games.com
 igodigital.com
 ikohs.com
 image.ceneo.pl
+image.richrelevance.com
 images.ccbill.com
 images.dmca.com
 images.dwell.com
@@ -2342,6 +2342,8 @@ s3-telemetry-eust3.cloudapp.net
 s3-telemetry-eust4.cloudapp.net
 s3.ll.videorolls.row.aiv-cdn.net
 s3.us-east-2.amazonaws.com
+s3.us-west-1.amazonaws.com
+s3.us-west-2.amazonaws.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
@@ -2429,6 +2431,7 @@ segpay.com
 self.events.data.microsoft.com
 sellfy.com
 sematext.com
+sendibt2.com
 sendibt3.com
 sendpul.se
 sensic.net
