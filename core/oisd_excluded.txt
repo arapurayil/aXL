@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Dec 2021 08:05:04 UTC
+# Last modified: 05 Dec 2021 16:04:07 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -73,7 +73,6 @@ a1737.b.akamai.net
 a1843.g.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
-ab1n.net
 ablink.e.hungryjacks.com.au
 aboluowang.com
 aboutads.info
@@ -81,8 +80,6 @@ ac.duckduckgo.com
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
-account-public-service-prod.ak.epicgames.com
-account-public-service-prod03.ol.epicgames.com
 account.wire.com
 accounts.livechatinc.com
 acdn.adnxs.com
@@ -109,7 +106,6 @@ adage.com
 adash.man.aliyuncs.com
 adashx.m.taobao.com
 adaware.com
-adblock.gjtech.net
 adblockplus.org
 adbrix.io
 adcell.com
@@ -143,7 +139,6 @@ ads.aws.fwmrm.net
 ads.google.com
 ads.harvard.edu
 ads.reddit.com
-ads.talkbusiness.net
 ads.twitter.com
 ads280dummy2.com
 adsafeprotected.com
@@ -394,7 +389,6 @@ akamaitechnologies.com
 akstat.io
 akstat.io.edgekey.net
 akvideo.stream
-al.dmm.co.jp
 alawar.com
 alb.reddit.com
 alexa.com
@@ -647,6 +641,7 @@ bilder-upload.eu
 bit.do
 bitcast-a.v1.iad1.bitgravity.com
 bitly.com
+bittersweetparis.com
 bizrate.com
 bj.bcebos.com
 bkav.com.vn
@@ -1240,7 +1235,6 @@ enter-system.com
 entitlements.jwplayer.com
 eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 ep00.epimg.net
-epicgames-download1.akamaized.net
 epl.paypal-communication.com
 epochweekly.com
 epsilon.com
@@ -1387,7 +1381,6 @@ freegeoip.app
 freegeoip.net
 freesteamkeys.com
 freewha.com
-friends-public-service-prod06.ol.epicgames.com
 fritz.box
 frog.wix.com
 frontier.musical.ly
@@ -1641,7 +1634,6 @@ iad-04.braze.com
 iad.liveperson.net
 iadsdk.apple.com
 iam-agof-app.irquest.com
-ias.r10s.jp
 ias.rakuten.co.jp
 ib.anycast.adnxs.com
 ib.snssdk.com
@@ -1940,7 +1932,6 @@ l.qq.com
 l2.io
 labs-mqtt.xda-developers.com
 lads.myspace.com
-launcher-public-service-prod06.ol.epicgames.com
 launcher.spot.im
 laureus.com
 lcprd1.samsungcloudsolution.net
@@ -2609,8 +2600,6 @@ s3-telemetry-eust3.cloudapp.net
 s3-telemetry-eust4.cloudapp.net
 s3.ll.videorolls.row.aiv-cdn.net
 s3.us-east-2.amazonaws.com
-s3.us-west-1.amazonaws.com
-s3.us-west-2.amazonaws.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
@@ -2636,6 +2625,7 @@ samsungresources.visionobjects.com
 samsungrm.net
 sanalytics.disneyplus.com
 sandai.net
+sanook.com
 sap.org.ar
 sas.com
 sas.samsungcloudsolution.com
@@ -2691,7 +2681,6 @@ secure.insightexpressai.com
 secure.oneallcdn.com
 secure.skypeassets.com
 secure.trust-guard.com
-securemecca.com
 securemetrics.apple.com
 securemvt.apple.com
 sedoparking.com
@@ -2878,6 +2867,7 @@ stereomag.ro
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
+storage.ning.com
 store-stc.zdn.vn
 store.playstation.com
 store.qq.com
@@ -3102,7 +3092,6 @@ ulmwp.org
 ultimedia.com
 umwatsonc.events.data.microsoft.com
 unagi-na.amazon.com
-unagi.amazon.co.jp
 unblocksit.es
 uni-rostock.de
 unid.go.com
