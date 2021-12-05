@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.12.04
-# Last modified: 04 Dec 2021 16:03:56 UTC
+# Version: 2.12.05
+# Last modified: 05 Dec 2021 00:18:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2121,7 +2121,6 @@ anadolubank.com.tr
 anadolufinans.com.tr
 anaesthesie-lainz.at
 analitik.edevlet.gov.tr
-analyticacdn.com
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics.bsgwireless.com
 analytics.console.aws.a2z.com
@@ -12730,6 +12729,7 @@ image.maps.api.here.com
 image.pandora.xiaomi.com
 image.prntscr.com
 image.rakuten.co.jp
+image.richrelevance.com
 image.samsung.com
 image.samsung.com.edgekey.net
 image.space.rakuten.co.jp
@@ -21177,6 +21177,7 @@ senator.ru
 send.firefox.com
 sendai-kousei-hospital.jp
 sendgrid.net
+sendibt2.com
 sendibt3.com
 sendinblue.hitbtc.com
 sendpul.se
