@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.12.05
-# Last modified: 05 Dec 2021 16:04:07 UTC
+# Version: 2.12.06
+# Last modified: 06 Dec 2021 00:17:21 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -466,7 +466,6 @@ aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
 aax-us-pdx.amazon-adsystem.com
 aax.amazon-adsystem.com
-ab1n.net
 aba-argentina.com
 aba.com
 abansa.org.sv
@@ -585,8 +584,6 @@ accesstrade.co.id
 accessus.net
 account-assets.jimstatic.com
 account-mag.com
-account-public-service-prod.ak.epicgames.com
-account-public-service-prod03.ol.epicgames.com
 account-us.huami.com
 account.adobe.com
 account.api.here.com
@@ -1307,7 +1304,6 @@ akut-klinik.de
 akvideo.stream
 al-bank.dk
 al-baraka.com
-al.dmm.co.jp
 alabamabankers.org
 alabamalandloan.com
 alaha.org
@@ -4384,6 +4380,7 @@ bitpanda.com
 bitpay.com
 bits.twitch.tv
 bitstamp.net
+bittersweetparis.com
 bittip.coinbase.com
 bittorrent.com
 bittrex.com
@@ -10215,7 +10212,6 @@ friendfeed.com
 friendfinder.api.np.km.playstation.net
 friendlife.com
 friendlybremenbank.com
-friends-public-service-prod06.ol.epicgames.com
 friends.isliev.nl
 friends.youthaward.org
 friendsclub.lt
@@ -12145,7 +12141,6 @@ iadsdk.apple.com
 iadsdk.apple.com.edgekey.net
 iam-agof-app.irquest.com
 iamcredentials.googleapis.com
-ias.r10s.jp
 ias.rakuten.co.jp
 ib-sachsen-anhalt.de
 ib.ablv.com
@@ -14427,7 +14422,6 @@ latesthackingnews.com
 latimes.com
 latimesblogs.latimes.com
 launchdarkly.com
-launcher-public-service-prod06.ol.epicgames.com
 launcher.nirsoft.net
 launcher.spot.im
 launcher.twitch.tv
@@ -20690,6 +20684,7 @@ sankt-katharinen-ffm.de
 sankt-nikolaus-hospital.de
 sanktgeorg.de
 sanmarcostx.gov
+sanook.com
 sanpaolo.com
 sanpaolo.fr
 sanpaolobancodinapoli.com
@@ -22952,6 +22947,7 @@ storage.l.googleusercontent.com
 storage.live.com
 storage.mds.yandex.net
 storage.msn.com
+storage.ning.com
 storage.pardot.com
 storage.sketch.sonymobile.com
 storage.snap.com
@@ -24437,7 +24433,6 @@ umweltbank.de
 un.org
 unagi-eu.amazon.com
 unagi-na.amazon.com
-unagi.amazon.co.jp
 unb.co.ae
 unbank.com
 unblocksit.es

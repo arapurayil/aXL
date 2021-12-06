@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Dec 2021 16:04:07 UTC
+# Last modified: 06 Dec 2021 00:17:21 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1532,6 +1532,7 @@ guidetopetersburg.com
 gunosy.com
 gvt2.com
 gynvael.coldwind.pl
+gz.gstatic.com
 h-sdk.online-metrix.net
 h.online-metrix.net
 h5.qzone.qq.com
@@ -1539,6 +1540,7 @@ habrahabr.ru
 hack-academy.fr
 hackers.com
 harriscomputer.com
+haveibeenpwned.com
 hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
@@ -1587,6 +1589,7 @@ hook.integromat.com
 horriblevideos.com
 horror-comics.com
 host-tracker.com
+hostg.xyz
 hosting-1a.mijndomein-ws.nl
 hosting24.com
 hostingprod.com
@@ -1950,6 +1953,7 @@ licensing.blinkreceipt.com
 licensing.mp.microsoft.com
 licensingphone.mp.microsoft.com
 lidl.media01.eu
+lifewire.com
 limited-prod.giphy.map.fastly.net
 limneos.net
 lindy.co.id
@@ -2064,6 +2068,7 @@ metric.gstatic.com
 metrics.claspws.tv
 metrics.hackerrank.com
 metrics.torproject.org
+mewe.com
 mgr.consensu.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
@@ -2185,6 +2190,7 @@ noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 nova.collect.igodigital.com
+novinky.cz
 now.eloqua.com
 nozonenet.com
 npdl.cdn.nintendowifi.net
@@ -2625,7 +2631,6 @@ samsungresources.visionobjects.com
 samsungrm.net
 sanalytics.disneyplus.com
 sandai.net
-sanook.com
 sap.org.ar
 sas.com
 sas.samsungcloudsolution.com
@@ -2961,7 +2966,6 @@ telemetry.microsoft.com
 telemetry.mozilla.org
 test.com
 test.quantcast.mgr.consensu.org
-thairath.co.th
 thaiticketmajor.com
 theannoyingsite.com
 thebrighttag.com
@@ -3091,7 +3095,6 @@ ulink.adjust.com
 ulmwp.org
 ultimedia.com
 umwatsonc.events.data.microsoft.com
-unagi-na.amazon.com
 unblocksit.es
 uni-rostock.de
 unid.go.com
