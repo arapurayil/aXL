@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.06
-# Last modified: 06 Dec 2021 00:17:21 UTC
+# Last modified: 06 Dec 2021 08:03:48 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -11322,6 +11322,7 @@ gyazo.com
 gyggs.com
 gynvael.coldwind.pl
 gz-lb1.internet.spanner.alipaydns.com
+gz.gstatic.com
 h-cdn.com
 h-sdk.online-metrix.net
 h.beta.facebook.com
@@ -11428,6 +11429,7 @@ hauck-aufhaeuser.de
 hauptstadt-spion.de
 hausbank.de
 hausderbarmherzigkeit.at
+haveibeenpwned.com
 havelhoehe.de
 hawaiicounty.gov
 hawaiinational.com
@@ -11818,6 +11820,7 @@ hoster3.com
 hosteur.com
 hostevo.com
 hostfactory.ch
+hostg.xyz
 hostgator.com
 hostinfo.co.uk
 hosting-1a.mijndomein-ws.nl
@@ -14607,6 +14610,7 @@ lifelog.blog.naver.com
 lifelog.sonymobile.com
 lifepointhospitals.com
 lifestream.aol.com
+lifewire.com
 liftoff.io
 ligabank.de
 light.ifmo.ru
@@ -15827,6 +15831,7 @@ metuchensavingsbank.com
 metzler.com
 meu.inss.gov.br
 mevas.com
+mewe.com
 mewkid.net
 mfb.hu
 mfbank.com
@@ -17178,6 +17183,7 @@ novaconnect.net
 novasavingsbank.com
 novatocommunity.org
 novb.com
+novinky.cz
 novo.brb.com.br
 now.bt.co
 now.eloqua.com
@@ -20684,7 +20690,6 @@ sankt-katharinen-ffm.de
 sankt-nikolaus-hospital.de
 sanktgeorg.de
 sanmarcostx.gov
-sanook.com
 sanpaolo.com
 sanpaolo.fr
 sanpaolobancodinapoli.com
@@ -23630,7 +23635,6 @@ tghospital.com
 tgleaders.com
 th.bibplus.uobgroup.com
 th.gravatar.com
-thairath.co.th
 thaiticketmajor.com
 thanachartbank.co.th
 thanejanata.co.in
