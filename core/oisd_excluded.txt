@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Dec 2021 16:03:31 UTC
+# Last modified: 07 Dec 2021 00:17:27 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -12,6 +12,7 @@
 2ip.ua
 2mdn.net
 2o7.net
+3.debian.pool.ntp.org
 3dme.com
 3gimg.qq.com
 3x.ro
@@ -403,6 +404,7 @@ alpari.ru
 amauthprd.samsungcloudsolution.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
+amazon.cn
 amazonbusiness.com
 amdc.m.taobao.com
 americanlisted.com
@@ -465,6 +467,7 @@ api.map.baidu.com
 api.mapbox.com
 api.micloud.xiaomi.net
 api.miwifi.com
+api.music.apple.com
 api.myteamspeak.com
 api.nextgen.guardianapps.co.uk
 api.opinary.com
@@ -545,6 +548,7 @@ asimov-win.settings.data.microsoft.com.akadns.net
 asm.skype.com
 assets-secure.applicaster.com
 assets.adobedtm.com
+assets.contentstack.io
 assets.dwell.com
 assets.minutemediacdn.com
 assets.penny-arcade.com
@@ -648,7 +652,6 @@ bkav.com.vn
 blackcanyoncoffee.com
 blackhatworld.com
 blastingnews.com
-blesk.cz
 blipblop.net
 blockthrough.com
 blog.disqus.com
@@ -1180,6 +1183,7 @@ e.imguol.com
 e.kc-education.com
 e.reddit.com
 e7876.dscg.akamaiedge.net
+e13252.dscg.akamaiedge.net
 ea.galerieslafayette.com
 eaglenews.in
 easy.box
@@ -1308,6 +1312,7 @@ fc.eulerian.net
 fc.vodafone.de
 fccinteractive.com
 feature.fm
+feed.theplatform.com
 feedsportal.com
 fembed.com
 fgmtv.org
@@ -1317,7 +1322,6 @@ files.msal.ru
 files.viva64.com
 fili.cc
 filmha.top
-filterlists.com
 findglocal.com
 firebase-settings.crashlytics.com
 fireflyengagement.com
@@ -1381,6 +1385,7 @@ freegeoip.app
 freegeoip.net
 freesteamkeys.com
 freewha.com
+friendfeed.com
 fritz.box
 frog.wix.com
 frontier.musical.ly
@@ -1490,6 +1495,7 @@ gocarrot.com
 godly.website
 goldbach.com
 google-analytics.com
+google.cd
 google.cf
 google.ga
 google.ml
@@ -1540,7 +1546,6 @@ habrahabr.ru
 hack-academy.fr
 hackers.com
 harriscomputer.com
-haveibeenpwned.com
 hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
@@ -1762,7 +1767,6 @@ identity.mparticle.com
 idevaffiliate.com
 idiagnostics.apple.com
 idmsa.apple.com
-idnes.cz
 idv0h0h.qiniudns.com
 ientrymail.com
 ieonlinews.microsoft.com
@@ -1898,6 +1902,7 @@ jwpcdn.com
 jwpltx.com
 k.cocooncenter.com
 k.sinaimg.cn
+k8s-eks-a328d5d878-1055604745.eu-central-1.elb.amazonaws.com
 kampyle.com
 kaotic.com
 katcr.to
@@ -2021,6 +2026,7 @@ manifest.auditude.com
 mapcam.info
 maps.windows.com
 marfeel.com
+marfeel.mgr.consensu.org
 marfeelcache.com
 marinetraffic.com
 marinsm.com
@@ -2068,7 +2074,7 @@ metric.gstatic.com
 metrics.claspws.tv
 metrics.hackerrank.com
 metrics.torproject.org
-mewe.com
+mfa.gov.ir
 mgr.consensu.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
@@ -2186,11 +2192,11 @@ nllapps.com
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
+notice.sp-prod.net
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 nova.collect.igodigital.com
-novinky.cz
 now.eloqua.com
 nozonenet.com
 npdl.cdn.nintendowifi.net
@@ -2467,6 +2473,7 @@ prvsz4pe.micpn.com
 psicologia-online.com
 pstmrk.it
 public-cdn.cloud.unity3d.com
+public.tracker.vraphim.com
 publicidees.com
 pubnub.com
 pull.ticktick.com
@@ -2503,6 +2510,7 @@ quantummetric.com
 questionpro.com
 quiddity.goguardian.com
 quttera.com
+qzone.qq.com
 qzonestyle.gtimg.cn
 qzs.qq.com
 r.bbci.co.uk
@@ -2634,6 +2642,7 @@ sandai.net
 sap.org.ar
 sas.com
 sas.samsungcloudsolution.com
+sascdn.com
 sb.scorecardresearch.com
 sc-static.net
 scanverify.com
@@ -2741,6 +2750,7 @@ shop.spreadshirt.com
 shopperapproved.com
 shopzilla.com
 shorte.st
+sibboventures.mgr.consensu.org
 sibforms.com
 sickrage.ca
 sift.com
@@ -2801,6 +2811,7 @@ sp-seller.webkul.com
 spade.twitch.tv
 spamhaus.net
 spankwire.com
+sparkasse-alk.de
 spclient.wg.spotify.com
 speedcheck.org
 speeddials.opera.com
@@ -2872,9 +2883,7 @@ stereomag.ro
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
-storage.ning.com
 store-stc.zdn.vn
-store.playstation.com
 store.qq.com
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
@@ -3024,10 +3033,13 @@ track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
 tracker.idocdn.com
+tracker.ilibr.org
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
 tracker.pomf.se
+tracker.publicbt.com
+tracker.x4w.co
 trackersimulator.org
 tracking.bp01.net
 tracking.epicgames.com
@@ -3044,7 +3056,6 @@ traffic.spot.im
 trafficguard.ai
 trafficjunky.net
 trafficrouter.io
-training-equipment.net
 traq.li
 travelzoo.com
 trbna.com
@@ -3095,6 +3106,7 @@ ulink.adjust.com
 ulmwp.org
 ultimedia.com
 umwatsonc.events.data.microsoft.com
+unagi-na.amazon.com
 unblocksit.es
 uni-rostock.de
 unid.go.com
@@ -3197,6 +3209,7 @@ vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
+vsco.co
 vseinstrumenti.ru
 vur.me
 vz-cdn.trafficjunky.net
@@ -3274,6 +3287,7 @@ www1.amnhealthcare.com
 www3.bloomingdales.com
 www3.webhostingtalk.com
 wwwimg.roku.com
+x-default-stgec.uplynk.com
 x.co
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
