@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.07
-# Last modified: 07 Dec 2021 08:04:43 UTC
+# Last modified: 07 Dec 2021 16:04:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -18112,6 +18112,7 @@ p3.documentsawsperf.adobe.com
 p3.music.126.net
 p3.pstatp.com
 p30download.com
+p33-imap.mail.me.com.akadns.net
 p3nlhclust404.shr.prod.phx3.secureserver.net
 p4.music.126.net
 p5.documentsawsperf.adobe.com
