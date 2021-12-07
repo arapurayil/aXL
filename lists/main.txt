@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.07
-# Last modified: 07 Dec 2021 00:17:27 UTC
+# Last modified: 07 Dec 2021 08:04:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2469,6 +2469,7 @@ api.miui.security.xiaomi.com
 api.miwifi.com
 api.mixpanel.com
 api.monitor.azure.com
+api.music.apple.com
 api.myteamspeak.com
 api.naver.com
 api.netflix.com
@@ -2951,6 +2952,7 @@ assets.alicdn.com
 assets.boomkat.com
 assets.clickfunnels.com
 assets.coinbase.com
+assets.contentstack.io
 assets.coolblue.nl
 assets.dailykos.com
 assets.dealabs.com
@@ -4440,7 +4442,6 @@ blcnet.com
 ble.pl
 bleacherreport.com
 bleepingcomputer.com
-blesk.cz
 blessinganimalhospital.com
 blessinghospital.org
 blim.com
@@ -8369,6 +8370,7 @@ e11.whatsapp.net
 e1151.e12.akamaiedge.net
 e12.whatsapp.net
 e13.whatsapp.net
+e13252.dscg.akamaiedge.net
 e14.whatsapp.net
 e15.whatsapp.net
 e16.whatsapp.net
@@ -9438,6 +9440,7 @@ fednetbank.com
 fedramp.gov
 fedshirevets.gov
 feed.feedburner.com
+feed.theplatform.com
 feed.xda-developers.com
 feedback.aliexpress.com
 feedback.diigo.com
@@ -11429,7 +11432,6 @@ hauck-aufhaeuser.de
 hauptstadt-spion.de
 hausbank.de
 hausderbarmherzigkeit.at
-haveibeenpwned.com
 havelhoehe.de
 hawaiicounty.gov
 hawaiinational.com
@@ -12644,7 +12646,6 @@ idiagnostics.apple.com.akadns.net
 idirecthosting.com
 idmanagement.gov
 idmsa.apple.com
-idnes.cz
 idnotify.com
 idownloadblog.com
 idroid.taobao.com
@@ -13689,6 +13690,7 @@ k.cocooncenter.com
 k.sinaimg.cn
 k1.midasplayer.com
 k2.secure-banking.com
+k8s-eks-a328d5d878-1055604745.eu-central-1.elb.amazonaws.com
 ka.gravatar.com
 kaba.hr
 kabulbank.com
@@ -15260,6 +15262,7 @@ marca.com
 marcard.de
 marcus.com
 marfeel.com
+marfeel.mgr.consensu.org
 marfeelcache.com
 marfinbank.ua
 margevicius.lt
@@ -15831,8 +15834,8 @@ metuchensavingsbank.com
 metzler.com
 meu.inss.gov.br
 mevas.com
-mewe.com
 mewkid.net
+mfa.gov.ir
 mfb.hu
 mfbank.com
 mfbank.ru
@@ -17154,6 +17157,7 @@ noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
 notice.samsungcloudsolution.com
+notice.sp-prod.net
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -17183,7 +17187,6 @@ novaconnect.net
 novasavingsbank.com
 novatocommunity.org
 novb.com
-novinky.cz
 novo.brb.com.br
 now.bt.co
 now.eloqua.com
@@ -19258,6 +19261,7 @@ public.atl-paas.net
 public.sandbox.exchange.coinbase.com
 public.sandbox.pro.coinbase.com
 public.sn.files.1drv.com
+public.tracker.vraphim.com
 public.vilynx.com
 publicbank.com.my
 publicidees.com
@@ -19420,6 +19424,7 @@ qxp.cz
 qxp.sk
 qzccbank.com
 qze.it
+qzone.qq.com
 qzonestyle.gtimg.cn
 qzs.qq.com
 r-sns.com
@@ -21454,6 +21459,7 @@ siasat.pk
 siatka.org
 sib.ci
 sibank.ru
+sibboventures.mgr.consensu.org
 sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
@@ -22952,7 +22958,6 @@ storage.l.googleusercontent.com
 storage.live.com
 storage.mds.yandex.net
 storage.msn.com
-storage.ning.com
 storage.pardot.com
 storage.sketch.sonymobile.com
 storage.snap.com
@@ -24002,12 +24007,15 @@ tracker.cyber-hub.net
 tracker.debian.org
 tracker.dominos.com
 tracker.idocdn.com
+tracker.ilibr.org
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
 tracker.opentrackr.org
 tracker.pomf.se
+tracker.publicbt.com
 tracker.trackerfix.com
+tracker.x4w.co
 trackersimulator.org
 tracking-protection.cdn.mozilla.net
 tracking.bp01.net
@@ -24042,7 +24050,6 @@ trafficmanager.net
 trafficrouter.io
 trailers.apple.com
 train.ideabank.ua
-training-equipment.net
 trak.in
 trakt.tv
 trakyagoz.com.tr
@@ -25714,6 +25721,7 @@ vrouw.nl
 vrsta.de
 vrwm.de
 vsassets.io
+vsco.co
 vscode-update.azurewebsites.net
 vseinstrumenti.ru
 vsenashi.com
@@ -26611,6 +26619,7 @@ wyomingbankers.com
 wyspagier.pl
 wywy.com
 wzcb.com.cn
+x-default-stgec.uplynk.com
 x.co
 x.kinja-static.com
 x.nu
