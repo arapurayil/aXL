@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.08
-# Last modified: 08 Dec 2021 00:17:36 UTC
+# Last modified: 08 Dec 2021 08:03:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2469,7 +2469,6 @@ api.miui.security.xiaomi.com
 api.miwifi.com
 api.mixpanel.com
 api.monitor.azure.com
-api.music.apple.com
 api.myteamspeak.com
 api.naver.com
 api.netflix.com
@@ -2952,7 +2951,6 @@ assets.alicdn.com
 assets.boomkat.com
 assets.clickfunnels.com
 assets.coinbase.com
-assets.contentstack.io
 assets.coolblue.nl
 assets.dailykos.com
 assets.dealabs.com
@@ -7500,6 +7498,7 @@ davivienda.com
 day2day.dk
 daycoval.com.br
 days.yahoo.co.jp
+daystar.ac.ke
 daytonhearthospital.com
 db-ip.com
 db-pbc.pl
@@ -9008,6 +9007,7 @@ etrk.asus.com
 etrust.ru
 etsy.com
 ettoday.com
+eu-central-1.prod.ecosia.org
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu.cdn.survey.medallia.com
@@ -9337,6 +9337,7 @@ fastdrama.se
 fasthosts.co.uk
 fastly-chat.ign.com
 fastly.net
+fastmailusercontent.com
 fastpic.ru
 fatal.ru
 fatcow.com
@@ -9440,7 +9441,6 @@ fednetbank.com
 fedramp.gov
 fedshirevets.gov
 feed.feedburner.com
-feed.theplatform.com
 feed.xda-developers.com
 feedback.aliexpress.com
 feedback.diigo.com
@@ -18112,7 +18112,6 @@ p3.documentsawsperf.adobe.com
 p3.music.126.net
 p3.pstatp.com
 p30download.com
-p33-imap.mail.me.com.akadns.net
 p3nlhclust404.shr.prod.phx3.secureserver.net
 p4.music.126.net
 p5.documentsawsperf.adobe.com
@@ -19401,6 +19400,7 @@ quantcast.com
 quantcast.mgr.consensu.org
 quantummetric.com
 quarterlife.com
+quartic.pl
 quepasa.com
 query.prod.cms.rt.microsoft.com
 query.yahoo.com
@@ -19425,7 +19425,6 @@ qxp.cz
 qxp.sk
 qzccbank.com
 qze.it
-qzone.qq.com
 qzonestyle.gtimg.cn
 qzs.qq.com
 r-sns.com
@@ -19473,6 +19472,7 @@ radabank.com.ua
 radeant.com
 radiant.net
 radikal.ru
+radio.com
 radiostacja.pl
 rahnbodmer.ch
 rahnet.net
@@ -19797,6 +19797,7 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
+rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -19904,6 +19905,7 @@ rebelmouse.com
 rebrand.ly
 rebrandly.com
 rebrandlydomain.com
+rec.quartic.pl
 rec.voot.com
 recaptcha.net
 recargapay.com.br
@@ -20745,6 +20747,7 @@ savingsinstitute.com
 savingsloans.com.au
 savvis.net
 savvyspace.com
+sawap.equifax.com
 saythanks.io
 sb-ssl.google.com
 sb.hitbtc.com
@@ -21210,7 +21213,6 @@ sendgrid.net
 sendibt2.com
 sendibt3.com
 sendinblue.hitbtc.com
-sendpul.se
 sendspace.com
 sendwyre.com
 senecafederal.com
@@ -24008,15 +24010,12 @@ tracker.cyber-hub.net
 tracker.debian.org
 tracker.dominos.com
 tracker.idocdn.com
-tracker.ilibr.org
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
 tracker.opentrackr.org
 tracker.pomf.se
-tracker.publicbt.com
 tracker.trackerfix.com
-tracker.x4w.co
 trackersimulator.org
 tracking-protection.cdn.mozilla.net
 tracking.bp01.net
@@ -24202,6 +24201,7 @@ turkishbanks.com
 turkishạirlines.com
 turkiye.gov.tr
 turkiyefinans.com.tr
+turkmmo.com
 turner.com
 turystyka.gov.pl
 tusa.co.il
@@ -25722,7 +25722,6 @@ vrouw.nl
 vrsta.de
 vrwm.de
 vsassets.io
-vsco.co
 vscode-update.azurewebsites.net
 vseinstrumenti.ru
 vsenashi.com
@@ -26620,7 +26619,6 @@ wyomingbankers.com
 wyspagier.pl
 wywy.com
 wzcb.com.cn
-x-default-stgec.uplynk.com
 x.co
 x.kinja-static.com
 x.nu
