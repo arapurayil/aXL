@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Dec 2021 16:04:46 UTC
+# Last modified: 08 Dec 2021 00:17:36 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -12,7 +12,6 @@
 2ip.ua
 2mdn.net
 2o7.net
-3.debian.pool.ntp.org
 3dme.com
 3gimg.qq.com
 3x.ro
@@ -404,7 +403,6 @@ alpari.ru
 amauthprd.samsungcloudsolution.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
-amazon.cn
 amazonbusiness.com
 amdc.m.taobao.com
 americanlisted.com
@@ -467,7 +465,6 @@ api.map.baidu.com
 api.mapbox.com
 api.micloud.xiaomi.net
 api.miwifi.com
-api.music.apple.com
 api.myteamspeak.com
 api.nextgen.guardianapps.co.uk
 api.opinary.com
@@ -548,7 +545,6 @@ asimov-win.settings.data.microsoft.com.akadns.net
 asm.skype.com
 assets-secure.applicaster.com
 assets.adobedtm.com
-assets.contentstack.io
 assets.dwell.com
 assets.minutemediacdn.com
 assets.penny-arcade.com
@@ -1075,6 +1071,7 @@ datadoghq-browser-agent.com
 datarouter-prod.ak.epicgames.com
 datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
+daystar.ac.ke
 db5.vortex.data.microsoft.com.akadns.net
 dbdm-events.mybluemix.net
 dc.applicationinsights.azure.com
@@ -1255,6 +1252,7 @@ etoro.com
 etracker.de
 etrk.asus.com
 ettoday.com
+eu-central-1.prod.ecosia.org
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu.spgo.io
@@ -1308,11 +1306,11 @@ falcoware.com
 falundafa.org
 fast.appcues.com
 fast.wistia.net
+fastmailusercontent.com
 fc.eulerian.net
 fc.vodafone.de
 fccinteractive.com
 feature.fm
-feed.theplatform.com
 feedsportal.com
 fembed.com
 fgmtv.org
@@ -1385,7 +1383,6 @@ freegeoip.app
 freegeoip.net
 freesteamkeys.com
 freewha.com
-friendfeed.com
 fritz.box
 frog.wix.com
 frontier.musical.ly
@@ -1460,6 +1457,7 @@ getdrip.com
 getroman.com
 gfe.nvidia.com
 gfwsl.geforce.com
+gg.gg
 gg.google.com
 ghbtns.com
 ghostery-collector.ghostery.com
@@ -1495,7 +1493,6 @@ gocarrot.com
 godly.website
 goldbach.com
 google-analytics.com
-google.cd
 google.cf
 google.ga
 google.ml
@@ -2287,7 +2284,6 @@ onetrust.mgr.consensu.org
 online-metrix.net
 online.adservicemedia.dk
 online.com
-ono.com
 ooyala.com
 open-tracker.info
 openmarket.com
@@ -2326,7 +2322,6 @@ p2.music.126.net
 p3.music.126.net
 p4.music.126.net
 p11.techlab-cdn.com
-p33-imap.mail.me.com.akadns.net
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -2508,10 +2503,10 @@ qqc.co
 quainator.com
 quantcast.mgr.consensu.org
 quantummetric.com
+quartic.pl
 questionpro.com
 quiddity.goguardian.com
 quttera.com
-qzone.qq.com
 qzonestyle.gtimg.cn
 qzs.qq.com
 r.bbci.co.uk
@@ -2523,10 +2518,12 @@ r1.ykimg.com
 r2.ea.eulerian.net
 r42tag.com
 radeant.com
+radio.com
 ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
+rb.gy
 rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
@@ -2535,6 +2532,7 @@ rdx2.lgtvsdp.com
 realsrv.com
 realtime.services.disqus.com
 rebrand.ly
+rec.quartic.pl
 recruitics.com
 recs.richrelevance.com
 redefine.hit.stat24.com
@@ -2580,6 +2578,7 @@ rover.ebay.co.uk
 rover.ebay.com
 row-advil.waze.com
 royalultimate.com
+rpetri.ch
 rpgenerator.net
 rpxnow.com
 rs6.net
@@ -2644,6 +2643,7 @@ sap.org.ar
 sas.com
 sas.samsungcloudsolution.com
 sascdn.com
+sawap.equifax.com
 sb.scorecardresearch.com
 sc-static.net
 scanverify.com
@@ -2709,7 +2709,6 @@ sellfy.com
 sematext.com
 sendibt2.com
 sendibt3.com
-sendpul.se
 sensic.net
 sentry.io
 serve.adtrackers.net
@@ -2812,7 +2811,6 @@ sp-seller.webkul.com
 spade.twitch.tv
 spamhaus.net
 spankwire.com
-sparkasse-alk.de
 spclient.wg.spotify.com
 speedcheck.org
 speeddials.opera.com
@@ -3034,13 +3032,10 @@ track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
 tracker.idocdn.com
-tracker.ilibr.org
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
 tracker.pomf.se
-tracker.publicbt.com
-tracker.x4w.co
 trackersimulator.org
 tracking.bp01.net
 tracking.epicgames.com
@@ -3080,6 +3075,7 @@ truste.com
 trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tuidang.org
+turkmmo.com
 tvn.adocean.pl
 tvn.hit.gemius.pl
 tvpage.com
@@ -3210,7 +3206,6 @@ vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
-vsco.co
 vseinstrumenti.ru
 vur.me
 vz-cdn.trafficjunky.net
@@ -3288,7 +3283,6 @@ www1.amnhealthcare.com
 www3.bloomingdales.com
 www3.webhostingtalk.com
 wwwimg.roku.com
-x-default-stgec.uplynk.com
 x.co
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
