@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Dec 2021 16:03:39 UTC
+# Last modified: 09 Dec 2021 00:16:57 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -23,7 +23,6 @@
 24.hu
 51.com
 51.la
-51yes.com
 56.com
 58cdn.com.cn
 102.112.2o7.net
@@ -125,6 +124,7 @@ adjust.world
 adl.windows.com
 adlanding.admarketplace.net.akadns.net
 adlandpro.com
+adm3.autoimg.cn
 admarkt.marktplaats.nl
 admitad.com
 adnetasia.com
@@ -651,6 +651,7 @@ blastingnews.com
 blipblop.net
 blockthrough.com
 blog.disqus.com
+blogcatalog.com
 blogsmithmedia.com
 blogspot.com.by
 blogtopsites.com
@@ -698,6 +699,7 @@ buysub.com
 buzzador.com
 buzzmein.com
 bwin.com
+bxczchdxynw.com
 by.uservoice.com
 byet.org
 byside.com
@@ -1167,6 +1169,7 @@ dspultra.com
 dstreet.pl
 dtiserv2.com
 dts.podtrac.com
+duc.edu.iq
 duckdns.org
 dw.com.com
 dwq4do82y8xi7.cloudfront.net
@@ -1180,7 +1183,6 @@ e.imguol.com
 e.kc-education.com
 e.reddit.com
 e7876.dscg.akamaiedge.net
-e13252.dscg.akamaiedge.net
 ea.galerieslafayette.com
 eaglenews.in
 easy.box
@@ -1306,13 +1308,13 @@ falcoware.com
 falundafa.org
 fast.appcues.com
 fast.wistia.net
-fastmailusercontent.com
 fc.eulerian.net
 fc.vodafone.de
 fccinteractive.com
 feature.fm
 feedsportal.com
 fembed.com
+ffdns.net
 fgmtv.org
 file.market.xiaomi.com
 filehorse.com
@@ -1457,7 +1459,6 @@ getdrip.com
 getroman.com
 gfe.nvidia.com
 gfwsl.geforce.com
-gg.gg
 gg.google.com
 ghbtns.com
 ghostery-collector.ghostery.com
@@ -1899,7 +1900,6 @@ jwpcdn.com
 jwpltx.com
 k.cocooncenter.com
 k.sinaimg.cn
-k8s-eks-a328d5d878-1055604745.eu-central-1.elb.amazonaws.com
 kampyle.com
 kaotic.com
 katcr.to
@@ -2067,6 +2067,7 @@ met2.hp.com
 metaffiliation.com
 meteomaastricht.nl
 metok.sys.miui.com
+metric-public-service-prod.ol.epicgames.com
 metric.gstatic.com
 metrics.claspws.tv
 metrics.hackerrank.com
@@ -2091,6 +2092,7 @@ minghui.org
 minorshort.weixin.qq.com
 mis.migc.xiaomi.com
 miscopy.com
+mistat.xiaomi.com
 mixi.jp
 mixi.media
 mkt51.net
@@ -2114,6 +2116,7 @@ monitor.clickcease.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
+mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mparticle.map.fastly.net
@@ -2122,7 +2125,6 @@ mpsnare.iesnare.com
 mqtt-mini.facebook.com
 mr.da.netease.com
 mradx.net
-mrex.exs.pl
 mrzikj.com
 ms.yandex.ru
 msa.hinet.net
@@ -2291,6 +2293,7 @@ openmobile.qq.com
 openvim.com
 opera-proxy.net
 opinionstage.com
+ops.bpost.be
 optanon.blob.core.windows.net
 optimizely.com
 optimizely.com.edgekey.net
@@ -2387,7 +2390,6 @@ pixelzirkus.gameforge.com
 pjatr.com
 pjtra.com
 pl.rdx2.lgtvsdp.com
-placehold.it
 planet.net
 planning-analytics.ibmcloud.com
 plantengineering.com
@@ -2452,6 +2454,7 @@ prod-adops-proxy.dnitv.net
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
 prod-rotation-v2.guce.aws.oath.cloud
+prod.ecosia.org
 prod.imgur.map.fastlylb.net
 prod.leanplum.com
 prod.mobile.roku.com
@@ -2469,7 +2472,6 @@ prvsz4pe.micpn.com
 psicologia-online.com
 pstmrk.it
 public-cdn.cloud.unity3d.com
-public.tracker.vraphim.com
 publicidees.com
 pubnub.com
 pull.ticktick.com
@@ -2518,12 +2520,10 @@ r1.ykimg.com
 r2.ea.eulerian.net
 r42tag.com
 radeant.com
-radio.com
 ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
-rb.gy
 rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
@@ -2557,6 +2557,7 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2578,7 +2579,6 @@ rover.ebay.co.uk
 rover.ebay.com
 row-advil.waze.com
 royalultimate.com
-rpetri.ch
 rpgenerator.net
 rpxnow.com
 rs6.net
@@ -2618,6 +2618,7 @@ s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
+sa.aol.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 safebrowsing-cache.google.com
@@ -3148,6 +3149,7 @@ users.on.net
 users.telenet.be
 ust.chatango.com
 uzone.id
+uzreklam.com
 v-mate.mobi
 v.fwmrm.net
 v.shopify.com
@@ -3221,6 +3223,7 @@ wallpapers.com
 wallstreetcn.com
 watch-jav.com
 watson.telemetry.microsoft.com
+way2traffic.com
 wayin.com
 web.vortex.data.microsoft.com
 webair.com
@@ -3273,7 +3276,6 @@ ws-comments.ign.com
 ws.126.net
 ws.batch.com
 ws.mmstat.com
-wss.analyticacdn.com
 wt-eu02.net
 wujieliulan.com
 wumii.com
