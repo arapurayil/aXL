@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Dec 2021 08:03:02 UTC
+# Last modified: 09 Dec 2021 16:04:29 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -70,6 +70,7 @@ a248.e.akamai.net
 a771.dscq.akamai.net
 a1737.b.akamai.net
 a1843.g.akamai.net
+a43601.actonservice.com
 aan.amazon.com
 aax-us-iad.amazon.com
 ablink.e.hungryjacks.com.au
@@ -86,6 +87,7 @@ acenar.com
 ackcdn.net
 acpbdf.com.br
 acr0.samsungcloudsolution.com
+actie.milieudefensie.nl
 action.metaffiliation.com
 activation.unity3d.com
 activity.windows.com
@@ -131,6 +133,7 @@ adnetasia.com
 adnxs.com
 adobedtm.com
 adocean.pl
+adpushup.com
 adregain.com
 adrise.tv
 ads-blocker.com
@@ -354,7 +357,6 @@ adservice.google.vg
 adservice.google.vu
 adservice.google.ws
 adservicemedia.dk
-adserving-edge.videoplaza.tv
 adserwer.afilo.pl
 adsp.xunlei.com
 adswizz.com
@@ -410,7 +412,6 @@ amplitude.com
 an.yandex.ru
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics.console.aws.a2z.com
-analytics.dev.azure.com
 analytics.edgekey.net
 analytics.google.com
 analytics.robinhood.com
@@ -464,7 +465,6 @@ api.loganalytics.io
 api.map.baidu.com
 api.mapbox.com
 api.micloud.xiaomi.net
-api.miwifi.com
 api.myteamspeak.com
 api.nextgen.guardianapps.co.uk
 api.opinary.com
@@ -629,7 +629,6 @@ betclic.com
 betrad.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
-bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
 bi.gazeta.pl
 bi.medscape.com
@@ -732,7 +731,6 @@ cbox.ws
 cbs.wondershare.com
 cbsinteractive.com
 cc-dt.com
-cc.1clickcdn.ru
 ccleaner.tools.avcdn.net
 cdex.mu
 cdn-gl.imrworldwide.com
@@ -1075,7 +1073,6 @@ datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
 daystar.ac.ke
 db5.vortex.data.microsoft.com.akadns.net
-dbdm-events.mybluemix.net
 dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
@@ -1168,7 +1165,6 @@ ds-www.addthis.com.edgekey.net
 dspultra.com
 dstreet.pl
 dtiserv2.com
-dts.podtrac.com
 duc.edu.iq
 duckdns.org
 dw.com.com
@@ -1265,7 +1261,6 @@ eultech.fnac.com
 eurobet.it
 event.udn.com
 events.apester.com
-events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -1442,8 +1437,6 @@ geo2.adobe.com
 geo3.ggpht.com
 geoip-db.com
 geoip.hmageo.com
-geoip.hotstar.com
-geoip.redirect-ads.com
 geojs.io
 geolite.maxmind.com
 geoloc.arte.tv
@@ -1608,7 +1601,6 @@ hs.eloqua.com
 hsforms.com
 hsforms.net
 hspx.hotstar.com
-ht.cdn.turner.com
 ht.ly
 ht.youporn.com
 http-test1.luminatinet.com
@@ -1932,7 +1924,6 @@ kryptoslogic.com
 l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
-l.franceculture.fr
 l.qq.com
 l2.io
 labs-mqtt.xda-developers.com
@@ -2069,8 +2060,8 @@ meteomaastricht.nl
 metok.sys.miui.com
 metric-public-service-prod.ol.epicgames.com
 metric.gstatic.com
+metrics-k.wbx2.com
 metrics.claspws.tv
-metrics.hackerrank.com
 metrics.torproject.org
 mfa.gov.ir
 mgr.consensu.org
@@ -2092,7 +2083,6 @@ minghui.org
 minorshort.weixin.qq.com
 mis.migc.xiaomi.com
 miscopy.com
-mistat.xiaomi.com
 mixi.jp
 mixi.media
 mkt51.net
@@ -2116,7 +2106,6 @@ monitor.clickcease.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
-mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mparticle.map.fastly.net
@@ -2199,6 +2188,7 @@ nova.collect.igodigital.com
 now.eloqua.com
 nozonenet.com
 npdl.cdn.nintendowifi.net
+nprotect.com
 npttech.com
 nr-data.net
 nrdp.nccp.netflix.com
@@ -2413,8 +2403,6 @@ pltraffic8.com
 plugin.mediavoice.com
 plusgrade.com
 pm0.net
-pmcares.fund
-pnapi.invoca.net
 pntra.com
 pntrac.com
 pntrs.com
@@ -2557,7 +2545,6 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2618,7 +2605,6 @@ s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
-sa.aol.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 safebrowsing-cache.google.com
@@ -2687,7 +2673,6 @@ seccdn-gl.imrworldwide.com
 secondlife.com
 secretchina.com
 secure-gl.imrworldwide.com
-secure-media.hotstar.com
 secure-us.imrworldwide.com
 secure.adnxs.com
 secure.footprint.net
@@ -2716,7 +2701,6 @@ serve.adtrackers.net
 servedby.o2.co.uk
 server.iad.liveperson.net
 service.cz.nl
-service.hotstar.com
 service.weibo.com
 services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
@@ -2736,7 +2720,6 @@ sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com.edgekey.net
 shareaholic.com
-shareasale-analytics.com
 shareasale.com
 sharethis.com
 sharewood.org
@@ -2868,10 +2851,7 @@ static.ws.126.net
 statics-marketingsites-eus-ms-com.akamaized.net
 staticxx.facebook.com
 stats.adobe.com
-stats.gc-apple.com.akadns.net
 stats.gc.apple.com
-stats.gc.fe.apple-dns.net
-stats.nba.com
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
@@ -2896,7 +2876,6 @@ streamplay.to
 strikinglycdn.com
 stripe.network
 stroeerdigitalgroup.de
-sub-pubsub.hotstar-labs.com
 subs.youmaker.com
 sucmetrics.unicredit.it
 suggestqueries-clients6.youtube.com
@@ -2915,6 +2894,7 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
+synlab.lt
 sypi.gpshopper.com
 sysdig.com
 systweak.com
@@ -3023,7 +3003,6 @@ track.adform.net
 track.adtraction.com
 track.customer.io
 track.effiliation.com
-track.grab.in
 track.kuronekoyamato.co.jp
 track.nzz.ch
 track.omgpl.com
@@ -3075,6 +3054,7 @@ trustarc.mgr.consensu.org
 truste.com
 trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+tudasfaja.com
 tuidang.org
 turkmmo.com
 tvn.adocean.pl
@@ -3288,7 +3268,6 @@ wwwimg.roku.com
 x.co
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
-xapi.ozon.ru
 xdm.wireless.att.com
 xg4ken.com
 xhcom.edu.cn
