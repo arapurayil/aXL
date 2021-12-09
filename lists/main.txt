@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.09
-# Last modified: 09 Dec 2021 00:16:57 UTC
+# Last modified: 09 Dec 2021 08:03:03 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -308,7 +308,6 @@
 50webs.com
 51.com
 51.la
-51yes.com
 5231.xg4ken.com
 53.com
 55.ru
@@ -804,6 +803,7 @@ adlandpro.com
 adli.pw
 adlice.com
 adm.fwmrm.net
+adm3.autoimg.cn
 admarkt.marktplaats.nl
 admdownload.adobe.com
 admin-official.line.me
@@ -5035,6 +5035,7 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
+bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -8281,6 +8282,7 @@ du1gtm004.adobe.com
 dualstack.kayak.map.fastly.net
 duba.com
 dubuquebank.com
+duc.edu.iq
 duck.co
 duckdns.org
 duckduckgo.com
@@ -8369,7 +8371,6 @@ e11.whatsapp.net
 e1151.e12.akamaiedge.net
 e12.whatsapp.net
 e13.whatsapp.net
-e13252.dscg.akamaiedge.net
 e14.whatsapp.net
 e15.whatsapp.net
 e16.whatsapp.net
@@ -9337,7 +9338,6 @@ fastdrama.se
 fasthosts.co.uk
 fastly-chat.ign.com
 fastly.net
-fastmailusercontent.com
 fastpic.ru
 fatal.ru
 fatcow.com
@@ -9496,6 +9496,7 @@ ffbnk.com
 ffbonline.com
 ffbtn.com
 ffc-icons.oobesaas.adobe.com
+ffdns.net
 fff.re
 fff.to
 fff.wf
@@ -13690,7 +13691,6 @@ k.cocooncenter.com
 k.sinaimg.cn
 k1.midasplayer.com
 k2.secure-banking.com
-k8s-eks-a328d5d878-1055604745.eu-central-1.elb.amazonaws.com
 ka.gravatar.com
 kaba.hr
 kabulbank.com
@@ -15809,6 +15809,7 @@ methodisthospital.org
 methodisthospitals.org
 metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
+metric-public-service-prod.ol.epicgames.com
 metric.gstatic.com
 metrics.aem.playstation.com
 metrics.brightcove.com
@@ -16011,6 +16012,7 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -16304,7 +16306,6 @@ mqtt.pushy.me
 mr.da.netease.com
 mradx.net
 mrbank.com.pl
-mrex.exs.pl
 mrhospital.com
 mrodevicemgr.officeapps.live.com
 mrthumb.nabstudio.com
@@ -17890,6 +17891,7 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
+ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -19083,6 +19085,7 @@ prod.api.bka.sh
 prod.appnexus.map.fastly.net
 prod.cloud.rockstargames.com
 prod.disqus.map.fastlylb.net
+prod.ecosia.org
 prod.imgur.map.fastlylb.net
 prod.leanplum.com
 prod.mobile.roku.com
@@ -19261,7 +19264,6 @@ public.atl-paas.net
 public.sandbox.exchange.coinbase.com
 public.sandbox.pro.coinbase.com
 public.sn.files.1drv.com
-public.tracker.vraphim.com
 public.vilynx.com
 publicbank.com.my
 publicidees.com
@@ -19472,7 +19474,6 @@ radabank.com.ua
 radeant.com
 radiant.net
 radikal.ru
-radio.com
 radiostacja.pl
 rahnbodmer.ch
 rahnet.net
@@ -19797,7 +19798,6 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
-rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -20562,6 +20562,7 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
+sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -24828,6 +24829,7 @@ uwchildrenshospital.org
 uwhospital.org
 uwzorgonline.nl
 uzone.id
+uzreklam.com
 v-mate.mobi
 v-vb.de
 v.daum.net
@@ -25888,6 +25890,7 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
+way2traffic.com
 wayerless.com
 wayforpay.com
 wayin.com
@@ -26418,7 +26421,6 @@ wsimg.com
 wsj.com
 wsk-bank.at
 wsnb.com
-wss.analyticacdn.com
 wss.bithumb.com
 wss.kryptex.org
 wt-eu02.net
