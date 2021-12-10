@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.10
-# Last modified: 10 Dec 2021 00:16:55 UTC
+# Last modified: 10 Dec 2021 08:03:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -566,7 +566,6 @@ acbanks.com
 acbonline.org
 accb.com.cy
 accbank.ie
-accengage.com
 access-board.gov
 access-dsl.com
 access-prod.apis.anvato.n0-edge-chat.facebook.com
@@ -721,7 +720,6 @@ ad.ca.doubleclick.net
 ad.dmm.com
 ad.docer.wps.cn
 ad.doubleclick.net
-ad.lgsmartad.com
 ad.nl
 ad.samsungadhub.com
 ad.vu
@@ -852,7 +850,6 @@ ads.aws.fwmrm.net
 ads.dh.duba.com
 ads.exoclick.com
 ads.google.com
-ads.harvard.edu
 ads.imeem.com
 ads.reddit.com
 ads.talkbusiness.net
@@ -1463,7 +1460,6 @@ amalie.de
 amanath-bank.com
 amap.com
 amauthprd.samsungcloudsolution.com
-amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazon.ac
 amazon.academy
@@ -2338,7 +2334,6 @@ api.areffect.sonymobile.com
 api.asm.skype.com
 api.audlabs.com
 api.b.hatena.ne.jp
-api.bam-x.com
 api.band.us
 api.bazaarvoice.com
 api.bbs.miui.com
@@ -2550,7 +2545,6 @@ api.thetvdb.com
 api.tiles.mapbox.com
 api.today.line.me
 api.toptenreviews.com
-api.traq.li
 api.travel.rakuten.co.jp
 api.trello.com
 api.truckersmp.com
@@ -2754,7 +2748,6 @@ apply.lg.com
 apply.techcrunch.com
 apply.wechat.com
 appmetrica.yandex.com
-appmetrica.yandex.ru
 appnee.com
 apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
@@ -5438,7 +5431,6 @@ cbs.wondershare.com
 cbsbank.com
 cbsi.com
 cbsi.com.sb
-cbsinteractive.com
 cbsistatic.com
 cbsl.gov.lk
 cbslocal.com
@@ -6752,7 +6744,6 @@ conductor-prod.ros.rockstargames.com
 conduit-services.com
 conduit.mailchimpapp.com
 confib.ifmo.ru
-config.a-mo.net
 config.edge.skype.com
 config.fp.measure.office.com
 config.hulu.com
@@ -7356,7 +7347,6 @@ d2e0sxz09bo7k2.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
-d2ve5d3ejm85c1.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
@@ -9941,7 +9931,6 @@ fondazionecarige.it
 fondazionecaripisa.it
 fondazionedivenezia.org
 fondsdepotbank.de
-fonecta.fi
 fontaine-suisse.com
 fontanka.ru
 fontawesome.com
@@ -11819,7 +11808,6 @@ hoster3.com
 hosteur.com
 hostevo.com
 hostfactory.ch
-hostg.xyz
 hostgator.com
 hostinfo.co.uk
 hosting-1a.mijndomein-ws.nl
@@ -13026,7 +13014,6 @@ info.cyberplat.ru
 info.deltacredit.ru
 info.gov.hk
 info.internet.org
-info.lgsmartad.com
 info.metib.ru
 info.microsoft.com
 info.ms
@@ -14489,7 +14476,6 @@ leesportbank.com
 legal.medium.com
 legal.qualcomm.com
 legalandgeneral.com
-legalterms.cbsinteractive.com
 legbank.kiev.ua
 lego.com
 lehigh.edu
@@ -14589,7 +14575,6 @@ licensing.xboxlive.com
 licensingphone.mp.microsoft.com
 lichfielddc.gov.uk
 lick.my
-lidl.media01.eu
 lids.com
 lien.li
 lien.pl
@@ -14876,7 +14861,6 @@ log.entrance.sonymobile.com
 log.mmstat.com
 log.quora.com
 log.tiktokv.com
-log.ys7.com
 log.zoom.us
 logansportsavings.com
 logback.qos.ch
@@ -18694,7 +18678,6 @@ platform.instagram.com
 platform.linkedin.com
 platform.sharethis.com
 platform.stumbleupon.com
-platform.tumblr.com
 platform.twitter.com
 platform.vine.co
 platinumcommunications.net
@@ -20618,7 +20601,6 @@ salemove.com
 sales.liveperson.net
 salesforce.com
 salesforceliveagent.com
-salesloft.com
 salesmanago.pl
 saliterbank.de
 salk.at
@@ -21420,7 +21402,6 @@ shopping.line.me
 shopping.naver.com
 shoppy.gg
 shops.myshopify.com
-shopzilla.com
 shorebank.com
 shorebankcorp.com
 shorecommunitybank.com
@@ -21676,7 +21657,6 @@ smartgit.userecho.com
 smartlinks.intuit.com
 smartlock.google.com
 smartlook.com
-smartplugin.youbora.com
 smartredirect.de
 smartscreen-sn3p.smartscreen.microsoft.com
 smartsheet.com
@@ -22983,6 +22963,7 @@ store.steampowered.com
 store.vox.com
 store.whale.naver.com
 store.xbox.com
+store2.gofile.io
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
 storeconfig.mistat.intl.xiaomi.com
@@ -23011,7 +22992,6 @@ stream.highwebmedia.com
 stream.twitch.tv
 streamate.com
 streamer.tawenda-tech.org
-streaming.adswizz.com
 streamlike.com
 streamplay.me
 streamplay.to
@@ -23490,6 +23470,7 @@ team.stumbleupon.com
 teams.cdn.office.net
 teams.events.data.microsoft.com
 teams.microsoft.com
+teams.wire.com
 teamsinsight.myanalytics.cdn.office.net
 teamviewer.com
 teaparty.org
@@ -24413,7 +24394,6 @@ ulsterbank.ie
 ultimabank.com
 ultimanet.com
 ultimate-guitar.com
-ultimedia.com
 ulu.com
 umb.com
 umbank.ru
