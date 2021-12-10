@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.12.09
-# Last modified: 09 Dec 2021 16:04:29 UTC
+# Version: 2.12.10
+# Last modified: 10 Dec 2021 00:16:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -435,6 +435,7 @@ a248.e.akamai.net
 a24m.a-bank.com.ua
 a2zapk.com
 a4.mzstatic.com
+a43601.actonservice.com
 a463.w10.akamai.net
 a5.behance.net
 a57.foxnews.com
@@ -674,6 +675,7 @@ acsdk.gameyw.easebar.com
 acsonline.co.nz
 act.wechat.com
 actie.kro-ncrv.nl
+actie.milieudefensie.nl
 action.metaffiliation.com
 actionbutton.co
 actionnetwork.org
@@ -840,6 +842,7 @@ adocean.pl
 adollo.com
 ador.com
 adp.com
+adpushup.com
 adregain.com
 adrianstatebank.com
 adrise.tv
@@ -1098,7 +1101,6 @@ adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
 adservicemedia.dk
-adserving-edge.videoplaza.tv
 adserwer.afilo.pl
 adshostnet.com
 adsl-service-providers.net
@@ -4227,7 +4229,6 @@ bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
-bfp.capitalone.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -5456,7 +5457,6 @@ cbug.cc
 cbvs.sr
 cbwc.com
 cc-dt.com
-cc.1clickcdn.ru
 cc.cc
 cc.naver.com
 cc.sys.intl.xiaomi.com
@@ -7509,7 +7509,6 @@ db.local.clamav.net
 db.tt
 db5.vortex.data.microsoft.com.akadns.net
 dbas.org
-dbdm-events.mybluemix.net
 dbknb.de
 dbl.oisd.nl
 dbo.agroros.ru
@@ -9086,7 +9085,6 @@ eventgateway.soundcloud.com
 eventgateway.x.sndcdn.com
 eventlogger.soundcloud.com
 events.apester.com
-events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -10580,10 +10578,8 @@ geofilters-community-api.snapchat.com
 geofilters.snapchat.com
 geoip-db.com
 geoip.hmageo.com
-geoip.hotstar.com
 geoip.nekudo.com
 geoip.newsdev.nytimes.com
-geoip.redirect-ads.com
 geoip.sonymobile.com
 geoip.tnt-ea.com
 geojs.io
@@ -11917,7 +11913,6 @@ hsforms.net
 hsh-nordbank.de
 hsk-wiesbaden.de
 hspx.hotstar.com
-ht.cdn.turner.com
 ht.ly
 ht.youporn.com
 htm.huawei.com
@@ -14333,7 +14328,6 @@ l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
 l.facebook.com
-l.franceculture.fr
 l.google.com
 l.googleusercontent.com
 l.qq.com
@@ -15811,11 +15805,11 @@ metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
 metric-public-service-prod.ol.epicgames.com
 metric.gstatic.com
+metrics-k.wbx2.com
 metrics.aem.playstation.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.dickssportinggoods.com
-metrics.hackerrank.com
 metrics.icloud.com
 metrics.mzstatic.com
 metrics.plex.tv
@@ -16012,7 +16006,6 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -17206,6 +17199,7 @@ npostart.nl
 npozapp.nl
 npr-news.streaming.adswizz.com
 npr.org
+nprotect.com
 nps.gov
 npttech.com
 nq.st
@@ -18788,13 +18782,11 @@ pm.wu.cz
 pm0.net
 pmall.migc.xiaomi.com
 pmbank.com
-pmcares.fund
 pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
 pmf.gov
 pmi.gov
 pmir.sec.miui.com
-pnapi.invoca.net
 pnb.com.ph
 pnbindia.com
 pnbindia.in
@@ -20562,7 +20554,6 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
-sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -21042,7 +21033,6 @@ secure-au.imrworldwide.com
 secure-banking.de
 secure-cdn.mplxtms.com
 secure-gl.imrworldwide.com
-secure-media.hotstar.com
 secure-media1.hotstarext.com
 secure-payments.express-bank.ru
 secure-photo.mylife.com
@@ -21246,7 +21236,6 @@ service.biv.sony.tv
 service.cz.nl
 service.fuib.com
 service.gov.uk
-service.hotstar.com
 service.marketing.adobe.com
 service.maxymiser.net
 service.oneplus.com
@@ -22823,11 +22812,9 @@ statistics.laerd.com
 stats.adobe.com
 stats.api.xiaomi.net
 stats.channel4.com
-stats.gc-apple.com.akadns.net
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
-stats.nba.com
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
@@ -23064,7 +23051,6 @@ stylem.com
 styles.redditmedia.com
 su.pr
 suarankri.me
-sub-pubsub.hotstar-labs.com
 sube.halkbank.com.tr
 sube.iktisatbank.com
 sube.sekerbank.com.tr
@@ -23297,6 +23283,7 @@ syndication.twimg.com
 syndication.twitter.com
 syndonline.in
 synergybank.com
+synlab.lt
 synology.com
 synologynotification.com
 synterra.ru
@@ -23994,7 +23981,6 @@ track.adtraction.com
 track.bpost.be
 track.customer.io
 track.effiliation.com
-track.grab.in
 track.hulu.com
 track.kuronekoyamato.co.jp
 track.nzz.ch
@@ -24184,6 +24170,7 @@ tucows.com
 tucowsdomains.com
 tucsonhearthospital.com
 tucsonvalleyanimalhospital.com
+tudasfaja.com
 tudou.com
 tuenti.com
 tuenti.net
@@ -26633,7 +26620,6 @@ x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
 xalqbank.az
 xanga.com
-xapi.ozon.ru
 xataka.com
 xatakaciencia.com
 xatakahome.com

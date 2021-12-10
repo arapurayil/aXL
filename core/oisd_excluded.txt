@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Dec 2021 16:04:29 UTC
+# Last modified: 10 Dec 2021 00:16:55 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -77,7 +77,6 @@ ablink.e.hungryjacks.com.au
 aboluowang.com
 aboutads.info
 ac.duckduckgo.com
-accengage.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
@@ -100,7 +99,6 @@ ad.aruba.it
 ad.atdmt.com
 ad.dmm.com
 ad.doubleclick.net
-ad.lgsmartad.com
 ad.zanox.com
 ad2.media01.eu
 adage.com
@@ -140,7 +138,6 @@ ads-blocker.com
 ads-cdn.grab.com
 ads.aws.fwmrm.net
 ads.google.com
-ads.harvard.edu
 ads.reddit.com
 ads.twitter.com
 ads280dummy2.com
@@ -403,7 +400,6 @@ aliyuncs.com
 alltheinternet.com
 alpari.ru
 amauthprd.samsungcloudsolution.com
-amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazonbusiness.com
 amdc.m.taobao.com
@@ -438,7 +434,6 @@ api.airbrake.io
 api.amplitude.com
 api.apple-cloudkit.com
 api.apptentive.com
-api.bam-x.com
 api.bluecore.com
 api.branch.io
 api.chat.xiaomi.net
@@ -480,7 +475,6 @@ api.setting.intl.miui.com
 api.skype.com
 api.surfeasy.com
 api.techet.net
-api.traq.li
 api.truckersmp.com
 api.tvpage.com
 api.uca.cloud.unity3d.com
@@ -528,7 +522,6 @@ appcast.io
 appier.com
 appletoolbox.com
 appmetrica.yandex.com
-appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
 apps.elfsight.com
 apps.nexus.bazaarvoice.com
@@ -554,7 +547,6 @@ assoc-amazon.com
 at-o.net
 atconnect.npo.nl
 atdmt.com
-ati-host.net
 atlassbx.com
 atspace.com
 attraqt.com
@@ -610,7 +602,6 @@ barclaybanking.com
 baremetrics.com
 barracudacentral.org
 batasnatin.com
-batch.com
 bbin.ru
 bc.marfeel.com
 bc.marfeelcache.com
@@ -729,7 +720,6 @@ casalemedia.com.edgekey.net
 cb.sailthru.com
 cbox.ws
 cbs.wondershare.com
-cbsinteractive.com
 cc-dt.com
 ccleaner.tools.avcdn.net
 cdex.mu
@@ -767,7 +757,6 @@ cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.onesignal.com
 cdn.optimizely.com
-cdn.pendo.io
 cdn.printfriendly.com
 cdn.raygun.io
 cdn.rlcdn.com
@@ -827,7 +816,6 @@ cintnetworks.com
 cision.com
 citi.bridgetrack.com
 cj.com
-cj.dotomi.com
 cj.mplxtms.com
 ckk.ai
 cl.exct.net
@@ -916,7 +904,6 @@ community.adlandpro.com
 completion.amazon.com
 comuesp.com
 conduit-services.com
-config.a-mo.net
 config.ioam.de
 config.samqaicongen.com
 config.uca.cloud.unity3d.com
@@ -986,8 +973,6 @@ crl.microsoft.com
 cross-plus-a.com
 crowdtwist.com
 crt.comodoca.com
-crunchyroll.adtrackers.net
-crunchyroll.bannertrack.net
 cs.money
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
@@ -1030,7 +1015,6 @@ d2c8v52ll5s99u.cloudfront.net
 d2e0sxz09bo7k2.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
-d2ve5d3ejm85c1.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d3c3cq33003psk.cloudfront.net
@@ -1347,7 +1331,6 @@ flux.com
 flx1.com
 fm-p.jp
 fmcurling.org
-fonecta.fi
 fontanka.ru
 fontjoy.com
 fonts.google.com
@@ -1585,7 +1568,6 @@ hook.integromat.com
 horriblevideos.com
 horror-comics.com
 host-tracker.com
-hostg.xyz
 hosting-1a.mijndomein-ws.nl
 hosting24.com
 hostingprod.com
@@ -1797,7 +1779,6 @@ indexww.com
 indystar.com
 inetinteractive.com
 inference.location.live.net
-info.lgsmartad.com
 info.seek.com
 infolink.pavv.co.kr
 informer.yandex.ru
@@ -1884,7 +1865,6 @@ js.hs-scripts.com
 js.indexww.com
 js.intercomcdn.com
 js.maxmind.com
-js.pusher.com
 js.stripe.com
 js.taplytics.com
 jssdks.mparticle.com
@@ -1936,7 +1916,6 @@ leadpages.net
 leakreality.com
 leanplum.com
 learn.cisecurity.org
-legalterms.cbsinteractive.com
 lexatrade.com
 lgsmartad.com
 lib.rus.ec
@@ -1945,7 +1924,6 @@ license.unity3d.com
 licensing.blinkreceipt.com
 licensing.mp.microsoft.com
 licensingphone.mp.microsoft.com
-lidl.media01.eu
 lifewire.com
 limited-prod.giphy.map.fastly.net
 limneos.net
@@ -1973,7 +1951,6 @@ log.byteoversea.com
 log.mmstat.com
 log.quora.com
 log.tiktokv.com
-log.ys7.com
 logentries.com
 loggly.com
 logrocket.com
@@ -2156,7 +2133,6 @@ netcore.co.in
 netiq.com
 netupdater.info
 network.bazaarvoice.com
-neustar.biz
 newre-conversions.clickmeter.com
 newrelic.com
 news.ebc.net.tw
@@ -2192,7 +2168,6 @@ nprotect.com
 npttech.com
 nr-data.net
 nrdp.nccp.netflix.com
-ns-cdn.neustar.biz
 ns11.whois.co.kr
 nsimg.net
 nsm.dell.com
@@ -2384,8 +2359,6 @@ planet.net
 planning-analytics.ibmcloud.com
 plantengineering.com
 plarium.com
-platform.sharethis.com
-platform.tumblr.com
 platform.twitter.com
 plausible.eurostocks.nl
 plausible.io
@@ -2614,7 +2587,6 @@ sailthru.com
 sajari.com
 sakura.goguardian.com
 salesforceliveagent.com
-salesloft.com
 salesmanago.pl
 salottobar.com
 samsungcloudsolution.com
@@ -2697,7 +2669,6 @@ sendibt2.com
 sendibt3.com
 sensic.net
 sentry.io
-serve.adtrackers.net
 servedby.o2.co.uk
 server.iad.liveperson.net
 service.cz.nl
@@ -2732,7 +2703,6 @@ shockgore.com
 shodanhq.com
 shop.spreadshirt.com
 shopperapproved.com
-shopzilla.com
 shorte.st
 sibboventures.mgr.consensu.org
 sibforms.com
@@ -2764,7 +2734,6 @@ smart.link
 smartadserver.com
 smartclip.net
 smartlock.google.com
-smartplugin.youbora.com
 smartredirect.de
 smarturl.it
 smetrics.costco.com
@@ -2865,12 +2834,12 @@ stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
 store.qq.com
+store2.gofile.io
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stormgain.com
 stptrisakti.ac.id
 streamate.com
-streaming.adswizz.com
 streamlike.com
 streamplay.to
 strikinglycdn.com
@@ -2943,6 +2912,7 @@ td.demdex.net
 tdn.r42tag.com
 tealium.com
 teams.events.data.microsoft.com
+teams.wire.com
 teamsinsight.myanalytics.cdn.office.net
 techlab-cdn.com
 tecnosell.com
@@ -3082,7 +3052,6 @@ uib.ff.avast.com
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
-ultimedia.com
 umwatsonc.events.data.microsoft.com
 unagi-na.amazon.com
 unblocksit.es
@@ -3229,7 +3198,6 @@ widget.intercom.io
 widget.trustpilot.com
 widgets.prisjakt.nu
 widgets.trustedshops.com
-wieistmeineip.de
 wifi.com
 wifiapi.micloud.xiaomi.net
 wildcard.evidon.com.edgekey.net
@@ -3284,9 +3252,7 @@ xsph.ru
 xtra.co.nz
 xxxjmp.com
 yabs.yandex.ru
-yahoo.adnetasia.com
 yahoodns.net
-yap.yahoo.com
 ydstatic.com
 yeshen.com
 yeswegays.com
