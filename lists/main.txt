@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.10
-# Last modified: 10 Dec 2021 08:03:16 UTC
+# Last modified: 10 Dec 2021 16:04:33 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -13673,6 +13673,7 @@ k.cocooncenter.com
 k.sinaimg.cn
 k1.midasplayer.com
 k2.secure-banking.com
+k8s-jena.schneevonmorgen.com
 ka.gravatar.com
 kaba.hr
 kabulbank.com
