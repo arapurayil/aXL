@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.11
-# Last modified: 11 Dec 2021 00:15:43 UTC
+# Last modified: 11 Dec 2021 08:03:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -266,6 +266,7 @@
 3dme.com
 3dns-2.adobe.com
 3dns-3.adobe.com
+3dradspace.tk
 3ds.bankofbaku.com
 3ds.mdmbank.ru
 3ds.oschadnybank.com
@@ -1310,7 +1311,6 @@ alahli.com
 alahlynet.com.eg
 alamedahospital.org
 alandsbanken.fi
-alawar.com
 alawwalbank.com
 alb.org.im
 alb.reddit.com
@@ -2663,7 +2663,6 @@ app.adjust.io
 app.adjust.net.in
 app.adjust.world
 app.alipay.com
-app.any.run
 app.appsflyer.com
 app.bemyeyes.com
 app.bilibili.com
@@ -3542,7 +3541,6 @@ bank11.de
 bank11direkt.de
 bank1saar.de
 bank34.ua
-bank360.hu
 banka.hr
 bankakademie.de
 bankalbilad.com
@@ -4372,6 +4370,7 @@ bitly.ws
 bitmovin.com
 bitpanda.com
 bitpay.com
+bitrix24.site
 bits.twitch.tv
 bitstamp.net
 bittersweetparis.com
@@ -4473,7 +4472,6 @@ blog.csdn.net
 blog.daum.net
 blog.de.playstation.com
 blog.diigo.com
-blog.disqus.com
 blog.eu.playstation.com
 blog.experts-exchange.com
 blog.feedspot.com
@@ -6871,6 +6869,7 @@ convertkit.com
 conviva.com
 conwaycorp.net
 conwaynationalbank.com
+cooey-coe.org
 cookie.hartvannederland.nl
 cookie.monster.com
 cookie.vrt.be
@@ -7959,7 +7958,6 @@ dll.xposed.info
 dls.di.atlas.samsung.com
 dls.net
 dlvr.it
-dlvr.t-online.de
 dlxda.xposed.info
 dm.origin.com
 dmaps.daum.net
@@ -8900,7 +8898,6 @@ epuls.pl
 eqbank.ca
 equator-principles.com
 equifax.com
-equilor.hu
 equitable.com.ph
 equitablecard.com
 equitableonline.com
@@ -8964,6 +8961,7 @@ esquire.com
 essabank.com
 essex-fire.gov.uk
 essexsavings.com
+estaticos.tvn.cl
 estore.sonymobile.com
 estream.to
 esube.abank.com.tr
@@ -9955,7 +9953,6 @@ forbes.com
 forblabla.com
 forbusiness.snapchat.com
 force.com
-forcepoint.com
 ford.to
 fordlibrarymuseum.gov
 forecast.buienradar.nl
@@ -10384,7 +10381,6 @@ gallica.bnf.fr
 galt.hit.gemius.pl
 galtensparekasse.dk
 game-blog.line.me
-game.baidu.com
 game.chat.mi.com
 game.daum.net
 game.dcinside.com
@@ -11073,6 +11069,7 @@ googleapis.com
 googleapis.l.google.com
 googleblog.com
 googlecode.com
+googlehosted.com
 googlehosted.googleusercontent.com
 googlehosted.l.googleusercontent.com
 googlesource.com
@@ -11583,7 +11580,6 @@ hesab.az
 hessen-spion.de
 hestehospitalet.dk
 hetparool.nl
-hetzner.de
 hex.io
 hexun.com
 heyue.xiaomi.com
@@ -13267,7 +13263,6 @@ ip-tracker.org
 ip.breitbart.com
 ip.cms.sohu.com
 ip.goguardian.com
-ip02.gntl.co.uk
 ip2location.com
 ipapi.co
 ipay.ua
@@ -13499,6 +13494,7 @@ jdbank.com
 jdem.cz
 jdoqocy.com
 jdownloader.org
+jeddunk.xyz
 jeeng.com
 jeffbank.com
 jefferson-bank.com
@@ -14213,7 +14209,6 @@ krungsrionline.com
 krupp-krankenhaus.de
 krxd.net
 kryptex.org
-kryptoslogic.com
 ks-bank.ru
 ksa.ch
 ksbankers.com
@@ -14592,7 +14587,6 @@ lifelog.blog.naver.com
 lifelog.sonymobile.com
 lifepointhospitals.com
 lifestream.aol.com
-lifewire.com
 liftoff.io
 ligabank.de
 light.ifmo.ru
@@ -15138,7 +15132,6 @@ mail.vimeo.com
 mail.xda-developers.com
 mail.yahoo.com
 mail01.tinyletterapp.com
-mail01.virginpulse.com
 mail03.cloud.huawei.com
 mail05.cloud.huawei.com
 mail2.daum.net
@@ -15241,7 +15234,6 @@ marca.com
 marcard.de
 marcus.com
 marfeel.com
-marfeel.mgr.consensu.org
 marfeelcache.com
 marfinbank.ua
 margevicius.lt
@@ -16293,7 +16285,6 @@ ms.gravatar.com
 ms.yandex.ru
 msa.akadns6.net
 msa.enel.it
-msa.hinet.net
 msbankers.com
 msbonline.com
 mscomajax.vo.msecnd.net
@@ -17136,7 +17127,6 @@ noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
 notice.samsungcloudsolution.com
-notice.sp-prod.net
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -17482,7 +17472,6 @@ officedepot.com
 officemag.ru
 official-blog.line.me
 offshore-bank-list.com
-offspring.co.uk
 offspring.net
 oficinadirecta.com
 ofigennoe.ru
@@ -17848,6 +17837,7 @@ openmmx.de
 openmobile.qq.com
 openpeeps.com
 openphish.com
+openscad.info
 opensource.org
 opensource.samsung.com
 openspeedtest.com
@@ -18553,7 +18543,6 @@ pi-ue1.pardot.com
 pi.hole
 pi.pardot.com
 pi.t.pardot.com
-piacesprofit.hu
 piano.io
 pib.ru
 pib.ua
@@ -18895,6 +18884,7 @@ postimg.org
 postmediamontrealgazette2.files.wordpress.com
 postoffice.adobe.com
 postpot.com
+poswieciekuchni.pl
 potomacanimalhospital.com
 potomacbank.com
 potplayer.daum.net
@@ -19055,7 +19045,6 @@ prod-helpapp.sonymobile.com
 prod-native.actionbutton.co
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
-prod-rotation-v2.guce.aws.oath.cloud
 prod-upload-service.getmore.sonymobile.com
 prod.api.bka.sh
 prod.appnexus.map.fastly.net
@@ -20851,6 +20840,7 @@ sciencedirect.com
 sciencemag.org
 scientificamerican.com
 scijinks.gov
+sclark.xyz
 scnb.com
 scnbank.com
 scone-pa.clients6.google.com
@@ -21434,7 +21424,6 @@ siasat.pk
 siatka.org
 sib.ci
 sibank.ru
-sibboventures.mgr.consensu.org
 sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
@@ -22955,7 +22944,6 @@ store.nvidia.com
 store.nytimes.com
 store.oneplus.com
 store.playstation.com
-store.qq.com
 store.samsung.com
 store.samsung.com.edgekey.net
 store.snapchat.com
@@ -23626,6 +23614,7 @@ the-housingbank.com
 the-housingbank.com.jo
 the.earth.li
 the1st.com
+theafterparty.tv
 theandroidsoul.com
 theanimalmedicalhospital.com
 theannoyingsite.com
@@ -24796,7 +24785,6 @@ uwbankindia.com
 uwchildrenshospital.org
 uwhospital.org
 uwzorgonline.nl
-uzone.id
 uzreklam.com
 v-mate.mobi
 v-vb.de
@@ -26045,7 +26033,6 @@ wesermarschklinik.de
 wespa.de
 west-lindsey.gov.uk
 westamerica.com
-westbyte.com
 westcoastbancorp.com
 westerlyhospital.org
 western-bank.com
@@ -26558,6 +26545,7 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
+www4.orangecyberdefense.com
 www5.2giga.link
 www6.2giga.link
 www6.9Anime.to
@@ -26823,7 +26811,6 @@ youtube.de
 youtube.googleapis.com
 youtubei.googleapis.com
 youvisit.com
-youxi.baidu.com
 yoyo.org
 yoyo.pl
 ypu.edu.tw
@@ -26848,6 +26835,7 @@ yumaregional.org
 yumekin.com
 yunfile.com
 yunjiasu-cdn.net
+yupdates.art
 yupoo.com
 yuque.com
 yurl.in
