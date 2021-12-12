@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.12
-# Last modified: 12 Dec 2021 00:18:26 UTC
+# Last modified: 12 Dec 2021 08:03:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8995,7 +8995,6 @@ etrk.asus.com
 etrust.ru
 etsy.com
 ettoday.com
-eu-central-1.prod.ecosia.org
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu.cdn.survey.medallia.com
@@ -18303,7 +18302,6 @@ pay24.co.il
 payanyway.ru
 payb2b.domru.ru
 paycard.beeline.ru
-paydirekt-de01.wt-eu02.net
 paydirekt.de
 payeasy.lk
 payeer.com
@@ -19050,7 +19048,6 @@ prod.api.bka.sh
 prod.appnexus.map.fastly.net
 prod.cloud.rockstargames.com
 prod.disqus.map.fastlylb.net
-prod.ecosia.org
 prod.imgur.map.fastlylb.net
 prod.leanplum.com
 prod.mobile.roku.com
@@ -19416,7 +19413,6 @@ r1.ca
 r1.ykimg.com
 r10s.jp
 r2.bithumb.com
-r2.ea.eulerian.net
 r20.rs6.net
 r2p.de
 r3---sn-4g5edn7s.googlevideo.com
@@ -21294,6 +21290,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
