@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Dec 2021 16:03:29 UTC
+# Last modified: 12 Dec 2021 00:18:26 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1229,7 +1229,6 @@ etoro.com
 etracker.de
 etrk.asus.com
 ettoday.com
-eu-central-1.prod.ecosia.org
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu.spgo.io
@@ -1924,6 +1923,7 @@ linkev.com
 links.playon.tv
 links.strava.com
 linksynergy.com
+linktr.ee
 litix.io
 live.simcitybuildit.com
 livechatinc.com
@@ -2302,7 +2302,6 @@ pass.1688.com
 passport.baidu.com
 patatap.com
 pavv.co.kr
-paydirekt-de01.wt-eu02.net
 payeer.com
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
@@ -2401,7 +2400,6 @@ pro.hit.gemius.pl
 prod-adops-proxy.dnitv.net
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
-prod.ecosia.org
 prod.imgur.map.fastlylb.net
 prod.leanplum.com
 prod.mobile.roku.com
@@ -2464,7 +2462,6 @@ r.mradx.net
 r.orange.fr
 r.sg.sec.miui.com
 r1.ykimg.com
-r2.ea.eulerian.net
 r42tag.com
 radeant.com
 ramp.purch.com
@@ -2671,6 +2668,7 @@ sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
 sgiz.mobi
 sgizmo.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com.edgekey.net
@@ -3020,6 +3018,7 @@ twemoji.maxcdn.com
 typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
+u.to
 uamobile.net
 uarating.com
 ublock.org
