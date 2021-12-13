@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.12.12
-# Last modified: 12 Dec 2021 16:04:20 UTC
+# Version: 2.12.13
+# Last modified: 13 Dec 2021 00:17:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -25866,6 +25866,7 @@ wdc.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 wdhospital.com
+we-stats.com
 we.bs
 weak.tk
 wealden.gov.uk
