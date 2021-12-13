@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Dec 2021 08:03:34 UTC
+# Last modified: 13 Dec 2021 16:04:41 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -511,6 +511,7 @@ appsflyer.com
 appspot-preview.l.google.com
 appspot.com
 appsumo.com
+apptimize.com
 arc.epoq.de
 arstechnica.com
 art19.com
@@ -633,7 +634,6 @@ bm.pl
 bm23.com
 bn5x.net
 bnc.lt
-boersen-zeitung.de
 boldchat.com
 bongacams.com
 boxcryptor.com
@@ -1285,7 +1285,6 @@ ftp.byethost11.com
 ftp.drivehq.com
 ftpcontent.worldnow.com
 ftr2.external.xerox.com
-full.pr0gramm.com
 fundingchoicesmessages.google.com
 funshion.com
 fus.lenovomm.com
@@ -2247,7 +2246,6 @@ powvideo.net
 ppcprotect.com
 ppro.de
 pr-cy.ru
-pr0gramm.com
 prd-lender.cdp.internal.unity3d.com
 prd.ads.aws.fwmrm.net
 prd.jwpltx.com
