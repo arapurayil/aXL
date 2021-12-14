@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.14
-# Last modified: 14 Dec 2021 00:17:19 UTC
+# Last modified: 14 Dec 2021 08:02:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -617,7 +617,6 @@ accounts.google.com
 accounts.gstatic.com
 accounts.idmapper.api.playstation.com
 accounts.l.google.com
-accounts.livechatinc.com
 accounts.mobisystems.com
 accounts.nvgs.nvidia.com
 accounts.pixiv.net
@@ -7329,7 +7328,6 @@ d2zah9y47r7bi2.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d37gvrvc0wt4s1.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
@@ -7522,7 +7520,6 @@ dd-cdn.multiscreensite.com
 dd.ma
 dd.myapp.com
 ddb.dk
-dditscdn.com
 ddos-guard.net
 ddp.net
 ddrk.me
@@ -9952,7 +9949,6 @@ fortisbank.nl
 fortisbanque.fr
 fortressbankmn.com
 fortressbanks.com
-fortumo.com
 fortune-mag.line.me
 fortune.com
 fortunecity.com
@@ -11380,7 +11376,6 @@ hawk.pcgamer.com
 hawthornesavings.com
 haymarket.com
 hb.aibank.co.il
-hb.bizmrg.com
 hb.unionbank.co.il
 hb2.bankleumi.co.il
 hba.gr
@@ -15279,6 +15274,7 @@ massbank.com
 massbankers.org
 massmba.com
 master-capital.org
+mastercard.co.jp
 masterpass.ch
 masterpass.com
 mat1.gtimg.com
@@ -15765,7 +15761,6 @@ mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
 mhc-xpana-eu.myhomescreen.tv
 mhos.de
-mhthemes.com
 mhtr.be
 mi.com
 mi.edgekey.net
@@ -16217,7 +16212,6 @@ mqtt.facebook.com
 mqtt.gotinder.com
 mqtt.pushy.me
 mr.da.netease.com
-mradx.net
 mrbank.com.pl
 mrhospital.com
 mrodevicemgr.officeapps.live.com
@@ -16347,7 +16341,6 @@ mx.technolutions.net
 mx.yandex.ru
 mx1.hitbtc.com
 mxmcdn.net
-mxplay.com
 mxpnl.com
 mxtoolbox.com
 my-beta.boldchat.com
@@ -19203,7 +19196,6 @@ pumppazh.com
 punishtube.com
 punjab.gov.in
 purch.com
-purplle.com
 purr.nytimes.com
 pusanbank.co.kr
 push.api.bbci.co.uk
@@ -22904,7 +22896,6 @@ streamlike.com
 streamplay.me
 streamplay.to
 strefa.fm
-strikinglycdn.com
 stringtownanimalhospital.com
 stripe.com
 stripe.network
@@ -23828,7 +23819,6 @@ touch.facebook.com
 touch.kaspersky.com
 touch.sonymobile.com
 touchbank.com
-touchtype-fluency.com
 touclick.com
 toutiao.com
 towabank.co.jp
@@ -23848,7 +23838,6 @@ tpmr.com
 tpnet.pl
 tponet.com
 tqn.com
-tr-gameland.com
 tr-tr.about.flipboard.com
 tr.gravatar.com
 tr.ign.com
@@ -24020,7 +24009,6 @@ trueidentity.com
 trulia.com
 trunc.it
 trust.ru
-trust.zone
 trust1bank.com
 trustar.com.au
 trustarc.com
@@ -24075,7 +24063,6 @@ turkishbanks.com
 turkishạirlines.com
 turkiye.gov.tr
 turkiyefinans.com.tr
-turkmmo.com
 turner.com
 turystyka.gov.pl
 tusa.co.il
@@ -24675,7 +24662,6 @@ usphs.gov
 uspis.gov
 usps.com
 usps.gov
-ust.chatango.com
 ustream.tv
 ustreas.gov
 ustrust.com
@@ -24699,7 +24685,6 @@ uwchildrenshospital.org
 uwhospital.org
 uwzorgonline.nl
 uzreklam.com
-v-mate.mobi
 v-vb.de
 v.daum.net
 v.firebog.net
@@ -24768,7 +24753,6 @@ vandelaydesign.com
 vanguard.com
 vanilla.futurecdn.net
 vanlanschot.nl
-vapi.apk.v-mate.mobi
 varengold.de
 variety.com
 vas.samsungapps.com
@@ -25077,7 +25061,6 @@ videos.videopress.com
 videos.vidible.tv
 videotron.com
 vidible.tv
-vidlox.me
 vidoza.net
 vidtech.cbsinteractive.com
 vidto.me
