@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Dec 2021 16:04:41 UTC
+# Last modified: 14 Dec 2021 00:17:19 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -72,7 +72,6 @@ ac.duckduckgo.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
-accounts.livechatinc.com
 acenar.com
 ackcdn.net
 acpbdf.com.br
@@ -378,7 +377,6 @@ akvideo.stream
 alb.reddit.com
 alexa.com
 algolia.com
-aliapp.org
 alicdn.com
 alimama.com
 alitems.com
@@ -942,7 +940,6 @@ cts.businesswire.com
 cuci.nl
 cultdeadcow.com
 curalate.com
-currency.com
 custom.plausible.io
 customer.homedepot.com
 customer.io
@@ -976,7 +973,6 @@ d3rt1990lpmkn.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d15k2d11r6t6rl.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d37gvrvc0wt4s1.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 da.netease.com
 dadata.ru
@@ -1009,7 +1005,6 @@ dc.services.visualstudio.com
 dcms.1688.com
 dcs.audi.com
 dd-cdn.multiscreensite.com
-dditscdn.com
 de-odc.samsungapps.com
 de.ioam.de
 dealabs.digidip.net
@@ -1259,7 +1254,6 @@ formy.upriver.ru
 forpci42.actonsoftware.com
 forpci61.actonsoftware.com
 forter.com
-fortumo.com
 fota5.adups.com
 fota5db.adups.com
 fota5p.adups.com
@@ -1405,7 +1399,6 @@ gs.statcounter.com
 gscounters.us1.gigya.com
 gstatic.com
 gstaticadssl.l.google.com
-gtarcade.com
 gtop100.com
 gtssl2-ocsp.geotrust.com
 guardianapps.co.uk
@@ -1426,7 +1419,6 @@ hackers.com
 harriscomputer.com
 hawaiisurf.com
 haymarket.com
-hb.bizmrg.com
 hbbtv.3sat.de
 hbbtv.kabeleins.de
 hbbtv.mediaset.net
@@ -1816,7 +1808,6 @@ linksynergy.com
 linktr.ee
 litix.io
 live.simcitybuildit.com
-livechatinc.com
 livefyre.com
 livejasmin.com
 liveperson.com
@@ -1881,6 +1872,7 @@ maropost.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
+mastercard.co.jp
 maxcdn.bootstrapcdn.com
 mb-cdn.stocard.de
 mc.yandex.ru
@@ -1917,7 +1909,6 @@ mgr.consensu.org
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
 mhc-xpana-eu.myhomescreen.tv
-mhthemes.com
 mhtr.be
 miaozhen.atm.youku.com
 micardapi.micloud.xiaomi.net
@@ -1960,7 +1951,6 @@ mplxtms.com
 mpsnare.iesnare.com
 mqtt-mini.facebook.com
 mr.da.netease.com
-mradx.net
 mrzikj.com
 ms.yandex.ru
 msdk.qq.com
@@ -1972,7 +1962,6 @@ multiscreensite.com
 mx.technolutions.net
 mx.yandex.ru
 mxmcdn.net
-mxplay.com
 mxpnl.com
 my.adocean.pl
 myairbridge.com
@@ -2294,7 +2283,6 @@ pulsar.ebay.fr
 pulsar.ebay.it
 pumppazh.com
 purch.com
-purplle.com
 push.api.bbci.co.uk
 pusherapp.com
 pushwelcome.com
@@ -2470,7 +2458,6 @@ search.services.mozilla.com
 searchads.apple.com
 searchencrypt.com
 sec-tunnel.com
-secondlife.com
 secure-us.imrworldwide.com
 secure.adnxs.com
 secure.gooddata.com
@@ -2599,7 +2586,6 @@ sso.internetat.tv
 ssp.meba.kr
 sstats.adobe.com
 st.bahn.de
-st.chatango.com
 stacksocial.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
@@ -2648,7 +2634,6 @@ stptrisakti.ac.id
 streamate.com
 streamlike.com
 streamplay.to
-strikinglycdn.com
 stripe.network
 stroeerdigitalgroup.de
 subs.youmaker.com
@@ -2765,10 +2750,8 @@ toolbar.google.com
 toots-a.akamaihd.net
 torc.com
 torimochi.line-apps.com
-touchtype-fluency.com
 touclick.com
 tp-emea.exactag.com
-tr-gameland.com
 tr.info.mango-mobilites.fr
 tracemyip.org
 track-eu.adformnet.akadns.net
@@ -2819,14 +2802,12 @@ trk.klclick3.com
 trk.pinterest.com
 trk.s.sephora.com
 trojan-killer.net
-trust.zone
 trustarc.com
 trustarc.mgr.consensu.org
 truste.com
 trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tudasfaja.com
-turkmmo.com
 tvn.adocean.pl
 tvpage.com
 tvpassport.com
@@ -2891,9 +2872,7 @@ usercentrics.eu
 users.atw.hu
 users.on.net
 users.telenet.be
-ust.chatango.com
 uzreklam.com
-v-mate.mobi
 v.fwmrm.net
 v2.zopim.com
 v2html.atm.youku.com
@@ -2901,7 +2880,6 @@ v10-win.vortex.data.microsoft.com.akadns.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 va.tawk.to
-vapi.apk.v-mate.mobi
 vbsedit.com
 vcs-va.byteoversea.com
 vcs.vdspf.com
@@ -2925,7 +2903,6 @@ video-stats.l.google.com
 videoplayerhub.com
 videoplaza.tv
 vidible.tv
-vidlox.me
 vidoza.net
 vidtech.cbsinteractive.com
 viglink.com
