@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.15
-# Last modified: 15 Dec 2021 00:17:19 UTC
+# Last modified: 15 Dec 2021 08:03:41 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -11611,6 +11611,7 @@ hkab.org.hk
 hkb.de
 hkbc.com
 hkconfig.gcloud.qq.com
+hkepc.net
 hkexporter.net
 hkg1.aastocks.com
 hkicl.com.hk
@@ -18489,6 +18490,7 @@ picscdn.redblue.de
 pictet.com
 picupload.ebay.com
 piczo.com
+pidorg.ru
 pie.daum.net
 piedmontfederal.com
 pierersan.com
