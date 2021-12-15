@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Dec 2021 08:03:41 UTC
+# Last modified: 15 Dec 2021 16:04:18 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -78,6 +78,7 @@ acpbdf.com.br
 acr0.samsungcloudsolution.com
 actie.milieudefensie.nl
 action.metaffiliation.com
+activation.gfe.nvidia.com
 activation.unity3d.com
 activity.windows.com
 actonservice.com
@@ -609,7 +610,6 @@ bilder-upload.eu
 bit.do
 bitcast-a.v1.iad1.bitgravity.com
 bitly.com
-bitrix24.site
 bittersweetparis.com
 bizrate.com
 bj.bcebos.com
@@ -689,6 +689,7 @@ calendar.fontanka.ru
 campaign.abb.com
 campaign.adobe.com
 campaignmonitor.com
+camsoda.com
 canadapharmacy.com
 care2.com
 casalemedia.com.edgekey.net
@@ -754,7 +755,6 @@ cdnstatic.detik.com
 cdp.cloud.unity3d.com
 cedexis.com
 cedexis.net
-centurylink.net
 certona.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
@@ -823,6 +823,7 @@ clients.l.google.com
 clients1.google.com
 clients6.google.com
 clientsdk.luminati.io
+clientservices.googleapis.com
 cliphunter.com
 cliqz.com
 clk.boulanger.com
@@ -1114,7 +1115,6 @@ eielectronics.com
 ek21.com
 ekg.riotgames.com
 elastx.net
-elitereaders.com
 ellation.map.fastly.net
 eloqua.com
 elpais.es
@@ -1194,7 +1194,6 @@ f-log-at.grammarly.io
 f1.g.mi.com
 f5.market.xiaomi.com
 fabric.io
-factinate.com
 faktor.io
 faktor.mgr.consensu.org
 fast.appcues.com
@@ -1356,6 +1355,7 @@ go-mpulse.net
 go.dlink.com
 go.mybusinessacademy.ph
 go.neverware.com
+go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
@@ -1438,7 +1438,6 @@ hechenblaikner.at
 hello.heroku.com
 hello.myfonts.net
 heraldm.com
-heraldweekly.com
 here.com
 herokussl.com
 hexun.com
@@ -1805,7 +1804,6 @@ linkev.com
 links.playon.tv
 links.strava.com
 linksynergy.com
-linktr.ee
 litix.io
 live.simcitybuildit.com
 livefyre.com
@@ -1872,7 +1870,6 @@ maropost.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
-mastercard.co.jp
 maxcdn.bootstrapcdn.com
 mb-cdn.stocard.de
 mc.yandex.ru
@@ -1951,6 +1948,7 @@ mplxtms.com
 mpsnare.iesnare.com
 mqtt-mini.facebook.com
 mr.da.netease.com
+mrex.exs.pl
 mrzikj.com
 ms.yandex.ru
 msdk.qq.com
@@ -1968,6 +1966,7 @@ myairbridge.com
 mybloglog.com
 myftpupload.com
 myhomescreen.tv
+mystats.com
 myvisualiq.net
 mywot.com
 myxns.cn
@@ -2138,6 +2137,7 @@ p4.music.126.net
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
+pages.info.exclusive-networks.com
 pages03.net
 pair.com
 pandapush-iad-prod.inscloudgate.net
@@ -2195,6 +2195,7 @@ pixelzirkus.gameforge.com
 pjatr.com
 pjtra.com
 pl.rdx2.lgtvsdp.com
+placehold.it
 planet.net
 planning-analytics.ibmcloud.com
 plantengineering.com
@@ -2402,6 +2403,7 @@ s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
+saa.cbsi.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 safebrowsing-cache.google.com
@@ -2498,7 +2500,6 @@ sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
 sgiz.mobi
 sgizmo.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com.edgekey.net
@@ -2628,6 +2629,7 @@ stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
+store2.gofile.io
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stormgain.com
@@ -2642,6 +2644,7 @@ sucmetrics.unicredit.it
 suggestqueries-clients6.youtube.com
 sumologic.com
 supercell.net
+supportmetrics.apple.com
 survey.confirmit.com
 surveyrouter.com
 surveys.insightexpressai.com
@@ -2721,7 +2724,6 @@ thebrighttag.com
 thecounter.com
 theepochtimes.com
 theluckygene.com
-thethings.com
 theync.com
 thind-gke-usc.prd.data.corp.unity3d.com
 thirdparty.bnc.lt
@@ -2818,7 +2820,6 @@ twemoji.maxcdn.com
 typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
-u.to
 uamobile.net
 uarating.com
 ublock.org
@@ -2842,7 +2843,6 @@ uniregistry.com
 unity.com
 unity3d.com
 untd.com
-upbeatnews.com
 update.360safe.com
 update.avlyun.sec.miui.com
 update.miui.com
@@ -2982,6 +2982,7 @@ ws-comments.ign.com
 ws.126.net
 ws.batch.com
 ws.mmstat.com
+wss.analyticacdn.com
 wt-eu02.net
 wumii.com
 www-google-analytics.l.google.com
