@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Dec 2021 16:04:25 UTC
+# Last modified: 15 Dec 2021 00:17:19 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -1245,7 +1245,6 @@ fmcurling.org
 fontanka.ru
 fontjoy.com
 fonts.googleapis.com
-fonts.gstatic.com
 fonts.net
 ford.to
 formcrafts.com
@@ -1451,6 +1450,7 @@ hit.gemius.pl
 hit.interia.pl
 hit.stat24.com
 hitmarkerjobs.com
+hkepc.net
 hkg1.aastocks.com
 hockeyapp.net
 hollyhockhill.com
@@ -2180,6 +2180,7 @@ pi-ue1.pardot.com
 pi.pardot.com
 pi.t.pardot.com
 piano.io
+pidorg.ru
 pila.pl
 ping.cloud.tencent.com
 ping.tapas.io
