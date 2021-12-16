@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Dec 2021 16:04:18 UTC
+# Last modified: 16 Dec 2021 00:16:34 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -2838,6 +2838,7 @@ umwatsonc.events.data.microsoft.com
 unblocksit.es
 uni-rostock.de
 unid.go.com
+unikrn.com
 unionbanknig.com
 uniregistry.com
 unity.com

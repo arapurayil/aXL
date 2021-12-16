@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.12.15
-# Last modified: 15 Dec 2021 16:04:19 UTC
+# Version: 2.12.16
+# Last modified: 16 Dec 2021 00:16:34 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4358,7 +4358,6 @@ bitly.ws
 bitmovin.com
 bitpanda.com
 bitpay.com
-bitrix24.site
 bits.twitch.tv
 bitstamp.net
 bittersweetparis.com
@@ -5192,6 +5191,7 @@ campaign.line.me
 campaignmonitor.com
 campaigns.sonymobile.com
 campuscu.com
+camsoda.com
 canadahost.com
 canadapharmacy.com
 canadapost.ca
@@ -5817,7 +5817,6 @@ centurionbank.com
 century-bank.com
 centurybankfl.com
 centurylink.com
-centurylink.net
 cepteteb.com.tr
 ceredigion.gov.uk
 cert.halo.part.xbox.com
@@ -6339,6 +6338,7 @@ clients6.googleusercontent.com
 clients7.googleusercontent.com
 clientsc.alipay.com
 clientsdk.luminati.io
+clientservices.googleapis.com
 clientstream.intuit.launchdarkly.com
 clientstream.launchdarkly.com
 clikk.in
@@ -8660,7 +8660,6 @@ elisabethinen.at
 elisabethinen.or.at
 elita.fr
 eliteoz.com.au
-elitereaders.com
 elivr.com
 elkjop.no
 ellation.map.fastly.net
@@ -9212,7 +9211,6 @@ faces.md
 facesmoldova.com
 facester.me
 fachkrankenhaus-coswig.de
-factinate.com
 factoring.mb.seb.se
 factoring.seb.de
 factorio.com
@@ -10750,6 +10748,7 @@ go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
+go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.ro
@@ -11499,7 +11498,6 @@ henrys.com
 hentaihaven.org
 hera.co.at
 heraldm.com
-heraldweekly.com
 herbeauty.co
 here.com
 heritageanimalhospital.com
@@ -15275,7 +15273,6 @@ massbank.com
 massbankers.org
 massmba.com
 master-capital.org
-mastercard.co.jp
 masterpass.ch
 masterpass.com
 mat1.gtimg.com
@@ -16214,6 +16211,7 @@ mqtt.gotinder.com
 mqtt.pushy.me
 mr.da.netease.com
 mrbank.com.pl
+mrex.exs.pl
 mrhospital.com
 mrodevicemgr.officeapps.live.com
 mrthumb.nabstudio.com
@@ -16473,6 +16471,7 @@ myspace.com
 myspacecdn.com
 mysql.com
 mystart.com
+mystats.com
 mystro.ca
 mysunrisebank.com
 mysupport.sonymobile.com
@@ -18051,6 +18050,7 @@ pagefair.com
 pages.ebay.com
 pages.em.funimation.com
 pages.engage.xbox.com
+pages.info.exclusive-networks.com
 pages.soundcloud.com
 pages.status.xbox.com
 pages.typekit.com
@@ -20457,6 +20457,7 @@ sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
 sa1-urlp.secure.skypeassets.com
+saa.cbsi.com
 saalesparkasse.de
 saanenbank.ch
 saarland-spion.de
@@ -21215,7 +21216,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -22866,6 +22866,7 @@ store.steampowered.com
 store.vox.com
 store.whale.naver.com
 store.xbox.com
+store2.gofile.io
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
 storeconfig.mistat.intl.xiaomi.com
@@ -23600,7 +23601,6 @@ theregister.co.uk
 thesa.us
 thestatebank.com
 thetekshop.com
-thethings.com
 thetimes.co.uk
 thetrustpeople.com
 thetvdb.com
@@ -24431,7 +24431,6 @@ up.blog.naver.com
 up.wps.kingsoft.com
 upay.megafon.ru
 upb.com.ua
-upbeatnews.com
 upc.pl
 upchk.api.playstation.com
 update-nl.huawei.com
@@ -26272,6 +26271,7 @@ wsimg.com
 wsj.com
 wsk-bank.at
 wsnb.com
+wss.analyticacdn.com
 wss.bithumb.com
 wss.kryptex.org
 wt-eu02.net
