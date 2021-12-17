@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Dec 2021 16:04:07 UTC
+# Last modified: 17 Dec 2021 00:17:54 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -63,6 +63,7 @@ a771.dscq.akamai.net
 a1737.b.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
+ablinksuni.a.grubhub.com
 aboluowang.com
 aboutads.info
 ac.duckduckgo.com
@@ -655,6 +656,7 @@ cdn-net.com
 cdn.adf.ly
 cdn.appdynamics.com
 cdn.branch.io
+cdn.clerk.io
 cdn.cliqz.com
 cdn.cookielaw.org
 cdn.cquotient.com
