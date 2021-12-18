@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Dec 2021 08:03:15 UTC
+# Last modified: 18 Dec 2021 16:04:09 UTC
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -63,7 +63,6 @@ a771.dscq.akamai.net
 a1737.b.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
-ablinksuni.a.grubhub.com
 aboluowang.com
 aboutads.info
 ac.duckduckgo.com
@@ -384,6 +383,7 @@ analytics.google.com
 analytics.robinhood.com
 analytics.twitter.com
 android.bugly.qq.com
+androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 anexia-it.com
 angolotesti.it
@@ -962,7 +962,6 @@ dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 do-not-tracker.org
 docs.bugsnag.com
-docs.google.com
 doctortro.com
 documentingreality.com
 doiop.com
@@ -1245,7 +1244,6 @@ go.dlink.com
 go.neverware.com
 go.pardot.com
 go.redirectingat.com
-go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1787,7 +1785,6 @@ mplxtms.com
 mpsnare.iesnare.com
 mqtt-mini.facebook.com
 mr.da.netease.com
-mradx.net
 mrex.exs.pl
 mrzikj.com
 ms.yandex.ru
@@ -2297,6 +2294,7 @@ sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
 sgiz.mobi
 sgizmo.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 shareasale.com
