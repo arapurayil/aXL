@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.19
-# Last modified: 19 Dec 2021 00:19:03 UTC
+# Last modified: 19 Dec 2021 08:04:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -344,7 +344,6 @@
 7li.in
 7vd.cn
 7zap.com
-801.tianya.cn
 881903.com
 8ch.net
 8k.ro
@@ -15793,6 +15792,7 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org

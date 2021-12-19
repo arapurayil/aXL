@@ -63,7 +63,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 142
+            "num_unblock_rules": 144
         },
         {
             "name": "anudeepND whitelist - referral-sites",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 2790
+            "num_unblock_rules": 2791
         },
         {
             "name": "ookangzheng blahdns whitelist",
