@@ -2,7 +2,8 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Dec 2021 16:04:09 UTC
+# Last modified: 19 Dec 2021 00:19:03 UTC
+0catch.com
 000webhostapp.com
 1coolbox.com
 1drv.ms
@@ -34,7 +35,6 @@
 207.net
 265.com
 360.yahoo.com
-801.tianya.cn
 2222mb.com
 201205igp.gameloft.com
 881903.com
@@ -936,7 +936,6 @@ delivery.tacticalrepublic.com
 demdex.net
 derekseaman.com
 desktop.spotify.com
-detectportal.firefox.com
 dev.virtualearth.net
 developer.cloud.unity3d.com
 device-api.urbanairship.com
@@ -1759,6 +1758,7 @@ minecraftprod.rtep.msgamestudios.com
 minorshort.weixin.qq.com
 mis.migc.xiaomi.com
 miscopy.com
+mistat.xiaomi.com
 mixi.jp
 mixi.media
 mkt51.net
@@ -1779,6 +1779,7 @@ monitor.azure.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
+mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mplxtms.com
@@ -2154,6 +2155,7 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2253,12 +2255,12 @@ sdn.szn.cz
 seadform.net
 seal.verisign.com
 sealserver.trustwave.com
-search.services.mozilla.com
 searchads.apple.com
 searchencrypt.com
 sec-tunnel.com
 secure-us.imrworldwide.com
 secure.adnxs.com
+secure.footprint.net
 secure.insightexpressai.com
 secure.oneallcdn.com
 secure.skypeassets.com
@@ -2507,7 +2509,6 @@ thirdparty.bnc.lt
 tickcounter.com
 tickle.com
 tile-service.weather.microsoft.com
-tiles.services.mozilla.com
 time.samsungcloudsolution.com
 tiny.cc
 tinypass.com
