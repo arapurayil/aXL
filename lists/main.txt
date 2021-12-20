@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.20
-# Last modified: 20 Dec 2021 08:03:43 UTC
+# Last modified: 20 Dec 2021 16:04:31 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10949,7 +10949,9 @@ gosredirector.ea.com
 gosupernet.com
 gosuslugi.ru
 gotinder.com
+goto-target-com.customtraffic.impactradius.com
 goto.clickfunnels.com
+goto.target.com
 gotocsb.com
 gotomyp.com
 gotomypc.com
@@ -15673,6 +15675,7 @@ microsoftedgewelcome.microsoft.com
 microsoftonline.com
 microsoftwindowsupdate.net
 microthought.com
+mid.ru
 midasplayer.com
 midcapeanimalhospital.com
 middlesbrough.gov.uk
