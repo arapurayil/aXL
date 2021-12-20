@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.20
-# Last modified: 20 Dec 2021 00:18:16 UTC
+# Last modified: 20 Dec 2021 08:03:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -504,6 +504,7 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
+ablinksuni.a.grubhub.com
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -10658,6 +10659,7 @@ go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
+go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -15918,6 +15920,7 @@ mobile.rakuten.co.jp
 mobile.scribd.com
 mobile.twitter.com
 mobile.yandex.net
+mobileapi.nutaku.com
 mobilecns.alipay.com
 mobilecodec.alipay.com
 mobiledl.adobe.com
@@ -24039,6 +24042,7 @@ uci.com
 ucla.edu
 ucnb.com
 ucobank.com
+ucoz.ru
 ucpb.biz
 ucpb.com
 ucrdatatool.gov
