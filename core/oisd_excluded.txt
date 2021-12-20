@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Dec 2021 16:05:31 UTC
+# Last modified: 20 Dec 2021 00:18:15 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -63,6 +63,7 @@ a771.dscq.akamai.net
 a1737.b.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
+ablinksuni.a.grubhub.com
 aboluowang.com
 aboutads.info
 ac.duckduckgo.com
@@ -1243,6 +1244,7 @@ go.dlink.com
 go.neverware.com
 go.pardot.com
 go.redirectingat.com
+go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1629,6 +1631,7 @@ l.betrad.com
 l.doubleclick.net
 l.qq.com
 l2.io
+l9bjkkhaycw6f8f4.soundcloud.com
 labs-mqtt.xda-developers.com
 lads.myspace.com
 launcher.spot.im
