@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Dec 2021 16:04:31 UTC
+# Last modified: 21 Dec 2021 00:19:02 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -535,6 +535,7 @@ babyneeds.ro
 backtrack-linux.org
 badges-content.teamspeak.com
 badoo.com
+balajihospital.net
 bam-x.com
 bannertrack.net
 banyanhill.com
@@ -1755,6 +1756,7 @@ micardapi.micloud.xiaomi.net
 micloud.xiaomi.net
 micpn.com
 microsoftwindowsupdate.net
+mid.ru
 mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
@@ -1875,6 +1877,7 @@ ocsp.apple.com
 ocsp.comodoca.com
 ocsp.int-x3.letsencrypt.org
 octafx.com
+odc.weather.com
 odindownload.com
 odinpc.com
 oempprd.samsungcloudsolution.com
@@ -2351,6 +2354,7 @@ smp.sankei.co.jp
 snap.licdn.com
 snat.goguardian.com
 sngpartners.in
+snrcdn.net
 snu.lge.com
 snxd.com
 socialize.us1.gigya.com
