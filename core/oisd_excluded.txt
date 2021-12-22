@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Dec 2021 16:04:44 UTC
+# Last modified: 22 Dec 2021 00:19:05 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -535,7 +535,6 @@ babyneeds.ro
 backtrack-linux.org
 badges-content.teamspeak.com
 badoo.com
-balajihospital.net
 bam-x.com
 bannertrack.net
 banyanhill.com
@@ -1747,7 +1746,6 @@ metric.gstatic.com
 metrics-k.wbx2.com
 metrics.claspws.tv
 metrics.torproject.org
-mfa.gov.ir
 mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
 mhc-xpana-eu.myhomescreen.tv
@@ -1946,6 +1944,7 @@ orkut.com.br
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
+oshi.at
 osimg.nbcuni.com
 ospserver.net
 otn.samsungcloudcdn.com
@@ -1958,6 +1957,7 @@ ow.ly
 p.brid.tv
 p.jwpcdn.com
 p.tanx.com
+p.typekit.net
 p.yotpo.com
 p0.com
 p2.music.126.net
@@ -2447,7 +2447,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-synlab.lt
 sypi.gpshopper.com
 sysdig.com
 szentkoronaradio.com
