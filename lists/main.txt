@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.22
-# Last modified: 22 Dec 2021 00:19:05 UTC
+# Last modified: 22 Dec 2021 08:05:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -15625,7 +15625,6 @@ metzler.com
 meu.inss.gov.br
 mevas.com
 mewkid.net
-mfa.gov.ir
 mfb.hu
 mfbank.com
 mfbank.ru
@@ -17747,6 +17746,7 @@ oschadnybank.com
 oscp.apple.com
 osgv.de
 osha.gov
+oshi.at
 oshrc.gov
 osimg.nbcuni.com
 osint.bambenekconsulting.com
@@ -19684,6 +19684,7 @@ reddit.com
 reddit.map.fastly.net
 redditmedia.com
 redditstatic.com
+redeem.microsoft.com
 redefine.hit.stat24.com
 redefine2.hit.stat24.com
 redfin.com
@@ -23001,7 +23002,6 @@ syndication.twimg.com
 syndication.twitter.com
 syndonline.in
 synergybank.com
-synlab.lt
 synology.com
 synologynotification.com
 synterra.ru
