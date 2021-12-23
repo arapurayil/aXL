@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Dec 2021 16:04:25 UTC
+# Last modified: 23 Dec 2021 00:18:20 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -964,6 +964,7 @@ do-not-tracker.org
 docs.bugsnag.com
 doctortro.com
 documentingreality.com
+doh.centraleu.pi-dns.com
 doiop.com
 dolphincdn.xyz
 domain.com
@@ -1773,6 +1774,7 @@ mobile.pipe.aria.microsoft.com
 mobile.qzone.qq.com
 mobilenetworkscoring-pa.googleapis.com
 mobilityware.com
+mobivity.com
 moengage.com
 mojpieknyogrod.pl
 moneroocean.stream
@@ -1802,6 +1804,7 @@ mxmcdn.net
 mxpnl.com
 my.adocean.pl
 myairbridge.com
+myao.adocean.pl
 mybloglog.com
 myftpupload.com
 myhomescreen.tv
@@ -1969,6 +1972,7 @@ pagead46.l.doubleclick.net
 pages03.net
 pair.com
 pandapush-iad-prod.inscloudgate.net
+pangle.io
 panoramio.com
 panther.goguardian.com
 paperlesspost.com
@@ -2300,7 +2304,6 @@ sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
 sgiz.mobi
 sgizmo.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 shareasale.com
@@ -2510,6 +2513,7 @@ theluckygene.com
 theync.com
 thind-gke-usc.prd.data.corp.unity3d.com
 thirdparty.bnc.lt
+thomsonplaza.com.sg
 tickcounter.com
 tickle.com
 tile-service.weather.microsoft.com
