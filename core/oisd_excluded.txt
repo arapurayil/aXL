@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Dec 2021 08:04:53 UTC
+# Last modified: 23 Dec 2021 16:04:59 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -516,6 +516,7 @@ autopilothq.com
 avantlink.com
 avatarservices.xboxlive.com
 aviasales.ru
+avivaromm.com
 awaps.yandex.ru
 aweber.com
 awemwh.com
@@ -2709,6 +2710,7 @@ webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
 webgains.com
+webhostingprime.com
 webpayment-promo.internet.apps.samsung.com
 webpower.eu
 webredir.vip.gandi.net
