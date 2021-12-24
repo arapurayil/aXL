@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Dec 2021 08:04:36 UTC
+# Last modified: 24 Dec 2021 16:04:08 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -844,7 +844,6 @@ cpt.itv.com
 cptrack.de
 cquotient.com
 crashlytics.com
-crashlyticsreports-pa.googleapis.com
 crbcdn.jsfiddle.net
 createsend.com
 creatives.ancoraplatform.com
@@ -1117,7 +1116,6 @@ files.viva64.com
 fili.cc
 filmha.top
 findglocal.com
-firebase-settings.crashlytics.com
 fireflyengagement.com
 firestore.clients6.google.com
 firestore.googleapis.com
