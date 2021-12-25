@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Dec 2021 16:04:08 UTC
+# Last modified: 25 Dec 2021 00:17:19 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1841,6 +1841,7 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 ngrok.io
 nitrogensports.eu
+njih.net
 nllapps.com
 nonstoppartner.net
 norstatsurveys.com
