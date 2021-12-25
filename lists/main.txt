@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.25
-# Last modified: 25 Dec 2021 00:17:19 UTC
+# Last modified: 25 Dec 2021 08:04:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7675,6 +7675,7 @@ dgit.com
 dh.gov.uk
 dhbbank.com
 dhbbank.de
+dhgate.com
 dhl.com
 dhs.gov
 di.com.pl
@@ -11975,6 +11976,7 @@ iad.liveperson.net
 iadb.org
 iadsdk.apple.com
 iadsdk.apple.com.edgekey.net
+iai-shop.com
 iam-agof-app.irquest.com
 iamcredentials.googleapis.com
 ias.rakuten.co.jp
@@ -16821,6 +16823,7 @@ nittanybank.com
 niubie.com
 nixonlibrary.gov
 nj.com
+njih.net
 njleague.com
 nk.by
 nk.ms
