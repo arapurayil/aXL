@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.26
-# Last modified: 26 Dec 2021 00:19:28 UTC
+# Last modified: 26 Dec 2021 08:03:49 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3171,6 +3171,7 @@ awgnet.com.br
 awin1.com
 awogsd.de
 aws.amazon.com
+aws.keshefoundation.org
 awsg.at
 awssgp0-files.fds.api.xiaomi.com
 awstrack.me
@@ -6785,6 +6786,7 @@ controllers.xbox.com
 conversantmedia.com
 conversation-read.spot.im
 conversehospital.com
+conversions.appsflyer.com
 convertertogenerator.com
 convertkit.com
 conviva.com
@@ -13604,6 +13606,7 @@ kermitstate.com
 kernel.org
 kernmedicalcenter.com
 kerrisdalevethospital.com
+keshefoundation.org
 kestrelcapital.com
 ketteler-krankenhaus.de
 kewaneehospital.com
@@ -14238,6 +14241,7 @@ launchdarkly.com
 launcher.nirsoft.net
 launcher.spot.im
 launcher.twitch.tv
+launches.appsflyer.com
 launchpad.net
 launchpadlibrarian.net
 laurelsb.com
@@ -20120,6 +20124,7 @@ rudolfstiftung.at
 ruedersdorfer-krankenhaus.de
 rukminim1.flixcart.com
 rumble.com
+ruozuwky-android.mobile-messenger.intercom.com
 rupload.facebook.com
 ruppiner-kliniken.de
 rurbanfinancial.net
