@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Dec 2021 16:03:36 UTC
+# Last modified: 26 Dec 2021 00:19:28 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -521,6 +521,7 @@ awaps.yandex.ru
 aweber.com
 awemwh.com
 awin1.com
+aws.keshefoundation.org
 awstrack.me
 azabu-u.ac.jp
 azurewebsites.net
@@ -825,6 +826,7 @@ content22.citicards.com
 continuum.dds.microsoft.com
 control.phone.com
 controleng.com
+conversions.appsflyer.com
 conviva.com
 cooey-coe.org
 cookie.vrt.be
@@ -950,6 +952,7 @@ digidip.net
 digitaladvisor.dk
 digitalive.world
 digits.com
+dingtalk.com
 directtrack.com
 disquscdn.com
 dl.packetstormsecurity.net
@@ -1612,6 +1615,7 @@ keenetic.link
 keenetic.pro
 keepvid.com
 kepler.jd.com
+keshefoundation.org
 kharkov.ua
 kickass.cd
 kiev.ua
@@ -1636,6 +1640,7 @@ l9bjkkhaycw6f8f4.soundcloud.com
 labs-mqtt.xda-developers.com
 lads.myspace.com
 launcher.spot.im
+launches.appsflyer.com
 laureus.com
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
