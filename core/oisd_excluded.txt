@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Dec 2021 16:03:39 UTC
+# Last modified: 27 Dec 2021 00:18:28 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -729,6 +729,7 @@ clc.stackoverflow.com
 clck.yandex.com
 clck.yandex.com.tr
 clck.yandex.ru
+clearbit.com
 cleverpush.com
 cli.gs
 click-url.com

@@ -3,13 +3,16 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2021-12-26T16:03:48.835Z
+! Last modified: 2021-12-27T00:18:35.393Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+@@||adserver.adtech.de^
+@@||advertising-module.api.dpgmedia.cloud^
 @@||advertising.com^
 @@||advertising.soundcloud.com^
 @@||affiliate-program.amazon.com^
+@@||affiliate.dmm.com^
 @@||affiliate.hitbtc.com^
 @@||affiliate.twitch.tv^
 @@||analytics.bsgwireless.com^
@@ -18,29 +21,34 @@
 @@||analytics.edgesuite.net^
 @@||analytics.google.com^
 @@||analytics.query.yahoo.com^
+@@||analytics.robinhood.com^
 @@||analytics.twitter.com^
 @@||banner.play-asia.com^
 @@||banners.funimation.com^
 @@||banners.spiceworks.com^
+@@||beacon-fullpage-predictor.goguardian.com^
+@@||beacon-v2.helpscout.net^
 @@||beacon.geo.netflix.com^
 @@||beacon.netflix.com^
 @@||counter-strike.net^
-@@||incoming.telemetry.mozilla.org^
 @@||mads.amazon-adsystem.com^
-@@||oca.telemetry.microsoft.com^
+@@||mads.amazon.com^
 @@||pixel.everesttech.net^
 @@||pixel.nymag.com^
 @@||pixel.quantserve.com^
 @@||pixel.wp.com^
 @@||prod.telemetry.ros.rockstargames.com^
-@@||sqm.telemetry.microsoft.com^
-@@||telecommand.telemetry.microsoft.com^
+@@||s3-telemetry-eust1.cloudapp.net^
+@@||s3-telemetry-eust3.cloudapp.net^
+@@||s3-telemetry-eust4.cloudapp.net^
 @@||telemetry-in.battle.net^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
+@@||telemetry-prd.ap.tesla.services^
 @@||telemetry-prd.vn.tesla.services^
 @@||telemetry.api.swiftkey.com^
+@@||telemetry.microsoft.com^
+@@||telemetry.mozilla.org^
 @@||telemetry.soundcloud.com^
 @@||use.adserver.snapads.com^
-@@||watson.telemetry.microsoft.com^
 @@/beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
 @@/^(captive\.|adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/
