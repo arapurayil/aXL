@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Dec 2021 08:05:16 UTC
+# Last modified: 27 Dec 2021 16:04:17 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -847,6 +847,7 @@ cpt.itv.com
 cptrack.de
 cquotient.com
 crashlytics.com
+crashlyticsreports-pa.googleapis.com
 crbcdn.jsfiddle.net
 createsend.com
 creatives.ancoraplatform.com
@@ -968,7 +969,6 @@ do-not-tracker.org
 docs.bugsnag.com
 doctortro.com
 documentingreality.com
-doh.centraleu.pi-dns.com
 doiop.com
 dolphincdn.xyz
 domain.com
@@ -1120,6 +1120,7 @@ files.viva64.com
 fili.cc
 filmha.top
 findglocal.com
+firebase-settings.crashlytics.com
 fireflyengagement.com
 firestore.clients6.google.com
 firestore.googleapis.com
@@ -1175,7 +1176,6 @@ fs.microsoft.com
 ftp.byethost11.com
 ftp.drivehq.com
 ftpcontent.worldnow.com
-ftr2.external.xerox.com
 fundingchoicesmessages.google.com
 funshion.com
 fus.lenovomm.com
@@ -1823,6 +1823,7 @@ naiadsystems.com
 named.myteamspeak.com
 nanigans.com
 narrativ.com
+nasapaul.com
 navitime.co.jp
 naytev.com
 ndmdhs.com
@@ -1995,6 +1996,7 @@ pass.1688.com
 passport.baidu.com
 patatap.com
 pavv.co.kr
+paydirekt-de01.wt-eu02.net
 payeer.com
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
@@ -2136,6 +2138,7 @@ r.mail.ru
 r.orange.fr
 r.sg.sec.miui.com
 r1.ykimg.com
+r2.ea.eulerian.net
 r42tag.com
 radeant.com
 ramp.purch.com
@@ -2342,6 +2345,8 @@ siteplug.com
 sitetracker.com
 skimlinks.com
 skimresources.com
+sleeknote.com
+sleeknotecustomerscripts.sleeknote.com
 slike.indiatimes.com
 sliptalk.com
 sls.update.microsoft.com.akadns.net
@@ -2474,7 +2479,6 @@ t2.hulu.com
 t11.baidu.com
 t12.baidu.com
 t35.com
-taatta.net
 taboola.com
 tacticalrepublic.com
 tag.aticdn.net
@@ -2630,6 +2634,7 @@ update.360safe.com
 update.avlyun.sec.miui.com
 update.miui.com
 update.onelaunch.com
+updates.cdn-apple.com
 upgrade.xl9.xunlei.com
 upload.cc
 upu.samsungelectronics.com
