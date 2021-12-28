@@ -117,7 +117,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 235
+            "num_unblock_rules": 236
         },
         {
             "name": "Energized Basic Protection - Whitelist",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 2811
+            "num_unblock_rules": 2815
         },
         {
             "name": "ookangzheng blahdns whitelist",

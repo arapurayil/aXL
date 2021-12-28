@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.28
-# Last modified: 28 Dec 2021 00:17:57 UTC
+# Last modified: 28 Dec 2021 08:04:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2087,6 +2087,7 @@ ampproject.net
 ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
+ams.keshefoundation.org
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -10950,6 +10951,7 @@ goregrish.com
 gorhamsavingsbank.com
 gorod23.ru
 gosign.adobe.com
+gosquared.com
 gosredirector.ea.com
 gosupernet.com
 gosuslugi.ru
@@ -14944,6 +14946,7 @@ mail.dcinside.com
 mail.google.com
 mail.hostmonster.com
 mail.hulu.com
+mail.keshefoundation.org
 mail.linkedin.com
 mail.live.com
 mail.naver.com
@@ -22705,6 +22708,7 @@ store.crunchyroll.com
 store.gematsu.com
 store.hide.me
 store.kaspersky.com
+store.keshefoundation.org
 store.lg.com
 store.line.me
 store.mozilla.org
