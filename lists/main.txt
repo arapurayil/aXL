@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.12.27
-# Last modified: 27 Dec 2021 16:04:17 UTC
+# Version: 2.12.28
+# Last modified: 28 Dec 2021 00:17:57 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10148,7 +10148,6 @@ ftp.mozilla.org
 ftp.techmeme.com
 ftp.tsukuba.wide.ad.jp
 ftpcontent.worldnow.com
-ftr2.external.xerox.com
 ftrelay.messenger.yahooapis.com
 ftvr-na.amazon.com
 ftx.com
@@ -16440,6 +16439,7 @@ narayanahealth.org
 narmc.com
 narrativ.com
 nasa.gov
+nasapaul.com
 nasb.com
 nasbank.bg
 nashevideo.info
@@ -18112,6 +18112,7 @@ pay24.co.il
 payanyway.ru
 payb2b.domru.ru
 paycard.beeline.ru
+paydirekt-de01.wt-eu02.net
 paydirekt.de
 payeasy.lk
 payeer.com
@@ -19213,6 +19214,7 @@ r1.ca
 r1.ykimg.com
 r10s.jp
 r2.bithumb.com
+r2.ea.eulerian.net
 r20.rs6.net
 r2p.de
 r3---sn-4g5edn7s.googlevideo.com
@@ -21381,6 +21383,8 @@ slavinvest.ru
 slbank.ru
 slbm.ru
 slcb.com.lb
+sleeknote.com
+sleeknotecustomerscripts.sleeknote.com
 slickdeals.net
 slide.com
 slides.diigo.com
@@ -23085,7 +23089,6 @@ t35.com
 ta.gd
 ta.wikipedia.com
 ta4a.info
-taatta.net
 tabbank.com
 taboola.com
 tabunghaji.gov.my

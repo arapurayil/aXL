@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Dec 2021 16:04:17 UTC
+# Last modified: 28 Dec 2021 00:17:57 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -378,6 +378,7 @@ amazon-adsystem.com
 amdc.m.taobao.com
 americanlisted.com
 amplitude.com
+ams.keshefoundation.org
 an.yandex.ru
 analytics.edgekey.net
 analytics.google.com
@@ -1272,6 +1273,7 @@ googletagservices.com
 goohost.ru
 gopjn.com
 goregrish.com
+gosquared.com
 gotraffic.net
 gpm.samsungqbe.com
 grab.com
@@ -1696,6 +1698,7 @@ magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magiskmanager.com
 mail.hostmonster.com
+mail.keshefoundation.org
 mailerlite.com
 mairdumont.com
 mallgroup.com
@@ -2435,6 +2438,7 @@ stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
+store.keshefoundation.org
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stptrisakti.ac.id
