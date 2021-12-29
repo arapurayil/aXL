@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 2.12.29
-# Last modified: 29 Dec 2021 00:17:25 UTC
+# Last modified: 29 Dec 2021 08:04:51 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -13189,6 +13189,7 @@ isgprivacy.cbsi.com
 islamibankbd.com
 islamic-commerce.net
 islamweb.net
+islandmob.com
 islandsun.net
 isnbank.ru
 isnet.net.tr
