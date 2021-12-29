@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Dec 2021 16:04:49 UTC
+# Last modified: 29 Dec 2021 00:17:25 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -955,7 +955,6 @@ digidip.net
 digitaladvisor.dk
 digitalive.world
 digits.com
-dingtalk.com
 directtrack.com
 disquscdn.com
 dl.packetstormsecurity.net
@@ -1579,6 +1578,7 @@ irchan.com
 iris.tv
 ironbeast.io
 isgprivacy.cbsi.com
+islandmob.com
 isnssdk.com
 ist-track.com
 itsfogo.com
