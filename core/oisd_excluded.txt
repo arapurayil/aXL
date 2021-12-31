@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Dec 2021 16:04:37 UTC
+# Last modified: 31 Dec 2021 00:18:12 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -104,7 +104,6 @@ adj.st
 adjust.com
 adjust.io
 adjust.net.in
-adjust.world
 adl.windows.com
 adlandpro.com
 adm3.autoimg.cn
@@ -373,7 +372,6 @@ alitems.com
 aliyuncs.com
 alltheinternet.com
 alpari.ru
-amauthprd.samsungcloudsolution.com
 amazon-adsystem.com
 amdc.m.taobao.com
 americanlisted.com
@@ -393,7 +391,6 @@ anrdoezrs.net
 antionline.com
 antiphishing.cliqz.com
 anura.io
-apester.com
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-xl9-ssl.xunlei.com
@@ -456,7 +453,6 @@ app-cdn.spot.im
 app.adjust.com
 app.adjust.io
 app.adjust.net.in
-app.adjust.world
 app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
@@ -493,7 +489,6 @@ assets.adobedtm.com
 assets.penny-arcade.com
 assets.pinterest.com
 assetstore.unity.com
-assoc-amazon.com
 at-o.net
 atconnect.npo.nl
 atdmt.com
@@ -639,7 +634,6 @@ c.live.com
 c.msn.com
 c.msn.com.nsatc.net
 c.paypal.com
-c.xbox.com
 c.yes.youku.com
 c.ypcdn.com
 c1.microsoft.com
@@ -659,7 +653,6 @@ cdn-image.com
 cdn-net.com
 cdn.adf.ly
 cdn.appdynamics.com
-cdn.branch.io
 cdn.clerk.io
 cdn.cliqz.com
 cdn.cookielaw.org
@@ -697,7 +690,6 @@ cdn4.wibbitz.com
 cdnapi.kaltura.com
 cdnjs.tvpage.com
 cdnstatic.detik.com
-cdp.cloud.unity3d.com
 cedexis.com
 cedexis.net
 certona.net
@@ -746,7 +738,6 @@ click.official.nike.com
 click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
-click.zoom.us
 clickbank.com
 clickbank.net
 clickcease.com
@@ -765,7 +756,6 @@ clientapi.myteamspeak.com
 clients.l.google.com
 clients1.google.com
 clients6.google.com
-clientservices.googleapis.com
 cliphunter.com
 cliqz.com
 clk.boulanger.com
@@ -789,7 +779,6 @@ cognito-identity.us-east-1.amazonaws.com
 cohesionapps.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
-collector.githubapp.com
 collector.wallapop.com
 com.com
 comet.yahoo.com
@@ -818,7 +807,6 @@ consent.faz.net
 consent.truste.com
 console.cloud.google.com
 contactapi.micloud.xiaomi.net
-content.aimatch.com
 content.barracuda.com
 content.ctfs.com
 content.discover.com
@@ -841,14 +829,12 @@ corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cosmos.channel.or.jp
 countere.com
-countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
 cpt.itv.com
 cptrack.de
 cquotient.com
 crashlytics.com
-crashlyticsreports-pa.googleapis.com
 crbcdn.jsfiddle.net
 createsend.com
 creatives.ancoraplatform.com
@@ -876,7 +862,6 @@ curalate.com
 custom.plausible.io
 customer.homedepot.com
 customer.io
-customerevents.netflix.com
 cws-hulu.conviva.com
 cws.conviva.com
 cxense.com
@@ -898,7 +883,6 @@ d2e0sxz09bo7k2.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
-d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d15k2d11r6t6rl.cloudfront.net
@@ -927,6 +911,7 @@ datarouter-prod.ak.epicgames.com
 datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
 daystar.ac.ke
+db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
 dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
@@ -957,7 +942,6 @@ digitalive.world
 digits.com
 directtrack.com
 disquscdn.com
-dl.packetstormsecurity.net
 dls.di.atlas.samsung.com
 dmd.metaservices.microsoft.com
 dms.metlife.ru
@@ -1071,7 +1055,6 @@ eulerian.net
 eultech.fnac.com
 eurobet.it
 event.udn.com
-events.apester.com
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.godaddy.com
@@ -1120,7 +1103,6 @@ files.viva64.com
 fili.cc
 filmha.top
 findglocal.com
-firebase-settings.crashlytics.com
 fireflyengagement.com
 firestore.clients6.google.com
 firestore.googleapis.com
@@ -1237,7 +1219,6 @@ gigya.com
 glbdns.microsoft.com
 glbdns2.microsoft.com
 gleam.io
-global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 glomex.com
 gloyah.net
@@ -1562,6 +1543,7 @@ ip-tracker.org
 ip.goguardian.com
 ip2location.com
 ipcheck.tmgrup.com.tr
+ipdata.co
 ipgmkdri.edu.my
 iphone-services.apple.com
 iphonesubmissions.apple.com
@@ -1639,9 +1621,9 @@ l.betrad.com
 l.doubleclick.net
 l.qq.com
 l2.io
-l9bjkkhaycw6f8f4.soundcloud.com
 labs-mqtt.xda-developers.com
 lads.myspace.com
+lapauseyogachaud.com
 launcher.spot.im
 launches.appsflyer.com
 laureus.com
@@ -1661,6 +1643,7 @@ lindy.co.id
 line.naver.jp
 linkev.com
 linksynergy.com
+linktr.ee
 litix.io
 live.simcitybuildit.com
 livefyre.com
@@ -1669,6 +1652,7 @@ liveperson.net
 livetex.ru
 liveupdate.mac.sandai.net
 ll.a.hulu.com
+lnk.to
 lnks.gd
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
@@ -1857,7 +1841,6 @@ nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
-noticefile.samsungcloudsolution.com
 nova.collect.igodigital.com
 now.eloqua.com
 nozonenet.com
@@ -1881,7 +1864,6 @@ nudatasecurity.com
 nuernberg.de
 nutaku.com
 o.auspost.com.au
-o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -1940,7 +1922,6 @@ onesignal.com
 onetrust.com
 online-metrix.net
 online.adservicemedia.dk
-online.com
 ooyala.com
 openmarket.com
 openmobile.qq.com
@@ -1970,7 +1951,6 @@ ow.ly
 p.brid.tv
 p.jwpcdn.com
 p.tanx.com
-p.typekit.net
 p.yotpo.com
 p0.com
 p2.music.126.net
@@ -2027,7 +2007,6 @@ ping.tapas.io
 ping.taplytics.com
 ping.ui.com
 pings.conviva.com
-pinpoll.com
 pipe.aria.microsoft.com
 piwik.org
 pixel.everesttech.net
@@ -2316,6 +2295,7 @@ sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
 sgiz.mobi
 sgizmo.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 shareasale.com
@@ -2402,7 +2382,6 @@ ssm1.internet.sony.tv
 sso.internetat.tv
 ssp.meba.kr
 sstats.adobe.com
-st.bahn.de
 stacksocial.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
@@ -2416,7 +2395,6 @@ statcounter.com
 static-asm.secure.skypeassets.com
 static.3001.net
 static.adsafeprotected.com
-static.apester.com
 static.cleverpush.com
 static.cloudflareinsights.com
 static.fastpic.ru
@@ -2431,6 +2409,7 @@ stats.adobe.com
 stats.gc.apple.com
 stats.pusher.com
 stats.stackexchange.com
+stats.t-online.de
 statusapi.micloud.xiaomi.net
 steamanalyst.com
 stereomag.ro
@@ -2768,6 +2747,7 @@ wx.qlogo.cn
 x.co
 x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
+xapi.ozon.ru
 xdm.wireless.att.com
 xg4ken.com
 xhcom.edu.cn
