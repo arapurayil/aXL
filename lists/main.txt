@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 2.12.31
-# Last modified: 31 Dec 2021 16:04:36 UTC
+# Version: 3.01.01
+# Last modified: 01 Jan 2022 00:18:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -22824,6 +22824,7 @@ suncommunity.com
 suncorpbank.com.au
 suncorpmetway.com.au
 sundaymirror.co.uk
+sundaysky.com
 sunflowerbank.com
 sunhealth.org
 suning.com
