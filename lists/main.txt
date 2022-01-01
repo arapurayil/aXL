@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.01
-# Last modified: 01 Jan 2022 08:07:27 UTC
+# Last modified: 01 Jan 2022 16:07:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -23528,6 +23528,7 @@ tiny.cc
 tiny.lt
 tiny.ms
 tiny.pl
+tinychinacdnweb.qiniu.com.w.kunlunno.com
 tinyfac.es
 tinypass.com
 tinypic.com
