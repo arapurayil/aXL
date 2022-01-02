@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Jan 2022 16:07:04 UTC
+# Last modified: 02 Jan 2022 00:18:48 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -257,6 +257,7 @@ adservice.google.dm
 adservice.google.dz
 adservice.google.ee
 adservice.google.es
+adservice.google.eu
 adservice.google.fi
 adservice.google.fm
 adservice.google.fr
@@ -411,6 +412,7 @@ antionline.com
 antiphishing.cliqz.com
 anura.io
 anycast.adnxs.com
+ap.spotify.com
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-xl9-ssl.xunlei.com
@@ -508,6 +510,7 @@ appspot.com
 appsumo.com
 apptimize.com
 arc.epoq.de
+arc.msn.com
 armaholic.com
 arstechnica.com
 art19.com
@@ -530,6 +533,7 @@ atspace.com
 attraqt.com
 atw.hu
 audid-api.taobao.com
+audio-ak-spotify-com.akamaized.net
 auditrecording-pa.googleapis.com
 auditude.com
 aus.waterfox.net
@@ -544,7 +548,9 @@ autoappassionati.it
 autolinkmaker.itunes.apple.com
 autopilothq.com
 avantlink.com
+avast.com
 avatarservices.xboxlive.com
+avg.com
 aviasales.ru
 avivaromm.com
 awaps.yandex.ru
@@ -719,6 +725,7 @@ cdn.hbbtv.smartclip.net
 cdn.hockeyapp.net
 cdn.judge.me
 cdn.krxd.net
+cdn.livechatinc.com
 cdn.livefyre.com
 cdn.mxpnl.com
 cdn.onesignal.com
@@ -730,6 +737,7 @@ cdn.rlcdn.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
+cdn.sift.com
 cdn.siftscience.com
 cdn.streamlike.com
 cdn.stroeerdigitalgroup.de
@@ -815,10 +823,12 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
+client.hola.org
 clientapi.myteamspeak.com
 clients.l.google.com
 clients1.google.com
 clients6.google.com
+clientsdk.luminati.io
 cliphunter.com
 cliqz.com
 clk.boulanger.com
@@ -1086,6 +1096,8 @@ ebates.com
 ebd.cda.pl
 ecn.dev.virtualearth.net
 ecology-tech403.ml
+ecx.images-amazon.com
+edge-enterprise.activity.windows.com
 edge.activity.windows.com
 edge.api.brightcove.com
 edgecast-vod.yahoo.net
@@ -1108,6 +1120,7 @@ email-links.buffer.com
 email.fotf.com
 email.netlify.com
 email.uber.com
+emails.avg.com
 embed.mystream.to
 embed.tawk.to
 embed.windy.com
@@ -1189,6 +1202,7 @@ feature.fm
 feedblitz.com
 feedsportal.com
 fembed.com
+ff.avast.com
 ffdns.net
 file.market.xiaomi.com
 filehorse.com
@@ -1239,6 +1253,7 @@ forpci42.actonsoftware.com
 forpci61.actonsoftware.com
 forter.com
 fourier.taobao.com
+fp.msedge.net
 fpt.microsoft.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
@@ -1428,6 +1443,7 @@ hitmarkerjobs.com
 hkepc.net
 hkg1.aastocks.com
 hockeyapp.net
+hola.org
 hollyhockhill.com
 home.bt.com
 horriblevideos.com
@@ -1488,6 +1504,7 @@ ichnaea-web.netflix.com
 ichnaea.netflix.com
 iconfactory.com
 icptrack.com
+id.avg.com
 id.google.ad
 id.google.al
 id.google.at
@@ -1612,6 +1629,7 @@ igodigital.com
 ihelper.mts.by
 ikohs.com
 image.ceneo.pl
+image.emails.avg.com
 images.ccbill.com
 images.dmca.com
 images.sohu.com
@@ -1663,6 +1681,8 @@ involve.asia
 ioam.de
 ip-adress.com
 ip-api.com
+ip-info.ff.avast.com
+ip-info.ns1.ff.avast.com
 ip-tracker.org
 ip.goguardian.com
 ip2location.com
@@ -1677,6 +1697,7 @@ ipinfo.io
 ipinfodb.com
 ipla.hit.stat24.com
 ipm-provider.ff.avast.com
+ipm-provider.ns1.ff.avast.com
 ipoker.com
 ipstack.com
 ipv4.tracker.harry.lu
@@ -1790,6 +1811,7 @@ livetex.ru
 liveupdate.mac.sandai.net
 ll.a.hulu.com
 lnks.gd
+location-inference-westus.cloudapp.net
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
 log.byteoversea.com
@@ -1804,6 +1826,7 @@ logs.datadoghq.eu
 lomadee.com
 lptag.liveperson.net
 luckyorange.com
+luminati.io
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
@@ -2158,6 +2181,7 @@ pi.t.pardot.com
 piano.io
 pidorg.ru
 pila.pl
+ping.avast.com
 ping.cloud.tencent.com
 ping.tapas.io
 ping.taplytics.com
@@ -2274,6 +2298,7 @@ quainator.com
 quantcast.mgr.consensu.org
 quantummetric.com
 quartic.pl
+query.prod.cms.rt.microsoft.com
 questionpro.com
 quiddity.goguardian.com
 quttera.com
@@ -2459,6 +2484,7 @@ semawur.com
 sendibt2.com
 sendibt3.com
 sensic.net
+sentitlement2.mobile.att.net
 sentry.io
 serve.adtrackers.net
 servedby.o2.co.uk
@@ -2525,6 +2551,7 @@ smartclip.net
 smartlock.google.com
 smartplugin.youbora.com
 smartredirect.de
+smartscreen.microsoft.com
 smarturl.it
 smetrics.costco.com
 smetrics.dhl.de
@@ -2564,6 +2591,7 @@ speedport.ip
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
 spot.im
+spotify.map.fastly.net
 sqimg.qq.com
 srvtrck.com
 ssh.cloud.google.com
@@ -2586,9 +2614,11 @@ statcounter.com
 static-asm.secure.skypeassets.com
 static.3001.net
 static.adsafeprotected.com
+static.avast.com
 static.cleverpush.com
 static.cloudflareinsights.com
 static.fastpic.ru
+static.klaviyo.com
 static.mediav.com
 static.parsely.com
 static.scroll.com
@@ -2621,6 +2651,8 @@ streamplay.to
 stressthem.to
 stripe.network
 stroeerdigitalgroup.de
+su.ff.avast.com
+su.ns1.ff.avast.com
 subs.youmaker.com
 sucmetrics.unicredit.it
 suggestqueries-clients6.youtube.com
@@ -2832,6 +2864,7 @@ unity.com
 unity3d.com
 untd.com
 update.360safe.com
+update.avg.com
 update.avlyun.sec.miui.com
 update.miui.com
 update.onelaunch.com
