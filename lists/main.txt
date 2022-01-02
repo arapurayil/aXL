@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.02
-# Last modified: 02 Jan 2022 08:04:11 UTC
+# Last modified: 02 Jan 2022 16:03:46 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -23900,7 +23900,9 @@ tradersbank.com
 tradetracker.net
 tradingstandards.gov.uk
 traffic.alexa.com
+traffic.eks.megaphone.cloud
 traffic.libsyn.com
+traffic.megaphone.fm
 traffic.spot.im
 trafficdeposit.com
 trafficguard.ai

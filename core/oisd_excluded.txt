@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Jan 2022 08:04:10 UTC
+# Last modified: 02 Jan 2022 16:03:46 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -23,6 +23,7 @@
 4shared.com
 5z8.info
 7eer.net
+7zap.com
 24.hu
 51.com
 51.la
@@ -37,6 +38,7 @@
 123formbuilder.com
 127.net
 140cc.v.fwmrm.net
+163.com
 207.net
 265.com
 360.yahoo.com
@@ -53,6 +55,7 @@ a-mo.net
 a-msedge.net
 a.apkpure.com
 a.baidu.com
+a.disquscdn.com
 a.klaviyo.com
 a.nonstoppartner.net
 a.pomf.cat
@@ -70,6 +73,7 @@ aax-us-iad.amazon.com
 ablinksuni.a.grubhub.com
 abnamro.demdex.net
 aboluowang.com
+about.com
 aboutads.info
 ac.duckduckgo.com
 accengage.com
@@ -84,6 +88,7 @@ acs.m.taobao.com
 action.metaffiliation.com
 activation.gfe.nvidia.com
 activation.unity3d.com
+active.com
 activity.windows.com
 actonservice.com
 actonsoftware.com
@@ -510,7 +515,6 @@ appspot.com
 appsumo.com
 apptimize.com
 arc.epoq.de
-arc.msn.com
 armaholic.com
 arstechnica.com
 art19.com
@@ -576,6 +580,7 @@ badges-content.teamspeak.com
 badoo.com
 bam-x.com
 bam.eu01.nr-data.net
+bannerbank.com
 bannertrack.net
 banyanhill.com
 barclaybanking.com
@@ -589,6 +594,7 @@ bc.marfeel.com
 bc.marfeelcache.com
 bc0a.com
 bce.baidu.com
+bcentral.com
 bdcore-apr-lb.bda.ndmdhs.com
 bea4.v.fwmrm.net
 beacon-fullpage-predictor.goguardian.com
@@ -662,6 +668,7 @@ bs.serving-sys.com
 bs.yandex.ru
 bsiderats.nl
 bsv.atm.youku.com
+btguard.com
 btstatic.com
 bttn.io
 budurl.com
@@ -751,6 +758,7 @@ cdn.yimg.com
 cdn.ziffstatic.com
 cdn.zomap.de
 cdn1.ettoday.net
+cdn2.optimizely.com
 cdn3.optimizely.com
 cdn4.wibbitz.com
 cdnapi.kaltura.com
@@ -1004,6 +1012,7 @@ db5.vortex.data.microsoft.com.akadns.net
 dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
+dca.nl
 dcms.1688.com
 dcs.audi.com
 dd-cdn.multiscreensite.com
@@ -1032,6 +1041,7 @@ digitalive.world
 digits.com
 directtrack.com
 disq.us
+disqus.com
 disquscdn.com
 dl.downloadly.ir
 dls.di.atlas.samsung.com
@@ -1097,7 +1107,6 @@ ebd.cda.pl
 ecn.dev.virtualearth.net
 ecology-tech403.ml
 ecx.images-amazon.com
-edge-enterprise.activity.windows.com
 edge.activity.windows.com
 edge.api.brightcove.com
 edgecast-vod.yahoo.net
@@ -1128,6 +1137,7 @@ emjcd.com
 emkei.cz
 emoji.redditmedia.com
 endpoint1.collection.eu.sumologic.com
+engage.com
 engage.windows.com
 engine.phn.doublepimp.com
 enigmasoftware.com
@@ -1253,7 +1263,6 @@ forpci42.actonsoftware.com
 forpci61.actonsoftware.com
 forter.com
 fourier.taobao.com
-fp.msedge.net
 fpt.microsoft.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
@@ -1811,7 +1820,6 @@ livetex.ru
 liveupdate.mac.sandai.net
 ll.a.hulu.com
 lnks.gd
-location-inference-westus.cloudapp.net
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
 log.byteoversea.com
@@ -2298,7 +2306,6 @@ quainator.com
 quantcast.mgr.consensu.org
 quantummetric.com
 quartic.pl
-query.prod.cms.rt.microsoft.com
 questionpro.com
 quiddity.goguardian.com
 quttera.com
@@ -2551,7 +2558,6 @@ smartclip.net
 smartlock.google.com
 smartplugin.youbora.com
 smartredirect.de
-smartscreen.microsoft.com
 smarturl.it
 smetrics.costco.com
 smetrics.dhl.de
@@ -2897,6 +2903,7 @@ users.atw.hu
 users.on.net
 users.telenet.be
 usher.ttvnw.net
+ust.chatango.com
 uzreklam.com
 v.fwmrm.net
 v2.zopim.com
