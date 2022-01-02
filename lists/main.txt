@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.02
-# Last modified: 02 Jan 2022 00:18:48 UTC
+# Last modified: 02 Jan 2022 08:04:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6286,6 +6286,7 @@ client-s.gateway.messenger.live.com
 client.crisp.chat
 client.dropbox.com
 client.hip.live.com
+client.hola.org
 client.mdmbank.ru
 client.nb-bank.ru
 client.paritetbank.by
@@ -6322,6 +6323,7 @@ clients6.google.com
 clients6.googleusercontent.com
 clients7.googleusercontent.com
 clientsc.alipay.com
+clientsdk.luminati.io
 clientstream.intuit.launchdarkly.com
 clientstream.launchdarkly.com
 clikk.in
@@ -8693,6 +8695,7 @@ email.ssdnodes.com
 email.tektorg.ru
 email.uber.com
 emailondeck.com
+emails.avg.com
 emails.kickstarter.com
 emarinebank.com
 emarketer.com
@@ -9399,6 +9402,7 @@ ferrierlullin.com
 festuc.com
 fettnerd.org
 feurl.com
+ff.avast.com
 ff.to
 ffb-sd.com
 ffb.com
@@ -12394,6 +12398,7 @@ icq.im
 icute.com
 id-cdn.twitch.tv
 id-lookup.api.playstation.com
+id.avg.com
 id.banknorwegian.no
 id.biltema.com
 id.google.ad
@@ -12634,6 +12639,7 @@ image.dcinside.com
 image.elephantjournal.com
 image.em.funimation.com
 image.email.microsoftemail.com
+image.emails.avg.com
 image.engage.xbox.com
 image.exacttarget.com
 image.game.uc.cn
@@ -13167,6 +13173,7 @@ iowatelecom.net
 ip-adress.com
 ip-api.com
 ip-info.ff.avast.com
+ip-info.ns1.ff.avast.com
 ip-only.se
 ip-tracker.org
 ip.breitbart.com
@@ -13204,6 +13211,7 @@ ipleak.net
 iplists.firehol.org
 iplocation.net
 ipm-provider.ff.avast.com
+ipm-provider.ns1.ff.avast.com
 ipmcloud.kaspersky.com
 ipoker.com
 ipopimg.sina.com.tw
@@ -14916,6 +14924,7 @@ luisenhospital.de
 lukas-krankenhaus.de
 lukasstiftung-altenburg.de
 lukb.ch
+luminati.io
 lunarstorm.se
 lunenburgvethospital.com
 lungenklinikamsee.de
@@ -18479,6 +18488,7 @@ pinecitybank.com
 pineislandbank.com
 pineriverstatebank.com
 pinevillepethospitalonline.com
+ping.avast.com
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.pdst.fm
@@ -21080,6 +21090,7 @@ seninbankan.com.tr
 seniorcorps.gov
 seniorentreff.de
 sensic.net
+sentitlement2.mobile.att.net
 sentry.cloud.vimeo.com
 sentry.flipboard.com
 sentry.io
@@ -21544,6 +21555,7 @@ smartlook.com
 smartplugin.youbora.com
 smartredirect.de
 smartscreen-sn3p.smartscreen.microsoft.com
+smartscreen.microsoft.com
 smartsheet.com
 smartstore.naver.com
 smartsuppchat.com
@@ -22286,6 +22298,7 @@ sportsmansguide.com
 sportsmedia.ign.com
 spot.im
 spotify.com
+spotify.map.fastly.net
 spotops.spot.im
 spoxy-eb.spot.im
 spoxy-launcher.spot.im
@@ -22571,6 +22584,7 @@ static.ak.facebook.com
 static.akacdn.ru
 static.analytics.openapi.naver.com
 static.appsumo.com
+static.avast.com
 static.bbc.co.uk
 static.bbc.com
 static.bbci.co.uk
@@ -22905,6 +22919,8 @@ style.sndcdn.com
 stylehive.com
 stylem.com
 styles.redditmedia.com
+su.ff.avast.com
+su.ns1.ff.avast.com
 su.pr
 suarankri.me
 sube.halkbank.com.tr
@@ -24417,6 +24433,7 @@ upc.pl
 upchk.api.playstation.com
 update-nl.huawei.com
 update.360safe.com
+update.avg.com
 update.avlyun.sec.miui.com
 update.biv.sony.tv
 update.code.visualstudio.com
