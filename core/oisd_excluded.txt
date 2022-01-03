@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Jan 2022 00:18:09 UTC
+# Last modified: 03 Jan 2022 08:05:07 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -41,6 +41,7 @@
 207.net
 265.com
 360.yahoo.com
+801.tianya.cn
 2222mb.com
 201205igp.gameloft.com
 881903.com
@@ -680,7 +681,6 @@ buzzador.com
 buzzmein.com
 bwin.com
 byet.org
-byoblu.com
 byside.com
 byteimg.com
 c-api-bit.shopeemobile.com
@@ -802,6 +802,7 @@ click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
 click.dtiserv2.com
+click.e.affirm.com
 click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com
@@ -856,7 +857,6 @@ collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collector.wallapop.com
 com.com
-comedonchisciotte.org
 comet.yahoo.com
 commander1.com
 comments.ign.com
@@ -1426,6 +1426,7 @@ hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
+heads-fa.scdn.co
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
@@ -1918,6 +1919,7 @@ minorshort.weixin.qq.com
 minutemediaservices.com
 mis.migc.xiaomi.com
 miscopy.com
+mistat.xiaomi.com
 mixi.jp
 mixi.media
 mkt51.net
@@ -1939,6 +1941,7 @@ monitor.azure.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
+mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mplxtms.com
@@ -2344,6 +2347,7 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2397,7 +2401,6 @@ s3-directional-w.amazonaws.com
 s3-telemetry-eust1.cloudapp.net
 s3-telemetry-eust3.cloudapp.net
 s3-telemetry-eust4.cloudapp.net
-s3.us-east-2.amazonaws.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com

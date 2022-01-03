@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.03
-# Last modified: 03 Jan 2022 00:18:10 UTC
+# Last modified: 03 Jan 2022 08:05:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3037,7 +3037,6 @@ attikonhospital.gr
 attracta.com
 attraqt.com
 atuc.com
-atw.hu
 au-1.hide.me
 au-2.hide.me
 au.download.windowsupdate.com
@@ -4766,7 +4765,6 @@ brandywinehospital.com
 brannenbanks.com
 brattbank.com
 bravia.dl.playstation.net
-braze.eu
 brazil.hide.me
 brazil.kaspersky.com
 brb-bi.net
@@ -5012,7 +5010,6 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
-bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -5021,6 +5018,7 @@ byet.org
 byethost10.com
 byjusclasses.com
 byjusclasses.freshdesk.com
+byoblu.com
 byod-web.huawei.com
 byside.com
 bystrobank.ru
@@ -5458,7 +5456,6 @@ ccm.npo.nl
 ccm.npostart.nl
 ccmbg.com
 ccmdl.adobe.com
-ccmp.eu
 ccow.com
 ccpce-cn.consumer.huawei.com
 ccservicing.com
@@ -5534,7 +5531,6 @@ cdn.bitmovin.com
 cdn.bluebillywig.com
 cdn.bnnvara.nl
 cdn.branch.io
-cdn.braze.eu
 cdn.breitbart.com
 cdn.cdnfiles.site
 cdn.changelog.com
@@ -6289,7 +6285,6 @@ client-s.gateway.messenger.live.com
 client.crisp.chat
 client.dropbox.com
 client.hip.live.com
-client.hola.org
 client.mdmbank.ru
 client.nb-bank.ru
 client.paritetbank.by
@@ -6326,7 +6321,7 @@ clients6.google.com
 clients6.googleusercontent.com
 clients7.googleusercontent.com
 clientsc.alipay.com
-clientsdk.luminati.io
+clientservices.googleapis.com
 clientstream.intuit.launchdarkly.com
 clientstream.launchdarkly.com
 clikk.in
@@ -6582,6 +6577,7 @@ comcast.com
 comcast.demdex.net
 comcastcom.d1.sc.omtrdc.net
 comdirect.de
+comedonchisciotte.org
 comerica.com
 comesabankers.org
 comet.yahoo.com
@@ -7256,7 +7252,6 @@ cybermap.kaspersky.com
 cybermind-usa.net
 cyberone.com.au
 cyberonic.com
-cyberport.at
 cybersurf.com
 cybr.fr
 cydia.saurik.com
@@ -7852,7 +7847,6 @@ dispatch.kahuna.glbdns.microsoft.com
 display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
 displayimage.messenger.yahooapis.com
-disq.us
 disqus.com
 disquscdn.com
 distribute.adobe.com
@@ -8118,7 +8112,6 @@ draftprodoms.trafficmanager.net
 dragon-capital.com
 dragsholmsparekasse.dk
 drairadier.com
-drakulastream.eu
 dramafever.com
 draperbank.com
 draugams.lt
@@ -8570,6 +8563,7 @@ ein.funimation.com
 eindhovensdagblad.nl
 einsundeins.de
 eio-feed.exchange.coinbase.com
+eip-ntt.audio-ak.spotify.com.akahost.net
 eip-ntt.pinimg.com.akapinimg.net
 ejob.gov.tw
 ejquo23388.i.lithium.com
@@ -14929,7 +14923,6 @@ luisenhospital.de
 lukas-krankenhaus.de
 lukasstiftung-altenburg.de
 lukb.ch
-luminati.io
 lunarstorm.se
 lunenburgvethospital.com
 lungenklinikamsee.de
@@ -17262,7 +17255,6 @@ o.breitbart.com
 o.co.za
 o.dailycaller.com
 o.go2yd.com
-o.ss2.us
 o.xbox.com
 o0bc.com
 o1.em.typekit.com
