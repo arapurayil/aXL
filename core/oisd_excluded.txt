@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Jan 2022 16:03:46 UTC
+# Last modified: 03 Jan 2022 00:18:09 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -15,7 +15,6 @@
 2ip.ua
 2mdn.net
 2o7.net
-2tu.us
 3dme.com
 3dradspace.tk
 3gimg.qq.com
@@ -393,7 +392,6 @@ alltheinternet.com
 alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
-amazon.at
 amdc.m.taobao.com
 americanlisted.com
 amishcountryfurnishings.com
@@ -535,9 +533,9 @@ ati-host.net
 atlassbx.com
 atspace.com
 attraqt.com
-atw.hu
 audid-api.taobao.com
 audio-ak-spotify-com.akamaized.net
+audio-akp-spotify-com.akamaized.net
 auditrecording-pa.googleapis.com
 auditude.com
 aus.waterfox.net
@@ -652,7 +650,6 @@ bp01.net
 branch.io
 brand.sogou.com
 bravia.dl.playstation.net
-braze.eu
 breeze.aimon.applicationinsights.io
 brian-fitzgerald.com
 bridgetrack.com
@@ -682,8 +679,8 @@ buysub.com
 buzzador.com
 buzzmein.com
 bwin.com
-bxczchdxynw.com
 byet.org
+byoblu.com
 byside.com
 byteimg.com
 c-api-bit.shopeemobile.com
@@ -712,14 +709,12 @@ cbs.wondershare.com
 cbsinteractive.com
 cc-dt.com
 ccbill.com
-ccmp.eu
 cdex.mu
 cdn-gl.imrworldwide.com
 cdn-image.com
 cdn-net.com
 cdn.adf.ly
 cdn.appdynamics.com
-cdn.braze.eu
 cdn.clerk.io
 cdn.cliqz.com
 cdn.cookielaw.org
@@ -831,12 +826,11 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client.hola.org
 clientapi.myteamspeak.com
 clients.l.google.com
 clients1.google.com
 clients6.google.com
-clientsdk.luminati.io
+clientservices.googleapis.com
 cliphunter.com
 cliqz.com
 clk.boulanger.com
@@ -862,6 +856,7 @@ collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collector.wallapop.com
 com.com
+comedonchisciotte.org
 comet.yahoo.com
 commander1.com
 comments.ign.com
@@ -911,6 +906,7 @@ cookielaw.org
 cookies.nos.nl
 core.cloud.unity3d.com
 coremetrics.com
+coronavirus.app
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cosmos.channel.or.jp
@@ -953,13 +949,11 @@ curalate.com
 custom.plausible.io
 customer.homedepot.com
 customer.io
-cutt.us
 cws-hulu.conviva.com
 cws.conviva.com
 cxense.com
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cyberinc.nl
-cyberport.at
 d.agkn.com
 d.ghostery.com
 d.ifengimg.com
@@ -1040,7 +1034,6 @@ digitaladvisor.dk
 digitalive.world
 digits.com
 directtrack.com
-disq.us
 disqus.com
 disquscdn.com
 dl.downloadly.ir
@@ -1079,7 +1072,6 @@ dpbolvw.net
 dpm.demdex.net
 dpstatic.com
 dpu.samsungelectronics.com
-drakulastream.eu
 drift.com
 driftt.com
 drivethelife.com
@@ -1119,6 +1111,7 @@ effiliation.com
 effinghamanimalhospital.com
 ehow.com
 eielectronics.com
+eip-ntt.audio-ak.spotify.com.akahost.net
 ek21.com
 ekg.riotgames.com
 elastx.net
@@ -1452,7 +1445,6 @@ hitmarkerjobs.com
 hkepc.net
 hkg1.aastocks.com
 hockeyapp.net
-hola.org
 hollyhockhill.com
 home.bt.com
 horriblevideos.com
@@ -1825,7 +1817,6 @@ log-upload-os.mihoyo.com
 log.byteoversea.com
 log.tiktokv.com
 log.ys7.com
-log.zoom.us
 logentries.com
 loggly.com
 logrocket.com
@@ -1834,7 +1825,6 @@ logs.datadoghq.eu
 lomadee.com
 lptag.liveperson.net
 luckyorange.com
-luminati.io
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
@@ -2043,7 +2033,6 @@ nutaku.com
 nv.vi-serve.com
 nyc3.digitaloceanspaces.com
 o.auspost.com.au
-o.ss2.us
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2665,7 +2654,6 @@ suggestqueries-clients6.youtube.com
 sumologic.com
 sundaysky.com
 supercell.net
-supportmetrics.apple.com
 survey.confirmit.com
 surveygizmo.com
 surveyrouter.com
@@ -3030,7 +3018,6 @@ xmrpool.eu
 xp.apple.com
 xpu.samsungelectronics.com
 xrea.com
-xrl.us
 xsph.ru
 xtra.co.nz
 xxxjmp.com

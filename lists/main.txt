@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.02
-# Last modified: 02 Jan 2022 16:03:46 UTC
+# Version: 3.01.03
+# Last modified: 03 Jan 2022 00:18:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -391,6 +391,7 @@ a-v2.x.sndcdn.com
 a.apkpure.com
 a.baidu.com
 a.config.skype.com
+a.disquscdn.com
 a.espncdn.com
 a.fsdn.com
 a.hl.mi.com
@@ -4008,6 +4009,7 @@ bcedns.com
 bcedns.net
 bcee.lu
 bcentral.cl
+bcentral.com
 bcge.ch
 bch.hn
 bci.nc
@@ -4895,6 +4897,7 @@ btcc.com
 btconnect.com
 btgpactual.com
 btgpactualdigital.com.br
+btguard.com
 btinternet.com
 btm.co.jp
 btn.co.id
@@ -7483,6 +7486,7 @@ dc-ppe.trafficmanager.net
 dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
+dca.nl
 dcape-na.amazon.com
 dcbl.com
 dcclothesline.com
@@ -8770,6 +8774,7 @@ enfieldfederal.com
 enforcement.spro.xbox.com
 enforcement.xbox.com
 engadget.com
+engage.com
 engage.windows.com
 engine.phn.doublepimp.com
 engineering.coinbase.com
@@ -21555,7 +21560,6 @@ smartlook.com
 smartplugin.youbora.com
 smartredirect.de
 smartscreen-sn3p.smartscreen.microsoft.com
-smartscreen.microsoft.com
 smartsheet.com
 smartstore.naver.com
 smartsuppchat.com
@@ -24666,6 +24670,7 @@ usphs.gov
 uspis.gov
 usps.com
 usps.gov
+ust.chatango.com
 ustream.tv
 ustreas.gov
 ustrust.com
