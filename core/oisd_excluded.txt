@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Jan 2022 08:05:07 UTC
+# Last modified: 03 Jan 2022 16:04:37 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -262,7 +262,6 @@ adservice.google.dm
 adservice.google.dz
 adservice.google.ee
 adservice.google.es
-adservice.google.eu
 adservice.google.fi
 adservice.google.fm
 adservice.google.fr
@@ -416,7 +415,6 @@ antionline.com
 antiphishing.cliqz.com
 anura.io
 anycast.adnxs.com
-ap.spotify.com
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-xl9-ssl.xunlei.com
@@ -535,8 +533,6 @@ atlassbx.com
 atspace.com
 attraqt.com
 audid-api.taobao.com
-audio-ak-spotify-com.akamaized.net
-audio-akp-spotify-com.akamaized.net
 auditrecording-pa.googleapis.com
 auditude.com
 aus.waterfox.net
@@ -1111,7 +1107,6 @@ effiliation.com
 effinghamanimalhospital.com
 ehow.com
 eielectronics.com
-eip-ntt.audio-ak.spotify.com.akahost.net
 ek21.com
 ekg.riotgames.com
 elastx.net
@@ -1426,7 +1421,6 @@ hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
-heads-fa.scdn.co
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
@@ -1919,7 +1913,6 @@ minorshort.weixin.qq.com
 minutemediaservices.com
 mis.migc.xiaomi.com
 miscopy.com
-mistat.xiaomi.com
 mixi.jp
 mixi.media
 mkt51.net
@@ -1941,7 +1934,6 @@ monitor.azure.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
-mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mplxtms.com
@@ -2347,7 +2339,6 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2589,7 +2580,6 @@ speedport.ip
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
 spot.im
-spotify.map.fastly.net
 sqimg.qq.com
 srvtrck.com
 ssh.cloud.google.com
