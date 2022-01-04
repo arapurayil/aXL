@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Jan 2022 08:04:45 UTC
+# Last modified: 04 Jan 2022 16:04:57 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -48,6 +48,7 @@
 201205igp.gameloft.com
 881903.com
 a-0001.a-msedge.net
+a-0002.a-msedge.net
 a-0003.a-msedge.net
 a-0003.dc-msedge.net
 a-0007.a-msedge.net
@@ -529,6 +530,7 @@ assets.adobedtm.com
 assets.penny-arcade.com
 assets.pinterest.com
 assetstore.unity.com
+associates-amazon.com
 at-o.net
 at.adtech.redventures.io
 atconnect.npo.nl
@@ -2870,6 +2872,7 @@ ulmwp.org
 ulogin.ru
 ultimedia.com
 umwatsonc.events.data.microsoft.com
+unagi.amazon.com
 unblocksit.es
 uni-rostock.de
 unid.go.com
