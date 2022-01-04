@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Jan 2022 16:04:37 UTC
+# Last modified: 04 Jan 2022 00:17:47 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -11,6 +11,7 @@
 1shoppingcart.com
 2-spyware.com
 2.android.pool.ntp.org
+2baksa.net
 2cnt.net
 2ip.ua
 2mdn.net
@@ -42,6 +43,7 @@
 265.com
 360.yahoo.com
 801.tianya.cn
+1188.lv
 2222mb.com
 201205igp.gameloft.com
 881903.com
@@ -358,6 +360,7 @@ adtidy.net
 adtng.com
 adtrackers.net
 adtraction.com
+adulthub.ru
 adultswim.com
 adups.com
 adv.li
@@ -375,6 +378,7 @@ agacelebir.com
 agkn.com
 ai.yimg.jp
 aic-ngfts.lge.com
+aili.com
 aimatch.com
 ak.sail-horizon.com
 akam.net
@@ -461,6 +465,7 @@ api.setting.intl.miui.com
 api.skype.com
 api.solvemedia.com
 api.surfeasy.com
+api.taboola.com
 api.techet.net
 api.traq.li
 api.truckersmp.com
@@ -602,6 +607,7 @@ bestofmedia.com
 bestvpnrating.com
 beta.spotify.map.fastly.net
 betclic.com
+betfaq.ru
 betrad.com
 bfast.com
 bfp.capitalone.com
@@ -671,6 +677,7 @@ bugetul.ro
 bugly.qq.com
 bugsnag.com
 burnside.dtcn.com
+buscape.com.br
 buy.tinypass.com
 buysub.com
 buzzador.com
@@ -968,10 +975,10 @@ d2r1yp2w7bby2u.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
-d3tsytm1wtjqo2.cloudfront.net
 d15k2d11r6t6rl.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
+da-services.ch
 da.netease.com
 dadata.ru
 daemon.indapass.hu
@@ -1022,10 +1029,12 @@ device-api.urbanairship.com
 device-messaging-na.amazon.com
 device-provisioning.googleapis.com
 dff2h0hbfv6w4.cloudfront.net
+dhgate.com
 diagnostics.meethue.com
 diagnostics.support.microsoft.com
 diary.ru
 digidip.net
+diginetica.net
 digitaladvisor.dk
 digitalive.world
 digits.com
@@ -1072,8 +1081,10 @@ drift.com
 driftt.com
 drivethelife.com
 drm-pr-us.crackle.com
+ds1.nl
 dspultra.com
 dstreet.pl
+dt51.net
 dtiserv2.com
 duc.edu.iq
 duckdns.org
@@ -1191,6 +1202,7 @@ f5.market.xiaomi.com
 fabric.io
 fairyseason.com
 faktor.io
+fast-anime.ru
 fast.appcues.com
 fast.wistia.net
 fc.eulerian.net
@@ -1287,6 +1299,7 @@ gamehouse.com
 gan.doubleclick.net
 gardenstatehelicopters.com
 gateway.reddit.com
+gayly.ru
 gc.zgo.at
 gcp.api.snapchat.com
 gds1.steampowered.com
@@ -1429,6 +1442,8 @@ hello.myfonts.net
 heraldm.com
 here.com
 herokussl.com
+heureka.cz
+heureka.sk
 hexun.com
 highonandroid.com
 highwebmedia.com
@@ -1442,6 +1457,7 @@ hkg1.aastocks.com
 hockeyapp.net
 hollyhockhill.com
 home.bt.com
+hooks.slack.com
 horriblevideos.com
 horror-comics.com
 host-tracker.com
@@ -1621,6 +1637,7 @@ ientrymail.com
 iesnare.com
 ietf.org
 igg-games.com
+ignorelist.com
 igodigital.com
 ihelper.mts.by
 ikohs.com
@@ -1888,6 +1905,7 @@ meetyourmessenger.co.uk
 meltwater.com
 messagemedia.com
 met2.hp.com
+meta.vn
 metaffiliation.com
 meteomaastricht.nl
 metok.sys.miui.com
@@ -1915,6 +1933,7 @@ mis.migc.xiaomi.com
 miscopy.com
 mixi.jp
 mixi.media
+mixnews.lv
 mkt51.net
 mlsend.com
 mmstat.com
@@ -1966,6 +1985,7 @@ myxns.cn
 n24.de
 nabbr.com
 naiadsystems.com
+naifei.shop
 named.myteamspeak.com
 nanigans.com
 narrativ.com
@@ -1997,6 +2017,7 @@ nitrogensports.eu
 njih.net
 nllapps.com
 nocdnrlly.xyz
+non.li
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
@@ -2140,6 +2161,7 @@ parklogic.com
 parsely.com
 particlenews.com
 partner-ads.com
+partner.bol.com
 partner2profit.com
 partnerprogramma.bol.com
 partycasino.com
@@ -2172,7 +2194,9 @@ pi.pardot.com
 pi.t.pardot.com
 piano.io
 pidorg.ru
+pigu.lt
 pila.pl
+ping-admin.ru
 ping.avast.com
 ping.cloud.tencent.com
 ping.tapas.io
@@ -2308,6 +2332,7 @@ ramp.purch.com
 rapidvideo.com
 raxco.com
 rayfile.com
+rayli.com.cn
 rbc.ua
 rbx.gg
 rd.rakuten.co.jp
@@ -2534,6 +2559,7 @@ sleeknotecustomerscripts.sleeknote.com
 slike.indiatimes.com
 sliptalk.com
 sls.update.microsoft.com.akadns.net
+sludini.lv
 smallseotools.com
 smart.link
 smartasset.com
@@ -2548,6 +2574,7 @@ smetrics.discover.com
 smetrics.frontier.com
 smetrics.latitudefinancial.com
 smetrics.santander.co.uk
+smi2.ru
 smileycentral.com
 smljmp.com
 smoot.apple.com
@@ -2613,6 +2640,7 @@ static.scroll.com
 static.siteheart.com
 static.skypeassets.com
 static.vrv.co
+static.wi-fi.ru
 static.ws.126.net
 staticxx.facebook.com
 stats.adobe.com
@@ -2839,6 +2867,7 @@ uib.ff.avast.com
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
+ulogin.ru
 ultimedia.com
 umwatsonc.events.data.microsoft.com
 unblocksit.es
@@ -2860,6 +2889,7 @@ upgrade.scdn.co
 upgrade.xl9.xunlei.com
 upload.cc
 upmostly.com
+uptracker.ru
 upu.samsungelectronics.com
 urbanairship.com
 url.dnspod.com
@@ -3014,6 +3044,7 @@ xrea.com
 xsph.ru
 xtra.co.nz
 xxxjmp.com
+xzone.cz
 y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com

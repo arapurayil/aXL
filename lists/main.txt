@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.03
-# Last modified: 03 Jan 2022 16:04:37 UTC
+# Version: 3.01.04
+# Last modified: 04 Jan 2022 00:17:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8563,7 +8563,6 @@ ein.funimation.com
 eindhovensdagblad.nl
 einsundeins.de
 eio-feed.exchange.coinbase.com
-eip-ntt.audio-ak.spotify.com.akahost.net
 eip-ntt.pinimg.com.akapinimg.net
 ejob.gov.tw
 ejquo23388.i.lithium.com
@@ -15899,7 +15898,6 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -22295,7 +22293,6 @@ sportsmansguide.com
 sportsmedia.ign.com
 spot.im
 spotify.com
-spotify.map.fastly.net
 spotops.spot.im
 spoxy-eb.spot.im
 spoxy-launcher.spot.im
