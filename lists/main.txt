@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.04
-# Last modified: 04 Jan 2022 00:17:47 UTC
+# Last modified: 04 Jan 2022 08:04:45 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -107,6 +107,7 @@
 110mbfree.com
 112.2o7.net
 1177.se
+1188.lv
 122.2o7.net
 123-reg.co.uk
 123-webhost.nl
@@ -217,6 +218,7 @@
 29773.v.fwmrm.net
 2a.me
 2ad.in
+2baksa.net
 2ch.net
 2checkout.com
 2cnt.net
@@ -1102,6 +1104,7 @@ adtidy.org
 adtng.com
 adtrackers.net
 adtraction.com
+adulthub.ru
 adultswim.com
 adups.com
 adv.li
@@ -1210,6 +1213,7 @@ aigpb.com
 aigprivatebank.com
 aihs.net
 aikb.ch
+aili.com
 aillis.line.me
 aimatch.com
 ainet.com
@@ -2520,6 +2524,7 @@ api.stumbleupon.com
 api.suggest.search.rakuten.co.jp
 api.surfeasy.com
 api.syndicaster.tv
+api.taboola.com
 api.target.com
 api.tastyworks.com
 api.teams.skype.com
@@ -7310,11 +7315,11 @@ d3a510xmpll7o6.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
-d3tsytm1wtjqo2.cloudfront.net
 d4.me
 d4f.de
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
+da-services.ch
 da.gravatar.com
 da.netease.com
 da.victoriabank.md
@@ -7771,6 +7776,7 @@ digicert.com
 digid.nl
 digidip.net
 digiex.net
+diginetica.net
 digio.com.br
 digipills.com
 digirati.com.br
@@ -8180,6 +8186,7 @@ drweb.com
 drydenbank.com
 ds.download.windowsupdate.com
 ds.prod.vidible.tv
+ds1.nl
 dsa.instadapp.io
 dsbbank.nl
 dsgv.de
@@ -8202,6 +8209,7 @@ dsns.gov.ua
 dsp.brand.sogou.com
 dspultra.com
 dstreet.pl
+dt51.net
 dtbank.hu
 dtiserv2.com
 dto.vakifbank.com.tr
@@ -9237,6 +9245,7 @@ farmersfrankfort.com
 farmersnational.com
 farmside.co.nz
 fashionista.com
+fast-anime.ru
 fast.appcues.com
 fast.com
 fast.fonts.net
@@ -11502,6 +11511,8 @@ hesab.az
 hessen-spion.de
 hestehospitalet.dk
 hetparool.nl
+heureka.cz
+heureka.sk
 hex.io
 hexun.com
 heyue.xiaomi.com
@@ -11661,6 +11672,7 @@ hometownbancorp.com
 homf.com
 honeycreekanimalhospital.com
 hoogo.com
+hooks.slack.com
 hoopshype.com
 hootsuite.com
 hopeanimalhospital.com
@@ -15677,6 +15689,7 @@ met2.hp.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
+meta.vn
 meta.wikimedia.org
 meta.wikipedia.com
 metabankonline.com.ua
@@ -16508,6 +16521,7 @@ naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
 naiadsystems.com
+naifei.shop
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -16970,6 +16984,7 @@ noexit.tv
 noip.com
 nokss.ru
 nolp.dhl.de
+non.li
 nonstoppartner.net
 nooksackanimalhospital.com
 nor.no
@@ -18110,6 +18125,7 @@ part.xbox.com
 particlenews.com
 partner-ads.com
 partner-bank.at
+partner.bol.com
 partner.ceneo.pl
 partner.googleadservices.com
 partner.huawei.com
@@ -18472,6 +18488,7 @@ pidorg.ru
 pie.daum.net
 piedmontfederal.com
 pierersan.com
+pigu.lt
 piguiqproxy.com
 pila.pl
 pilkanozna.pl
@@ -18484,6 +18501,7 @@ pinecitybank.com
 pineislandbank.com
 pineriverstatebank.com
 pinevillepethospitalonline.com
+ping-admin.ru
 ping.avast.com
 ping.cloud.tencent.com
 ping.feedburner.com
@@ -19528,6 +19546,7 @@ rawhttp.cloudflareworkers.com
 raxco.com
 rayfile.com
 raygun.io
+rayli.com.cn
 razorpay.com
 rb-adel-siel.de
 rb-af.de
@@ -21527,6 +21546,7 @@ sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 slsp.sk
 slsteffisburg.ch
+sludini.lv
 sluhospital.com
 slushpool.com
 slycooper.playstation.com
@@ -21573,6 +21593,7 @@ smetrics.us.playstation.com
 smfg.co.jp
 smh-online.de
 smh.com.au
+smi2.ru
 smida.gov.ua
 smile.amazon.com
 smileadsl.com
@@ -22652,6 +22673,7 @@ static.videoder.net
 static.vrv.co
 static.vtwonen.nl
 static.whatsapp.net
+static.wi-fi.ru
 static.wired.com
 static.wixstatic.com
 static.ws.126.net
@@ -24272,6 +24294,7 @@ ulink.adjust.com
 ulmart.ru
 ulmt.in
 ulmwp.org
+ulogin.ru
 ulrici-kliniken.de
 ulsterbank.co.uk
 ulsterbank.com
@@ -24478,6 +24501,7 @@ uptime.com
 uptimerobot.com
 uptobox.com
 uptostream.com
+uptracker.ru
 upu.samsungelectronics.com
 upwork.com
 upzat.com
@@ -26589,6 +26613,7 @@ xx.snap.com
 xxx.com.br
 xxxjmp.com
 xywy.com
+xzone.cz
 y2u.be
 y8.com
 ya.com
