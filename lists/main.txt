@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.04
-# Last modified: 04 Jan 2022 16:04:57 UTC
+# Version: 3.01.05
+# Last modified: 05 Jan 2022 00:19:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2987,6 +2987,7 @@ assoc-amazon.fr
 assoc-amazon.jp
 assocbank.com
 associatedbank.com
+associates-amazon.com
 associatesanimalhospital.com
 astaroth.notepad-plus-plus.org
 astm.it
@@ -24322,6 +24323,7 @@ umweltbank.de
 un.org
 unagi-eu.amazon.com
 unagi-na.amazon.com
+unagi.amazon.com
 unb.co.ae
 unbank.com
 unblocksit.es

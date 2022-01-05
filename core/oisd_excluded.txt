@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Jan 2022 16:04:57 UTC
+# Last modified: 05 Jan 2022 00:19:28 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -2049,7 +2049,6 @@ nuernberg.de
 nuskin.com
 nutaku.com
 nv.vi-serve.com
-nyc3.digitaloceanspaces.com
 o.auspost.com.au
 o0bc.com
 o2o.api.xiaomi.com
@@ -2371,7 +2370,6 @@ response.unity3d.com
 responsys.net
 restapi.amap.com
 resu8.hjfile.cn
-reurl.cc
 revistaeventos.com.br
 revistasobrerodas.com.br
 rezync.com
