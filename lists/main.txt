@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.05
-# Last modified: 05 Jan 2022 00:19:28 UTC
+# Last modified: 05 Jan 2022 08:03:46 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -17247,7 +17247,6 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
-nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
@@ -20001,7 +20000,6 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
-reurl.cc
 reut.rs
 reuters.com
 revdl.com
