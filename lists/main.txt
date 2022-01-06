@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.06
-# Last modified: 06 Jan 2022 00:18:55 UTC
+# Last modified: 06 Jan 2022 08:04:33 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -420,6 +420,7 @@ a.trellocdn.com
 a.union.mi.com
 a.wishabi.com
 a0.fr
+a1.api.bbc.co.uk
 a1.mzstatic.com
 a1.sndcdn.com
 a1.soundcloud.com
@@ -3023,6 +3024,7 @@ athensfederal.com
 athensfirstbank.com
 athenslimestonehospital.com
 atholhospital.com
+ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati-host.net
 atime.it
 atl-paas.net
@@ -3197,6 +3199,7 @@ awin.com
 awin1.com
 awogsd.de
 aws.amazon.com
+aws.com
 aws.keshefoundation.org
 awsg.at
 awssgp0-files.fds.api.xiaomi.com
@@ -7896,6 +7899,7 @@ dl.l.google.com
 dl.notepad-plus-plus.org
 dl.op.wpscdn.cn
 dl.opensubtitles.org
+dl.packetstormsecurity.net
 dl.twitchdl.com
 dl.update.micloud.xiaomi.net
 dl.xda-developers.com
@@ -15515,6 +15519,7 @@ media.viafoura.net
 media.viber.com
 media.viva.nl
 media.wired.com
+media.wtf
 media.xda-developers.com
 media01.eu
 media4.steampowered.com
@@ -22868,6 +22873,7 @@ store.steampowered.com
 store.vox.com
 store.whale.naver.com
 store.xbox.com
+store2.gofile.io
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
 storeconfig.mistat.intl.xiaomi.com
