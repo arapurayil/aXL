@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Jan 2022 16:04:42 UTC
+# Last modified: 06 Jan 2022 00:18:55 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -65,6 +65,7 @@ a.pomf.cat
 a.pr-cy.ru
 a.realsrv.com
 a.wishabi.com
+a1.api.bbc.co.uk
 a1.mzstatic.com
 a2.xinhuanet.com
 a247c.playfabapi.com
@@ -535,6 +536,7 @@ at-o.net
 at.adtech.redventures.io
 atconnect.npo.nl
 atdmt.com
+ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati-host.net
 atlassbx.com
 atspace.com
@@ -564,6 +566,7 @@ aweber.com
 awemwh.com
 awin.com
 awin1.com
+aws.com
 aws.keshefoundation.org
 awstrack.me
 azabu-u.ac.jp
@@ -1044,6 +1047,7 @@ directtrack.com
 disqus.com
 disquscdn.com
 dl.downloadly.ir
+dl.packetstormsecurity.net
 dls.di.atlas.samsung.com
 dmd.metaservices.microsoft.com
 dms.metlife.ru
@@ -1885,6 +1889,7 @@ mas-ext.amazon.com
 mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
 maxcdn.bootstrapcdn.com
+maxmind.com
 mc.yandex.ru
 md-nx.com
 media-share-1.s3.amazonaws.com
@@ -1894,6 +1899,7 @@ media.complex.com
 media.expedia.com
 media.richrelevance.com
 media.sailthru.com
+media.wtf
 media01.eu
 mediacorp.112.2o7.net
 mediafiretrend.com
@@ -2656,6 +2662,7 @@ stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
 store.keshefoundation.org
+store2.gofile.io
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stormgain.com
