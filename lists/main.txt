@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.07
-# Last modified: 07 Jan 2022 00:18:46 UTC
+# Last modified: 07 Jan 2022 08:03:41 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -514,7 +514,6 @@ abm.org.mx
 abnamro.co.kr
 abnamro.com
 abnamro.com.sg
-abnamro.demdex.net
 abnamro.gi
 abnamro.nl
 abnamroindia.com
@@ -777,6 +776,7 @@ adfinis-sygroup.ch
 adfly.fr
 adfoc.us
 adfocus.ru
+adform.net
 adguard.com
 adicae.net
 adictos.cl
@@ -846,6 +846,7 @@ ads.exoclick.com
 ads.google.com
 ads.harvard.edu
 ads.imeem.com
+ads.nexage.com
 ads.reddit.com
 ads.talkbusiness.net
 ads.twitter.com
@@ -2118,6 +2119,7 @@ analytics.dev.azure.com
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics.google.com
+analytics.localytics.com
 analytics.query.yahoo.com
 analytics.robinhood.com
 analytics.twitter.com
@@ -4546,6 +4548,7 @@ bluecore.com
 bluecrosspethospital.onsmartpages.com
 bluehornet.com
 bluehost.com
+bluekai.com
 bluestarindia.com
 bluetoad.com
 blueyonder.co.uk
@@ -6087,7 +6090,6 @@ ci.phncdn.com
 ci.rdtcdn.com
 ci3.googleusercontent.com
 ci4.googleusercontent.com
-ci42.actonsoftware.com
 ci5.googleusercontent.com
 ci61.actonsoftware.com
 cial.ch
@@ -6313,6 +6315,7 @@ clientconfig.akamai.steamstatic.com
 clientconfig.passport.net
 clientis-sparkasse-horgen-niederlassung-hirzel.firmen24.mobi
 clientis.ch
+clientmetrics-augmentum.kik.com
 clientproxyservice.atomtickets.com
 clients.binance.com
 clients.google.com
@@ -6583,6 +6586,7 @@ com.tr
 comafi.com.ar
 comarcalia.com
 combanktrust.com
+combine.urbanairship.com
 comcast.com
 comcast.demdex.net
 comcastcom.d1.sc.omtrdc.net
@@ -6824,6 +6828,7 @@ contests.dailycaller.com
 continuum.dds.microsoft.com
 contributor.google.com
 control.com
+control.kochava.com
 control.phone.com
 controleng.com
 controller.tv.mi.com
@@ -7291,6 +7296,7 @@ d0m.us
 d13itkw33a7sus.cloudfront.net
 d15k2d11r6t6rl.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
+d179kwmlpc4o47.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
 d1bl11pgu3tw3h.cloudfront.net
@@ -7310,6 +7316,7 @@ d2cmedia.ca
 d2e0sxz09bo7k2.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
+d2tnx644ijgq6i.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
@@ -7317,6 +7324,7 @@ d33wubrfki0l68.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
+d3mjsomixevyw7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4.me
@@ -7382,7 +7390,6 @@ dart.l.doubleclick.net
 dartford.gov.uk
 dartmoor.gov.uk
 dartsearch.net
-darty-com.eulerian.net
 dash.cloudflare.com
 dash.tmearn.com
 dashboard-01.braze.com
@@ -7797,6 +7804,7 @@ digitalive.world
 digitalliteracy.gov
 digitalocean.com
 digitalselect.net
+digitalsmiths.net
 digitalteleport.com
 digitaltrends.com
 digits.com
@@ -9084,6 +9092,7 @@ exchange.globitex.com
 exchange.kaspersky.com
 exchange4media.com
 exchangebk.com
+exe.io
 exetervethospital.com
 eximb.com
 eximbank.com
@@ -9315,7 +9324,6 @@ fbtonline.net
 fbtrust.com
 fbwebpos.com
 fc-resources.fastcompany.com
-fc.eulerian.net
 fc.vodafone.de
 fc2.com
 fcanr.tracking.miui.com
@@ -9917,7 +9925,6 @@ formspring.me
 formstack.com
 formy.upriver.ru
 fornovices.com
-forpci42.actonsoftware.com
 forpci61.actonsoftware.com
 forplaycatalog.com
 forpostbank.ru
@@ -10017,6 +10024,7 @@ foxanimalhospital.com
 foxbit.com.br
 foxborobank.com
 foxnews.com
+foxnews.demdex.net
 foxsports.com.au
 foxvalleynow.com
 fp-eu-w1-aai.flowplayer.com
@@ -10652,7 +10660,6 @@ global.apis.naver.com
 global.developer.xiaomi.com
 global.fncstatic.com
 global.gemoney.com
-global.in.ai.monitor.azure.com
 global.market.xiaomi.com
 global.mi.com
 global.moneygram.com
@@ -11168,7 +11175,6 @@ gsb.or.th
 gsbfin.com
 gscounters.us1.gigya.com
 gsha.com
-gslb-2.demdex.net
 gslb.spotify.com
 gsmarena.com
 gsp1.apple.com
@@ -11787,7 +11793,6 @@ howtoforge.com
 howtogeek.com
 hoxpedaje.com
 hp.com
-hp.demdex.net
 hpcloud.hp.com
 hpcloud.hp.net
 hpg.com.br
@@ -13972,6 +13977,7 @@ ko.wowhead.com
 koblenzer-volksbank.de
 kocbank.com.tr
 kocbank.nl
+kochava.com
 kodu.neti.ee
 koe-klinik.de
 koeln-kh-augustinerinnen.de
@@ -14773,6 +14779,7 @@ locale.roblox.com
 localethereum.com
 localnet.net
 localoklahoma.com
+localytics.com
 location-inference-westus.cloudapp.net
 location.services.mozilla.com
 locationiq.com
@@ -14784,10 +14791,12 @@ lodihealth.org
 lodz.tvp.pl
 loebbecke-bank.de
 loekkensparekasse.dk
+log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
 log.byteoversea.com
 log.entrance.sonymobile.com
+log.internetat.tv
 log.mmstat.com
 log.quora.com
 log.tiktokv.com
@@ -14991,6 +15000,7 @@ m2mbank.ru
 m2u.maybank.co.id
 m365log.com
 m3mi.com
+m7z.net
 ma.hide.me
 ma.techrepublic.com
 maasreusel.nl
@@ -16234,6 +16244,7 @@ msg.edit.yahoo.com
 msg.netflix.com
 msg.yahoo.com
 msg2.client.xunlei.com
+msgfocus.com
 msh.amazon.co.uk
 msh.amazon.com
 msha.gov
@@ -16401,6 +16412,7 @@ mybank.nationstrust.com
 mybankcsb.com
 mybankfirstunited.com
 mybanktracker.com
+mybbc-analytics.files.bbci.co.uk
 mybbc.files.bbci.co.uk
 mybdo.com.ph
 mybloglog.com
@@ -16628,6 +16640,7 @@ nbci.snap.com
 nbcnews.com
 nbcnews.to
 nbcnewyork.com
+nbcu.demdex.net
 nbd.ru
 nbdbank.ru
 nbdominica.com
@@ -16856,10 +16869,12 @@ newyork.cbslocal.com
 newyork.going.com
 newyorker.com
 newyorkfed.org
+nexage.com
 nexo.io
 next.daisuki.net
 next.exchange
 next.me
+nextag.com
 nextbank.com.tw
 nextbank.dk
 nextdns.com
@@ -18234,7 +18249,6 @@ pay24.co.il
 payanyway.ru
 payb2b.domru.ru
 paycard.beeline.ru
-paydirekt-de01.wt-eu02.net
 paydirekt.de
 payeasy.lk
 payeer.com
@@ -18470,10 +18484,8 @@ phrasebook.naver.com
 phs.tanx.com
 pi-dns.com
 pi-hole.net
-pi-ue1.pardot.com
 pi.hole
 pi.pardot.com
-pi.t.pardot.com
 piano.io
 pib.ru
 pib.ua
@@ -18553,6 +18565,7 @@ pix11.com
 pixel.everesttech.net
 pixel.nymag.com
 pixel.quantserve.com
+pixel.redditmedia.com
 pixel.wp.com
 pixelsdesign.net
 pixelzirkus.gameforge.com
@@ -19266,6 +19279,7 @@ qiwi.com
 qiwi.ru
 qiye.xiaomi.com
 qksrv.net
+ql.tc
 qm.qq.co
 qme.mydns.jp
 qmerce.com
@@ -19295,6 +19309,7 @@ qualtrics.com
 quantaprevidencia.com.br
 quantcast.com
 quantcast.mgr.consensu.org
+quantserve.com
 quantummetric.com
 quarterlife.com
 quartic.pl
@@ -19345,7 +19360,6 @@ r1.ca
 r1.ykimg.com
 r10s.jp
 r2.bithumb.com
-r2.ea.eulerian.net
 r20.rs6.net
 r2p.de
 r3---sn-4g5edn7s.googlevideo.com
@@ -19946,6 +19960,7 @@ republicbank.com
 republicbankfl.com
 republiccountyhospital.org
 republika.onet.pl
+rereddit.com
 res-x.com
 res.apk.vidmate.net
 res.cloudinary.com
@@ -20557,6 +20572,7 @@ samsung.pagelyhosting.com
 samsung.se
 samsung.stories.bazaarvoice.com
 samsung.ugc.bazaarvoice.com
+samsungacr.com
 samsungcanadaparts.com
 samsungcloudsolution.com
 samsungcloudsolution.net
@@ -20698,6 +20714,7 @@ sbsvodns-vh.akamaihd.net
 sbtonline.in
 sbv.gov.vn
 sbv.is
+sc-analytics.appspot.com
 sc-apps.sonymobile.com
 sc-cg.org
 sc-static.net
@@ -20934,8 +20951,8 @@ secure-au.imrworldwide.com
 secure-banking.de
 secure-booker.com
 secure-cdn.mplxtms.com
+secure-dcr.imrworldwide.com
 secure-media1.hotstarext.com
-secure-origin.imrworldwide.com
 secure-payments.express-bank.ru
 secure-photo.mylife.com
 secure-us.imrworldwide.com
@@ -20995,6 +21012,7 @@ secure.payu.ru
 secure.payza.com
 secure.payza.eu
 secure.platononline.com
+secure.quantserve.com
 secure.sirena-travel.ru
 secure.skype.com
 secure.skypeassets.com
@@ -21190,7 +21208,6 @@ sfn.info
 sfnb.com
 sfota.ospserver.net
 sfpethospital.com
-sfr.eulerian.net
 sfr.fr
 sfsapi.micloud.xiaomi.net
 sftool.gov
@@ -21563,6 +21580,7 @@ smallseotools.com
 smart.com.ph
 smart.gov
 smart.link
+smartadserver.com
 smartandsexy.com
 smartasset.com
 smartbank.ru
@@ -22197,6 +22215,7 @@ speed4up.com
 speedbit.com
 speedcheck.org
 speeddials.opera.com
+speedera.net
 speednames.com
 speedof.me
 speedport.ip
@@ -23249,6 +23268,7 @@ t35.com
 ta.gd
 ta.wikipedia.com
 ta4a.info
+tabac-info-service.fr
 tabbank.com
 taboola.com
 tabunghaji.gov.my
@@ -23990,6 +24010,7 @@ tricountybt.com
 tricountyhospital.com
 tricountyhospital.org
 triff-chemnitz.de
+triggers.wfxtriggers.com
 trinitashospital.org
 trinitybank.com
 triodos.com
@@ -24252,6 +24273,7 @@ udec.cl
 udengi.ru
 udimg.com
 udl-api.sonymobile.com
+udm.scorecardresearch.com
 uds.licenses.adobe.com
 udurl.com
 ue.flipboard.com
@@ -24950,6 +24972,7 @@ vc.yahoo.com
 vcbonline.com
 vcrypt.net
 vcs.vdspf.com
+vd.emp.prd.s3.amazonaws.com
 vd.l.qq.com
 vd55.com
 vdk.be
@@ -25730,6 +25753,7 @@ waptrick.com
 warburg-bank.de
 warez-bb.org
 warmc.com
+warnerbros.112.2o7.net
 warrenhospital.org
 warringtonbank.com
 wartburg-sparkasse.de
@@ -25873,6 +25897,7 @@ webfriends.in
 webfusion.co.uk
 webgains.com
 webgrab.wechat.com
+webhop.net
 webhostingpad.com
 webhostingplanet.com
 webhostingprime.com
