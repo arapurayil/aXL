@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Jan 2022 16:05:06 UTC
+# Last modified: 07 Jan 2022 00:18:46 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -75,7 +75,6 @@ a1737.b.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
 ablinksuni.a.grubhub.com
-abnamro.demdex.net
 aboluowang.com
 about.com
 aboutads.info
@@ -84,6 +83,7 @@ accengage.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
+acdn.adnxs.com
 acenar.com
 ackcdn.net
 acpbdf.com.br
@@ -117,6 +117,7 @@ addison-electronique.com
 addthis.com
 adf.ly
 adfoc.us
+adform.net
 adiu.amap.com
 adj.st
 adjust.com
@@ -138,6 +139,7 @@ ads-blocker.com
 ads-cdn.grab.com
 ads.google.com
 ads.harvard.edu
+ads.nexage.com
 ads.reddit.com
 ads.twitter.com
 ads280dummy2.com
@@ -407,6 +409,7 @@ amway.com
 an.yandex.ru
 analytics.edgekey.net
 analytics.google.com
+analytics.localytics.com
 analytics.robinhood.com
 analytics.twitter.com
 androeed.ru
@@ -453,7 +456,6 @@ api.loganalytics.io
 api.map.baidu.com
 api.mapbox.com
 api.micloud.xiaomi.net
-api.monitor.azure.com
 api.myteamspeak.com
 api.opinary.com
 api.parse.com
@@ -647,6 +649,7 @@ blueconic.net
 bluecore.com
 bluehornet.com
 bluehost.com
+bluekai.com
 bluetoad.com
 bm.pl
 bm23.com
@@ -721,6 +724,7 @@ cdex.mu
 cdn-gl.imrworldwide.com
 cdn-image.com
 cdn-net.com
+cdn-settings.segment.com
 cdn.adf.ly
 cdn.appdynamics.com
 cdn.clerk.io
@@ -761,6 +765,7 @@ cdn.yimg.com
 cdn.ziffstatic.com
 cdn.zomap.de
 cdn1.ettoday.net
+cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn4.wibbitz.com
@@ -787,8 +792,6 @@ chkd.org
 choice.microsoft.com
 choices.truste.com
 chromefeedcontentsuggestions-pa.googleapis.com
-ci42.actonsoftware.com
-ci61.actonsoftware.com
 cint.com
 cintnetworks.com
 cision.com
@@ -836,6 +839,7 @@ clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
 clientapi.myteamspeak.com
+clientmetrics-augmentum.kik.com
 clients.l.google.com
 clients1.google.com
 clients6.google.com
@@ -865,6 +869,7 @@ collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collector.wallapop.com
 com.com
+combine.urbanairship.com
 comet.yahoo.com
 commander1.com
 comments.ign.com
@@ -903,6 +908,7 @@ content.quicken.com
 content.shoprunner.com
 content22.citicards.com
 continuum.dds.microsoft.com
+control.kochava.com
 control.phone.com
 controleng.com
 conversions.appsflyer.com
@@ -977,11 +983,14 @@ d2c8v52ll5s99u.cloudfront.net
 d2e0sxz09bo7k2.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
+d2tnx644ijgq6i.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
+d3mjsomixevyw7.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d15k2d11r6t6rl.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
+d179kwmlpc4o47.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 da-services.ch
 da.netease.com
@@ -994,7 +1003,6 @@ dansguardian.org
 darknet.org.uk
 dart.l.doubleclick.net
 dartsearch.net
-darty-com.eulerian.net
 dashboard-03.braze.com
 data.agkn.com
 data.cnn.com
@@ -1042,6 +1050,7 @@ digidip.net
 diginetica.net
 digitaladvisor.dk
 digitalive.world
+digitalsmiths.net
 digits.com
 directtrack.com
 disqus.com
@@ -1050,6 +1059,7 @@ dl.downloadly.ir
 dl.packetstormsecurity.net
 dls.di.atlas.samsung.com
 dmd.metaservices.microsoft.com
+dmp.adform.net
 dms.metlife.ru
 dnspod.cn
 dnspod.com
@@ -1192,6 +1202,7 @@ example.com
 example.net
 example.org
 exchange4media.com
+exe.io
 exosrv.com
 experience.tinypass.com
 exploit.in
@@ -1211,7 +1222,6 @@ faktor.io
 fast-anime.ru
 fast.appcues.com
 fast.wistia.net
-fc.eulerian.net
 fc.vodafone.de
 fccinteractive.com
 feature.fm
@@ -1265,10 +1275,9 @@ ford.to
 formcrafts.com
 forms.convertkit.com
 formy.upriver.ru
-forpci42.actonsoftware.com
-forpci61.actonsoftware.com
 forter.com
 fourier.taobao.com
+foxnews.demdex.net
 fpt.microsoft.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
@@ -1350,7 +1359,6 @@ glam.com
 glbdns.microsoft.com
 glbdns2.microsoft.com
 gleam.io
-global.in.ai.monitor.azure.com
 global.search.xiaomi.net
 glomex.com
 glotorrents.pw
@@ -1404,7 +1412,6 @@ groupon.pl
 growth-pa.googleapis.com
 gs.statcounter.com
 gscounters.us1.gigya.com
-gslb-2.demdex.net
 gstatic.com
 gstaticadssl.l.google.com
 gtop100.com
@@ -1476,7 +1483,6 @@ hotkeys.com
 hotpop.com
 hotspotshield.com
 howsmyssl.com
-hp.demdex.net
 hpcloud.hp.com
 hpcloud.hp.net
 hs-scripts.com
@@ -1781,6 +1787,7 @@ klarnaservices.com
 klclick.com
 klclick1.com
 ko.wowhead.com
+kochava.com
 kodu.neti.ee
 komachi.yomiuri.co.jp
 kount.com
@@ -1830,9 +1837,12 @@ livetex.ru
 liveupdate.mac.sandai.net
 ll.a.hulu.com
 lnks.gd
+localytics.com
+log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
 log.byteoversea.com
+log.internetat.tv
 log.tiktokv.com
 log.ys7.com
 logentries.com
@@ -1849,6 +1859,7 @@ m.hotmail.com
 m.yap.yahoo.com
 m1.fwmrm.net
 m1.nsimg.net
+m7z.net
 m365log.com
 mabaya.com
 mackeeper.com
@@ -1942,10 +1953,12 @@ miscopy.com
 mixi.jp
 mixi.media
 mixnews.lv
+mixpanel.com
 mkt51.net
 mlsend.com
 mmstat.com
 mmtro.com
+mobile-collector.newrelic.com
 mobile.anycast.adnxs.com
 mobile.pipe.aria.microsoft.com
 mobile.qzone.qq.com
@@ -1972,6 +1985,7 @@ mrzikj.com
 ms.yandex.ru
 msedge.net
 msftncsi.com
+msgfocus.com
 msh.amazon.co.uk
 msh.amazon.com
 multiscreensite.com
@@ -1983,6 +1997,7 @@ my.adocean.pl
 my.mixtape.moe
 myairbridge.com
 myao.adocean.pl
+mybbc-analytics.files.bbci.co.uk
 mybloglog.com
 myftpupload.com
 myhomescreen.tv
@@ -2000,6 +2015,7 @@ narrativ.com
 nasapaul.com
 navitime.co.jp
 naytev.com
+nbcu.demdex.net
 ndmdhs.com
 neemu.com
 neobux.com
@@ -2016,6 +2032,8 @@ newsletter.bdnews24.com
 newsletters.nationalgeographic.com
 newstube.ru
 newtonpaiva.br
+nexage.com
+nextag.com
 nextdns.com
 nexus.ensighten.com
 nexus.officeapps.live.com
@@ -2030,6 +2048,7 @@ nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
+noticefile.samsungcloudsolution.com
 nova.collect.igodigital.com
 now.eloqua.com
 nozonenet.com
@@ -2171,13 +2190,13 @@ partner-ads.com
 partner.bol.com
 partner2profit.com
 partnerprogramma.bol.com
+partners.etoro.com
 partycasino.com
 pass.1688.com
 passport.baidu.com
 patatap.com
 pavtube.com
 pavv.co.kr
-paydirekt-de01.wt-eu02.net
 payeer.com
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
@@ -2196,9 +2215,7 @@ phonearena.com
 phonecallapi.micloud.xiaomi.net
 photo.net
 phs.tanx.com
-pi-ue1.pardot.com
 pi.pardot.com
-pi.t.pardot.com
 piano.io
 pidorg.ru
 pigu.lt
@@ -2213,6 +2230,8 @@ pings.conviva.com
 pipe.aria.microsoft.com
 piwik.org
 pixel.everesttech.net
+pixel.redditmedia.com
+pixel.wp.com
 pixelzirkus.gameforge.com
 pjatr.com
 pjtra.com
@@ -2315,10 +2334,12 @@ pxf.io
 q.stripe.com
 q4mn.adj.st
 qksrv.net
+ql.tc
 qmerce.com
 qos1.ol.epicgames.com
 quainator.com
 quantcast.mgr.consensu.org
+quantserve.com
 quantummetric.com
 quartic.pl
 questionpro.com
@@ -2331,7 +2352,6 @@ r.mail.ru
 r.orange.fr
 r.sg.sec.miui.com
 r1.ykimg.com
-r2.ea.eulerian.net
 r42tag.com
 rackcdn.com
 radeant.com
@@ -2366,6 +2386,7 @@ relevant-digital.com
 remote-config-prd.uca.cloud.unity3d.com
 reports.cliqz.com
 repository.cliqz.com
+rereddit.com
 res-x.com
 researchintel.com
 researchnow.co.uk
@@ -2438,6 +2459,7 @@ sakura.goguardian.com
 salesforceliveagent.com
 salesmanago.pl
 salottobar.com
+samsungacr.com
 samsungcloudsolution.com
 samsungcloudsolution.net
 samsungelectronics.com
@@ -2450,8 +2472,10 @@ sandai.net
 sap.org.ar
 sas.com
 sas.samsungcloudsolution.com
+sascdn.com
 sawap.equifax.com
 sb.scorecardresearch.com
+sc-analytics.appspot.com
 sc-static.net
 scanverify.com
 scenefz.me
@@ -2482,13 +2506,14 @@ searchads.apple.com
 searchencrypt.com
 sec-tunnel.com
 secure-booker.com
-secure-origin.imrworldwide.com
+secure-dcr.imrworldwide.com
 secure-us.imrworldwide.com
 secure.adnxs.com
 secure.eloqua.com
 secure.footprint.net
 secure.insightexpressai.com
 secure.oneallcdn.com
+secure.quantserve.com
 secure.skypeassets.com
 secure.upc.ua
 securemetrics.apple.com
@@ -2521,10 +2546,11 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf6-ttcdn-tos.pstatp.com
-sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
+share.dmca.gripe
+shareaholic.com
 shareasale.com
 sharethis.com
 sharewood.org
@@ -2568,6 +2594,7 @@ sls.update.microsoft.com.akadns.net
 sludini.lv
 smallseotools.com
 smart.link
+smartadserver.com
 smartasset.com
 smartclip.net
 smartlock.google.com
@@ -2609,6 +2636,7 @@ spclient.wg.spotify.com
 speccy.piriform.com
 speedcheck.org
 speeddials.opera.com
+speedera.net
 speedport.ip
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
@@ -2616,6 +2644,7 @@ spot.im
 sqimg.qq.com
 srvtrck.com
 ssh.cloud.google.com
+ssl.google-analytics.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
 ssm1.internet.sony.tv
@@ -2625,6 +2654,7 @@ sstats.adobe.com
 stacksocial.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
+stags.bluekai.com
 star.c10r.facebook.com
 startmail.com
 startup.mobile.yandex.net
@@ -2682,6 +2712,7 @@ suggestqueries-clients6.youtube.com
 sumologic.com
 sundaysky.com
 supercell.net
+supportmetrics.apple.com
 survey.confirmit.com
 surveygizmo.com
 surveyrouter.com
@@ -2692,6 +2723,7 @@ swa.bol.com
 swisslife.ch
 sy.ameblo.jp
 symcd.com
+syncplusconfig.s3.amazonaws.com
 syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
@@ -2717,6 +2749,7 @@ t11.baidu.com
 t12.baidu.com
 t23.intelliad.de
 t35.com
+tabac-info-service.fr
 taboola.com
 tacticalrepublic.com
 tag.aticdn.net
@@ -2772,6 +2805,7 @@ tile-service.weather.microsoft.com
 time.samsungcloudsolution.com
 tiny.cc
 tinypass.com
+tinypic.com
 tinyurl.com
 tipranks.com
 tiqcdn.com
@@ -2836,6 +2870,7 @@ trbo.com
 treehousei.com
 trial.api.huangye.miui.com
 trib.al
+triggers.wfxtriggers.com
 triolan.name
 tritondigital.com
 trk.email.dynect.net
@@ -2867,6 +2902,7 @@ uca.cloud.unity3d.com
 ucam.me
 udec.cl
 udimg.com
+udm.scorecardresearch.com
 ue.flipboard.com
 ufa.wifi.domru.ru
 ui.skype.akadns.net
@@ -2925,6 +2961,7 @@ usher.ttvnw.net
 ust.chatango.com
 uzreklam.com
 v.fwmrm.net
+v.shopify.com
 v2.zopim.com
 v2html.atm.youku.com
 v10-win.vortex.data.microsoft.com.akadns.net
@@ -2933,6 +2970,7 @@ v20.events.data.microsoft.com
 va.tawk.to
 vbsedit.com
 vcs.vdspf.com
+vd.emp.prd.s3.amazonaws.com
 vd.l.qq.com
 vdterms.samsungcloudsolution.com
 vectorstock.com
@@ -2978,6 +3016,7 @@ waldenfarms.com
 wallpaper.pandora.xiaomi.com
 wallpapers.com
 wallstreetcn.com
+warnerbros.112.2o7.net
 watch-jav.com
 watson.telemetry.microsoft.com
 way2traffic.com
@@ -2989,6 +3028,7 @@ webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
 webcindario.com
 webgains.com
+webhop.net
 webhostingprime.com
 webpayment-promo.internet.apps.samsung.com
 webpower.eu
