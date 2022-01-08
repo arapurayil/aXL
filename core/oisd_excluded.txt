@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Jan 2022 16:04:53 UTC
+# Last modified: 08 Jan 2022 00:19:00 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -17,11 +17,11 @@
 2mdn.net
 2o7.net
 3dme.com
-3dradspace.tk
 3gimg.qq.com
 3x.ro
 4shared.com
 5z8.info
+7.ly
 7eer.net
 7zap.com
 24.hu
@@ -68,6 +68,7 @@ a.wishabi.com
 a1.api.bbc.co.uk
 a1.mzstatic.com
 a2.xinhuanet.com
+a2z.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a771.dscq.akamai.net
@@ -83,6 +84,7 @@ accengage.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
+accounts.launcher-website-prod07.ol.epicgames.com
 acdn.adnxs.com
 acenar.com
 ackcdn.net
@@ -104,6 +106,7 @@ ad.atdmt.com
 ad.dmm.com
 ad.doubleclick.net
 ad.lgsmartad.com
+ad.mediaplex.com
 ad.zanox.com
 ad2.media01.eu
 adage.com
@@ -389,6 +392,8 @@ akam.net
 akamaitechnologies.com
 akstat.io
 akvideo.stream
+al.dmm.co.jp
+alawar.com
 alb.reddit.com
 alexa.com
 algolia.com
@@ -442,7 +447,6 @@ api.comm.miui.com
 api.cortana.ai
 api.cxense.com
 api.device.xiaomi.net
-api.epicgames.dev
 api.euro.hismarttv.com
 api.facebook.com
 api.faceid.com
@@ -495,6 +499,7 @@ app-cdn.spot.im
 app.adjust.com
 app.adjust.io
 app.adjust.net.in
+app.any.run
 app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
@@ -509,6 +514,7 @@ app2.salesmanago.pl
 appboy-images.com
 appbrain.com
 appcast.io
+appdomain.cloud
 appier.com
 appletoolbox.com
 appmetrica.yandex.com
@@ -529,6 +535,7 @@ as.baidu.com
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
 asm.skype.com
+assets-landingi.com
 assets.adobedtm.com
 assets.penny-arcade.com
 assets.pinterest.com
@@ -538,6 +545,7 @@ at-o.net
 at.adtech.redventures.io
 atconnect.npo.nl
 atdmt.com
+atharori.net
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati-host.net
 atlassbx.com
@@ -596,9 +604,11 @@ barracudacentral.org
 batasnatin.com
 batch.com
 bbin.ru
+bblck.me
 bbuseruploads.s3.amazonaws.com
 bc.marfeel.com
 bc.marfeelcache.com
+bc.vc
 bc0a.com
 bce.baidu.com
 bcentral.com
@@ -609,6 +619,7 @@ beacon-v2.helpscout.net
 beacon.netflix.com
 behance.net
 benefits.sovendus.com
+bert.org
 bestgore.com
 bestofmedia.com
 bestvpnrating.com
@@ -640,6 +651,7 @@ blackhatworld.com
 blastingnews.com
 blipblop.net
 blockthrough.com
+blog.disqus.com
 blogcatalog.com
 blogsmithmedia.com
 blogspot.com.by
@@ -724,6 +736,7 @@ cdex.mu
 cdn-gl.imrworldwide.com
 cdn-image.com
 cdn-net.com
+cdn-noc.net
 cdn-settings.segment.com
 cdn.adf.ly
 cdn.appdynamics.com
@@ -786,7 +799,9 @@ cfvod.kaltura.com
 ch0p.darty.com
 channeladvisor.com
 charts.profinance.ru
+chatango.com
 check.ddos-guard.net
+chicago2.vip.townnews.com
 chip.de
 chkd.org
 choice.microsoft.com
@@ -913,7 +928,6 @@ control.phone.com
 controleng.com
 conversions.appsflyer.com
 conviva.com
-cooey-coe.org
 cookie.vrt.be
 cookiebot.com
 cookielaw.org
@@ -959,10 +973,12 @@ ctest.cdn.nintendo.net
 cts.businesswire.com
 cuci.nl
 cultdeadcow.com
+cur.lv
 curalate.com
 custom.plausible.io
 customer.homedepot.com
 customer.io
+cutt.ly
 cws-hulu.conviva.com
 cws.conviva.com
 cxense.com
@@ -987,6 +1003,7 @@ d2tnx644ijgq6i.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d15k2d11r6t6rl.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
@@ -1013,7 +1030,6 @@ data.ubi.com
 datacaciques.com
 datadoghq-browser-agent.com
 datarouter-prod.ak.epicgames.com
-datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
 dauth-lp1.ndas.srv.nintendo.net
 daystar.ac.ke
@@ -1058,6 +1074,7 @@ disquscdn.com
 dl.downloadly.ir
 dl.packetstormsecurity.net
 dls.di.atlas.samsung.com
+dlvr.t-online.de
 dmd.metaservices.microsoft.com
 dmp.adform.net
 dms.metlife.ru
@@ -1104,6 +1121,7 @@ dt51.net
 dtiserv2.com
 duc.edu.iq
 duckdns.org
+dw.com
 dw.com.com
 dynamicyield.com
 dzc-metrics.mzstatic.com
@@ -1119,6 +1137,7 @@ eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 ebates.com
 ebd.cda.pl
+ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 ecology-tech403.ml
 ecx.images-amazon.com
@@ -1271,6 +1290,7 @@ fontanka.ru
 fontjoy.com
 fonts.googleapis.com
 fonts.net
+forcepoint.com
 ford.to
 formcrafts.com
 forms.convertkit.com
@@ -1289,7 +1309,6 @@ freewebsitetemplates.com
 fritz.box
 frog.wix.com
 frontier.musical.ly
-frontiersin.org
 fs.microsoft.com
 ftp.byethost11.com
 ftp.drivehq.com
@@ -1306,6 +1325,7 @@ g.live.com
 g.msn.com
 gala.spiceworks.com
 gall.dcinside.com
+game.baidu.com
 game.weibo.com
 game.xiaomi.com
 gamedl.ru
@@ -1355,6 +1375,7 @@ ghostery-collector.ghostery.com
 gia.jd.com
 gigazine.asia
 gigya.com
+gjtech.net
 glam.com
 glbdns.microsoft.com
 glbdns2.microsoft.com
@@ -1389,7 +1410,6 @@ google.ml
 google.tk
 googleadapis.l.google.com
 googleadservices.com
-googlehosted.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -1429,6 +1449,7 @@ h-sdk.online-metrix.net
 h.online-metrix.net
 h5.qzone.qq.com
 hack-academy.fr
+hackerbot.net
 hackers.com
 harriscomputer.com
 hastebin.com
@@ -1458,6 +1479,7 @@ herokussl.com
 heureka.cz
 heureka.sk
 hexun.com
+heymistr.com
 highonandroid.com
 highwebmedia.com
 hit.bg
@@ -1487,6 +1509,7 @@ hpcloud.hp.com
 hpcloud.hp.net
 hs-scripts.com
 hs.eloqua.com
+hsbc.com.hk
 hsforms.com
 hsforms.net
 ht.ly
@@ -1710,6 +1733,7 @@ ip-info.ff.avast.com
 ip-info.ns1.ff.avast.com
 ip-tracker.org
 ip.goguardian.com
+ip02.gntl.co.uk
 ip2location.com
 ipcheck.tmgrup.com.tr
 ipdata.co
@@ -1746,7 +1770,6 @@ janrain.com
 japantv.club
 javbooks.com
 jdoqocy.com
-jeddunk.xyz
 jesuswalk.com
 jiathis.com
 jimdo.com
@@ -1794,6 +1817,7 @@ kount.com
 kqzyfj.com
 kredytbank.com.ua
 krxd.net
+kryptoslogic.com
 l.betrad.com
 l.doubleclick.net
 l.qq.com
@@ -1928,7 +1952,6 @@ meta.vn
 metaffiliation.com
 meteomaastricht.nl
 metok.sys.miui.com
-metric-public-service-prod.ol.epicgames.com
 metric.gstatic.com
 metrics-k.wbx2.com
 metrics.claspws.tv
@@ -1991,6 +2014,7 @@ msh.amazon.com
 multiscreensite.com
 muzeeum.nl
 mx.technolutions.net
+mx.yandex.ru
 mxmcdn.net
 mxpnl.com
 my.adocean.pl
@@ -1999,6 +2023,7 @@ myairbridge.com
 myao.adocean.pl
 mybbc-analytics.files.bbci.co.uk
 mybloglog.com
+mybluemix.net
 myftpupload.com
 myhomescreen.tv
 mystats.com
@@ -2091,6 +2116,7 @@ odinpc.com
 oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 offers-api.cliqz.com
+offspring.co.uk
 oilandgaseng.com
 oimagea1.ydstatic.com
 oimagea2.ydstatic.com
@@ -2139,7 +2165,6 @@ online.adservicemedia.dk
 ooyala.com
 openmarket.com
 openmobile.qq.com
-openscad.info
 openvim.com
 opera-proxy.net
 opinionstage.com
@@ -2160,6 +2185,7 @@ otnprd8.samsungcloudsolution.net
 otnprd9.samsungcloudsolution.net
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
+ouo.io
 outbrain.com
 ow.ly
 p.brid.tv
@@ -2260,6 +2286,7 @@ pntra.com
 pntrac.com
 pntrs.com
 po.st
+poftut.com
 pokerstrategy.com
 polldaddy.com
 polyfill.io
@@ -2294,6 +2321,7 @@ pro.ip-api.com
 prod-adops-proxy.dnitv.net
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
+prod-rotation-v2.guce.aws.oath.cloud
 prod.imgur.map.fastlylb.net
 prod.mobile.roku.com
 prod.nexusrules.live.com.akadns.net
@@ -2336,7 +2364,6 @@ q4mn.adj.st
 qksrv.net
 ql.tc
 qmerce.com
-qos1.ol.epicgames.com
 quainator.com
 quantcast.mgr.consensu.org
 quantserve.com
@@ -2482,7 +2509,6 @@ scenefz.me
 schneevonmorgen.com
 sci.intuit.ca
 sci.intuit.com
-sclark.xyz
 scone-pa.clients6.google.com
 scontent.xx.fbcdn.net
 scorecardresearch.com
@@ -2516,6 +2542,7 @@ secure.oneallcdn.com
 secure.quantserve.com
 secure.skypeassets.com
 secure.upc.ua
+securemecca.com
 securemetrics.apple.com
 securemvt.apple.com
 sedoparking.com
@@ -2549,7 +2576,7 @@ sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
-share.dmca.gripe
+sgsnssdk.com
 shareaholic.com
 shareasale.com
 sharethis.com
@@ -2573,6 +2600,7 @@ simplyhired.com
 sinajs.cn
 sinematurk.com
 singular.net
+sinlix.lk
 site5.com
 sitecheck1.opera.com
 sitecheck2.opera.com
@@ -2617,6 +2645,7 @@ snap.licdn.com
 snat.goguardian.com
 sngpartners.in
 snrcdn.net
+snssdk.com
 snu.lge.com
 snxd.com
 socialize.us1.gigya.com
@@ -2625,6 +2654,7 @@ socket.streamable.com
 softcity.upclick.com
 softwareadvice.com
 som.aeroplan.com
+soo.gd
 soo.sg
 soundofhope.org
 sp-mms.weather.com
@@ -2651,6 +2681,7 @@ ssm1.internet.sony.tv
 sso.internetat.tv
 ssp.meba.kr
 sstats.adobe.com
+st.chatango.com
 stacksocial.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
@@ -2692,6 +2723,7 @@ stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
 store.keshefoundation.org
+store.qq.com
 store2.gofile.io
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
@@ -2751,6 +2783,7 @@ t23.intelliad.de
 t35.com
 tabac-info-service.fr
 taboola.com
+taboola.map.fastly.net
 tacticalrepublic.com
 tag.aticdn.net
 tag.getdrip.com
@@ -2788,11 +2821,11 @@ telemetry.mozilla.org
 tencent.com
 test.com
 thaiticketmajor.com
-theafterparty.tv
 theannoyingsite.com
 thebrighttag.com
 thecounter.com
 theepochtimes.com
+theintelligencer.com
 theluckygene.com
 theync.com
 thind-gke-usc.prd.data.corp.unity3d.com
@@ -2828,6 +2861,7 @@ top1.ro
 torc.com
 torimochi.line-apps.com
 touclick.com
+townnews.com
 tr.info.mango-mobilites.fr
 tracemyip.org
 track-eu.adformnet.akadns.net
@@ -2850,6 +2884,7 @@ tracker.pomf.se
 tracker.publicbt.com
 tracker2.wasabii.com.tw
 trackersimulator.org
+tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 tracking.bp01.net
 tracking.epicgames.com
 tracking.lengow.com
@@ -2995,6 +3030,7 @@ vidtech.cbsinteractive.com
 viglink.com
 vilynx.com
 vis.vi-serve.com
+visit.digidip.net
 vistaprint.com
 visualwebsiteoptimizer.com
 vk.cc
@@ -3029,12 +3065,12 @@ webcare.byside.com
 webcindario.com
 webgains.com
 webhop.net
-webhostingprime.com
 webpayment-promo.internet.apps.samsung.com
 webpower.eu
 webredir.vip.gandi.net
 websecurityguard.com
 webspaceconfig.de
+westbyte.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 whatismyip.akamai.com
@@ -3110,12 +3146,12 @@ youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.de
 youvisit.com
+youxi.baidu.com
 ypu.edu.tw
 yt3.ggpht.com
 yt4.ggpht.com
 yui.yahooapis.com
 yumekin.com
-yupdates.art
 yupoo.com
 z-m.c10r.facebook.com
 z.zz.ht
@@ -3133,3 +3169,4 @@ zopim.com
 zorpia.com
 ztd.dds.microsoft.com
 zytpirwai.net
+zzb.bz
