@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Jan 2022 00:19:00 UTC
+# Last modified: 08 Jan 2022 08:07:32 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -514,7 +514,6 @@ app2.salesmanago.pl
 appboy-images.com
 appbrain.com
 appcast.io
-appdomain.cloud
 appier.com
 appletoolbox.com
 appmetrica.yandex.com
@@ -523,7 +522,6 @@ apps-pub.samsungcloudcdn.com
 apps.elfsight.com
 appsflyer.com
 appspot-preview.l.google.com
-appspot.com
 appsumo.com
 apptimize.com
 arc.epoq.de
@@ -535,7 +533,6 @@ as.baidu.com
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
 asm.skype.com
-assets-landingi.com
 assets.adobedtm.com
 assets.penny-arcade.com
 assets.pinterest.com
@@ -621,7 +618,6 @@ behance.net
 benefits.sovendus.com
 bert.org
 bestgore.com
-bestofmedia.com
 bestvpnrating.com
 beta.spotify.map.fastly.net
 betclic.com
@@ -676,7 +672,6 @@ bravia.dl.playstation.net
 breeze.aimon.applicationinsights.io
 brian-fitzgerald.com
 bridgetrack.com
-brightcove.com
 brightedge.com
 bronto.com
 browser-update.org
@@ -1384,7 +1379,6 @@ global.search.xiaomi.net
 glomex.com
 glotorrents.pw
 gloyah.net
-glpals.com
 gm.mmstat.com
 go-mpulse.net
 go.cerner.com
@@ -1509,7 +1503,6 @@ hpcloud.hp.com
 hpcloud.hp.net
 hs-scripts.com
 hs.eloqua.com
-hsbc.com.hk
 hsforms.com
 hsforms.net
 ht.ly
@@ -2023,7 +2016,6 @@ myairbridge.com
 myao.adocean.pl
 mybbc-analytics.files.bbci.co.uk
 mybloglog.com
-mybluemix.net
 myftpupload.com
 myhomescreen.tv
 mystats.com
@@ -2286,7 +2278,6 @@ pntra.com
 pntrac.com
 pntrs.com
 po.st
-poftut.com
 pokerstrategy.com
 polldaddy.com
 polyfill.io

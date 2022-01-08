@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.08
-# Last modified: 08 Jan 2022 00:19:01 UTC
+# Last modified: 08 Jan 2022 08:07:32 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -267,7 +267,6 @@
 3dme.com
 3dns-2.adobe.com
 3dns-3.adobe.com
-3dradspace.tk
 3ds.bankofbaku.com
 3ds.mdmbank.ru
 3ds.oschadnybank.com
@@ -432,6 +431,7 @@ a2.xinhuanet.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a24m.a-bank.com.ua
+a2z.com
 a2zapk.com
 a4.mzstatic.com
 a463.w10.akamai.net
@@ -619,6 +619,7 @@ accounts.google.com
 accounts.gstatic.com
 accounts.idmapper.api.playstation.com
 accounts.l.google.com
+accounts.launcher-website-prod07.ol.epicgames.com
 accounts.mobisystems.com
 accounts.nvgs.nvidia.com
 accounts.pixiv.net
@@ -718,6 +719,7 @@ ad.dmm.com
 ad.docer.wps.cn
 ad.doubleclick.net
 ad.lgsmartad.com
+ad.mediaplex.com
 ad.nl
 ad.samsungadhub.com
 ad.vu
@@ -1297,6 +1299,7 @@ akut-klinik.de
 akvideo.stream
 al-bank.dk
 al-baraka.com
+al.dmm.co.jp
 alabamabankers.org
 alabamalandloan.com
 alaha.org
@@ -1304,6 +1307,7 @@ alahli.com
 alahlynet.com.eg
 alamedahospital.org
 alandsbanken.fi
+alawar.com
 alawwalbank.com
 alb.org.im
 alb.reddit.com
@@ -2386,7 +2390,6 @@ api.dodol.naver.com
 api.dropbox.com
 api.ebay-kleinanzeigen.de
 api.entrance.sonymobile.com
-api.epicgames.dev
 api.erabu.sony.tv
 api.erabu.sonymobile.com
 api.euro.hismarttv.com
@@ -2654,6 +2657,7 @@ app.adjust.com
 app.adjust.io
 app.adjust.net.in
 app.alipay.com
+app.any.run
 app.appsflyer.com
 app.bemyeyes.com
 app.bilibili.com
@@ -2718,6 +2722,7 @@ appbrain.com
 appc.baidu.com
 appcast.io
 appcloud.ironbeast.io
+appdomain.cloud
 appdown.naver.com
 appengine.google.com
 appier.com
@@ -2929,6 +2934,7 @@ asrbank.nl
 asset.wsj.net
 assets-cdn.github.com
 assets-jpcust.jwpsrv.com
+assets-landingi.com
 assets-www.zapp.nl
 assets.adobedtm.com
 assets.adobetm.com
@@ -3021,6 +3027,7 @@ atdmt.com
 atf.gov
 atf24.kz
 atfbank.kz
+atharori.net
 athemes.com
 athensfederal.com
 athensfirstbank.com
@@ -3954,6 +3961,7 @@ bbi.co.im
 bbin.ru
 bbl.be
 bbl.co.th
+bblck.me
 bblinz.at
 bbobank.ch
 bbr.ru
@@ -4151,6 +4159,7 @@ berliner-sparkasse.de
 berliner-volksbank.de
 berlinerliebe.de
 bernhauser-bank.de
+bert.org
 berwick-hospital.com
 bes.pt
 beslist.nl
@@ -4464,6 +4473,7 @@ blog.csdn.net
 blog.daum.net
 blog.de.playstation.com
 blog.diigo.com
+blog.disqus.com
 blog.eu.playstation.com
 blog.experts-exchange.com
 blog.feedspot.com
@@ -5507,6 +5517,7 @@ cdn-images.mailchimp.com
 cdn-images.xda-developers.com
 cdn-mobile.api.pluto.tv
 cdn-net.com
+cdn-noc.net
 cdn-origin01.techrepublic.com
 cdn-rtl.primed.io
 cdn-settings.segment.com
@@ -6025,6 +6036,7 @@ chevychasebank.com
 chia-anime.tv
 chiark.greenend.org.uk
 chicago.cbslocal.com
+chicago2.vip.townnews.com
 chicagocommunitybank.com
 chicagofed.org
 chicagolandcompliance.org
@@ -6842,7 +6854,6 @@ convertkit.com
 conviva.com
 conwaycorp.net
 conwaynationalbank.com
-cooey-coe.org
 cookie.hartvannederland.nl
 cookie.monster.com
 cookie.vrt.be
@@ -7326,6 +7337,7 @@ d3a510xmpll7o6.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4.me
 d4f.de
@@ -7440,7 +7452,6 @@ dataplicity.com
 datapoints.coinmarketcap.com
 dataprotection.gov.uk
 datarouter-prod.ak.epicgames.com
-datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
 datastore.rediff.com
 datatables.net
@@ -7923,6 +7934,7 @@ dll.xposed.info
 dls.di.atlas.samsung.com
 dls.net
 dlvr.it
+dlvr.t-online.de
 dlxda.xposed.info
 dm.origin.com
 dmaps.daum.net
@@ -8249,6 +8261,7 @@ dvbbank.com
 dvd.netflix.com
 dvrb.de
 dw-online.ksosoft.com
+dw.com
 dw.com.com
 dw.techrepublic.com
 dw.uptodown.com
@@ -9903,6 +9916,7 @@ forbes.com
 forblabla.com
 forbusiness.snapchat.com
 force.com
+forcepoint.com
 ford.to
 fordlibrarymuseum.gov
 forecast.buienradar.nl
@@ -10163,7 +10177,6 @@ frontgate.com
 frontier.com
 frontier.musical.ly
 frontierbank.com
-frontiersin.org
 frontpage.fok.nl
 fropper.com
 frostbank.com
@@ -10322,6 +10335,7 @@ gallica.bnf.fr
 galt.hit.gemius.pl
 galtensparekasse.dk
 game-blog.line.me
+game.baidu.com
 game.chat.mi.com
 game.daum.net
 game.dcinside.com
@@ -10631,6 +10645,7 @@ gizchina.com
 gizmodo.com
 gizmodo.com.au
 gj.mmstat.com
+gjtech.net
 gjxz2.ucweb.com
 gkb.ch
 gl.gravatar.com
@@ -11010,7 +11025,6 @@ googleapis.com
 googleapis.l.google.com
 googleblog.com
 googlecode.com
-googlehosted.com
 googlehosted.googleusercontent.com
 googlehosted.l.googleusercontent.com
 googlesource.com
@@ -11282,6 +11296,7 @@ habrahabr.ru
 haceramigos.com
 hack-academy.fr
 hackaday.com
+hackerbot.net
 hackerearth.com
 hackernoon.com
 hackerone.com
@@ -11526,6 +11541,7 @@ heureka.cz
 heureka.sk
 hex.io
 hexun.com
+heymistr.com
 heyue.xiaomi.com
 hf-wa.com
 hfbancorp.com
@@ -13199,6 +13215,7 @@ ip-tracker.org
 ip.breitbart.com
 ip.cms.sohu.com
 ip.goguardian.com
+ip02.gntl.co.uk
 ip2location.com
 ipapi.co
 ipay.ua
@@ -13434,7 +13451,6 @@ jdbank.com
 jdem.cz
 jdoqocy.com
 jdownloader.org
-jeddunk.xyz
 jeeng.com
 jeffbank.com
 jefferson-bank.com
@@ -14149,6 +14165,7 @@ krungsrionline.com
 krupp-krankenhaus.de
 krxd.net
 kryptex.org
+kryptoslogic.com
 ks-bank.ru
 ksa.ch
 ksbankers.com
@@ -15726,7 +15743,6 @@ methodisthospital.org
 methodisthospitals.org
 metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
-metric-public-service-prod.ol.epicgames.com
 metric.gstatic.com
 metrics-k.wbx2.com
 metrics.aem.playstation.com
@@ -16346,6 +16362,7 @@ mx-go.kelkoogroup.net
 mx.freenet.de
 mx.namecoin.info
 mx.technolutions.net
+mx.yandex.ru
 mx1.hitbtc.com
 mxmcdn.net
 mxpnl.com
@@ -16417,6 +16434,7 @@ mybbc.files.bbci.co.uk
 mybdo.com.ph
 mybloglog.com
 mybluelight.com
+mybluemix.net
 mybookface.net
 mybrdnet.ro
 mybrowserbar-com.samsung.com.nas
@@ -17423,6 +17441,7 @@ officedepot.com
 officemag.ru
 official-blog.line.me
 offshore-bank-list.com
+offspring.co.uk
 offspring.net
 oficinadirecta.com
 ofigennoe.ru
@@ -17784,7 +17803,6 @@ openmmx.de
 openmobile.qq.com
 openpeeps.com
 openphish.com
-openscad.info
 opensource.org
 opensource.samsung.com
 openspeedtest.com
@@ -18730,6 +18748,7 @@ podcasts.engadget.com
 podcasts.shiftyjelly.com.au
 podoclinicamaiza.es
 pof.com
+poftut.com
 pogo.hulu.com
 poidem.ru
 point.rakuten.co.jp
@@ -18992,6 +19011,7 @@ prod-helpapp.sonymobile.com
 prod-native.actionbutton.co
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
+prod-rotation-v2.guce.aws.oath.cloud
 prod-upload-service.getmore.sonymobile.com
 prod.api.bka.sh
 prod.appnexus.map.fastly.net
@@ -19288,7 +19308,6 @@ qnbfinansbank.com
 qnbfinansbank.enpara.com
 qos.gcloud.qq.com
 qos.hk.gcloudcs.com
-qos1.ol.epicgames.com
 qph.ec.quoracdn.net
 qpic.cn
 qq.com
@@ -20789,7 +20808,6 @@ sciencedirect.com
 sciencemag.org
 scientificamerican.com
 scijinks.gov
-sclark.xyz
 scnb.com
 scnbank.com
 scone-pa.clients6.google.com
@@ -21237,6 +21255,7 @@ sgp01.tp.hd.mi.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
+sgsnssdk.com
 sh-spion.de
 sh.docs.dingtalk.com
 sh.st
@@ -21429,6 +21448,7 @@ sinematurk.com
 singapore.hide.me
 singleapp.robi.com.bd
 singular.net
+sinlix.lk
 sinopac.com
 sirfdosti.com
 sistemagorod.ru
@@ -22884,6 +22904,7 @@ store.nvidia.com
 store.nytimes.com
 store.oneplus.com
 store.playstation.com
+store.qq.com
 store.samsung.com
 store.samsung.com.edgekey.net
 store.snapchat.com
@@ -23271,6 +23292,7 @@ ta4a.info
 tabac-info-service.fr
 tabbank.com
 taboola.com
+taboola.map.fastly.net
 tabunghaji.gov.my
 tabzi.com
 tac.blog.naver.com
@@ -23553,7 +23575,6 @@ the-housingbank.com
 the-housingbank.com.jo
 the.earth.li
 the1st.com
-theafterparty.tv
 theandroidsoul.com
 theanimalmedicalhospital.com
 theannoyingsite.com
@@ -23606,6 +23627,7 @@ thehostingpalace.com
 theia.dl.playstation.net
 theidahobank.com
 theinstapay.com
+theintelligencer.com
 thejnet.com
 thekitchn.com
 thelakebank.com
@@ -23918,6 +23940,7 @@ tracker.trackerfix.com
 tracker2.wasabii.com.tw
 trackersimulator.org
 tracking-protection.cdn.mozilla.net
+tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 tracking.bp01.net
 tracking.epicgames.com
 tracking.feedpress.it
@@ -25900,7 +25923,6 @@ webgrab.wechat.com
 webhop.net
 webhostingpad.com
 webhostingplanet.com
-webhostingprime.com
 webhostingtalk.com
 webid2.gs.com
 weblb-wg.dual-gslb.spotify.com
@@ -25979,6 +26001,7 @@ wesermarschklinik.de
 wespa.de
 west-lindsey.gov.uk
 westamerica.com
+westbyte.com
 westcoastbancorp.com
 westerlyhospital.org
 western-bank.com
@@ -26754,6 +26777,7 @@ youtube.de
 youtube.googleapis.com
 youtubei.googleapis.com
 youvisit.com
+youxi.baidu.com
 yoyo.org
 yoyo.pl
 ypu.edu.tw
@@ -26778,7 +26802,6 @@ yumaregional.org
 yumekin.com
 yunfile.com
 yunjiasu-cdn.net
-yupdates.art
 yupoo.com
 yuque.com
 yurl.in
