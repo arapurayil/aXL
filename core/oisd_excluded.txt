@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Jan 2022 08:07:32 UTC
+# Last modified: 08 Jan 2022 16:05:13 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -3132,6 +3132,7 @@ yimg.com
 ykrec.youku.com
 ynuf.aliapp.org
 ynuf.alipay.com
+yoga-sof.fr
 youbora.com
 youtube-nocookie.com
 youtube-ui.l.google.com

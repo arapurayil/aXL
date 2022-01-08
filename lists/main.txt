@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.08
-# Last modified: 08 Jan 2022 08:07:32 UTC
+# Last modified: 08 Jan 2022 16:05:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2722,7 +2722,6 @@ appbrain.com
 appc.baidu.com
 appcast.io
 appcloud.ironbeast.io
-appdomain.cloud
 appdown.naver.com
 appengine.google.com
 appier.com
@@ -2934,7 +2933,6 @@ asrbank.nl
 asset.wsj.net
 assets-cdn.github.com
 assets-jpcust.jwpsrv.com
-assets-landingi.com
 assets-www.zapp.nl
 assets.adobedtm.com
 assets.adobetm.com
@@ -10702,7 +10700,6 @@ glomex.com
 glotorrents.pw
 gloucestershire.gov.uk
 gloyah.net
-glpals.com
 gls-bank.de
 gls-online-filiale.de
 gls.de
@@ -16434,7 +16431,6 @@ mybbc.files.bbci.co.uk
 mybdo.com.ph
 mybloglog.com
 mybluelight.com
-mybluemix.net
 mybookface.net
 mybrdnet.ro
 mybrowserbar-com.samsung.com.nas
@@ -18748,7 +18744,6 @@ podcasts.engadget.com
 podcasts.shiftyjelly.com.au
 podoclinicamaiza.es
 pof.com
-poftut.com
 pogo.hulu.com
 poidem.ru
 point.rakuten.co.jp
