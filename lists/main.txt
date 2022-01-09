@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.08
-# Last modified: 08 Jan 2022 16:05:13 UTC
+# Version: 3.01.09
+# Last modified: 09 Jan 2022 00:19:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -26722,6 +26722,7 @@ ykrec.youku.com
 ynuf.aliapp.org
 ynuf.alipay.com
 yoakumhospital.org
+yoga-sof.fr
 yogh.me
 yolobank.com
 yon.ir
