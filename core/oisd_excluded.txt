@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jan 2022 08:03:49 UTC
+# Last modified: 09 Jan 2022 16:03:51 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1172,6 +1172,11 @@ engine.phn.doublepimp.com
 enigmasoftware.com
 ensighten.com
 enter-system.com
+eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com
 eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 ep00.epimg.net
 epizy.com
@@ -2715,7 +2720,6 @@ stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
 store.keshefoundation.org
 store.qq.com
-store2.gofile.io
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stormgain.com
@@ -3094,6 +3098,7 @@ ws-comments.ign.com
 ws.126.net
 ws.batch.com
 ws.mmstat.com
+wsapi-global.master.live
 wss.analyticacdn.com
 wt-eu02.net
 wumii.com
