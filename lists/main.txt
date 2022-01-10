@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.09
-# Last modified: 09 Jan 2022 16:03:51 UTC
+# Version: 3.01.10
+# Last modified: 10 Jan 2022 00:19:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8840,6 +8840,11 @@ eonfin.com
 eoniaswap.org
 eonline.com
 eons.com
+eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com
+eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com
 eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 ep00.epimg.net
 ep3.performfeeds.com
@@ -22908,7 +22913,6 @@ store.steampowered.com
 store.vox.com
 store.whale.naver.com
 store.xbox.com
-store2.gofile.io
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
 storeconfig.mistat.intl.xiaomi.com
@@ -26329,6 +26333,7 @@ ws.mmstat.com
 ws.pusherapp.com
 ws.sandbox.coinbase.com
 ws.spot.im
+wsapi-global.master.live
 wsbcbank.com
 wsfsbank.com
 wshifen.com

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jan 2022 16:03:51 UTC
+# Last modified: 10 Jan 2022 00:19:00 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1196,6 +1196,7 @@ etrk.asus.com
 ettoday.com
 eu-v20.events.data.microsoft.com
 eu.spgo.io
+eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 eulerian.brandalley.fr
 eulerian.net
 eultech.fnac.com
@@ -1791,6 +1792,7 @@ k.sinaimg.cn
 kampyle.com
 kaotic.com
 katcr.to
+kauth.kakao.com
 kaxsdc.com
 keenetic.link
 keenetic.pro
