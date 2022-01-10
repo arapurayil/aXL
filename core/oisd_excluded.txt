@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Jan 2022 08:05:35 UTC
+# Last modified: 10 Jan 2022 16:04:54 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -592,6 +592,7 @@ banyanhill.com
 barclaybanking.com
 baremetrics.com
 barracudacentral.org
+bashupload.com
 batasnatin.com
 batch.com
 bbin.ru
@@ -2019,6 +2020,7 @@ news.smi2.ru
 newsbtc.com
 newsletter.bdnews24.com
 newsletters.nationalgeographic.com
+newslink.reuters.com
 newstube.ru
 newtonpaiva.br
 nexage.com

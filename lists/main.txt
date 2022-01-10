@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.10
-# Last modified: 10 Jan 2022 08:05:35 UTC
+# Last modified: 10 Jan 2022 16:04:54 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -508,7 +508,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablinksuni.a.grubhub.com
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -2326,7 +2325,6 @@ api.amplitude.com
 api.anwb.nl
 api.apk.v-mate.mobi
 api.apple-cloudkit.com
-api.applicationinsights.io
 api.appmetadata.sonymobile.com
 api.apptentive.com
 api.areffect.sonymobile.com
@@ -2695,7 +2693,6 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
-app.sephora.com
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -3266,7 +3263,6 @@ b00.fr
 b02.black.ndmdhs.com
 b2.ndb24.ru
 b23.ru
-b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -4293,6 +4289,7 @@ bigpond.com
 bigrock.com
 bigskybank.com
 bigthink.com
+bigtrial.net
 bigzipfiles.facebook.com
 bih.ch
 bii.co.id
@@ -5197,7 +5194,6 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
-campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -6250,7 +6246,6 @@ click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
 click.dtiserv2.com
-click.e.affirm.com
 click.e.change.org
 click.email.sonos.com
 click.engage.xbox.com
@@ -6261,7 +6256,6 @@ click.mail.macmillan.com
 click.member.americanexpress.com
 click.ml.mailersend.com
 click.myctm.canadiantire.ca
-click.official.nike.com
 click.policy.farmers.com
 click.pstmrk.it
 click.redditmail.com
@@ -6280,7 +6274,6 @@ clickbank.com
 clickbank.net
 clickcash.onelink.me
 clickcease.com
-clickcustomerio.squla.nl
 clickdimensions.com
 clickfunnels.com
 clickhouse.com
@@ -6749,7 +6742,6 @@ conn.skype.akadns.net
 conn.skype.com
 connatix.com
 connect.auone.jp
-connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6762,7 +6754,6 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
-connect.zebra.com
 connect2.lenovo.com
 connected.sonymusic.com
 connection.support.playstation.com
@@ -6805,12 +6796,8 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
-content.barracuda.com
 content.chia-anime.tv
 content.cloudflare.com
-content.ctfs.com
-content.discover.com
-content.discovercard.com
 content.dropboxapi.com
 content.erabu.sonymobile.com
 content.force.com
@@ -6822,7 +6809,6 @@ content.jwplatform.com
 content.logmein.com
 content.oneplus.com
 content.production.cdn.art19.com
-content.quicken.com
 content.r9cdn.net
 content.samsung.com
 content.samsung.com.edgesuite.net
@@ -6832,7 +6818,6 @@ content.swrve.com
 content.vidgyor.com
 content.webcollage.net
 content.yikyakapi.net
-content22.citicards.com
 contentful.com
 contests.dailycaller.com
 continuum.dds.microsoft.com
@@ -7225,7 +7210,6 @@ custhelp.com
 custody.coinbase.com
 custom.bnc.lt
 custom.plausible.io
-customer.homedepot.com
 customer.io
 customer.lichousing.com
 customerevents.netflix.com
@@ -7503,7 +7487,6 @@ dbs.com.sg
 dbs.com.tw
 dc-e70d1ce32117.chia-anime.tv
 dc-ppe.trafficmanager.net
-dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
 dca.nl
@@ -8705,7 +8688,6 @@ email-assets.soundcloud.com
 email-clk.adguard.com
 email-connect.spot.im
 email-ee.co.uk
-email-links.buffer.com
 email-tracking.infobip.com
 email.163.com
 email.appsumo.com
@@ -8713,7 +8695,6 @@ email.cmm.canon.com.my
 email.dailycaller.com
 email.docker.com
 email.flipboard.com
-email.fotf.com
 email.gotinder.com
 email.mail.breitbart.com
 email.netlify.com
@@ -10738,12 +10719,10 @@ go-mpulse.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
-go.cerner.com
 go.co
 go.com
 go.daum.net
 go.digitalocean.com
-go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -10751,7 +10730,6 @@ go.infoblox.com
 go.leanplum.com
 go.microsoft.com
 go.mybusinessacademy.ph
-go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -10760,7 +10738,6 @@ go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
-go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -11045,6 +11022,7 @@ gora.golf.rakuten.co.jp
 goregrish.com
 gorhamsavingsbank.com
 gorod23.ru
+gorzdrav.spb.ru
 gosign.adobe.com
 gosquared.com
 gosredirector.ea.com
@@ -11270,7 +11248,6 @@ gyazo.com
 gyggs.com
 gynvael.coldwind.pl
 gz-lb1.internet.spanner.alipaydns.com
-gz.gstatic.com
 h-cdn.com
 h-sdk.online-metrix.net
 h.beta.facebook.com
@@ -11465,7 +11442,6 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
-hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -21063,7 +21039,6 @@ securel.longtailvideo.com
 securelist.com
 securemecca.com
 securemetrics.apple.com
-securemvt.apple.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
@@ -21334,6 +21309,7 @@ shop.ebay.com
 shop.funimation.com
 shop.huawei.com
 shop.lego.com
+shop.mango.com
 shop.mi.com
 shop.nuance.com
 shop.r10s.jp
