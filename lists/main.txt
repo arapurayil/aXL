@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.10
-# Last modified: 10 Jan 2022 00:19:00 UTC
+# Last modified: 10 Jan 2022 08:05:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8983,6 +8983,7 @@ eu1.gigya.com
 eu1.p2.documentsawsperf.adobe.com
 eubank.kz
 eudora.qualcomm.com
+eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 eulerian.brandalley.fr
 eulerian.net
 eultech.fnac.com
@@ -13672,6 +13673,7 @@ katharinen-hospital.de
 kathrein.at
 katowice.tvp.pl
 kaupthing.lu
+kauth.kakao.com
 kautionen.aareal-bank.com
 kav-krankenhaus.de
 kavalahospital.gr

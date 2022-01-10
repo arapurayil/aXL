@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Jan 2022 00:19:00 UTC
+# Last modified: 10 Jan 2022 08:05:35 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -75,7 +75,6 @@ a771.dscq.akamai.net
 a1737.b.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
-ablinksuni.a.grubhub.com
 aboluowang.com
 about.com
 aboutads.info
@@ -92,7 +91,6 @@ acpbdf.com.br
 acr0.samsungcloudsolution.com
 acs.m.taobao.com
 action.metaffiliation.com
-activation.gfe.nvidia.com
 activation.unity3d.com
 active.com
 activity.windows.com
@@ -436,7 +434,6 @@ api.account.xiaomi.com
 api.ad.xiaomi.com
 api.amplitude.com
 api.apple-cloudkit.com
-api.applicationinsights.io
 api.apptentive.com
 api.bam-x.com
 api.branch.io
@@ -456,7 +453,6 @@ api.ipify.org
 api.ipinfodb.com
 api.jr.mi.com
 api.leanplum.com
-api.loganalytics.io
 api.map.baidu.com
 api.mapbox.com
 api.micloud.xiaomi.net
@@ -508,7 +504,6 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.sephora.com
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -583,7 +578,6 @@ b.koodomobile.com
 b.scorecardresearch.com
 b.wishabi.com
 b02.black.ndmdhs.com
-b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
@@ -631,6 +625,7 @@ bi.medscape.com
 bigairusa.com
 bigdata.ssp.samsung.com
 bigmir.net
+bigtrial.net
 bild.de
 bilder-upload.eu
 bill.ccbill.com
@@ -669,7 +664,6 @@ bp01.net
 branch.io
 brand.sogou.com
 bravia.dl.playstation.net
-breeze.aimon.applicationinsights.io
 brian-fitzgerald.com
 bridgetrack.com
 brightedge.com
@@ -717,7 +711,6 @@ c1.microsoft.com
 cafe24.com
 cafeomai.com.au
 calendar.fontanka.ru
-campaign.abb.com
 campaign.adobe.com
 canadapharmacy.com
 care2.com
@@ -823,20 +816,17 @@ click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
 click.dtiserv2.com
-click.e.affirm.com
 click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.ml.mailersend.com
-click.official.nike.com
 click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
 clickbank.com
 clickbank.net
 clickcease.com
-clickcustomerio.squla.nl
 clickdimensions.com
 clickfunnels.com
 clickhouse.com
@@ -897,12 +887,10 @@ config.uca.cloud.unity3d.com
 configprd.samsungcloudsolution.net
 confirmit.com
 conn.skype.com
-connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.rom.miui.com
 connect.scroll.com
-connect.zebra.com
 consensu.org
 consent.cookiebot.com
 consent.faz.net
@@ -910,13 +898,7 @@ consent.truste.com
 console.cloud.google.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
-content.barracuda.com
-content.ctfs.com
-content.discover.com
-content.discovercard.com
-content.quicken.com
 content.shoprunner.com
-content22.citicards.com
 continuum.dds.microsoft.com
 control.kochava.com
 control.phone.com
@@ -971,10 +953,8 @@ cultdeadcow.com
 cur.lv
 curalate.com
 custom.plausible.io
-customer.homedepot.com
 customer.io
 cutt.ly
-cws-hulu.conviva.com
 cws.conviva.com
 cxense.com
 cy2.licensing.md.mp.microsoft.com.akadns.net
@@ -1030,9 +1010,6 @@ dauth-lp1.ndas.srv.nintendo.net
 daystar.ac.ke
 db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
-dc.applicationinsights.azure.com
-dc.applicationinsights.microsoft.com
-dc.services.visualstudio.com
 dca.nl
 dcms.1688.com
 dcs.audi.com
@@ -1122,7 +1099,6 @@ dynamicyield.com
 dzc-metrics.mzstatic.com
 e-tjanster.1177.se
 e-xacbank.com
-e.customeriomail.com
 e.reddit.com
 ea.galerieslafayette.com
 eaglenews.in
@@ -1154,9 +1130,6 @@ elastx.net
 ellation.map.fastly.net
 eloqua.com
 email-clk.adguard.com
-email-links.buffer.com
-email.fotf.com
-email.netlify.com
 email.uber.com
 emails.avg.com
 embed.mystream.to
@@ -1226,7 +1199,6 @@ exe.io
 exosrv.com
 experience.tinypass.com
 exploit.in
-explore.amd.com
 ext.goguardian.com
 extern.prisjakt.nu
 extole.io
@@ -1322,7 +1294,6 @@ fwmrm.net
 fy.v.vrv.co
 g.alicdn.com
 g.ezoic.net
-g.live.com
 g.msn.com
 gala.spiceworks.com
 gall.dcinside.com
@@ -1387,12 +1358,8 @@ glotorrents.pw
 gloyah.net
 gm.mmstat.com
 go-mpulse.net
-go.cerner.com
-go.dlink.com
-go.neverware.com
 go.pardot.com
 go.redirectingat.com
-go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1444,7 +1411,6 @@ guiama.is
 gunosy.com
 gvt2.com
 gynvael.coldwind.pl
-gz.gstatic.com
 h-sdk.online-metrix.net
 h.online-metrix.net
 h5.qzone.qq.com
@@ -1471,7 +1437,6 @@ hbbtvapp.sonnenklar.tv
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
-hello.heroku.com
 hello.myfonts.net
 heraldm.com
 here.com
@@ -2542,7 +2507,6 @@ secure.skypeassets.com
 secure.upc.ua
 securemecca.com
 securemetrics.apple.com
-securemvt.apple.com
 sedoparking.com
 seed.bitcoin.sipa.be
 seed.bitcoinstats.com
@@ -2584,6 +2548,7 @@ shifen.com
 shinobi.jp
 shockgore.com
 shodanhq.com
+shop.mango.com
 shop.spreadshirt.com
 shopperapproved.com
 shopzilla.com
@@ -2741,7 +2706,6 @@ suggestqueries-clients6.youtube.com
 sumologic.com
 sundaysky.com
 supercell.net
-supportmetrics.apple.com
 survey.confirmit.com
 surveygizmo.com
 surveyrouter.com
