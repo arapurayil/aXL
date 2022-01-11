@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Jan 2022 16:04:54 UTC
+# Last modified: 11 Jan 2022 00:19:40 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1348,6 +1348,7 @@ ghostery-collector.ghostery.com
 gia.jd.com
 gigazine.asia
 gigya.com
+gizmodo.jp
 gjtech.net
 glam.com
 glbdns.microsoft.com
@@ -1970,6 +1971,7 @@ mpsnare.iesnare.com
 mqtt-mini.facebook.com
 mr.da.netease.com
 mrex.exs.pl
+mrgugu.com
 mrzikj.com
 ms.yandex.ru
 msedge.net
@@ -2231,6 +2233,7 @@ pl.rdx2.lgtvsdp.com
 placehold.it
 planet.net
 plantengineering.com
+plantlust.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com

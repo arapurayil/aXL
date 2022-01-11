@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.10
-# Last modified: 10 Jan 2022 16:04:54 UTC
+# Version: 3.01.11
+# Last modified: 11 Jan 2022 00:19:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3900,6 +3900,7 @@ bartowcountybank.com
 bas-info.ch
 base64decode.org
 basecamp.com
+bashupload.com
 basisbank.dk
 basketbuild.com
 bassandequitable.com.au
@@ -16851,6 +16852,7 @@ newsletterind.huawei.com
 newsletters.bancsabadell.com
 newsletters.nationalgeographic.com
 newsletters.vox.com
+newslink.reuters.com
 newsouthfederal.com
 newsroom.fb.com
 newsroom.pinterest.com
