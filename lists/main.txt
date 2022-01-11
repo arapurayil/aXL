@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.11
-# Last modified: 11 Jan 2022 00:19:40 UTC
+# Last modified: 11 Jan 2022 08:05:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10630,6 +10630,7 @@ gizbot.com
 gizchina.com
 gizmodo.com
 gizmodo.com.au
+gizmodo.jp
 gj.mmstat.com
 gjtech.net
 gjxz2.ucweb.com
@@ -16217,6 +16218,7 @@ mqtt.pushy.me
 mr.da.netease.com
 mrbank.com.pl
 mrex.exs.pl
+mrgugu.com
 mrhospital.com
 mrodevicemgr.officeapps.live.com
 mrthumb.nabstudio.com
@@ -18603,6 +18605,7 @@ plantengineering.com
 planters-bank.com
 plantersbank.com.ph
 plantersbank.net
+plantlust.com
 plaqbank.com
 plarium.com
 plat.ru
