@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.12
-# Last modified: 12 Jan 2022 00:19:35 UTC
+# Last modified: 12 Jan 2022 08:07:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -586,6 +586,7 @@ account.adobe.com
 account.api.here.com
 account.gotinder.com
 account.here.com
+account.herephyshy.info
 account.mi.com
 account.microsoft.com.edgekey.net
 account.np.ac.playstation.net
@@ -5670,6 +5671,7 @@ cdn.support.sonymobile.com
 cdn.survey.medallia.com
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
+cdn.tagcommander.com
 cdn.technologyreview.com
 cdn.theatlantic.com
 cdn.tinypass.com
@@ -6755,6 +6757,7 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
+connect.zebra.com
 connect2.lenovo.com
 connected.sonymusic.com
 connection.support.playstation.com
@@ -7900,7 +7903,6 @@ dl.l.google.com
 dl.notepad-plus-plus.org
 dl.op.wpscdn.cn
 dl.opensubtitles.org
-dl.packetstormsecurity.net
 dl.twitchdl.com
 dl.update.micloud.xiaomi.net
 dl.xda-developers.com
@@ -8714,6 +8716,7 @@ emarsys.com
 emb.spb.ru
 embed-fastly.wistia.com
 embed.actionbutton.co
+embed.comicbook.com
 embed.flowplayer.org
 embed.ly
 embed.mystream.to
@@ -8926,6 +8929,7 @@ esube.eximbank.gov.tr
 esube.turkishbank.com
 esube.turkishcards.com
 esunbank.com.tw
+et.tidal.com
 etahub.com
 etao.com
 etb-ag.com
@@ -9108,6 +9112,7 @@ expedia.com
 expedia.se
 expediamail.com
 experian.com
+experience.jcu.edu.au
 experience.tinypass.com
 experienceproject.com
 expertcity.com
@@ -10509,6 +10514,7 @@ geoip.tnt-ea.com
 geojs.io
 geolite.maxmind.com
 geoloc.arte.tv
+geolocation-db.com
 geolocation.daznservices.com
 geolocation.onetrust.com
 geomed-klinik.de
@@ -10630,7 +10636,6 @@ gizbot.com
 gizchina.com
 gizmodo.com
 gizmodo.com.au
-gizmodo.jp
 gj.mmstat.com
 gjtech.net
 gjxz2.ucweb.com
@@ -13193,6 +13198,7 @@ ip-info.ff.avast.com
 ip-info.ns1.ff.avast.com
 ip-only.se
 ip-tracker.org
+ip.anysrc.net
 ip.breitbart.com
 ip.cms.sohu.com
 ip.goguardian.com
@@ -14807,6 +14813,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15794,6 +15801,7 @@ micloud.xiaomi.net
 micpn.com
 microbit.org
 microg.org
+microless.com
 microsoft.com
 microsoft.net
 microsoft.qualtrics.com
@@ -17808,6 +17816,7 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
+ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -18063,6 +18072,7 @@ pagefair.com
 pages.ebay.com
 pages.em.funimation.com
 pages.engage.xbox.com
+pages.info.exclusive-networks.com
 pages.soundcloud.com
 pages.status.xbox.com
 pages.typekit.com
@@ -21150,6 +21160,7 @@ serverfault.com
 serverorigin.com
 servetown.com
 service.biv.sony.tv
+service.cz.nl
 service.fuib.com
 service.gov.uk
 service.marketing.adobe.com
@@ -21314,7 +21325,6 @@ shop.ebay.com
 shop.funimation.com
 shop.huawei.com
 shop.lego.com
-shop.mango.com
 shop.mi.com
 shop.nuance.com
 shop.r10s.jp
@@ -26790,6 +26800,7 @@ yupoo.com
 yuque.com
 yurl.in
 yusercontent.com
+yximgs.com
 yyv.co
 yz2.xmss.micloud.mi.com
 z-1.c10r.facebook.com
