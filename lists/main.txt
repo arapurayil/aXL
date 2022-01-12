@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.12
-# Last modified: 12 Jan 2022 08:07:11 UTC
+# Last modified: 12 Jan 2022 16:05:08 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10370,6 +10370,7 @@ garena.com
 gasp.co.nz
 gate.ariuspay.ru
 gate.hockeyapp.net
+gate.io
 gate.vseplatezhi.ru
 gatehousemedia.com
 gateway.fe.apple-dns.net
@@ -15758,6 +15759,7 @@ metzler.com
 meu.inss.gov.br
 mevas.com
 mewkid.net
+mexc.com
 mfb.hu
 mfbank.com
 mfbank.ru
@@ -17650,6 +17652,7 @@ online.oschadbank.ua
 online.pabcbank.com
 online.pchrb.ru
 online.piraeusbank.ua
+online.pocztowy.pl
 online.procreditbank.am
 online.procreditbank.ge
 online.ptclick.com.ua
@@ -18114,6 +18117,7 @@ pantheonsite.io
 panther.goguardian.com
 papageorgiou-hospital.gr
 papago.naver.com
+papara.com
 paper-attachments.s3.amazonaws.com
 paper.dropbox.com
 paper.li
@@ -23993,6 +23997,7 @@ travelocity.com
 travelzoo.com
 travesta.de
 trbas.com
+trbinance.com
 trbna.com
 trbo.com
 trbsinc.com
@@ -24536,6 +24541,7 @@ uploaded.net
 uploaded.to
 uploading.com
 uploads.gdata.youtube.com
+upma.org
 upmostly.com
 uppit.com
 ups.com
