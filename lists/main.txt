@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.13
-# Last modified: 13 Jan 2022 00:20:43 UTC
+# Last modified: 13 Jan 2022 08:09:54 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -586,7 +586,6 @@ account.adobe.com
 account.api.here.com
 account.gotinder.com
 account.here.com
-account.herephyshy.info
 account.mi.com
 account.microsoft.com.edgekey.net
 account.np.ac.playstation.net
@@ -7982,6 +7981,7 @@ doctorshospitaldallas.com
 doctortro.com
 documentingreality.com
 docusign.net
+dodge-forum.eu
 dodgersdigest.com
 doe.gov
 dog.bin
@@ -11843,6 +11843,7 @@ hsforms.com
 hsforms.net
 hsh-nordbank.de
 hsk-wiesbaden.de
+hsx.com
 ht.ly
 ht.youporn.com
 htm.huawei.com
@@ -14444,6 +14445,7 @@ letsgo.com.au
 letsupload.co
 leu.com
 leumi.ro
+lever-analytics.com
 levihospital.com
 levo-bank.de
 lewrockwell.com
@@ -14814,7 +14816,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -26289,6 +26290,7 @@ wowhost.us
 wownero.herominers.com
 wowway.com
 wowway.net
+wp-stat.s3.amazonaws.com
 wp.breitbart.com
 wp.com
 wp.me
