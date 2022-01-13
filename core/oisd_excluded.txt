@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Jan 2022 16:05:07 UTC
+# Last modified: 13 Jan 2022 00:20:43 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -82,7 +82,6 @@ ac.duckduckgo.com
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
-account.herephyshy.info
 account.wire.com
 accounts.launcher-website-prod07.ol.epicgames.com
 acdn.adnxs.com
@@ -585,7 +584,6 @@ babyneeds.ro
 backtrack-linux.org
 badges-content.teamspeak.com
 badoo.com
-balajihospital.net
 bam-x.com
 bam.eu01.nr-data.net
 bannerbank.com
@@ -664,7 +662,6 @@ bnc.lt
 boldchat.com
 boxcryptor.com
 bp01.net
-br4.in
 branch.io
 brand.sogou.com
 bravia.dl.playstation.net
@@ -1062,6 +1059,7 @@ do-not-tracker.org
 docs.bugsnag.com
 doctortro.com
 documentingreality.com
+dodge-forum.eu
 doiop.com
 dolphincdn.xyz
 domain.com
@@ -1378,7 +1376,6 @@ godly.website
 goldbach.com
 goldenline.pl
 goliath.bi.miniclippt.com
-goo-gl.me
 google-analytics.com
 google.cf
 google.ga
@@ -1485,6 +1482,7 @@ hs-scripts.com
 hs.eloqua.com
 hsforms.com
 hsforms.net
+hsx.com
 ht.ly
 ht.youporn.com
 http-test1.luminatinet.com
@@ -1811,6 +1809,7 @@ leadpages.net
 leakreality.com
 leanplum.com
 legalterms.cbsinteractive.com
+lever-analytics.com
 lexatrade.com
 lgsmartad.com
 lib.rus.ec
@@ -1847,7 +1846,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.eu
@@ -3025,7 +3023,6 @@ vur.me
 vz-cdn.trafficjunky.net
 vz-cdn2.adtng.com
 w2xg.com
-w3school.com
 w88.espn.com
 waldenfarms.com
 wallpaper.pandora.xiaomi.com
@@ -3076,6 +3073,7 @@ wootric.com
 wordstream.com
 workona.com
 worldssl.net
+wp-stat.s3.amazonaws.com
 wpc.v0cdn.net
 ws-adv.ais.co.th
 ws-comments.ign.com
