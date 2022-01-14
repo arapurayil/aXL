@@ -3,7 +3,7 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2022-01-14T00:19:17.174Z
+! Last modified: 2022-01-14T08:05:36.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40,9 +40,6 @@
 @@||pixel.redditmedia.com^
 @@||pixel.wp.com^
 @@||prod.telemetry.ros.rockstargames.com^
-@@||s3-telemetry-eust1.cloudapp.net^
-@@||s3-telemetry-eust3.cloudapp.net^
-@@||s3-telemetry-eust4.cloudapp.net^
 @@||telemetry-in.battle.net^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
 @@||telemetry-prd.ap.tesla.services^

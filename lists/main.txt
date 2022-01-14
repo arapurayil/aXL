@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.14
-# Last modified: 14 Jan 2022 00:19:04 UTC
+# Last modified: 14 Jan 2022 08:05:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -424,7 +424,6 @@ a1.mzstatic.com
 a1.sndcdn.com
 a1.soundcloud.com
 a1014.g.akamai.net
-a1737.b.akamai.net
 a1856.da1.akamai.net
 a1above.net
 a2.xinhuanet.com
@@ -618,7 +617,6 @@ accounts.google.com
 accounts.gstatic.com
 accounts.idmapper.api.playstation.com
 accounts.l.google.com
-accounts.launcher-website-prod07.ol.epicgames.com
 accounts.mobisystems.com
 accounts.nvgs.nvidia.com
 accounts.pixiv.net
@@ -6916,7 +6914,6 @@ cosmeticvacations.org
 cosmiq.de
 cosmopolitan.com
 cosmopolitan.nl
-cosmos.channel.or.jp
 cosmosbank.com
 cosnet.co.nz
 costco.com
@@ -7436,7 +7433,6 @@ datamixer-pa.googleapis.com
 dataplicity.com
 datapoints.coinmarketcap.com
 dataprotection.gov.uk
-datarouter-prod.ak.epicgames.com
 datarouter.ol.epicgames.com
 datastore.rediff.com
 datatables.net
@@ -8825,12 +8821,6 @@ eonfin.com
 eoniaswap.org
 eonline.com
 eons.com
-eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 ep00.epimg.net
 ep3.performfeeds.com
 epa.gov
@@ -8969,7 +8959,6 @@ eu1.gigya.com
 eu1.p2.documentsawsperf.adobe.com
 eubank.kz
 eudora.qualcomm.com
-eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 eulerian.brandalley.fr
 eulerian.net
 eultech.fnac.com
@@ -10337,7 +10326,6 @@ game.weibo.com
 game.xiaomi.com
 gamecopyworld.click
 gamedl.ru
-gameguide3.aspyr.com
 gamehouse.com
 gamekult.com
 gamelist.api.playstation.com
@@ -10424,10 +10412,6 @@ gdb-pur.com
 gdbc.net
 gdcsite.cdnsrv.jio.com
 gds-vhs-drops-campaign-images.twitch.tv
-gds1.steampowered.com
-gds2.steampowered.com
-gds3.steampowered.com
-gds4.steampowered.com
 gdwbank.com
 ge-laan.dk
 ge.tt
@@ -12023,6 +12007,7 @@ i.scdn.co
 i.snap.com
 i.taatta.net
 i.tcb.ru
+i.v2ex.co
 i.vgy.me
 i.viafoura.co
 i.vtb.ru
@@ -18889,7 +18874,6 @@ practivate.adobe.com
 prattsletter.com
 praxisklinik-leverkusen.de
 prbkbr-ibank2.ru
-prd-lender.cdp.internal.unity3d.com
 prd.jwpltx.com
 prd.sca.samsung.com
 prdl-download.adobe.com
@@ -19185,7 +19169,6 @@ pubgmobile.com
 pubhelp.taboola.com
 public-access.net
 public-api.wordpress.com
-public-cdn.cloud.unity3d.com
 public-ubiservices.ubi.com
 public-user.spot.im
 public.atl-paas.net
@@ -19949,7 +19932,6 @@ remadaro.com
 remember.to
 reminders-pa.googleapis.com
 remla.com
-remote-config-prd.uca.cloud.unity3d.com
 remote-data.urbanairship.com
 remoteworkcentral.com
 renaissance-go.com
@@ -20449,9 +20431,6 @@ s3-1.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-eu-west-1.amazonaws.com
-s3-telemetry-eust1.cloudapp.net
-s3-telemetry-eust3.cloudapp.net
-s3-telemetry-eust4.cloudapp.net
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.af-south-1.amazonaws.com
@@ -21059,6 +21038,7 @@ securel.longtailvideo.com
 securelist.com
 securemecca.com
 securemetrics.apple.com
+securemvt.apple.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
@@ -21330,6 +21310,7 @@ shop.ebay.com
 shop.funimation.com
 shop.huawei.com
 shop.lego.com
+shop.mango.com
 shop.mi.com
 shop.nuance.com
 shop.r10s.jp
@@ -23661,7 +23642,6 @@ theworldexchange.net
 thewrap.com
 theync.com
 thinair.net.nz
-thind-gke-usc.prd.data.corp.unity3d.com
 thinkroadsafety.gov.uk
 thirdparty.bnc.lt
 thirdqq.qlogo.cn
@@ -23937,7 +23917,6 @@ tracker.trackerfix.com
 tracker2.wasabii.com.tw
 trackersimulator.org
 tracking-protection.cdn.mozilla.net
-tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 tracking.bp01.net
 tracking.epicgames.com
 tracking.feedpress.it
@@ -25682,6 +25661,7 @@ vupload2.t.facebook.com
 vur.me
 vuukle.com
 vv.vg
+vv.video.qq.com
 vvb-maingau.de
 vvcag.de
 vvrb.de
