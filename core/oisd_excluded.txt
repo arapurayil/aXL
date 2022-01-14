@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Jan 2022 16:06:37 UTC
+# Last modified: 14 Jan 2022 00:19:04 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -72,7 +72,6 @@ a2z.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a771.dscq.akamai.net
-a1737.b.akamai.net
 aan.amazon.com
 aax-us-iad.amazon.com
 aboluowang.com
@@ -83,7 +82,6 @@ accengage.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
-accounts.launcher-website-prod07.ol.epicgames.com
 acdn.adnxs.com
 acenar.com
 ackcdn.net
@@ -917,7 +915,6 @@ coremetrics.com
 coronavirus.app
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
-cosmos.channel.or.jp
 countere.com
 countvoncount.goguardian.com
 couponxoo.com
@@ -1007,8 +1004,6 @@ data.over-blog-kiwi.com
 data.ubi.com
 datacaciques.com
 datadoghq-browser-agent.com
-datarouter-prod.ak.epicgames.com
-datarouter.ol.epicgames.com
 dauth-lp1.ndas.srv.nintendo.net
 daystar.ac.ke
 db5.vortex.data.microsoft.com.akadns.net
@@ -1148,12 +1143,6 @@ engine.phn.doublepimp.com
 enigmasoftware.com
 ensighten.com
 enter-system.com
-eos-gateway-ingress-prod-w1.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w2.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w3.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w4.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod-w5.befa.live.use1a.on.epicgames.com
-eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 ep00.epimg.net
 epizy.com
 epl.paypal-communication.com
@@ -1173,7 +1162,6 @@ etrk.asus.com
 ettoday.com
 eu-v20.events.data.microsoft.com
 eu.spgo.io
-eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 eulerian.brandalley.fr
 eulerian.net
 eultech.fnac.com
@@ -1306,7 +1294,6 @@ game.baidu.com
 game.weibo.com
 game.xiaomi.com
 gamedl.ru
-gameguide3.aspyr.com
 gamehouse.com
 gan.doubleclick.net
 gardenstatehelicopters.com
@@ -1314,10 +1301,6 @@ gateway.reddit.com
 gayly.ru
 gc.zgo.at
 gcp.api.snapchat.com
-gds1.steampowered.com
-gds2.steampowered.com
-gds3.steampowered.com
-gds4.steampowered.com
 gecko-sg.byteoversea.com
 gelnhausen.de
 gemius.pl
@@ -1502,6 +1485,7 @@ hypestat.com
 i.cdnpark.com
 i.cmpnet.com
 i.plug.it
+i.v2ex.co
 i.yimg.jp
 i1.ytimg.com
 ia.media-imdb.com
@@ -1777,7 +1761,6 @@ kickass.cd
 kiev.ua
 kiks.yandex.ru
 kiks.yandex.ua
-kinesis.us-east-1.amazonaws.com
 kiwifarms.net
 klarnaservices.com
 klclick.com
@@ -1818,13 +1801,13 @@ license.unity3d.com
 licensing.mp.microsoft.com
 licensingphone.mp.microsoft.com
 lidl.media01.eu
-limited-prod.giphy.map.fastly.net
 limneos.net
 lindy.co.id
 line.naver.jp
 link.p0.com
 linkev.com
 linksynergy.com
+linktr.ee
 litix.io
 live.primis.tech
 live.simcitybuildit.com
@@ -2283,7 +2266,6 @@ ppcprotect.com
 ppro.de
 pr-cy.ru
 pr0gramm.com
-prd-lender.cdp.internal.unity3d.com
 prd.jwpltx.com
 prebid.adnxs.com
 prf.hn
@@ -2301,7 +2283,6 @@ prod-adops-proxy.dnitv.net
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
 prod-rotation-v2.guce.aws.oath.cloud
-prod.imgur.map.fastlylb.net
 prod.mobile.roku.com
 prod.nexusrules.live.com.akadns.net
 prod.telemetry.ros.rockstargames.com
@@ -2315,7 +2296,6 @@ proxad.net
 prvsz4pe.micpn.com
 psicologia-online.com
 pstmrk.it
-public-cdn.cloud.unity3d.com
 public.popcorn-tracker.org
 publicidees.com
 pubnub.com
@@ -2389,7 +2369,6 @@ redventures.io
 refer.ccbill.com
 referrer.disqus.com
 relevant-digital.com
-remote-config-prd.uca.cloud.unity3d.com
 reports.cliqz.com
 repository.cliqz.com
 rereddit.com
@@ -2447,9 +2426,6 @@ s1.yimg.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
-s3-telemetry-eust1.cloudapp.net
-s3-telemetry-eust3.cloudapp.net
-s3-telemetry-eust4.cloudapp.net
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
@@ -2523,6 +2499,7 @@ secure.skypeassets.com
 secure.upc.ua
 securemecca.com
 securemetrics.apple.com
+securemvt.apple.com
 sedoparking.com
 seed.bitcoin.sipa.be
 seed.bitcoinstats.com
@@ -2565,6 +2542,7 @@ shifen.com
 shinobi.jp
 shockgore.com
 shodanhq.com
+shop.mango.com
 shop.spreadshirt.com
 shopperapproved.com
 shopzilla.com
@@ -2722,6 +2700,7 @@ suggestqueries-clients6.youtube.com
 sumologic.com
 sundaysky.com
 supercell.net
+supportmetrics.apple.com
 survey.confirmit.com
 surveygizmo.com
 surveyrouter.com
@@ -2805,7 +2784,6 @@ theepochtimes.com
 theintelligencer.com
 theluckygene.com
 theync.com
-thind-gke-usc.prd.data.corp.unity3d.com
 thirdparty.bnc.lt
 thomsonplaza.com.sg
 tickcounter.com
@@ -2861,7 +2839,6 @@ tracker.pomf.se
 tracker.publicbt.com
 tracker2.wasabii.com.tw
 trackersimulator.org
-tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 tracking.bp01.net
 tracking.epicgames.com
 tracking.lengow.com
@@ -3020,6 +2997,7 @@ vortex.hulu.com
 vseinstrumenti.ru
 vserv.bc.cdn.bitgravity.com
 vur.me
+vv.video.qq.com
 vz-cdn.trafficjunky.net
 vz-cdn2.adtng.com
 w2xg.com
