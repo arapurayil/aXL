@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Jan 2022 16:03:53 UTC
+# Last modified: 15 Jan 2022 00:18:12 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -45,6 +45,7 @@
 801.tianya.cn
 1188.lv
 2222mb.com
+17173.com
 201205igp.gameloft.com
 881903.com
 a-0001.a-msedge.net
@@ -905,6 +906,7 @@ control.kochava.com
 control.phone.com
 controleng.com
 conversions.appsflyer.com
+converti.se
 conviva.com
 cookie.vrt.be
 cookiebot.com
@@ -1997,6 +1999,7 @@ named.myteamspeak.com
 nanigans.com
 narrativ.com
 nasapaul.com
+nationalisacs.org
 navitime.co.jp
 naytev.com
 nbcu.demdex.net
@@ -3039,6 +3042,7 @@ wifiapi.micloud.xiaomi.net
 wildtangent.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
+windowsupdate.s.llnwi.net
 wixsite.com
 wl.jd.com
 wmflabs.org
