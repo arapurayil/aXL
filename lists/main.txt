@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.15
-# Last modified: 15 Jan 2022 00:18:12 UTC
+# Last modified: 15 Jan 2022 08:06:31 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -120,6 +120,7 @@
 140cc.v.fwmrm.net
 163.com
 1688.com
+17173.com
 17track.net
 1822direkt-banking.de
 1822direkt.com
@@ -6834,6 +6835,7 @@ conversation-read.spot.im
 conversehospital.com
 conversions.appsflyer.com
 convertertogenerator.com
+converti.se
 convertkit.com
 conviva.com
 conwaycorp.net
@@ -16585,6 +16587,7 @@ nationalcity.com
 nationalgeographic.com
 nationalinterbank.com
 nationalinternetbank.com
+nationalisacs.org
 nationalservice.gov
 nationsbank.com
 nationsreportcard.gov
@@ -26141,6 +26144,7 @@ windowsphone.com
 windowsphone.xbox.com
 windowsupdate.com
 windowsupdate.nsatc.net
+windowsupdate.s.llnwi.net
 windowupdate.org
 windscribe.com
 windsorparkanimalhospital.com
