@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Jan 2022 08:04:13 UTC
+# Last modified: 16 Jan 2022 16:04:22 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -114,6 +114,7 @@ adbrix.io
 adcell.com
 adcolo.com
 addison-electronique.com
+addshoppers.com
 addthis.com
 adf.ly
 adfoc.us
@@ -137,6 +138,7 @@ adregain.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
+ads-twitter.com
 ads.google.com
 ads.harvard.edu
 ads.nexage.com
@@ -358,6 +360,7 @@ adservice.google.ws
 adservicemedia.dk
 adserwer.afilo.pl
 adsp.xunlei.com
+adsrvr.org
 adswizz.com
 adtech.de
 adtidy.net
@@ -1706,6 +1709,7 @@ ipla.hit.stat24.com
 ipm-provider.ff.avast.com
 ipm-provider.ns1.ff.avast.com
 ipoker.com
+ipredictive.com
 ipstack.com
 ipv4.tracker.harry.lu
 irchan.com
@@ -1834,6 +1838,7 @@ logentries.com
 loggly.com
 logrocket.com
 logs.amap.com
+logs.datadoghq.com
 logs.datadoghq.eu
 lomadee.com
 lptag.liveperson.net
@@ -1875,6 +1880,7 @@ mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
 marketing.net.idealo-partner.com
+marketing.tr.netsalesmedia.pl
 marketingautomation.services
 marketingplatform.google.com
 marketo.com
@@ -2011,6 +2017,7 @@ net.etrality.com
 netc.sfr.fr
 netcore.co.in
 netiq.com
+netsalesmedia.pl
 netupdater.info
 newrelic.com
 news.smi2.ru
@@ -2066,6 +2073,7 @@ o.auspost.com.au
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
+objectstorage.us-ashburn-1.oraclecloud.com
 oblin.at
 ocsp.apple.com
 ocsp.comodoca.com
@@ -2334,6 +2342,7 @@ quantummetric.com
 quartic.pl
 questionpro.com
 quiddity.goguardian.com
+quip.com
 quttera.com
 qzonestyle.gtimg.cn
 qzs.qq.com
@@ -2350,6 +2359,7 @@ rapidvideo.com
 raxco.com
 rayfile.com
 rayli.com.cn
+rb.gy
 rbc.ua
 rbx.gg
 rd.rakuten.co.jp
@@ -2888,6 +2898,7 @@ typeform.com
 typekit.net
 u.cubeupload.com
 u.teknik.io
+u.to
 uamobile.net
 uarating.com
 ublock.org
