@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Jan 2022 16:03:38 UTC
+# Last modified: 16 Jan 2022 00:19:48 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -763,7 +763,6 @@ cdn.tinypass.com
 cdn.viafoura.net
 cdn.vidible.tv
 cdn.wootric.com
-cdn.yimg.com
 cdn.ziffstatic.com
 cdn.zomap.de
 cdn1.ettoday.net
@@ -985,6 +984,7 @@ d3rt1990lpmkn.cloudfront.net
 d15k2d11r6t6rl.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d179kwmlpc4o47.cloudfront.net
+d231vab146qzfb.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 da-services.ch
 da.netease.com
@@ -1711,6 +1711,7 @@ ipv4.tracker.harry.lu
 irchan.com
 iris.tv
 ironbeast.io
+is.snssdk.com
 isgprivacy.cbsi.com
 islandmob.com
 isnssdk.com
@@ -1930,7 +1931,6 @@ mid.ru
 mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
-minorshort.weixin.qq.com
 minutemediaservices.com
 mis.migc.xiaomi.com
 miscopy.com
@@ -2106,6 +2106,7 @@ oimagec6.ydstatic.com
 oimagec7.ydstatic.com
 oimagec8.ydstatic.com
 ojrq.net
+ok-platform.nl
 ola.com
 olmprodpowerlift-cdn.azureedge.net
 om.cbsi.com
@@ -3031,7 +3032,6 @@ westbyte.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 whatismyip.akamai.com
-whoami.akamai.net
 widget-cdn.rpxnow.com
 widget.trustpilot.com
 widgets.prisjakt.nu
