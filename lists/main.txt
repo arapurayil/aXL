@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.16
-# Last modified: 16 Jan 2022 00:19:49 UTC
+# Last modified: 16 Jan 2022 08:04:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5690,7 +5690,6 @@ cdn.wetest.qq.com
 cdn.whatsapp.net
 cdn.wololo.net
 cdn.wootric.com
-cdn.yimg.com
 cdn.ziffstatic.com
 cdn.zomap.de
 cdn01.dailycaller.com
@@ -7302,6 +7301,7 @@ d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2.naver.com
 d2.shared.global.fastly.net
+d231vab146qzfb.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
@@ -13269,6 +13269,7 @@ irwinunion.com
 is.alicdn.com
 is.gd
 is.hide.me
+is.snssdk.com
 isb-algona.com
 isb.rlp.de
 isbank.com.tr
@@ -17467,6 +17468,7 @@ oimagec7.ydstatic.com
 oimagec8.ydstatic.com
 oiop.com
 ojrq.net
+ok-platform.nl
 ok.ru
 ok.webhop.net
 okeysever.com
@@ -26049,7 +26051,6 @@ whiteriverhealthsystem.com
 whitneybank.com
 who.int
 who.is
-whoami.akamai.net
 whoer.net
 whois.cloudflare.com
 whois.registrar.amazon.com
