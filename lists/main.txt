@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.16
-# Last modified: 16 Jan 2022 16:04:22 UTC
+# Version: 3.01.17
+# Last modified: 17 Jan 2022 00:19:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -763,6 +763,7 @@ addons-api.adguard.com
 addons.mozilla.org
 addons.prestashop.com
 addr.com
+addshoppers.com
 addthis.com
 adedownload.adobe.com
 adelaidebank.com.au
@@ -841,6 +842,7 @@ adrianstatebank.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
+ads-twitter.com
 ads.dh.duba.com
 ads.exoclick.com
 ads.google.com
@@ -1099,6 +1101,7 @@ adshostnet.com
 adsl-service-providers.net
 adsl4home.co.uk
 adsp.xunlei.com
+adsrvr.org
 adswizz.com
 adtech.de
 adtidy.net
@@ -13231,6 +13234,7 @@ ipopimg.sina.com.tw
 ipqualityscore.com
 ipr-external.huawei.com
 ipredator.se
+ipredictive.com
 iprl.com
 ipstack.com
 ipsw.me
@@ -14862,6 +14866,7 @@ logout.xiaomi.com
 logout.xiaomi.net
 logrocket.com
 logs.amap.com
+logs.datadoghq.com
 logs.datadoghq.eu
 logs.heroku.com
 logsss.com
@@ -15227,6 +15232,7 @@ marketing.etorostatic.com
 marketing.hostgator.com
 marketing.net.idealo-partner.com
 marketing.tllms.com
+marketing.tr.netsalesmedia.pl
 marketingautomation.services
 marketingplatform.google.com
 marketo.com
@@ -16769,6 +16775,7 @@ netroam.mihome.intl.xiaomi.net
 netroam.mihome.xiaomi.net
 netrox.net
 netsafe.hdfcbank.com
+netsalesmedia.pl
 netsmart.net.nz
 netsurfclub.hu
 netsville.com
@@ -17334,6 +17341,7 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
+objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
 oblin.at
@@ -19329,6 +19337,7 @@ quick.bankvl.ru
 quiddity.goguardian.com
 quik.psbank.ru
 quincyhospital.org
+quip.com
 quiubi.it
 quizilla.com
 quizlet.com
@@ -19712,6 +19721,7 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
+rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
