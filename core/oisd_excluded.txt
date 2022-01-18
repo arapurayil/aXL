@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Jan 2022 00:19:55 UTC
+# Last modified: 18 Jan 2022 08:07:01 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -385,6 +385,7 @@ agacelebir.com
 agkn.com
 ai.yimg.jp
 aic-ngfts.lge.com
+aii.sh
 aili.com
 aimatch.com
 ak.sail-horizon.com
@@ -406,6 +407,7 @@ alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazonbusiness.com
+amdc.alipay.com
 amdc.m.taobao.com
 americanlisted.com
 amishcountryfurnishings.com
@@ -663,6 +665,7 @@ bm.pl
 bm23.com
 bn5x.net
 bnc.lt
+bodis.com
 boldchat.com
 boxcryptor.com
 bp01.net
@@ -734,6 +737,7 @@ cdn-noc.net
 cdn-settings.segment.com
 cdn.adf.ly
 cdn.appdynamics.com
+cdn.ark.qq.com
 cdn.clerk.io
 cdn.cliqz.com
 cdn.cookielaw.org
@@ -831,6 +835,7 @@ click.ml.mailersend.com
 click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
+click.simba.taobao.com
 clickbank.com
 clickbank.net
 clickcease.com
@@ -878,6 +883,7 @@ collector.wallapop.com
 com.com
 combine.urbanairship.com
 comet.yahoo.com
+comingsoon.namebright.com
 commander1.com
 comments.ign.com
 commex.net.au
@@ -1051,6 +1057,7 @@ directtrack.com
 disqus.com
 disquscdn.com
 dl.downloadly.ir
+dldir1.qq.com
 dls.di.atlas.samsung.com
 dlvr.t-online.de
 dmd.metaservices.microsoft.com
@@ -1094,6 +1101,7 @@ driftt.com
 drivethelife.com
 drm-pr-us.crackle.com
 ds1.nl
+dsp.brand.sogou.com
 dspultra.com
 dstreet.pl
 dt51.net
@@ -1268,6 +1276,7 @@ fontanka.ru
 fontjoy.com
 fonts.googleapis.com
 fonts.net
+footprints-pa.googleapis.com
 forcepoint.com
 ford.to
 formcrafts.com
@@ -1407,6 +1416,7 @@ gstatic.com
 gstaticadssl.l.google.com
 gtop100.com
 gtssl2-ocsp.geotrust.com
+guanjia.qq.com
 guce.advertising.com
 guce.huffingtonpost.co.uk
 guce.oath.com
@@ -1659,12 +1669,14 @@ img.alibaba.com
 img.beeg.com
 img.blesk.cz
 img.mp.itc.cn
+img.shouji.sogou.com
 img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
 imp.appledaily.com
 impactradius.com
 imrworldwide.com
+imtt.qq.com
 in.appcenter.ms
 inc.com
 includecheck.oisd.nl
@@ -1690,6 +1702,7 @@ instana.io
 instantmessaging-pa.googleapis.com
 instapage.com
 intelliad.de
+inter.71edge.com
 intercom.com
 intergi.com
 internal.unity3d.com
@@ -1793,7 +1806,6 @@ kqzyfj.com
 kredytbank.com.ua
 krxd.net
 kryptoslogic.com
-kutt.it
 l.betrad.com
 l.doubleclick.net
 l.qq.com
@@ -1855,6 +1867,7 @@ logs.datadoghq.com
 logs.datadoghq.eu
 lomadee.com
 lptag.liveperson.net
+luckycrush.live
 luckyorange.com
 m.cnbeta.com
 m.exactag.com
@@ -1953,6 +1966,7 @@ minecraftprod.rtep.msgamestudios.com
 minutemediaservices.com
 mis.migc.xiaomi.com
 miscopy.com
+miwifi.com
 mixi.jp
 mixi.media
 mixnews.lv
@@ -2002,6 +2016,7 @@ my.adocean.pl
 my.mixtape.moe
 myairbridge.com
 myao.adocean.pl
+myapp.com
 mybbc-analytics.files.bbci.co.uk
 mybloglog.com
 myftpupload.com
@@ -2218,6 +2233,7 @@ pcrisk.com
 pdc.micloud.xiaomi.net
 peerius.com
 pendo.io
+people-pa.googleapis.com
 peoplehub.xboxlive.com
 pepperjamnetwork.com
 perfdrive.com
@@ -2253,11 +2269,13 @@ placehold.it
 planet.net
 plantengineering.com
 plantlust.com
+platform.instagram.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
 plausible.io
 player-feedback-v1.glomex.com
+player.anyclip.com
 player.cnevids.com
 player.dacast.com
 player.h-cdn.com
@@ -2462,6 +2480,7 @@ safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 safebrowsing-cache.google.com
 safebrowsing.google.com
+safebrowsing.googleapis.com
 sail-horizon.com
 sailthru.com
 sakura.goguardian.com
@@ -2636,6 +2655,7 @@ society6.com
 socket.streamable.com
 softcity.upclick.com
 softwareadvice.com
+solvemedia.com
 som.aeroplan.com
 soo.gd
 soo.sg
@@ -2657,6 +2677,7 @@ spot.im
 sqimg.qq.com
 srvtrck.com
 ssh.cloud.google.com
+ssl.bblck.me
 ssl.google-analytics.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
@@ -2862,6 +2883,7 @@ tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
+tracker.openbittorrent.com
 tracker.pomf.se
 tracker.publicbt.com
 tracker2.wasabii.com.tw
@@ -2945,6 +2967,7 @@ update.avg.com
 update.avlyun.sec.miui.com
 update.miui.com
 update.onelaunch.com
+update.pan.baidu.com
 updates.cdn-apple.com
 upgrade.scdn.co
 upgrade.xl9.xunlei.com
@@ -3028,6 +3051,7 @@ vur.me
 vv.video.qq.com
 vz-cdn.trafficjunky.net
 vz-cdn2.adtng.com
+w1.hoopchina.com.cn
 w2xg.com
 w88.espn.com
 waldenfarms.com
@@ -3106,6 +3130,7 @@ xhost.ro
 xlmc.sandai.net
 xlog-va.musical.ly
 xml.opera.com
+xmpush.xiaomi.com
 xmrpool.eu
 xp.apple.com
 xpu.samsungelectronics.com

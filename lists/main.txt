@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.18
-# Last modified: 18 Jan 2022 00:19:55 UTC
+# Last modified: 18 Jan 2022 08:07:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2028,6 +2028,7 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
+amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -3265,6 +3266,7 @@ b00.fr
 b02.black.ndmdhs.com
 b2.ndb24.ru
 b23.ru
+b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -5197,6 +5199,7 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
+campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -5614,6 +5617,7 @@ cdn.livefyre.com
 cdn.livestream.com
 cdn.loginhood.io
 cdn.mbl.is
+cdn.medicatusb.xyz
 cdn.medium.com
 cdn.meta.ndmdhs.com
 cdn.mouseflow.com
@@ -6745,6 +6749,7 @@ conn.skype.akadns.net
 conn.skype.com
 connatix.com
 connect.auone.jp
+connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6800,6 +6805,7 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
+content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -8539,6 +8545,7 @@ edition.cnn.com
 editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
+edm.crikey.com.au
 edm03.huawei.com
 ednaonline.com
 ednetz.de
@@ -10715,10 +10722,12 @@ go-mpulse.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
+go.cerner.com
 go.co
 go.com
 go.daum.net
 go.digitalocean.com
+go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -10726,6 +10735,7 @@ go.infoblox.com
 go.leanplum.com
 go.microsoft.com
 go.mybusinessacademy.ph
+go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -11438,6 +11448,7 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
+hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -13718,6 +13729,7 @@ keybaseapi.com
 keyboard.naver.com
 keycdn.com
 keyfile.kaspersky.com
+keylane.com
 keysbank.net
 keystone.mwbsys.com
 keystoneanimalhospital.com
@@ -14395,6 +14407,7 @@ leadpages.co
 leadpages.net
 leakreality.com
 leanplum.com
+learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -21324,7 +21337,6 @@ shop.ebay.com
 shop.funimation.com
 shop.huawei.com
 shop.lego.com
-shop.mango.com
 shop.mi.com
 shop.nuance.com
 shop.r10s.jp
@@ -23266,6 +23278,7 @@ t.purch.com
 t.umblr.com
 t.urs.microsoft.com
 t.vimeo.com
+t.wayfair.ca
 t.wayfair.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
@@ -26505,6 +26518,7 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
+www4.orangecyberdefense.com
 www5.2giga.link
 www6.2giga.link
 www6.9Anime.to
