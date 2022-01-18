@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 Jan 2022 16:05:44 UTC
+# Last modified: 18 Jan 2022 00:19:55 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -405,6 +405,7 @@ alltheinternet.com
 alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
+amazonbusiness.com
 amdc.m.taobao.com
 americanlisted.com
 amishcountryfurnishings.com
@@ -580,6 +581,7 @@ b.koodomobile.com
 b.scorecardresearch.com
 b.wishabi.com
 b02.black.ndmdhs.com
+b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
@@ -714,6 +716,7 @@ c1.microsoft.com
 cafe24.com
 cafeomai.com.au
 calendar.fontanka.ru
+campaign.abb.com
 campaign.adobe.com
 canadapharmacy.com
 care2.com
@@ -745,6 +748,7 @@ cdn.judge.me
 cdn.krxd.net
 cdn.livechatinc.com
 cdn.livefyre.com
+cdn.medicatusb.xyz
 cdn.mxpnl.com
 cdn.onesignal.com
 cdn.optimizely.com
@@ -890,6 +894,7 @@ config.uca.cloud.unity3d.com
 configprd.samsungcloudsolution.net
 confirmit.com
 conn.skype.com
+connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.rom.miui.com
@@ -902,6 +907,7 @@ consent.truste.com
 console.cloud.google.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.awaze.com
 content.shoprunner.com
 continuum.dds.microsoft.com
 control.kochava.com
@@ -1119,6 +1125,7 @@ edgecast-vod.yahoo.net
 edgecastcdn.net
 edgesuite.net
 edigitalsurvey.com
+edm.crikey.com.au
 edrone.me
 edu.hebnews.cn
 effiliation.com
@@ -1196,6 +1203,7 @@ exosrv.com
 experience.jcu.edu.au
 experience.tinypass.com
 exploit.in
+explore.amd.com
 ext.goguardian.com
 extern.prisjakt.nu
 extole.io
@@ -1351,6 +1359,9 @@ glotorrents.pw
 gloyah.net
 gm.mmstat.com
 go-mpulse.net
+go.cerner.com
+go.dlink.com
+go.neverware.com
 go.pardot.com
 go.redirectingat.com
 go.theregister.com
@@ -1430,6 +1441,7 @@ hbbtvapp.sonnenklar.tv
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
+hello.heroku.com
 hello.myfonts.net
 heraldm.com
 here.com
@@ -1762,6 +1774,7 @@ keenetic.pro
 keepvid.com
 kepler.jd.com
 keshefoundation.org
+keylane.com
 kharkov.ua
 kickass.cd
 kiev.ua
@@ -1797,6 +1810,7 @@ lcprd2.samsungcloudsolution.net
 leadpages.net
 leakreality.com
 leanplum.com
+learn.cisecurity.org
 legalterms.cbsinteractive.com
 lever-analytics.com
 lexatrade.com
@@ -2555,7 +2569,6 @@ shifen.com
 shinobi.jp
 shockgore.com
 shodanhq.com
-shop.mango.com
 shop.spreadshirt.com
 shopperapproved.com
 shopzilla.com
@@ -2742,6 +2755,7 @@ t.myvisualiq.net
 t.paydirekt.de
 t.paypal.com
 t.purch.com
+t.wayfair.ca
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t1.g.mi.com
@@ -3078,6 +3092,7 @@ wt-eu02.net
 wumii.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
+www4.orangecyberdefense.com
 wwwimg.roku.com
 wx.qlogo.cn
 x.co
