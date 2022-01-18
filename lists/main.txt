@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.18
-# Last modified: 18 Jan 2022 08:07:02 UTC
+# Last modified: 18 Jan 2022 16:05:46 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1217,6 +1217,7 @@ aigbank.com.pl
 aigpb.com
 aigprivatebank.com
 aihs.net
+aii.sh
 aikb.ch
 aili.com
 aillis.line.me
@@ -2044,6 +2045,7 @@ amco-bank.com
 amcore.com
 amd.cdn.turner.com
 amd.com
+amdc.alipay.com
 amdc.m.taobao.com
 ameblo.jp
 amedigital.com
@@ -4642,6 +4644,7 @@ bod.com.ve
 boddenkliniken.de
 bodenseebank.de
 bodinternet.com
+bodis.com
 bodmillenium.com
 bodyinstitut.com
 boemre.gov
@@ -6608,6 +6611,7 @@ comfed.com
 comfedbank.com
 comic.naver.com
 comic.nil.naver.com
+comingsoon.namebright.com
 commander1.com
 commbank-wge.com
 commbank.com.au
@@ -7358,6 +7362,7 @@ dailykos.com
 dailymail.co.uk
 dailymotion.com
 dailypost.co.uk
+dailystorm.ru
 daimlerchrysler-bank.com
 daio.at
 dairybank.com
@@ -7919,6 +7924,7 @@ dldir1.qq.com
 dlglobal.qq.com
 dlied1.qq.com
 dlied6.qq.com
+dlink.com.br
 dll.xposed.info
 dls.di.atlas.samsung.com
 dls.net
@@ -9901,6 +9907,7 @@ foothillsanimalhospital.com
 footlocker-inc.com
 footlocker.com
 footprint.net
+footprints-pa.googleapis.com
 forabank.ru
 forbank.dk
 forbes.com
@@ -10131,6 +10138,7 @@ freizeitmanager24.de
 fremont.kp.org
 fremontbank.com
 frepa.livedoor.com
+fresenius-kabi.com
 freshbooks.com
 freshdirect.com
 freunde.de
@@ -11199,6 +11207,7 @@ gu-web.net
 guanjia.qq.com
 guarantybankonline.com
 guarantystate.com
+guard.io
 guarda.co
 guardian.co.uk
 guardianbank.org
@@ -13082,6 +13091,7 @@ intelink.gov
 intellectmoney.ru
 intelleq.net
 intelliad.de
+inter.71edge.com
 inter.com.ve
 inter.net
 inter.youdao.com
@@ -14951,6 +14961,7 @@ lu.api.mega.co.nz
 lu.ca-indosuez.com
 lubinus-klinik.de
 lublin.tvp.pl
+luckycrush.live
 luckylink.net
 luckyorange.com
 lueghausenpartner.de
@@ -18672,6 +18683,7 @@ playbooks-pa.googleapis.com
 playboyu.com
 playbuzz.com
 player-feedback-v1.glomex.com
+player.anyclip.com
 player.cnevids.com
 player.dacast.com
 player.glomex.com
@@ -23937,6 +23949,7 @@ tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
+tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.pomf.se
 tracker.publicbt.com
@@ -25711,6 +25724,7 @@ w.m.taobao.com
 w.org
 w.soundcloud.com
 w.x.sndcdn.com
+w1.hoopchina.com.cn
 w1.sndcdn.com
 w1.web.whatsapp.com
 w1p.fr
@@ -26634,6 +26648,7 @@ xmcs.mi.com
 xml.opera.com
 xmpp-redirector-prod.tnt-ea.com
 xmpp-server.l.google.com
+xmpush.xiaomi.com
 xmr.to
 xmrpool.eu
 xn--80aae3af7av6a7a.xn--p1ai
