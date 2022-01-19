@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.19
-# Last modified: 19 Jan 2022 00:17:05 UTC
+# Last modified: 19 Jan 2022 08:03:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -348,6 +348,7 @@
 7zap.com
 801.tianya.cn
 881903.com
+888poker.com
 8ch.net
 8k.ro
 8pecxstudios.com
@@ -433,6 +434,7 @@ a248.e.akamai.net
 a24m.a-bank.com.ua
 a2z.com
 a2zapk.com
+a3.mediagra.com
 a4.mzstatic.com
 a463.w10.akamai.net
 a5.behance.net
@@ -2259,6 +2261,7 @@ ap.orgdict.leo.org
 ap.spotify.com
 ap6.ssl.msdk.qq.com
 apa.org
+apac1.notify.windows.com.akadns.net
 apache.org
 apachefriends.org
 apartments.com
@@ -5036,6 +5039,7 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
+bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -6876,6 +6880,7 @@ coopbank.ch
 coopbank.com.cy
 coopcentral.com.co
 cooper.logs.roku.com
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
 coozila.com
 copayco.com
 copeland.gov.uk
@@ -7340,6 +7345,7 @@ d4f.de
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
 da-services.ch
+da.feedsportal.com
 da.gravatar.com
 da.netease.com
 da.victoriabank.md
@@ -8257,6 +8263,7 @@ dvbbank.com
 dvd.netflix.com
 dvrb.de
 dw-online.ksosoft.com
+dw.cbsi.com
 dw.com
 dw.com.com
 dw.techrepublic.com
@@ -8721,7 +8728,6 @@ email.ssdnodes.com
 email.tektorg.ru
 email.uber.com
 emailondeck.com
-emails.avg.com
 emails.kickstarter.com
 emarinebank.com
 emarketer.com
@@ -9432,7 +9438,6 @@ ferrierlullin.com
 festuc.com
 fettnerd.org
 feurl.com
-ff.avast.com
 ff.to
 ffb-sd.com
 ffb.com
@@ -10490,6 +10495,7 @@ genovolksbank.de
 genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
+geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -11257,6 +11263,7 @@ gwapi.zee5.com-v2.edgekey.net
 gwhospital.com
 gwk.nl
 gws.sauberbank.com
+gwx.windows.com
 gwynedd.gov.uk
 gwyneddvethospital.com
 gyazo.com
@@ -12431,7 +12438,6 @@ icq.im
 icute.com
 id-cdn.twitch.tv
 id-lookup.api.playstation.com
-id.avg.com
 id.banknorwegian.no
 id.biltema.com
 id.google.ad
@@ -12672,7 +12678,6 @@ image.dcinside.com
 image.elephantjournal.com
 image.em.funimation.com
 image.email.microsoftemail.com
-image.emails.avg.com
 image.engage.xbox.com
 image.exacttarget.com
 image.game.uc.cn
@@ -13207,7 +13212,6 @@ iowatelecom.net
 ip-adress.com
 ip-api.com
 ip-info.ff.avast.com
-ip-info.ns1.ff.avast.com
 ip-only.se
 ip-tracker.org
 ip.anysrc.net
@@ -13247,7 +13251,6 @@ ipleak.net
 iplists.firehol.org
 iplocation.net
 ipm-provider.ff.avast.com
-ipm-provider.ns1.ff.avast.com
 ipmcloud.kaspersky.com
 ipoker.com
 ipopimg.sina.com.tw
@@ -14813,6 +14816,7 @@ lodihealth.org
 lodz.tvp.pl
 loebbecke-bank.de
 loekkensparekasse.dk
+lofter.com
 log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
@@ -15953,6 +15957,7 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -16585,6 +16590,7 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
+nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -17279,6 +17285,7 @@ nvebank.com
 nvhosp.org
 nvidia.com
 nvsl.com
+nw-umwatson.events.data.microsoft.com
 nwanimalhospital.vetsuite.com
 nwb.nl
 nwdealer.megafon.ru
@@ -17463,6 +17470,7 @@ ofta.org.uk
 ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
+ogury.io
 oh-kliniken.de
 ohio.gov
 ohiocountyhospital.com
@@ -18556,7 +18564,6 @@ pineislandbank.com
 pineriverstatebank.com
 pinevillepethospitalonline.com
 ping-admin.ru
-ping.avast.com
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.pdst.fm
@@ -20167,6 +20174,7 @@ rmbank.com
 rmccares.org
 rmhospital.8m.com
 rmlspecialtyhospital.org
+rmp.rakuten.com
 rnk-whv.de
 rnk.net
 ro-go.kelkoogroup.net
@@ -20509,6 +20517,7 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
+sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -22659,7 +22668,6 @@ static.ak.facebook.com
 static.akacdn.ru
 static.analytics.openapi.naver.com
 static.appsumo.com
-static.avast.com
 static.bbc.co.uk
 static.bbc.com
 static.bbci.co.uk
@@ -22762,6 +22770,7 @@ stats.channel4.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
+stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
 stats.streamelements.com
@@ -22996,8 +23005,6 @@ style.sndcdn.com
 stylehive.com
 stylem.com
 styles.redditmedia.com
-su.ff.avast.com
-su.ns1.ff.avast.com
 su.pr
 suarankri.me
 sube.halkbank.com.tr
@@ -23374,6 +23381,7 @@ target.com
 target.georiot.com
 target.microsoft.com
 target.scene7.com
+targeted-config-test.samsungacr.com
 targobank.de
 taringa.net
 tarjetacencosud.cl
@@ -24384,6 +24392,7 @@ umich.edu
 umla.org
 umn.edu
 umpquabank.com
+umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 umweltbank.de
 un.org
@@ -24520,7 +24529,6 @@ upc.pl
 upchk.api.playstation.com
 update-nl.huawei.com
 update.360safe.com
-update.avg.com
 update.avlyun.sec.miui.com
 update.biv.sony.tv
 update.code.visualstudio.com
@@ -26524,6 +26532,7 @@ www2.2giga.link
 www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
+www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
