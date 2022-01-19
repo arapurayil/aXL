@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.19
-# Last modified: 19 Jan 2022 08:03:10 UTC
+# Last modified: 19 Jan 2022 16:04:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8097,6 +8097,7 @@ download.nirsoft.net
 download.nullsoft.com
 download.nvidia.com
 download.samsung.com.edgesuite.net
+download.skype.com
 download.sonarr.tv
 download.viber.com
 download.visualstudio.microsoft.com

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Jan 2022 08:03:10 UTC
+# Last modified: 19 Jan 2022 16:04:27 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -714,7 +714,6 @@ buysub.com
 buzzador.com
 buzzmein.com
 bwin.com
-bxczchdxynw.com
 by.uservoice.com
 byet.org
 byside.com
@@ -725,7 +724,6 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
-c.microsoft.com
 c.msn.com
 c.msn.com.nsatc.net
 c.paypal.com
@@ -1374,7 +1372,6 @@ generals.ea.com
 geni.us
 geniegamer.com
 geo-prod.do.dsp.mp.microsoft.com
-geo.mozilla.org
 geo.nbcsports.com
 geo.ngtv.io
 geo.vortex.data.microsoft.com.akadns.net
@@ -1748,13 +1745,11 @@ informz.net
 infos.telstra.com.au
 ingest.sentry.io
 inquisition.goguardian.com
-inscname.net
 inside-graph.com
 insideruser.trafficmanager.net
 insight.rapid7.com
 insightexpress.com
 insightexpressai.com
-insnw.net
 instabayim.com
 instana.io
 instantmessaging-pa.googleapis.com
@@ -2031,7 +2026,6 @@ minecraftprod.rtep.msgamestudios.com
 minutemediaservices.com
 mis.migc.xiaomi.com
 miscopy.com
-mistat.xiaomi.com
 miwifi.com
 mixi.jp
 mixi.media
@@ -2058,7 +2052,6 @@ monitor.azure.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
-mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mplxtms.com
@@ -2100,7 +2093,6 @@ naiadsystems.com
 naifei.shop
 named.myteamspeak.com
 nanigans.com
-nanovisor.io
 narrativ.com
 nasapaul.com
 nationalisacs.org
@@ -2511,7 +2503,6 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2569,7 +2560,6 @@ s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
 s1325.t.eloqua.com
-sa.aol.com
 saa.cbsi.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
