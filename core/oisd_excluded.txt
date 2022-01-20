@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Jan 2022 16:04:27 UTC
+# Last modified: 20 Jan 2022 00:19:30 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -446,7 +446,6 @@ api-xl9-ssl.xunlei.com
 api.account.xiaomi.com
 api.ad.xiaomi.com
 api.amplitude.com
-api.apple-cloudkit.com
 api.apptentive.com
 api.bam-x.com
 api.branch.io
@@ -475,13 +474,11 @@ api.parse.com
 api.parsely.com
 api.pinterest.com
 api.rollbar.com
-api.samsungcloud.com
 api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
 api.skype.com
 api.solvemedia.com
-api.surfeasy.com
 api.taboola.com
 api.techet.net
 api.traq.li
@@ -491,7 +488,6 @@ api.uca.cloud.unity3d.com
 api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
-api.viber.com
 api.vip.miui.com
 api.weibo.cn
 api.weibo.com
@@ -542,7 +538,6 @@ arvetellefsen.no
 as.baidu.com
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
-asm.skype.com
 assets.adobedtm.com
 assets.penny-arcade.com
 assets.pinterest.com
@@ -679,7 +674,6 @@ bn5x.net
 bnc.lt
 bodis.com
 boldchat.com
-boxcryptor.com
 bp01.net
 brakrock.be
 branch.io
@@ -817,7 +811,6 @@ cftrack.com
 cfvod.kaltura.com
 ch0p.darty.com
 channeladvisor.com
-charts.profinance.ru
 chatango.com
 check.ddos-guard.net
 chicago2.vip.townnews.com
@@ -934,14 +927,12 @@ consent.cmp.oath.com
 consent.cookiebot.com
 consent.faz.net
 consent.truste.com
-console.cloud.google.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.awaze.com
 content.shoprunner.com
 continuum.dds.microsoft.com
 control.kochava.com
-control.phone.com
 controleng.com
 conversions.appsflyer.com
 converti.se
@@ -1098,7 +1089,6 @@ dls.di.atlas.samsung.com
 dlvr.t-online.de
 dmd.metaservices.microsoft.com
 dmp.adform.net
-dms.metlife.ru
 dnspod.cn
 dnspod.com
 dnsseed.bitcoin.dashjr.org
@@ -1152,12 +1142,9 @@ dwq4do82y8xi7.cloudfront.net
 dynamicyield.com
 dynatrace.com
 dzc-metrics.mzstatic.com
-e-tjanster.1177.se
-e-xacbank.com
 e.reddit.com
 ea.galerieslafayette.com
 eaglenews.in
-easy.box
 easycounter.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
@@ -1174,6 +1161,7 @@ edgecastcdn.net
 edgesuite.net
 edigitalsurvey.com
 edm.crikey.com.au
+edrcreditservices.nl
 edrone.me
 edu.hebnews.cn
 effiliation.com
@@ -1279,15 +1267,12 @@ fembed.com
 ffdns.net
 file.market.xiaomi.com
 filehorse.com
-files.msal.ru
 files.viva64.com
 fili.cc
 filman.tv
 filmha.top
 findglocal.com
 fireflyengagement.com
-firestore.clients6.google.com
-firestore.googleapis.com
 fishki.net
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
@@ -1323,7 +1308,6 @@ forcepoint.com
 ford.to
 formcrafts.com
 forms.convertkit.com
-formy.upriver.ru
 forter.com
 fourier.taobao.com
 foxnews.demdex.net
@@ -1335,7 +1319,6 @@ freegeoip.app
 freegeoip.net
 freesteamkeys.com
 freewebsitetemplates.com
-fritz.box
 frog.wix.com
 frontier.musical.ly
 fs.microsoft.com
@@ -1359,6 +1342,7 @@ game.weibo.com
 game.xiaomi.com
 gamedl.ru
 gamehouse.com
+gametame.com
 gan.doubleclick.net
 gardenstatehelicopters.com
 gateway.reddit.com
@@ -1387,7 +1371,6 @@ geolocation.daznservices.com
 geolocation.onetrust.com
 georiot.com
 get-express-vpn.com
-get.skype.com
 get.x-link.pl
 getadmiral.com
 getblueshift.com
@@ -1537,8 +1520,6 @@ hotkeys.com
 hotpop.com
 hotspotshield.com
 howsmyssl.com
-hpcloud.hp.com
-hpcloud.hp.net
 hs-scripts.com
 hs.eloqua.com
 hsforms.com
@@ -1699,7 +1680,6 @@ idealmedia.io
 identity.mparticle.com
 idevaffiliate.com
 idiagnostics.apple.com
-idmsa.apple.com
 idv0h0h.qiniudns.com
 ientrymail.com
 iesnare.com
@@ -1707,7 +1687,6 @@ ietf.org
 igg-games.com
 ignorelist.com
 igodigital.com
-ihelper.mts.by
 ikohs.com
 image.ceneo.pl
 images.ccbill.com
@@ -1834,8 +1813,6 @@ kaotic.com
 katcr.to
 kauth.kakao.com
 kaxsdc.com
-keenetic.link
-keenetic.pro
 keepvid.com
 kepler.jd.com
 keshefoundation.org
@@ -1888,11 +1865,9 @@ licensingphone.mp.microsoft.com
 lidl.media01.eu
 limneos.net
 lindy.co.id
-line.naver.jp
 link.p0.com
 linkev.com
 linksynergy.com
-linktr.ee
 litix.io
 live.primis.tech
 live.simcitybuildit.com
@@ -1946,7 +1921,6 @@ magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magiskmanager.com
-mail.hostmonster.com
 mail.keshefoundation.org
 mailerlite.com
 mailfoogae.appspot.com
@@ -1956,7 +1930,6 @@ manga-news.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 manifest.auditude.com
-mapcam.info
 maps.windows.com
 marfeel.com
 marfeelcache.com
@@ -1980,9 +1953,6 @@ maxcdn.bootstrapcdn.com
 maxmind.com
 mc.yandex.ru
 md-nx.com
-media-share-1.s3.amazonaws.com
-media-share-4.s3-eu-west-1.amazonaws.com
-media-share-5.s3.eu-central-1.amazonaws.com
 media.complex.com
 media.expedia.com
 media.richrelevance.com
@@ -1996,7 +1966,6 @@ mediaplex.com
 mediav.com
 medrx.telstra.com.au
 meebo.com
-meet.google.com
 meetyourmessenger.co.uk
 meltwater.com
 messagemedia.com
@@ -2019,7 +1988,6 @@ micloud.xiaomi.net
 micpn.com
 microless.com
 microsoftwindowsupdate.net
-mid.ru
 mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
@@ -2102,7 +2070,6 @@ nbcu.demdex.net
 ndmdhs.com
 neemu.com
 neobux.com
-nest.com
 net.etrality.com
 netc.sfr.fr
 netcore.co.in
@@ -2160,7 +2127,6 @@ ntv.io
 ntvcld-a.akamaihd.net
 nuancemobility.net
 nudatasecurity.com
-nuernberg.de
 nuskin.com
 nutaku.com
 nv.vi-serve.com
@@ -2169,7 +2135,6 @@ o.auspost.com.au
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
-objectstorage.us-ashburn-1.oraclecloud.com
 oblin.at
 ocsp.apple.com
 ocsp.comodoca.com
@@ -2238,7 +2203,6 @@ openapi.samsung.com
 openmarket.com
 openmobile.qq.com
 openvim.com
-opera-proxy.net
 opinionstage.com
 ops.bpost.be
 optanon.blob.core.windows.net
@@ -2261,6 +2225,7 @@ otnprd11.samsungcloudsolution.net
 ouo.io
 outbrain.com
 ow.ly
+owlcarousel2.github.io
 p-hbbtv.superrtl.de
 p.brid.tv
 p.jwpcdn.com
@@ -2358,7 +2323,6 @@ player.dacast.com
 player.h-cdn.com
 player.ooyala.com
 players.brightcove.net
-playfamily.ru
 playhydrax.com
 playwire.com
 plex.direct
@@ -2376,7 +2340,6 @@ polyfill.io
 pornerbros.com
 post-gazette.com
 post.spmailtechno.com
-postacertificata.lextel.it
 postbanking.org
 postclickmarketing.com
 postmediamontrealgazette2.files.wordpress.com
@@ -2411,7 +2374,6 @@ prod.nexusrules.live.com.akadns.net
 prod.telemetry.ros.rockstargames.com
 productsup.com
 prodxnews1blob.blob.core.windows.net
-profile.franklintempleton.com
 promo.mobile.de
 promos.fling.com
 prov.samsungcloudsolution.com
@@ -2453,7 +2415,6 @@ quantummetric.com
 quartic.pl
 questionpro.com
 quiddity.goguardian.com
-quip.com
 quttera.com
 qzonestyle.gtimg.cn
 qzs.qq.com
@@ -2470,7 +2431,6 @@ rapidvideo.com
 raxco.com
 rayfile.com
 rayli.com.cn
-rb.gy
 rbc.ua
 rbx.gg
 rd.rakuten.co.jp
@@ -2617,7 +2577,6 @@ seal.verisign.com
 sealserver.trustwave.com
 searchads.apple.com
 searchencrypt.com
-sec-tunnel.com
 seccdn-gl.imrworldwide.com
 secure-booker.com
 secure-dcr.imrworldwide.com
@@ -2692,13 +2651,6 @@ sinematurk.com
 singular.net
 sinlix.lk
 site5.com
-sitecheck1.opera.com
-sitecheck2.opera.com
-sitecheck3.opera.com
-sitecheck4.opera.com
-sitecheck5.opera.com
-sitecheck6.opera.com
-sitecheck7.opera.com
 siteplug.com
 sitetracker.com
 skepticalscience.com
@@ -2760,13 +2712,11 @@ speccy.piriform.com
 speedcheck.org
 speeddials.opera.com
 speedera.net
-speedport.ip
 spiegel-de.spiegel.de
 spl.hit.gemius.pl
 spot.im
 sqimg.qq.com
 srvtrck.com
-ssh.cloud.google.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
 ssl.google-analytics.com
@@ -2782,7 +2732,6 @@ staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
 stags.bluekai.com
 star.c10r.facebook.com
-startmail.com
 startup.mobile.yandex.net
 stat.download.xunlei.com
 stat.ethz.ch
@@ -2845,7 +2794,6 @@ surveys.insightexpressai.com
 svonm.com
 sw88.go.com
 swa.bol.com
-swisslife.ch
 sy.ameblo.jp
 symcd.com
 syncplusconfig.s3.amazonaws.com
@@ -2921,7 +2869,6 @@ thebrighttag.com
 thecounter.com
 theepochtimes.com
 theintelligencer.com
-theluckygene.com
 theync.com
 thirdparty.bnc.lt
 thomsonplaza.com.sg
@@ -2937,7 +2884,6 @@ tinyurl.com
 tipranks.com
 tiqcdn.com
 tkn.fux.com
-tknauth.spmode.ne.jp
 tkqlhce.com
 tm.a.prd.aadg.trafficmanager.net
 tm.jsuol.com.br
@@ -3001,7 +2947,6 @@ treehousei.com
 trial.api.huangye.miui.com
 trib.al
 triggers.wfxtriggers.com
-triolan.name
 tritondigital.com
 trk.email.dynect.net
 trk.emlbest.com
@@ -3025,7 +2970,6 @@ typeform.com
 typekit.net
 u.cubeupload.com
 u.teknik.io
-u.to
 uamobile.net
 uarating.com
 ublock.org
@@ -3036,7 +2980,6 @@ udec.cl
 udimg.com
 udm.scorecardresearch.com
 ue.flipboard.com
-ufa.wifi.domru.ru
 ui.skype.akadns.net
 ui.skype.com
 uib.ff.avast.com
@@ -3062,7 +3005,6 @@ update.avlyun.sec.miui.com
 update.miui.com
 update.onelaunch.com
 update.pan.baidu.com
-updates.cdn-apple.com
 upgrade.scdn.co
 upgrade.xl9.xunlei.com
 upload.cc
@@ -3095,6 +3037,7 @@ users.on.net
 users.telenet.be
 usher.ttvnw.net
 ust.chatango.com
+utility.rogersmedia.com
 uzreklam.com
 v.fwmrm.net
 v.shopify.com
@@ -3139,7 +3082,6 @@ visit.digidip.net
 vistaprint.com
 visualwebsiteoptimizer.com
 vk.cc
-vnn-res.vgcloud.vn
 vofcw7x.x.incapdns.net
 voodoo.com
 vortex-win.data.microsoft.com
@@ -3147,7 +3089,6 @@ vortex.data.glbdns2.microsoft.com
 vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
-vseinstrumenti.ru
 vserv.bc.cdn.bitgravity.com
 vur.me
 vv.video.qq.com
@@ -3184,6 +3125,7 @@ weus2watcab02.blob.core.windows.net
 whatismyip.akamai.com
 whoisprivacyprotect.com
 widget-cdn.rpxnow.com
+widget.intercom.io
 widget.trustpilot.com
 widgets.prisjakt.nu
 widgets.trustedshops.com

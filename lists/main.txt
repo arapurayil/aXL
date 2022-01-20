@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.19
-# Last modified: 19 Jan 2022 16:04:28 UTC
+# Version: 3.01.20
+# Last modified: 20 Jan 2022 00:19:31 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5039,7 +5039,6 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
-bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -10496,7 +10495,6 @@ genovolksbank.de
 genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
-geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -15958,7 +15956,6 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -16591,7 +16588,6 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
-nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -20518,7 +20514,6 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
-sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
