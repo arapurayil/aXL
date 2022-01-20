@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.20
-# Last modified: 20 Jan 2022 00:19:31 UTC
+# Last modified: 20 Jan 2022 08:03:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8563,6 +8563,7 @@ edm03.huawei.com
 ednaonline.com
 ednetz.de
 edoc.huawei.com
+edrcreditservices.nl
 edrone.me
 eds.xboxlive.com
 edu.dcinside.com
@@ -10364,6 +10365,7 @@ games.funimation.com
 games.wechat.com
 gamespot.com
 gamestore.ign.com
+gametame.com
 gamevn.com
 gaming.engadget.com
 gan.doubleclick.net
@@ -17368,7 +17370,6 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
-objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
 oblin.at
@@ -18025,6 +18026,7 @@ owc.net
 owh.de
 owkb.ch
 owl.ly
+owlcarousel2.github.io
 owssas.gsc.huawei.com
 owurl.com
 ox-d.dailycaller.com
@@ -19365,7 +19367,6 @@ quick.bankvl.ru
 quiddity.goguardian.com
 quik.psbank.ru
 quincyhospital.org
-quip.com
 quiubi.it
 quizilla.com
 quizlet.com
@@ -19749,7 +19750,6 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
-rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -24769,6 +24769,7 @@ utb.ru
 utexas.edu
 utfg.sk
 utibank.com
+utility.rogersmedia.com
 utkonos.ru
 uturl.com
 utz.me
