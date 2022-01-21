@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Jan 2022 08:05:09 UTC
+# Last modified: 21 Jan 2022 16:04:01 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1147,6 +1147,7 @@ e.reddit.com
 ea.galerieslafayette.com
 eaglenews.in
 easycounter.com
+easysol.net
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 ebates.com
@@ -2857,6 +2858,7 @@ teams.wire.com
 teamsinsight.myanalytics.cdn.office.net
 tecnosell.com
 teeth.co.jp
+teicrete.gr
 tekweis.com
 telecommand.telemetry.microsoft.com
 telemetry-prd.ap.tesla.services
@@ -2898,6 +2900,7 @@ tom.itv.com
 tongbu.com
 tongji.baidu.com
 toolbar.google.com
+tooplay.com
 toots-a.akamaihd.net
 top1.ro
 torc.com
