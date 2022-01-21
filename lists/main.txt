@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.21
-# Last modified: 21 Jan 2022 00:16:49 UTC
+# Last modified: 21 Jan 2022 08:05:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2330,6 +2330,7 @@ api.amazon.com
 api.amazon.in
 api.amazonalexa.com
 api.amplitude.com
+api.anti-captcha.com
 api.anwb.nl
 api.apk.v-mate.mobi
 api.apple-cloudkit.com
@@ -15838,6 +15839,7 @@ microthought.com
 mid.ru
 midasplayer.com
 midcapeanimalhospital.com
+middleeasteye.net
 middlesbrough.gov.uk
 middletownhospital.org
 midlothian.gov.uk
@@ -26953,6 +26955,7 @@ zmtcdn.edgekey.net
 zobj.net
 zoho.com
 zoho.in
+zola.com
 zomato.com
 zomato.com.edgekey.net
 zombo.com
