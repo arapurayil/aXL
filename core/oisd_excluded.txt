@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Jan 2022 16:04:16 UTC
+# Last modified: 21 Jan 2022 00:16:49 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -446,6 +446,7 @@ api-xl9-ssl.xunlei.com
 api.account.xiaomi.com
 api.ad.xiaomi.com
 api.amplitude.com
+api.anti-captcha.com
 api.apptentive.com
 api.bam-x.com
 api.branch.io
@@ -1988,6 +1989,7 @@ micloud.xiaomi.net
 micpn.com
 microless.com
 microsoftwindowsupdate.net
+middleeasteye.net
 mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
@@ -3135,6 +3137,7 @@ wifiapi.micloud.xiaomi.net
 wildtangent.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
+windows.net
 windowsupdate.s.llnwi.net
 wixsite.com
 wl.jd.com
@@ -3223,6 +3226,7 @@ zer0day.ch
 ziffdavis.com
 zip.net
 zipansion.com
+zola.com
 zopim.com
 zorpia.com
 ztd.dds.microsoft.com
