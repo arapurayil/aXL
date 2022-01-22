@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Jan 2022 08:03:02 UTC
+# Last modified: 22 Jan 2022 16:03:35 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -543,6 +543,7 @@ assets.adobedtm.com
 assets.penny-arcade.com
 assets.pinterest.com
 assetstore.unity.com
+assoc-amazon.com
 associates-amazon.com
 at-o.net
 at.adtech.redventures.io
@@ -1392,6 +1393,7 @@ glam.com
 glbdns.microsoft.com
 glbdns2.microsoft.com
 gleam.io
+global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 glomex.com
 glotorrents.pw
@@ -2888,6 +2890,7 @@ tinypic.com
 tinyurl.com
 tipranks.com
 tiqcdn.com
+tissl.lk
 tkn.fux.com
 tkqlhce.com
 tm.a.prd.aadg.trafficmanager.net
