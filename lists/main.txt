@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.22
-# Last modified: 22 Jan 2022 00:16:18 UTC
+# Last modified: 22 Jan 2022 08:03:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5640,6 +5640,7 @@ cdn.opinionlab.com
 cdn.optimizely.com
 cdn.optinmonster.com
 cdn.paddle.com
+cdn.pardot.com
 cdn.pcbeta.attachment.inimc.com
 cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
@@ -26534,6 +26535,7 @@ www2.2giga.link
 www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
+www2.pardot.com
 www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
