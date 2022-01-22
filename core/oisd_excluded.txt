@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Jan 2022 16:04:01 UTC
+# Last modified: 22 Jan 2022 00:16:18 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -770,6 +770,7 @@ cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.onesignal.com
 cdn.optimizely.com
+cdn.pardot.com
 cdn.pendo.io
 cdn.printfriendly.com
 cdn.raygun.io
@@ -3167,6 +3168,7 @@ wt-eu02.net
 wumii.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
+www2.pardot.com
 www2.primecreative.com.au
 www4.orangecyberdefense.com
 wwwimg.roku.com
