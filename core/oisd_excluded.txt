@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Jan 2022 08:02:41 UTC
+# Last modified: 23 Jan 2022 16:03:28 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -41,6 +41,7 @@
 140cc.v.fwmrm.net
 163.com
 207.net
+247-inc.net
 265.com
 360.yahoo.com
 801.tianya.cn
@@ -414,7 +415,6 @@ alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazonbusiness.com
-amdc.alipay.com
 amdc.m.taobao.com
 americanlisted.com
 amishcountryfurnishings.com
@@ -502,6 +502,7 @@ apis.google.com
 apiservices.krxd.net
 apmebf.com
 aporasal.net
+app-analytics.snapchat.com
 app-cdn.spot.im
 app.adjust.com
 app.adjust.io
@@ -749,7 +750,6 @@ cdn-settings.segment.com
 cdn.adf.ly
 cdn.akubebas.com
 cdn.appdynamics.com
-cdn.ark.qq.com
 cdn.branch.io
 cdn.clerk.io
 cdn.cliqz.com
@@ -853,7 +853,6 @@ click.ml.mailersend.com
 click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
-click.simba.taobao.com
 clickbank.com
 clickbank.net
 clickcease.com
@@ -878,6 +877,7 @@ cliphunter.com
 cliqz.com
 clk.boulanger.com
 clk.tradedoubler.com
+clkuk.tradedoubler.com
 cloud.rovio.com
 cloud.unity3d.com
 cloudflareinsights.com
@@ -951,6 +951,7 @@ coronavirus.app
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 countere.com
+countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
 cpt.itv.com
@@ -1001,6 +1002,7 @@ d.ghostery.com
 d.ifengimg.com
 d.la1-c2-iad.salesforceliveagent.com
 d.toutiao.com
+d1af033869koo7.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
@@ -1130,8 +1132,8 @@ driftt.com
 drivethelife.com
 drm-pr-us.crackle.com
 drp.su
+ds-aksb-a.akamaihd.net
 ds1.nl
-dsp.brand.sogou.com
 dspultra.com
 dstreet.pl
 dt51.net
@@ -1336,6 +1338,7 @@ fusion.google.com
 fwmrm.net
 fy.v.vrv.co
 g.alicdn.com
+g.doubleclick.net
 g.ezoic.net
 g.msn.com
 gala.spiceworks.com
@@ -1352,6 +1355,7 @@ gardenstatehelicopters.com
 gateway.reddit.com
 gayly.ru
 gc.zgo.at
+gcdn.2mdn.net
 gcp.api.snapchat.com
 gecko-sg.byteoversea.com
 gelnhausen.de
@@ -1421,6 +1425,7 @@ google.ga
 google.ml
 google.tk
 googleadapis.l.google.com
+googleads.g.doubleclick.net
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
@@ -1562,6 +1567,7 @@ iad-04.braze.com
 iad.liveperson.net
 iadsdk.apple.com
 iam-agof-app.irquest.com
+ias.r10s.jp
 ias.rakuten.co.jp
 ib.anycast.adnxs.com
 ib.snssdk.com
@@ -1705,7 +1711,6 @@ img.beeg.com
 img.blesk.cz
 img.en25.com
 img.mp.itc.cn
-img.shouji.sogou.com
 img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
@@ -2000,7 +2005,6 @@ minecraftprod.rtep.msgamestudios.com
 minutemediaservices.com
 mis.migc.xiaomi.com
 miscopy.com
-miwifi.com
 mixi.jp
 mixi.media
 mixnews.lv
@@ -2009,6 +2013,7 @@ mkt51.net
 mlsend.com
 mmstat.com
 mmtro.com
+moatads.com
 mobile-collector.newrelic.com
 mobile.anycast.adnxs.com
 mobile.events.data.microsoft.com
@@ -2306,6 +2311,7 @@ pinnacle.com
 pinnaclesports.com
 pipe.aria.microsoft.com
 piwik.org
+pixel.adsafeprotected.com
 pixel.everesttech.net
 pixel.redditmedia.com
 pixel.wp.com
@@ -2406,6 +2412,7 @@ push.api.bbci.co.uk
 pusherapp.com
 pushwelcome.com
 pv.sohu.com
+px.moatads.com
 px.spiceworks.com
 pxc-coding.com
 pxf.io
@@ -2586,6 +2593,7 @@ searchencrypt.com
 seccdn-gl.imrworldwide.com
 secure-booker.com
 secure-dcr.imrworldwide.com
+secure-gl.imrworldwide.com
 secure-us.imrworldwide.com
 secure.adnxs.com
 secure.eloqua.com
@@ -2912,6 +2920,7 @@ torimochi.line-apps.com
 touclick.com
 townnews.com
 tr.info.mango-mobilites.fr
+trace.svc.ui.com
 tracemyip.org
 track-eu.adformnet.akadns.net
 track.adtraction.com
@@ -2999,6 +3008,7 @@ ulogin.ru
 ultimedia.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
+unagi.amazon.co.jp
 unagi.amazon.com
 unblocksit.es
 uni-rostock.de
@@ -3013,7 +3023,6 @@ update.360safe.com
 update.avlyun.sec.miui.com
 update.miui.com
 update.onelaunch.com
-update.pan.baidu.com
 upgrade.scdn.co
 upgrade.xl9.xunlei.com
 upload.cc
@@ -3187,7 +3196,6 @@ xhost.ro
 xlmc.sandai.net
 xlog-va.musical.ly
 xml.opera.com
-xmpush.xiaomi.com
 xmrpool.eu
 xp.apple.com
 xpu.samsungelectronics.com
