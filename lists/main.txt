@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.24
-# Last modified: 24 Jan 2022 00:17:20 UTC
+# Last modified: 24 Jan 2022 08:03:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -23344,6 +23344,7 @@ tagged.com
 taggedmail.com
 tagger.opecloud.com
 tagilbank.ru
+tagm.tchibo.de
 tags.adsafety.net
 tags.bkrtx.com
 tags.news.com.au
