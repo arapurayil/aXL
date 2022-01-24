@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Jan 2022 16:03:28 UTC
+# Last modified: 24 Jan 2022 00:17:20 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -2846,6 +2846,7 @@ tag.getdrip.com
 tag.shopping-feed.com
 tagcommander.com
 tagger.opecloud.com
+tagm.tchibo.de
 tags.adsafety.net
 tags.news.com.au
 tags.tiqcdn.com

@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.23
-# Last modified: 23 Jan 2022 16:03:28 UTC
+# Version: 3.01.24
+# Last modified: 24 Jan 2022 00:17:20 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -209,6 +209,7 @@
 2222mb.com
 24.comertbank.md
 24.hu
+247-inc.net
 247ihost.com
 24banking.md
 24banking.ro
@@ -2047,7 +2048,6 @@ amco-bank.com
 amcore.com
 amd.cdn.turner.com
 amd.com
-amdc.alipay.com
 amdc.m.taobao.com
 ameblo.jp
 amedigital.com
@@ -6382,6 +6382,7 @@ clk.boulanger.com
 clk.ink
 clk.tradedoubler.com
 clkmg.com
+clkuk.tradedoubler.com
 cloakhost.com
 clog-aggregator.kakao.com
 cloob.com
@@ -7311,6 +7312,7 @@ d15k2d11r6t6rl.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d179kwmlpc4o47.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
+d1af033869koo7.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
 d1bl11pgu3tw3h.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
@@ -8213,6 +8215,7 @@ drugabuse.gov
 drupal.org
 drweb.com
 drydenbank.com
+ds-aksb-a.akamaihd.net
 ds.download.windowsupdate.com
 ds.prod.vidible.tv
 ds1.nl
@@ -10304,6 +10307,7 @@ g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.cn
 g.co
+g.doubleclick.net
 g.download.windowsupdate.com.c.footprint.net
 g.ezoic.net
 g.ign.com
@@ -10428,6 +10432,7 @@ gc.fe.apple-dns.net
 gc.zgo.at
 gc3d.georgiancard.ge
 gcb.com.gh
+gcdn.2mdn.net
 gcloudcs.com
 gcm-http.googleapis.com
 gcm.googleapis.com
@@ -11025,6 +11030,7 @@ google.vg
 google.vu
 google.ws
 googleadapis.l.google.com
+googleads.g.doubleclick.net
 googleadservices.com
 googleapis.com
 googleapis.l.google.com
@@ -12095,6 +12101,7 @@ iadsdk.apple.com.edgekey.net
 iai-shop.com
 iam-agof-app.irquest.com
 iamcredentials.googleapis.com
+ias.r10s.jp
 ias.rakuten.co.jp
 ib-sachsen-anhalt.de
 ib.ablv.com
@@ -16048,6 +16055,7 @@ mnhospitals.org
 mno.snetroam.mihome.xiaomi.net
 mns.gov.ua
 moapi.wps.cn
+moatads.com
 mob.maps.yandex.net
 mob2api.mdc53.com
 mobankers.com
@@ -18610,6 +18618,7 @@ pittsfieldco-op.com
 pius-hospital.de
 piwik.org
 pix11.com
+pixel.adsafeprotected.com
 pixel.everesttech.net
 pixel.nymag.com
 pixel.quantserve.com
@@ -19288,6 +19297,7 @@ pvu.nets.no
 pw2.ro
 pwbank.com
 pwebanner.naver.com
+px.moatads.com
 px.spiceworks.com
 px.srvcs.tumblr.com
 pxc-coding.com
@@ -20996,6 +21006,7 @@ secure-banking.de
 secure-booker.com
 secure-cdn.mplxtms.com
 secure-dcr.imrworldwide.com
+secure-gl.imrworldwide.com
 secure-media1.hotstarext.com
 secure-payments.express-bank.ru
 secure-photo.mylife.com
@@ -23935,6 +23946,7 @@ tr.twitch.tv
 tr.wikipedia.com
 tr4.cbsistatic.com
 tr5.in
+trace.svc.ui.com
 tracemyip.org
 track-eu.adformnet.akadns.net
 track.adform.net
@@ -24402,6 +24414,7 @@ umweltbank.de
 un.org
 unagi-eu.amazon.com
 unagi-na.amazon.com
+unagi.amazon.co.jp
 unagi.amazon.com
 unb.co.ae
 unbank.com
@@ -26664,7 +26677,6 @@ xmcs.mi.com
 xml.opera.com
 xmpp-redirector-prod.tnt-ea.com
 xmpp-server.l.google.com
-xmpush.xiaomi.com
 xmr.to
 xmrpool.eu
 xn--80aae3af7av6a7a.xn--p1ai
