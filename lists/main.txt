@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.24
-# Last modified: 24 Jan 2022 08:03:40 UTC
+# Last modified: 24 Jan 2022 16:04:09 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2411,6 +2411,7 @@ api.foursquare.com
 api.foxnews.com
 api.freeletics.com
 api.gallery.intl.miui.com
+api.geetest.com
 api.getpocket.com
 api.gfe.nvidia.com
 api.github.com

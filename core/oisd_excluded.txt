@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Jan 2022 08:03:39 UTC
+# Last modified: 24 Jan 2022 16:04:09 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -502,7 +502,6 @@ apis.google.com
 apiservices.krxd.net
 apmebf.com
 aporasal.net
-app-analytics.snapchat.com
 app-cdn.spot.im
 app.adjust.com
 app.adjust.io
@@ -951,7 +950,6 @@ coronavirus.app
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 countere.com
-countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
 cpt.itv.com
@@ -1132,7 +1130,6 @@ driftt.com
 drivethelife.com
 drm-pr-us.crackle.com
 drp.su
-ds-aksb-a.akamaihd.net
 ds1.nl
 dspultra.com
 dstreet.pl
@@ -1338,7 +1335,6 @@ fusion.google.com
 fwmrm.net
 fy.v.vrv.co
 g.alicdn.com
-g.doubleclick.net
 g.ezoic.net
 g.msn.com
 gala.spiceworks.com
@@ -1355,7 +1351,6 @@ gardenstatehelicopters.com
 gateway.reddit.com
 gayly.ru
 gc.zgo.at
-gcdn.2mdn.net
 gcp.api.snapchat.com
 gecko-sg.byteoversea.com
 gelnhausen.de
@@ -1425,7 +1420,6 @@ google.ga
 google.ml
 google.tk
 googleadapis.l.google.com
-googleads.g.doubleclick.net
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
@@ -2013,7 +2007,6 @@ mkt51.net
 mlsend.com
 mmstat.com
 mmtro.com
-moatads.com
 mobile-collector.newrelic.com
 mobile.anycast.adnxs.com
 mobile.events.data.microsoft.com
@@ -2311,7 +2304,6 @@ pinnacle.com
 pinnaclesports.com
 pipe.aria.microsoft.com
 piwik.org
-pixel.adsafeprotected.com
 pixel.everesttech.net
 pixel.redditmedia.com
 pixel.wp.com
@@ -2412,7 +2404,6 @@ push.api.bbci.co.uk
 pusherapp.com
 pushwelcome.com
 pv.sohu.com
-px.moatads.com
 px.spiceworks.com
 pxc-coding.com
 pxf.io
@@ -2593,7 +2584,6 @@ searchencrypt.com
 seccdn-gl.imrworldwide.com
 secure-booker.com
 secure-dcr.imrworldwide.com
-secure-gl.imrworldwide.com
 secure-us.imrworldwide.com
 secure.adnxs.com
 secure.eloqua.com
@@ -2921,7 +2911,6 @@ torimochi.line-apps.com
 touclick.com
 townnews.com
 tr.info.mango-mobilites.fr
-trace.svc.ui.com
 tracemyip.org
 track-eu.adformnet.akadns.net
 track.adtraction.com
