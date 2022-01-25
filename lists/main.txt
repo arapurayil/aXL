@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.24
-# Last modified: 24 Jan 2022 16:04:09 UTC
+# Version: 3.01.25
+# Last modified: 25 Jan 2022 00:18:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8216,7 +8216,6 @@ drugabuse.gov
 drupal.org
 drweb.com
 drydenbank.com
-ds-aksb-a.akamaihd.net
 ds.download.windowsupdate.com
 ds.prod.vidible.tv
 ds1.nl
@@ -10308,7 +10307,6 @@ g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.cn
 g.co
-g.doubleclick.net
 g.download.windowsupdate.com.c.footprint.net
 g.ezoic.net
 g.ign.com
@@ -10433,7 +10431,6 @@ gc.fe.apple-dns.net
 gc.zgo.at
 gc3d.georgiancard.ge
 gcb.com.gh
-gcdn.2mdn.net
 gcloudcs.com
 gcm-http.googleapis.com
 gcm.googleapis.com
@@ -11031,7 +11028,6 @@ google.vg
 google.vu
 google.ws
 googleadapis.l.google.com
-googleads.g.doubleclick.net
 googleadservices.com
 googleapis.com
 googleapis.l.google.com
@@ -16056,7 +16052,6 @@ mnhospitals.org
 mno.snetroam.mihome.xiaomi.net
 mns.gov.ua
 moapi.wps.cn
-moatads.com
 mob.maps.yandex.net
 mob2api.mdc53.com
 mobankers.com
@@ -18619,7 +18614,6 @@ pittsfieldco-op.com
 pius-hospital.de
 piwik.org
 pix11.com
-pixel.adsafeprotected.com
 pixel.everesttech.net
 pixel.nymag.com
 pixel.quantserve.com
@@ -19298,7 +19292,6 @@ pvu.nets.no
 pw2.ro
 pwbank.com
 pwebanner.naver.com
-px.moatads.com
 px.spiceworks.com
 px.srvcs.tumblr.com
 pxc-coding.com
@@ -21007,7 +21000,6 @@ secure-banking.de
 secure-booker.com
 secure-cdn.mplxtms.com
 secure-dcr.imrworldwide.com
-secure-gl.imrworldwide.com
 secure-media1.hotstarext.com
 secure-payments.express-bank.ru
 secure-photo.mylife.com
@@ -23948,7 +23940,6 @@ tr.twitch.tv
 tr.wikipedia.com
 tr4.cbsistatic.com
 tr5.in
-trace.svc.ui.com
 tracemyip.org
 track-eu.adformnet.akadns.net
 track.adform.net

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Jan 2022 16:04:09 UTC
+# Last modified: 25 Jan 2022 00:18:04 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -558,6 +558,7 @@ attraqt.com
 audid-api.taobao.com
 audio-ec.spotify.com
 audio2.spotify.com
+audioknigi.club
 auditrecording-pa.googleapis.com
 auditude.com
 aus.waterfox.net
@@ -1323,6 +1324,7 @@ freegeoip.net
 freesteamkeys.com
 freewebsitetemplates.com
 frog.wix.com
+frontegg.com
 frontier.musical.ly
 fs.microsoft.com
 ftp.byethost11.com
@@ -1457,6 +1459,7 @@ guce.yahoo.com
 guiama.is
 guidetopetersburg.com
 gunosy.com
+gus.host
 gvt2.com
 gwx.windows.com
 gynvael.coldwind.pl
@@ -1854,6 +1857,7 @@ laureus.com
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
 leadpages.net
+leakix.net
 leakreality.com
 leanplum.com
 learn.cisecurity.org
@@ -2183,6 +2187,9 @@ ojrq.net
 ok-platform.nl
 ola.com
 olmprodpowerlift-cdn.azureedge.net
+oload.cloud
+oload.info
+oload.tv
 om.cbsi.com
 om.symantec.com
 omarsys.com
@@ -2348,6 +2355,7 @@ postbanking.org
 postclickmarketing.com
 postmediamontrealgazette2.files.wordpress.com
 poswieciekuchni.pl
+powerlift-frontdesk.acompli.net
 powr.io
 powvideo.net
 ppcprotect.com
