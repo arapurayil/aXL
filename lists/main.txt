@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.25
-# Last modified: 25 Jan 2022 00:18:04 UTC
+# Last modified: 25 Jan 2022 08:05:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10184,6 +10184,7 @@ frog.uaq.xiaomi.net
 frog.wix.com
 from.flipboard.com
 front-proxy.rebrandly.com
+frontegg.com
 frontgate.com
 frontier.com
 frontier.musical.ly
@@ -14427,6 +14428,7 @@ lds.org
 lds.org.edgekey.net
 leadpages.co
 leadpages.net
+leakix.net
 leakreality.com
 leanplum.com
 learn.cisecurity.org
@@ -18890,6 +18892,7 @@ potomacanimalhospital.com
 potomacbank.com
 potplayer.daum.net
 powercorp.com
+powerlift-frontdesk.acompli.net
 powerreviews.com
 powerscrap.com
 powerteenz.com
