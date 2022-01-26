@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.26
-# Last modified: 26 Jan 2022 00:18:57 UTC
+# Last modified: 26 Jan 2022 08:03:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2032,7 +2032,6 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
-amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -2728,6 +2727,7 @@ appboy-images.com
 appbrain.com
 appc.baidu.com
 appcast.io
+appcenter.ms
 appcloud.ironbeast.io
 appdown.naver.com
 appengine.google.com
@@ -3273,7 +3273,6 @@ b00.fr
 b02.black.ndmdhs.com
 b2.ndb24.ru
 b23.ru
-b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -5207,7 +5206,6 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
-campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -6753,6 +6751,7 @@ config.viber.com
 config5.update.baofeng.com
 configprd.samsungcloudsolution.net
 configs.nabstudio.com
+configuration-vending.service.amazonsilk.com
 configuration.apple.com.akadns.net
 confirmit.com
 confraternitaet.at
@@ -6760,7 +6759,6 @@ conn.skype.akadns.net
 conn.skype.com
 connatix.com
 connect.auone.jp
-connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6816,7 +6814,6 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
-content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -8564,12 +8561,10 @@ edition.cnn.com
 editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
-edm.crikey.com.au
 edm03.huawei.com
 ednaonline.com
 ednetz.de
 edoc.huawei.com
-edrcreditservices.nl
 edrone.me
 eds.xboxlive.com
 edu.dcinside.com
@@ -10693,6 +10688,7 @@ global.passport.xiaomi.com
 global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
 global.ssl.fastly.net
+global.telemetry.insights.video.a2z.com
 global.uci.blackberry.com
 globalapi.ad.xiaomi.com
 globalccs.net
@@ -10745,12 +10741,10 @@ go-mpulse.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
-go.cerner.com
 go.co
 go.com
 go.daum.net
 go.digitalocean.com
-go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -10758,7 +10752,6 @@ go.infoblox.com
 go.leanplum.com
 go.microsoft.com
 go.mybusinessacademy.ph
-go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -11473,7 +11466,6 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
-hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -13363,6 +13355,7 @@ ite.net
 item.kakao.com
 item.mi.com
 item.taobao.com
+iterable.com
 itimes.com
 itiny.industrialbank.ua
 itknowledgeexchange.techtarget.com
@@ -14431,7 +14424,6 @@ leadpages.net
 leakix.net
 leakreality.com
 leanplum.com
-learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -14987,6 +14979,7 @@ luisenhospital.de
 lukas-krankenhaus.de
 lukasstiftung-altenburg.de
 lukb.ch
+lulz.com
 lunarstorm.se
 lunenburgvethospital.com
 lungenklinikamsee.de
@@ -15848,7 +15841,6 @@ microthought.com
 mid.ru
 midasplayer.com
 midcapeanimalhospital.com
-middleeasteye.net
 middlesbrough.gov.uk
 middletownhospital.org
 midlothian.gov.uk
@@ -20092,6 +20084,7 @@ revistasobrerodas.com.br
 revolut.com
 revue.com
 rewards.xbox.com
+rewardsprod.trafficmanager.net
 rexdl.com
 reyaphastanesi.com.tr
 rezync.com
@@ -21213,6 +21206,7 @@ service.weibo.com
 serviceapi.rmcnmv.naver.com
 servicenetwork.sonymobile.com
 services.addons.mozilla.org
+services.brid.tv
 services.fandom.com
 services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
@@ -21264,6 +21258,7 @@ sfr.fr
 sfsapi.micloud.xiaomi.net
 sftool.gov
 sfw.in
+sg-host.com
 sg-ssb.com.gh
 sg.a.stat.mi.com
 sg.api.io.mi.com
@@ -23511,6 +23506,7 @@ telemetry-incoming.r53-2.services.mozilla.com
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
 telemetry.api.swiftkey.com
+telemetry.insights.video.a2z.com
 telemetry.microsoft.com
 telemetry.mozilla.org
 telemetry.soundcloud.com
@@ -23787,7 +23783,6 @@ tiscali.de
 tiscali.it
 tisco.co.th
 tiscoasset.com
-tissl.lk
 titanvest.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
@@ -24355,6 +24350,7 @@ ui.skype.com
 ui.vk.com
 uib.ff.avast.com
 uiccu.org
+uid.mavencoalition.io
 uidesign.gbtcdn.com
 uim.tifbs.net
 uisdc.com
@@ -26547,8 +26543,6 @@ www2.2giga.link
 www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
-www2.pardot.com
-www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
@@ -26557,7 +26551,6 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
-www4.orangecyberdefense.com
 www5.2giga.link
 www6.2giga.link
 www6.9Anime.to
