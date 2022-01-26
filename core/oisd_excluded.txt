@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Jan 2022 16:04:31 UTC
+# Last modified: 26 Jan 2022 00:18:57 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -414,7 +414,6 @@ alltheinternet.com
 alpari.ru
 amazon-adsystem.amazon.com
 amazon-adsystem.com
-amazonbusiness.com
 amdc.m.taobao.com
 americanlisted.com
 amishcountryfurnishings.com
@@ -520,6 +519,7 @@ app2.salesmanago.pl
 appboy-images.com
 appbrain.com
 appcast.io
+appcenter.ms
 appier.com
 appletoolbox.com
 appmetrica.yandex.com
@@ -592,7 +592,6 @@ b.scorecardresearch.com
 b.stats.paypal.com
 b.wishabi.com
 b02.black.ndmdhs.com
-b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
@@ -731,7 +730,6 @@ c1.microsoft.com
 cafe24.com
 cafeomai.com.au
 calendar.fontanka.ru
-campaign.abb.com
 campaign.adobe.com
 canadapharmacy.com
 care2.com
@@ -916,9 +914,9 @@ config.ioam.de
 config.samqaicongen.com
 config.uca.cloud.unity3d.com
 configprd.samsungcloudsolution.net
+configuration-vending.service.amazonsilk.com
 confirmit.com
 conn.skype.com
-connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.rom.miui.com
@@ -932,7 +930,6 @@ consent.faz.net
 consent.truste.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
-content.awaze.com
 content.shoprunner.com
 continuum.dds.microsoft.com
 control.kochava.com
@@ -951,6 +948,7 @@ coronavirus.app
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 countere.com
+countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
 cpt.itv.com
@@ -1164,8 +1162,6 @@ edgecast-vod.yahoo.net
 edgecastcdn.net
 edgesuite.net
 edigitalsurvey.com
-edm.crikey.com.au
-edrcreditservices.nl
 edrone.me
 edu.hebnews.cn
 effiliation.com
@@ -1244,7 +1240,6 @@ exosrv.com
 experience.jcu.edu.au
 experience.tinypass.com
 exploit.in
-explore.amd.com
 ext.goguardian.com
 extern.prisjakt.nu
 extole.io
@@ -1396,14 +1391,12 @@ glbdns2.microsoft.com
 gleam.io
 global.safebrowsing.service.amazonsilk.com
 global.search.xiaomi.net
+global.telemetry.insights.video.a2z.com
 glomex.com
 glotorrents.pw
 gloyah.net
 gm.mmstat.com
 go-mpulse.net
-go.cerner.com
-go.dlink.com
-go.neverware.com
 go.pardot.com
 go.redirectingat.com
 go.theregister.com
@@ -1491,7 +1484,6 @@ hbbtvapp.sonnenklar.tv
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
-hello.heroku.com
 hello.myfonts.net
 heraldm.com
 here.com
@@ -1714,7 +1706,6 @@ img2.user.kanimg.com
 imp.appledaily.com
 impactradius.com
 imrworldwide.com
-imtt.qq.com
 in.appcenter.ms
 inc.com
 includecheck.oisd.nl
@@ -1780,6 +1771,7 @@ isgprivacy.cbsi.com
 islandmob.com
 isnssdk.com
 ist-track.com
+iterable.com
 itsfogo.com
 itv.ard.de
 iubenda.com
@@ -1860,7 +1852,6 @@ leadpages.net
 leakix.net
 leakreality.com
 leanplum.com
-learn.cisecurity.org
 legalterms.cbsinteractive.com
 lever-analytics.com
 lexatrade.com
@@ -1910,6 +1901,7 @@ lootcrate.com
 lptag.liveperson.net
 luckycrush.live
 luckyorange.com
+lulz.com
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
@@ -1924,6 +1916,7 @@ mabaya.com
 mackeeper.com
 macromedia.com
 madmimi.com
+mads-eu.amazon.com
 mads.amazon.com
 magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
@@ -1996,7 +1989,6 @@ micloud.xiaomi.net
 micpn.com
 microless.com
 microsoftwindowsupdate.net
-middleeasteye.net
 mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
@@ -2482,6 +2474,7 @@ restapi.amap.com
 resu8.hjfile.cn
 revistaeventos.com.br
 revistasobrerodas.com.br
+rewardsprod.trafficmanager.net
 rezync.com
 rfk.biglots.com
 ricepaperscissors.com.au
@@ -2624,6 +2617,7 @@ servedby.o2.co.uk
 server.iad.liveperson.net
 service.cz.nl
 service.weibo.com
+services.brid.tv
 services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
 services.zam.com
@@ -2873,6 +2867,7 @@ tekweis.com
 telecommand.telemetry.microsoft.com
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
+telemetry.insights.video.a2z.com
 telemetry.microsoft.com
 telemetry.mozilla.org
 tencent.com
@@ -2897,7 +2892,6 @@ tinypic.com
 tinyurl.com
 tipranks.com
 tiqcdn.com
-tissl.lk
 tkn.fux.com
 tkqlhce.com
 tm.a.prd.aadg.trafficmanager.net
@@ -2999,6 +2993,7 @@ ue.flipboard.com
 ui.skype.akadns.net
 ui.skype.com
 uib.ff.avast.com
+uid.mavencoalition.io
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
@@ -3178,9 +3173,6 @@ wt-eu02.net
 wumii.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
-www2.pardot.com
-www2.primecreative.com.au
-www4.orangecyberdefense.com
 wwwimg.roku.com
 wx.qlogo.cn
 x.co
