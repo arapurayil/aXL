@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Jan 2022 16:03:59 UTC
+# Last modified: 27 Jan 2022 00:17:31 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -88,6 +88,7 @@ ac.duckduckgo.com
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
+account.herephyshy.info
 account.wire.com
 acdn.adnxs.com
 acenar.com
@@ -419,6 +420,7 @@ americanlisted.com
 amishcountryfurnishings.com
 amplitude.com
 ams.keshefoundation.org
+ams3.digitaloceanspaces.com
 amway.com
 an.yandex.ru
 analytics.edgekey.net
@@ -507,6 +509,7 @@ app.adjust.io
 app.adjust.net.in
 app.any.run
 app.appsflyer.com
+app.box.com
 app.bronto.com
 app.chat.xiaomi.net
 app.getresponse.com
@@ -777,6 +780,7 @@ cdn.rlcdn.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
+cdn.shopify.com
 cdn.sift.com
 cdn.siftscience.com
 cdn.streamlike.com
@@ -835,6 +839,7 @@ clck.ru
 clck.yandex.com
 clck.yandex.com.tr
 clck.yandex.ru
+cld.pt
 clearbit.com
 cleverpush.com
 cli.gs
@@ -848,6 +853,7 @@ click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.ml.mailersend.com
+click.mlsend.com
 click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
@@ -900,6 +906,7 @@ com.com
 combine.urbanairship.com
 comet.yahoo.com
 comingsoon.namebright.com
+command.com
 commander1.com
 comments.ign.com
 commex.net.au
@@ -930,6 +937,7 @@ consent.faz.net
 consent.truste.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.aimatch.com
 content.shoprunner.com
 continuum.dds.microsoft.com
 control.kochava.com
@@ -1126,6 +1134,7 @@ dpstatic.com
 dpu.samsungelectronics.com
 drift.com
 driftt.com
+drive.google.com
 drivethelife.com
 drm-pr-us.crackle.com
 drp.su
@@ -1255,12 +1264,14 @@ faktor.io
 fast-anime.ru
 fast.appcues.com
 fast.wistia.net
+fastly-analytics.com
 fc.vodafone.de
 fccinteractive.com
 fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 feature.fm
 feedblitz.com
+feeds.feedburner.com
 feedsportal.com
 fembed.com
 ffdns.net
@@ -1271,6 +1282,7 @@ fili.cc
 filman.tv
 filmha.top
 findglocal.com
+firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1282,6 +1294,8 @@ flipp.com
 flirt.com
 flix360.com
 flixcar.com
+flow.page
+flowcode.com
 flowgo.com
 fls-cn.amazon.cn
 fls-eu.amazon.co.uk
@@ -1307,12 +1321,15 @@ forcepoint.com
 ford.to
 formcrafts.com
 forms.convertkit.com
+forms.gle
+forms.office.com
 forter.com
 fourier.taobao.com
 foxnews.demdex.net
 fpt.microsoft.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
+fra1.digitaloceanspaces.com
 frameip.com
 freegeoip.app
 freegeoip.net
@@ -1378,6 +1395,7 @@ getdrip.com
 getroman.com
 gfe.nvidia.com
 gfwsl.geforce.com
+gg.gg
 gg.google.com
 ghbtns.com
 ghostery-collector.ghostery.com
@@ -1399,6 +1417,7 @@ gm.mmstat.com
 go-mpulse.net
 go.pardot.com
 go.redirectingat.com
+go.skimresources.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1519,6 +1538,7 @@ hotkeys.com
 hotpop.com
 hotspotshield.com
 howsmyssl.com
+href.li
 hs-scripts.com
 hs.eloqua.com
 hsforms.com
@@ -1780,6 +1800,7 @@ iwin.com
 iww.ca
 izeselet.hu
 j.gs
+j.mp
 jaleco.com
 janrain.com
 japantv.club
@@ -1867,6 +1888,7 @@ lindy.co.id
 link.p0.com
 linkev.com
 linksynergy.com
+linktr.ee
 litix.io
 live.primis.tech
 live.simcitybuildit.com
@@ -1878,6 +1900,7 @@ liveperson.net
 livetex.ru
 liveupdate.mac.sandai.net
 ll.a.hulu.com
+lnkd.in
 lnks.gd
 localytics.com
 lofter.com
@@ -1892,6 +1915,7 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
+login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -2271,6 +2295,7 @@ pavv.co.kr
 payeer.com
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
+pca.st
 pcekspert.com
 pcrisk.com
 pdc.micloud.xiaomi.net
@@ -2301,6 +2326,7 @@ ping.ui.com
 pings.conviva.com
 pinnacle.com
 pinnaclesports.com
+pinpoll.com
 pipe.aria.microsoft.com
 piwik.org
 pixel.everesttech.net
@@ -2352,6 +2378,7 @@ powr.io
 powvideo.net
 ppcprotect.com
 ppro.de
+ppt.cc
 ppurifier.game.xiaomi.com
 pr-cy.ru
 pr0gramm.com
@@ -2506,6 +2533,7 @@ s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
+s.id
 s.marketwatch.com
 s.media-imdb.com
 s.shopify.com
@@ -2597,6 +2625,7 @@ secure.upc.ua
 securemecca.com
 securemetrics.apple.com
 securemvt.apple.com
+securitymetrics.com
 sedoparking.com
 seed.bitcoin.sipa.be
 seed.bitcoinstats.com
@@ -2629,6 +2658,7 @@ settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -2650,6 +2680,7 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
+simp.ly
 simply.com
 simplyhired.com
 sinajs.cn
@@ -2980,6 +3011,7 @@ typeform.com
 typekit.net
 u.cubeupload.com
 u.teknik.io
+u.to
 uamobile.net
 uarating.com
 ublock.org
@@ -3051,6 +3083,7 @@ ust.chatango.com
 utility.rogersmedia.com
 uzreklam.com
 v.fwmrm.net
+v.ht
 v.shopify.com
 v2.zopim.com
 v2html.atm.youku.com
