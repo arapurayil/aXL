@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.27
-# Last modified: 27 Jan 2022 00:17:32 UTC
+# Last modified: 27 Jan 2022 08:04:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -589,6 +589,7 @@ account.adobe.com
 account.api.here.com
 account.gotinder.com
 account.here.com
+account.herephyshy.info
 account.mi.com
 account.microsoft.com.edgekey.net
 account.np.ac.playstation.net
@@ -2111,6 +2112,7 @@ ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams.keshefoundation.org
+ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -6236,6 +6238,7 @@ clck.ru
 clck.yandex.com
 clck.yandex.com.tr
 clck.yandex.ru
+cld.pt
 cleancss.com
 cleaner.daum.net
 clear.com.br
@@ -6269,6 +6272,7 @@ click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.member.americanexpress.com
 click.ml.mailersend.com
+click.mlsend.com
 click.myctm.canadiantire.ca
 click.policy.farmers.com
 click.pstmrk.it
@@ -6617,6 +6621,7 @@ comfedbank.com
 comic.naver.com
 comic.nil.naver.com
 comingsoon.namebright.com
+command.com
 commander1.com
 commbank-wge.com
 commbank.com.au
@@ -6814,6 +6819,7 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
+content.aimatch.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -9290,6 +9296,7 @@ fastdomain.com
 fastdrama.co
 fastdrama.se
 fasthosts.co.uk
+fastly-analytics.com
 fastly-chat.ign.com
 fastly.net
 fastpic.ru
@@ -9772,6 +9779,8 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flow.page
+flowcode.com
 flowershospital.com
 flowgo.com
 flowplayer.com
@@ -10076,6 +10085,7 @@ fr.statcounter.com
 fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
+fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -14837,6 +14847,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -18367,6 +18378,7 @@ pc-magazin.de
 pc.gov.au
 pc.uf.ksosoft.com
 pc.xunlei.com
+pca.st
 pcbac.com
 pcbancorp.com
 pcbank.apollotrust.com
@@ -18582,6 +18594,7 @@ pinnacle.com
 pinnaclesports.com
 pinnbank.com
 pinpoint.us-east-1.amazonaws.com
+pinpoll.com
 pinterest.co.kr
 pinterest.com
 pinterest.de
@@ -21111,6 +21124,7 @@ securitybank.com.ph
 securitybank.net
 securityfederal.net
 securityfirst.com
+securitymetrics.com
 securitysbank.com
 securitystatebank.org
 sedlabanki.is
@@ -21281,6 +21295,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21454,6 +21469,7 @@ simasfinance.co.id
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
+simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
