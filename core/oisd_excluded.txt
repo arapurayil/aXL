@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Jan 2022 16:03:52 UTC
+# Last modified: 28 Jan 2022 00:17:36 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -385,6 +385,7 @@ advertising.com
 adwords.google.com
 adzerk.com
 adzerk.net
+aebn.net
 affex.org
 affiliate.dmm.com
 affiliatefuture.com
@@ -1956,6 +1957,7 @@ mangler3.generals.ea.com
 mangler4.generals.ea.com
 manifest.auditude.com
 maps.windows.com
+marchex.io
 marfeel.com
 marfeelcache.com
 marinetraffic.com
