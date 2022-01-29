@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.29
-# Last modified: 29 Jan 2022 08:02:43 UTC
+# Last modified: 29 Jan 2022 16:03:30 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2113,7 +2113,6 @@ ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams.keshefoundation.org
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -6273,7 +6272,6 @@ click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.member.americanexpress.com
 click.ml.mailersend.com
-click.mlsend.com
 click.myctm.canadiantire.ca
 click.policy.farmers.com
 click.pstmrk.it
@@ -9780,8 +9778,6 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
-flow.page
-flowcode.com
 flowershospital.com
 flowgo.com
 flowplayer.com
@@ -10086,7 +10082,6 @@ fr.statcounter.com
 fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
-fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -14432,7 +14427,6 @@ lds.org
 lds.org.edgekey.net
 leadpages.co
 leadpages.net
-leakix.net
 leakreality.com
 leanplum.com
 learn.elephantjournal.com
@@ -14848,7 +14842,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -18380,7 +18373,6 @@ pc-magazin.de
 pc.gov.au
 pc.uf.ksosoft.com
 pc.xunlei.com
-pca.st
 pcbac.com
 pcbancorp.com
 pcbank.apollotrust.com
@@ -21297,7 +21289,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21471,7 +21462,6 @@ simasfinance.co.id
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
-simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
