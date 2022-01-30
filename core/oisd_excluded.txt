@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Jan 2022 16:03:30 UTC
+# Last modified: 30 Jan 2022 00:18:15 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -80,7 +80,33 @@ a247c.playfabapi.com
 a248.e.akamai.net
 a771.dscq.akamai.net
 aan.amazon.com
+aax-cpm.amazon-adsystem.amazon.com
+aax-cpm.amazon-adsystem.com
+aax-eu-rtb-adx.amazon-adsystem.com
+aax-eu-rtb.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+aax-fe-sin-rtb-adx.amazon-adsystem.com
+aax-fe-sin-rtb.amazon-adsystem.com
+aax-fe-sin.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
+aax-opf-us-east.amazon-adsystem.com
+aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-east-rtb-adx.amazon-adsystem.com
+aax-us-east-rtb.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
+aax-us-pdx-rtb-adx.amazon-adsystem.com
+aax-us-pdx-rtb.amazon-adsystem.com
+aax-us-pdx.amazon-adsystem.com
+aax-us-west.amazon-adsystem.com
+aax-us.amazon-adsystem.amazon.com
+aax-us.amazon-adsystem.com
+aax-vx-eu-eu-west-1.amazon-adsystem.com
+aax-vx-fe-us-west-2.amazon-adsystem.com
+aax-vx-us-us-east-1.amazon-adsystem.com
+aax-vx-us-us-west-2.amazon-adsystem.com
+aax.amazon-adsystem.amazon.com
+aax.amazon-adsystem.com
 aboluowang.com
 about.com
 aboutads.info
@@ -588,7 +614,6 @@ aws.keshefoundation.org
 awstrack.me
 azabu-u.ac.jp
 azurewebsites.net
-b.catgirlsare.sexy
 b.koodomobile.com
 b.scorecardresearch.com
 b.stats.paypal.com
@@ -718,6 +743,7 @@ byside.com
 byteimg.com
 c-api-bit.shopeemobile.com
 c.allegrostatic.pl
+c.amazon-adsystem.com
 c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
@@ -766,7 +792,6 @@ cdn.judge.me
 cdn.krxd.net
 cdn.livechatinc.com
 cdn.livefyre.com
-cdn.medicatusb.xyz
 cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.onesignal.com
@@ -1022,7 +1047,6 @@ d3dy5gmtp8yhk7.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
-d15k2d11r6t6rl.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d179kwmlpc4o47.cloudfront.net
@@ -1289,14 +1313,18 @@ flirt.com
 flix360.com
 flixcar.com
 flowgo.com
+fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
+fls-eu.amazon-adsystem.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
 fls-eu.amazon.de
 fls-eu.amazon.es
 fls-eu.amazon.fr
 fls-eu.amazon.it
+fls-fe.amazon-adsystem.com
 fls-fe.amazon.co.jp
+fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
 flurry.com
@@ -1925,6 +1953,7 @@ mackeeper.com
 macromedia.com
 madmimi.com
 mads-eu.amazon.com
+mads.amazon-adsystem.com
 mads.amazon.com
 magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
@@ -2351,7 +2380,6 @@ pokerstrategy.com
 polldaddy.com
 polyfill.io
 pornerbros.com
-post-gazette.com
 post.spmailtechno.com
 postbanking.org
 postclickmarketing.com
@@ -2510,6 +2538,7 @@ rubicon.wellsfargo.com
 rutrk.org
 rv.furaffinity.net
 s-bid.rmp.rakuten.com
+s.amazon-adsystem.com
 s.aolcdn.com
 s.btstatic.com
 s.click.taobao.com
@@ -3176,6 +3205,11 @@ wp-stat.s3.amazonaws.com
 wpc.v0cdn.net
 ws-adv.ais.co.th
 ws-comments.ign.com
+ws-eu.amazon-adsystem.com
+ws-fe.amazon-adsystem.com
+ws-fe.assoc-amazon.com
+ws-in.amazon-adsystem.com
+ws-na.amazon-adsystem.com
 ws.126.net
 ws.batch.com
 ws.mmstat.com
