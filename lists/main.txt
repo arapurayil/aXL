@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.30
-# Last modified: 30 Jan 2022 00:18:15 UTC
+# Last modified: 30 Jan 2022 08:03:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -462,10 +462,32 @@ aarberg.spitalnetzbern.ch
 aareal-bank.com
 aarhusdyrehospital.dk
 aatkit.com
+aax-cpm.amazon-adsystem.amazon.com
+aax-cpm.amazon-adsystem.com
+aax-eu-rtb-adx.amazon-adsystem.com
+aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-fe-sin-rtb-adx.amazon-adsystem.com
+aax-fe-sin-rtb.amazon-adsystem.com
+aax-fe-sin.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
+aax-opf-us-east.amazon-adsystem.com
+aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-east-rtb-adx.amazon-adsystem.com
+aax-us-east-rtb.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
+aax-us-pdx-rtb-adx.amazon-adsystem.com
+aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
+aax-us-west.amazon-adsystem.com
+aax-us.amazon-adsystem.amazon.com
+aax-us.amazon-adsystem.com
+aax-vx-eu-eu-west-1.amazon-adsystem.com
+aax-vx-fe-us-west-2.amazon-adsystem.com
+aax-vx-us-us-east-1.amazon-adsystem.com
+aax-vx-us-us-west-2.amazon-adsystem.com
+aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
 aba-argentina.com
 aba.com
@@ -3256,7 +3278,6 @@ b-graph.facebook.com
 b-w-h.com
 b-www.facebook.com
 b.bdstatic.com
-b.catgirlsare.sexy
 b.config.skype.com
 b.engadget.com
 b.hatena.ne.jp
@@ -5625,7 +5646,6 @@ cdn.livefyre.com
 cdn.livestream.com
 cdn.loginhood.io
 cdn.mbl.is
-cdn.medicatusb.xyz
 cdn.medium.com
 cdn.meta.ndmdhs.com
 cdn.mouseflow.com
@@ -7311,7 +7331,6 @@ d.xiaomi.com
 d.yimg.com
 d0m.us
 d13itkw33a7sus.cloudfront.net
-d15k2d11r6t6rl.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d179kwmlpc4o47.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
@@ -9781,13 +9800,16 @@ flork.com
 flowershospital.com
 flowgo.com
 flowplayer.com
+fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
+fls-eu.amazon-adsystem.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
 fls-eu.amazon.de
 fls-eu.amazon.es
 fls-eu.amazon.fr
 fls-eu.amazon.it
+fls-fe.amazon-adsystem.com
 fls-fe.amazon.co.jp
 fls-na.amazon-adsystem.com
 fls-na.amazon.ca
@@ -18858,7 +18880,6 @@ portmone.com.ua
 portoseguro.com.br
 portsmouthhospital.com
 posb.com.sg
-post-gazette.com
 post.gov.tw
 post.naver.com
 post.net.playstation.net
@@ -26366,9 +26387,12 @@ ws-api.spot.im
 ws-comments.ign.com
 ws-eu.amazon-adsystem.com
 ws-eu.pusher.com
+ws-fe.amazon-adsystem.com
+ws-fe.assoc-amazon.com
 ws-feed.exchange.coinbase.com
 ws-feed.prime.coinbase.com
 ws-feed.pro.coinbase.com
+ws-in.amazon-adsystem.com
 ws-mt1.pusher.com
 ws-na.amazon-adsystem.com
 ws-zeplin.pusher.com
