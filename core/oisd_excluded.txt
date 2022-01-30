@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Jan 2022 08:03:07 UTC
+# Last modified: 30 Jan 2022 16:03:23 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -2497,6 +2497,7 @@ redventures.io
 refer.ccbill.com
 referrer.disqus.com
 relevant-digital.com
+remind.me
 reports.cliqz.com
 repository.cliqz.com
 rereddit.com
