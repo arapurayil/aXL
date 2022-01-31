@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.01.30
-# Last modified: 30 Jan 2022 16:03:24 UTC
+# Version: 3.01.31
+# Last modified: 31 Jan 2022 00:17:58 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -20005,6 +20005,7 @@ relstage-api.typekit.com
 relstage.typekit.com
 remadaro.com
 remember.to
+remind.me
 reminders-pa.googleapis.com
 remla.com
 remote-data.urbanairship.com

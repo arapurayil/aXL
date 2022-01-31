@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Jan 2022 16:03:23 UTC
+# Last modified: 31 Jan 2022 00:17:58 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1301,6 +1301,7 @@ fili.cc
 filman.tv
 filmha.top
 findglocal.com
+firebaseinstallations.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1927,6 +1928,7 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
+login-live.com-s02.net
 login.microsoftonline.us
 logrocket.com
 logs.amap.com
@@ -3253,7 +3255,6 @@ yimg.com
 ykrec.youku.com
 ynuf.aliapp.org
 ynuf.alipay.com
-yoga-sof.fr
 youbora.com
 youtube-nocookie.com
 youtube-ui.l.google.com
