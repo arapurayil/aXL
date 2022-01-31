@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.01.31
-# Last modified: 31 Jan 2022 00:17:58 UTC
+# Last modified: 31 Jan 2022 08:06:14 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9618,6 +9618,7 @@ fioniabank.dk
 fiplabcdn.com
 fir.im
 firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
 firebasestorage.googleapis.com
@@ -14864,6 +14865,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -26801,7 +26803,6 @@ ykrec.youku.com
 ynuf.aliapp.org
 ynuf.alipay.com
 yoakumhospital.org
-yoga-sof.fr
 yogh.me
 yolobank.com
 yon.ir
