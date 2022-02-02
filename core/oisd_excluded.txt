@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Feb 2022 16:08:47 UTC
+# Last modified: 02 Feb 2022 00:19:18 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -542,6 +542,7 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
+app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -2329,6 +2330,7 @@ phonecallapi.micloud.xiaomi.net
 photo.net
 phs.tanx.com
 pi.pardot.com
+piaggioaerospace.it
 piano.io
 pidorg.ru
 pigu.lt
