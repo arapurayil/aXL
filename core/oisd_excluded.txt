@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Feb 2022 00:18:13 UTC
+# Last modified: 03 Feb 2022 08:04:58 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -114,7 +114,6 @@ ac.duckduckgo.com
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
-account.herephyshy.info
 account.wire.com
 acdn.adnxs.com
 acenar.com
@@ -542,7 +541,6 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -562,7 +560,6 @@ appsumo.com
 apptimize.com
 arc.epoq.de
 armaholic.com
-armyeitaas.sharepoint-mil.us
 arstechnica.com
 art19.com
 arvetellefsen.no
@@ -864,7 +861,6 @@ clck.ru
 clck.yandex.com
 clck.yandex.com.tr
 clck.yandex.ru
-cld.pt
 clearbit.com
 cleverpush.com
 cli.gs
@@ -1903,7 +1899,6 @@ lindy.co.id
 link.p0.com
 linkev.com
 linksynergy.com
-linktr.ee
 litix.io
 live.primis.tech
 live.simcitybuildit.com
@@ -1929,8 +1924,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
-login.microsoftonline.us
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -2550,7 +2543,6 @@ s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
-s.id
 s.marketwatch.com
 s.media-imdb.com
 s.shopify.com
@@ -2748,6 +2740,7 @@ society6.com
 socket.streamable.com
 softcity.upclick.com
 softwareadvice.com
+softwarehelpdata.com
 solvemedia.com
 som.aeroplan.com
 someonewhocares.com
