@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.03
-# Last modified: 03 Feb 2022 08:04:59 UTC
+# Last modified: 03 Feb 2022 16:04:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -611,7 +611,6 @@ account.adobe.com
 account.api.here.com
 account.gotinder.com
 account.here.com
-account.herephyshy.info
 account.mi.com
 account.microsoft.com.edgekey.net
 account.np.ac.playstation.net
@@ -2726,7 +2725,6 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
-app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -2877,7 +2875,6 @@ armedforcesinternet.com
 armmf.adobe.com
 arms-retcode.aliyuncs.com
 army.mil
-armyeitaas.sharepoint-mil.us
 arnoldpalmerhospital.org
 arrakis.es
 arrowfinancial.com
@@ -6260,7 +6257,6 @@ clck.ru
 clck.yandex.com
 clck.yandex.com.tr
 clck.yandex.ru
-cld.pt
 cleancss.com
 cleaner.daum.net
 clear.com.br
@@ -14867,7 +14863,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -21826,6 +21821,7 @@ software-download.microsoft.com
 software.naver.com
 software.sonymobile.com
 softwareadvice.com
+softwarehelpdata.com
 sogou.com
 sohu.com
 soku.com
