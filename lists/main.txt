@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.04
-# Last modified: 04 Feb 2022 00:17:17 UTC
+# Last modified: 04 Feb 2022 08:02:20 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -22804,7 +22804,6 @@ stats.channel4.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
-stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
 stats.streamelements.com
@@ -24726,7 +24725,6 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 usa.gov
@@ -26856,7 +26854,6 @@ youvisit.com
 youxi.baidu.com
 yoyo.org
 yoyo.pl
-ypu.edu.tw
 yql.yahoo.com
 yrmc.org
 ysear.ch
