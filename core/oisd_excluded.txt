@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Feb 2022 16:04:05 UTC
+# Last modified: 04 Feb 2022 00:17:17 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -115,6 +115,7 @@ accengage.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
+accounts.pkr.com.invalid
 acdn.adnxs.com
 acenar.com
 ackcdn.net
@@ -1500,6 +1501,7 @@ hastebin.com
 hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
+hbbtv-1.eurosport.com
 hbbtv.3sat.de
 hbbtv.kabeleins.de
 hbbtv.mediaset.net
@@ -1868,6 +1870,7 @@ kqzyfj.com
 kredytbank.com.ua
 krxd.net
 kryptoslogic.com
+kutt.it
 l.betrad.com
 l.doubleclick.net
 l.qq.com
@@ -2069,6 +2072,7 @@ msftncsi.com
 msgfocus.com
 msh.amazon.co.uk
 msh.amazon.com
+multiscreen.samsung.com
 multiscreensite.com
 muzeeum.nl
 mx.technolutions.net
@@ -2696,6 +2700,7 @@ singular.net
 sinlix.lk
 site5.com
 siteplug.com
+sitestat.com
 sitetracker.com
 skepticalscience.com
 skidrow-games.com
@@ -2800,7 +2805,6 @@ static.ws.126.net
 staticxx.facebook.com
 stats.adobe.com
 stats.gc.apple.com
-stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
 stats.t-online.de
@@ -3073,7 +3077,6 @@ us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 usabilla.com
 usage.trackjs.com
@@ -3184,6 +3187,7 @@ wieistmeineip.de
 wifi.com
 wifiapi.micloud.xiaomi.net
 wildtangent.com
+win8.ipv6.microsoft.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 windows.net
@@ -3257,7 +3261,6 @@ youtube-ui.l.google.com
 youtube.de
 youvisit.com
 youxi.baidu.com
-ypu.edu.tw
 yt3.ggpht.com
 yt4.ggpht.com
 yui.yahooapis.com
