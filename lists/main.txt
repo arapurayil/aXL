@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.05
-# Last modified: 05 Feb 2022 00:14:51 UTC
+# Last modified: 05 Feb 2022 08:02:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -409,6 +409,7 @@ a.nonstoppartner.net
 a.nytimes.com
 a.ooyala.com
 a.pomf.cat
+a.pomf.su
 a.pr-cy.ru
 a.realsrv.com
 a.run.app
@@ -611,6 +612,7 @@ account.adobe.com
 account.api.here.com
 account.gotinder.com
 account.here.com
+account.herephyshy.info
 account.mi.com
 account.microsoft.com.edgekey.net
 account.np.ac.playstation.net
@@ -1189,6 +1191,7 @@ afraid.org
 afreximbank.com
 africa.pool.ntp.org
 africanbank.co.za
+afrobarometer.org
 afroterminal.com
 afs.org.uk
 afsbonline.com
@@ -2639,6 +2642,7 @@ api4.origin.com
 api5.origin.com
 apicache.vudu.com
 apihub.daum.net
+apiit.edu.my
 apilocate.amap.com
 apimobile.lifelog.sonymobile.com
 apis.daum.net
@@ -2725,6 +2729,7 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
+app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -3072,6 +3077,7 @@ atlasbank.com
 atlassbx.com
 atlassian.com
 atlassian.net
+atmos.ucla.edu
 atomz.com
 atspace.com
 att.com
@@ -3329,6 +3335,7 @@ baft.org
 bagas31.info
 bagoo.com
 bahiabank.com.br
+bahnhof-rehagen.de
 bahu.com
 bai.org
 baid.us
@@ -5258,6 +5265,7 @@ canyoublockit.com
 cap.cyberlink.com
 capebretonpost.com
 capehawkehospital.com.au
+capesandbox.com
 capfed.com
 capi-cn.ssl-images-amazon.com
 capi-eu.ssl-images-amazon.com
@@ -8082,6 +8090,7 @@ dot.westus.pi-dns.com
 dotcomsecrets.com
 doteasy.com
 dotellall.com
+dotnetdays.ro
 dotomi.com
 doubanio.com
 doubleclick.net
@@ -8194,6 +8203,7 @@ drive.google.com
 drive.mobisystems.com
 driveapi.micloud.xiaomi.net
 drivereasy.com
+driverfix.com
 drivetech.net
 drivethelife.com
 drk-chemnitz.de
@@ -8820,6 +8830,7 @@ encrypted-tbn0.gstatic.com
 endic.naver.com
 endpoint1.collection.eu.sumologic.com
 endpoint1.collection.sumologic.com
+energizect.com
 energized.pro
 energystar.gov
 enews.techrepublic.com
@@ -9219,7 +9230,6 @@ f002.backblazeb2.com
 f1.g.mi.com
 f1.media.brightcove.com
 f2.g.mi.com
-f5.market.xiaomi.com
 fa.gravatar.com
 fa.wikipedia.com
 fabric.io
@@ -9616,6 +9626,7 @@ fioniabank.dk
 fiplabcdn.com
 fir.im
 firebase-settings.crashlytics.com
+firebasedynamiclinks.googleapis.com
 firebaseinstallations.googleapis.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
@@ -10490,6 +10501,7 @@ gekko.spiceworks.com
 gelbooru.com
 gelderlander.nl
 geldwaesche-seminare.de
+geller-pa.googleapis.com
 gelnhausen.de
 gelon.de
 gematsu.com
@@ -13379,6 +13391,7 @@ itau.com.br
 itau.com.py
 itch.io
 ite.net
+itelligent.nl
 item.kakao.com
 item.mi.com
 item.taobao.com
@@ -13840,6 +13853,7 @@ kib-banka.com.ba
 kickass.cd
 kickass.to
 kickstarter.com
+kiddostoysclub.com
 kids.gov
 kidsfootlocker.com
 kieler-volksbank.de
@@ -14036,6 +14050,7 @@ koeln-kh-augustinerinnen.de
 kohls.com
 kokobank.com
 kokomopostofficecu.com
+kolabsys.com
 komachi.yomiuri.co.jp
 kombank.com
 kommunalkredit.at
@@ -14459,6 +14474,7 @@ leaseweb.com
 leben.org
 leboutique.com
 lechbank.com
+ledgernote.com
 ledgerwallet.com
 ledyardbank.com
 leeds.gov.uk
@@ -14863,6 +14879,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15161,6 +15178,7 @@ mak.com
 make.my
 making.vimeo.com
 mal.ly
+malaya.com.ph
 malayanbank.com
 malc0de.com
 malekal.com
@@ -15446,6 +15464,7 @@ mdbankers.com
 mdhospitals.org
 mdidesign.ca
 mdihospital.org
+mdis.uz
 mdl29.net
 mdmba.org
 mdmbank.ru
@@ -16361,6 +16380,7 @@ multiscreensite.com
 multistream.tv
 multiup.org
 multiupload.com
+multiview.com
 mundofotos.net
 munidraugi.lv
 mup.amp.mcafee.com
@@ -17474,6 +17494,7 @@ oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 oenb.at
 oevag.com
+ofb.uz
 ofc.ru
 ofcm.gov
 ofd.yandex.ru
@@ -17638,6 +17659,7 @@ onfastspring.com
 onguardonline.gov
 onhax.me
 onhax.net
+oniongames.jp
 onionriveranimalhospital.com
 online-banking.hsbc.com.ar
 online-metrix.net
@@ -18519,6 +18541,7 @@ pgna.gr
 pgyer.com
 ph-in-f14.1e100.net
 ph.ly
+phaetus.com
 phatthalung.go.th
 phenix-girard.com
 phenixcable.net
@@ -18617,6 +18640,7 @@ pinterest.de
 pinterest.es
 pinterest.jp
 pinterest.se
+pioneer-audiovisual.eu
 pioneerbankandtrust.com
 pioneerbankstl.com
 pioneersb.com
@@ -21185,6 +21209,7 @@ sematext.com
 semawur.com
 sembank.ru
 semnan.ac.ir
+semnaniau.ac.ir
 semrush.com
 senate.gov
 senator.ru
@@ -21631,6 +21656,7 @@ slides.diigo.com
 slideshare.com
 slideshare.net
 slike.indiatimes.com
+slimpuls.nl
 slimroms.net
 slingshot.co.nz
 sliptalk.com
@@ -22991,6 +23017,7 @@ stpatrickhospital.org
 stpetes.org
 stptrisakti.ac.id
 str.hit.gemius.pl
+stradeanas.it
 straitstimes.com
 strangled.net
 strat.ru
@@ -23536,6 +23563,7 @@ telemetry-incoming.r53-2.services.mozilla.com
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
 telemetry.api.swiftkey.com
+telemetry.gfe.nvidia.com
 telemetry.insights.video.a2z.com
 telemetry.microsoft.com
 telemetry.mozilla.org
@@ -23708,6 +23736,7 @@ thepeoples.com
 thepiratebay.org
 thepiratebay.se
 theporndude.com
+theraleighregister.com
 therebel.media
 theregister.co.uk
 thesa.us
@@ -23766,6 +23795,7 @@ tidebuy.com
 tier1net.com
 tier2.ios.skypeassets.com
 tifafinance.co.id
+tigase.net
 tigger-citadel.touchtype-fluency.com
 tiistenjoenop.fi
 tikker.emta.ee
@@ -24075,6 +24105,7 @@ treezip.baofeng.net
 trello.com
 tremor.com
 trezor.io
+tria.ge
 trial-sport.ru
 trial.alcohol-soft.com
 trial.api.huangye.miui.com
@@ -24367,6 +24398,7 @@ uedna.com
 ufa.wifi.domru.ru
 ufb-ffed.com
 ufcfightclub.com
+ufrpe.br
 ufscla.org
 ug.cz
 ugbi.ro
@@ -24799,6 +24831,7 @@ usphs.gov
 uspis.gov
 usps.com
 usps.gov
+usrfiles.com
 ust.chatango.com
 ustream.tv
 ustreas.gov
@@ -25215,6 +25248,7 @@ viewlift.com
 viewpoint.com
 viglink.com
 vigoda.ru
+vih.org
 vijayabank.com
 viki.com
 village-animal-hospital.com
@@ -25872,6 +25906,7 @@ watchdog-spark.energized.pro
 watchdog-ultimate.energized.pro
 watchdog-unified.energized.pro
 watchdog.net.nz
+watchdogdns.duckdns.org
 waterburyhospital.org
 watertownanimalhospital.com
 watrust.com
