@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Feb 2022 16:03:31 UTC
+# Last modified: 05 Feb 2022 00:14:51 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -68,6 +68,7 @@ a.kickass.to
 a.klaviyo.com
 a.nonstoppartner.net
 a.pomf.cat
+a.pomf.su
 a.pr-cy.ru
 a.realsrv.com
 a.wishabi.com
@@ -114,6 +115,7 @@ ac.duckduckgo.com
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
+account.herephyshy.info
 account.wire.com
 accounts.pkr.com.invalid
 acdn.adnxs.com
@@ -416,6 +418,7 @@ affex.org
 affiliate.dmm.com
 affiliatefuture.com
 afilo.pl
+afrobarometer.org
 agacelebir.com
 agkn.com
 ahd.ruten.com.tw
@@ -432,6 +435,7 @@ akvideo.stream
 al.dmm.co.jp
 alawar.com
 alb.reddit.com
+alepuniv.edu.sy
 alexa.com
 algolia.com
 alicdn.com
@@ -440,6 +444,7 @@ alitems.com
 aliyuncs.com
 alltheinternet.com
 alpari.ru
+alphadomus.co.nz
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amdc.m.taobao.com
@@ -524,6 +529,7 @@ api.xmpush.xiaomi.com
 api2.branch.io
 api3.siftscience.com
 api16-access-sg.pangle.io
+apiit.edu.my
 apilocate.amap.com
 apis.google.com
 apiservices.krxd.net
@@ -542,6 +548,7 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
+app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -581,6 +588,7 @@ atharori.net
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati-host.net
 atlassbx.com
+atmos.ucla.edu
 atspace.com
 attraqt.com
 audid-api.taobao.com
@@ -625,6 +633,7 @@ babyneeds.ro
 backtrack-linux.org
 badges-content.teamspeak.com
 badoo.com
+bahnhof-rehagen.de
 bam-x.com
 bam.eu01.nr-data.net
 bannerbank.com
@@ -760,6 +769,7 @@ cafeomai.com.au
 calendar.fontanka.ru
 campaign.adobe.com
 canadapharmacy.com
+capesandbox.com
 care2.com
 carvertical.com
 cbox.ws
@@ -826,6 +836,7 @@ cdnapi.kaltura.com
 cdnjs.tvpage.com
 cdns.gigya.com
 cdnstatic.detik.com
+cec.ro
 cedexis.com
 cedexis.net
 certona.net
@@ -1115,6 +1126,7 @@ djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.downloadly.ir
 dldir1.qq.com
+dlink.com.br
 dls.di.atlas.samsung.com
 dlvr.t-online.de
 dmd.metaservices.microsoft.com
@@ -1133,6 +1145,7 @@ dolphincdn.xyz
 domain.com
 donorschoose.org
 dopc.cz
+dotnetdays.ro
 dotomi.com
 doubleclick.net
 doublepimp.com
@@ -1154,6 +1167,7 @@ dpstatic.com
 dpu.samsungelectronics.com
 drift.com
 driftt.com
+driverfix.com
 drivethelife.com
 drm-pr-us.crackle.com
 drp.su
@@ -1212,6 +1226,7 @@ emkei.cz
 emoji.redditmedia.com
 emptyloop.com
 endpoint1.collection.eu.sumologic.com
+energizect.com
 engage.com
 engage.windows.com
 engine.phn.doublepimp.com
@@ -1276,7 +1291,6 @@ extreme-ip-lookup.com
 ezoic.net
 f-log-at.grammarly.io
 f1.g.mi.com
-f5.market.xiaomi.com
 fabric.io
 fairyseason.com
 faktor.io
@@ -1292,6 +1306,7 @@ feature.fm
 feedblitz.com
 feedsportal.com
 fembed.com
+femto.pw
 ffdns.net
 file.market.xiaomi.com
 filehorse.com
@@ -1300,6 +1315,7 @@ fili.cc
 filman.tv
 filmha.top
 findglocal.com
+firebasedynamiclinks.googleapis.com
 firebaseinstallations.googleapis.com
 fireflyengagement.com
 fishki.net
@@ -1384,6 +1400,7 @@ gayly.ru
 gc.zgo.at
 gcp.api.snapchat.com
 gecko-sg.byteoversea.com
+geller-pa.googleapis.com
 gelnhausen.de
 gemius.pl
 generals.ea.com
@@ -1806,6 +1823,7 @@ isgprivacy.cbsi.com
 islandmob.com
 isnssdk.com
 ist-track.com
+itelligent.nl
 iterable.com
 itsfogo.com
 itv.ard.de
@@ -1822,6 +1840,7 @@ javbooks.com
 jdoqocy.com
 jesuswalk.com
 jiathis.com
+jiit.ac.in
 jimdo.com
 jivox.com
 journity.com
@@ -1848,11 +1867,13 @@ katcr.to
 kauth.kakao.com
 kaxsdc.com
 keepvid.com
+kemsos.go.id
 kepler.jd.com
 keshefoundation.org
 keylane.com
 kharkov.ua
 kickass.cd
+kiddostoysclub.com
 kiev.ua
 kiks.yandex.ru
 kiks.yandex.ua
@@ -1864,6 +1885,7 @@ klclick1.com
 ko.wowhead.com
 kochava.com
 kodu.neti.ee
+kolabsys.com
 komachi.yomiuri.co.jp
 kount.com
 kqzyfj.com
@@ -1887,6 +1909,7 @@ lcprd2.samsungcloudsolution.net
 leadpages.net
 leakreality.com
 leanplum.com
+ledgernote.com
 legalterms.cbsinteractive.com
 lever-analytics.com
 lexatrade.com
@@ -1927,6 +1950,7 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
+login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -1962,6 +1986,7 @@ mail.keshefoundation.org
 mailerlite.com
 mailfoogae.appspot.com
 mairdumont.com
+malaya.com.ph
 mallgroup.com
 manga-news.com
 mangler3.generals.ea.com
@@ -1991,6 +2016,7 @@ maxcdn.bootstrapcdn.com
 maxmind.com
 mc.yandex.ru
 md-nx.com
+mdis.uz
 media.complex.com
 media.expedia.com
 media.richrelevance.com
@@ -2074,6 +2100,7 @@ msh.amazon.co.uk
 msh.amazon.com
 multiscreen.samsung.com
 multiscreensite.com
+multiview.com
 muzeeum.nl
 mx.technolutions.net
 mx.yandex.ru
@@ -2136,6 +2163,7 @@ nitrogensports.eu
 njih.net
 nl.sitestat.com
 nllapps.com
+nlrb.gov
 nocdnrlly.xyz
 non.li
 nonstoppartner.net
@@ -2185,6 +2213,7 @@ odindownload.com
 odinpc.com
 oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
+ofb.uz
 offers-api.cliqz.com
 offspring.co.uk
 ogury.io
@@ -2237,6 +2266,7 @@ onelink.me
 onenetworkdirect.net
 onesignal.com
 onetrust.com
+oniongames.jp
 online-metrix.net
 online.adservicemedia.dk
 ooyala.com
@@ -2321,6 +2351,7 @@ perfdrive.com
 performgroup.com
 perr.h-cdn.com
 pf.intuit.com
+phaetus.com
 phatthalung.go.th
 phonearena.com
 phonecallapi.micloud.xiaomi.net
@@ -2341,6 +2372,7 @@ pings.conviva.com
 pinnacle.com
 pinnaclesports.com
 pinpoll.com
+pioneer-audiovisual.eu
 pipe.aria.microsoft.com
 piwik.org
 pixel.everesttech.net
@@ -2648,6 +2680,7 @@ segpay.com
 self.events.data.microsoft.com
 sematext.com
 semawur.com
+semnaniau.ac.ir
 sendibt2.com
 sendibt3.com
 sensic.net
@@ -2674,6 +2707,7 @@ sfsapi.micloud.xiaomi.net
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
+share.dmca.gripe
 shareaholic.com
 shareasale.com
 sharethis.com
@@ -2700,7 +2734,6 @@ singular.net
 sinlix.lk
 site5.com
 siteplug.com
-sitestat.com
 sitetracker.com
 skepticalscience.com
 skidrow-games.com
@@ -2709,6 +2742,7 @@ skimresources.com
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
 slike.indiatimes.com
+slimpuls.nl
 sliptalk.com
 sls.update.microsoft.com.akadns.net
 sludini.lv
@@ -2730,6 +2764,7 @@ smetrics.santander.co.uk
 smi2.ru
 smileycentral.com
 smljmp.com
+smll.co
 smoot.apple.com
 smp.sankei.co.jp
 snap.com
@@ -2822,6 +2857,7 @@ storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stormgain.com
 stptrisakti.ac.id
+stradeanas.it
 streamate.com
 streaming.adswizz.com
 streamlike.com
@@ -2910,6 +2946,7 @@ tekweis.com
 telecommand.telemetry.microsoft.com
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
+telemetry.gfe.nvidia.com
 telemetry.insights.video.a2z.com
 telemetry.microsoft.com
 telemetry.mozilla.org
@@ -2921,12 +2958,14 @@ thebrighttag.com
 thecounter.com
 theepochtimes.com
 theintelligencer.com
+theraleighregister.com
 theync.com
 thirdparty.bnc.lt
 thomsonplaza.com.sg
 tickcounter.com
 tickle.com
 tidebuy.com
+tigase.net
 tile-service.weather.microsoft.com
 time.samsungcloudsolution.com
 tiny.cc
@@ -2997,6 +3036,7 @@ travelzoo.com
 trbna.com
 trbo.com
 treehousei.com
+tria.ge
 trial.api.huangye.miui.com
 trib.al
 triggers.wfxtriggers.com
@@ -3025,6 +3065,7 @@ u.cubeupload.com
 u.teknik.io
 uamobile.net
 uarating.com
+ub.edu.ph
 ublock.org
 uca.cloud.unity3d.com
 ucam.me
@@ -3033,6 +3074,7 @@ udec.cl
 udimg.com
 udm.scorecardresearch.com
 ue.flipboard.com
+ufrpe.br
 ui.skype.akadns.net
 ui.skype.com
 uib.ff.avast.com
@@ -3052,6 +3094,7 @@ unid.go.com
 unikrn.com
 unionbanknig.com
 uniregistry.com
+unitedbike.com
 unity.com
 unity3d.com
 untd.com
@@ -3089,6 +3132,7 @@ users.atw.hu
 users.on.net
 users.telenet.be
 usher.ttvnw.net
+usrfiles.com
 ust.chatango.com
 utility.rogersmedia.com
 uzreklam.com
@@ -3129,6 +3173,7 @@ vidoza.net
 vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
+vih.org
 vilynx.com
 vis.vi-serve.com
 visit.digidip.net
@@ -3157,6 +3202,7 @@ wallpapers.com
 wallstreetcn.com
 warnerbros.112.2o7.net
 watch-jav.com
+watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
@@ -3280,6 +3326,7 @@ ziffdavis.com
 zip.net
 zipansion.com
 zola.com
+zoo.sandiegozoo.org
 zopim.com
 zorpia.com
 ztd.dds.microsoft.com
