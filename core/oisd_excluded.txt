@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Feb 2022 16:02:16 UTC
+# Last modified: 06 Feb 2022 00:22:34 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -548,7 +548,6 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -1217,7 +1216,6 @@ ellation.map.fastly.net
 eloqua.com
 email-clk.adguard.com
 email.uber.com
-embed.comicbook.com
 embed.mystream.to
 embed.tawk.to
 embed.windy.com
@@ -1950,7 +1948,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
