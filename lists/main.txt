@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.06
-# Last modified: 06 Feb 2022 00:22:34 UTC
+# Last modified: 06 Feb 2022 08:02:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2729,7 +2729,6 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
-app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -8769,7 +8768,6 @@ emarsys.com
 emb.spb.ru
 embed-fastly.wistia.com
 embed.actionbutton.co
-embed.comicbook.com
 embed.flowplayer.org
 embed.ly
 embed.mystream.to
@@ -14879,7 +14877,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -20075,6 +20072,7 @@ researchgate.net
 researchintel.com
 researchnow.co.uk
 researchnow.com
+reseau-canope.fr
 reseller.adobe.com
 reseller.hide.me
 resellerclub.com
