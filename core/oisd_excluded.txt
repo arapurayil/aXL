@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Feb 2022 08:02:43 UTC
+# Last modified: 06 Feb 2022 16:02:38 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -452,7 +452,6 @@ americanlisted.com
 amishcountryfurnishings.com
 amplitude.com
 ams.keshefoundation.org
-ams3.digitaloceanspaces.com
 amway.com
 an.yandex.ru
 analytics.edgekey.net
@@ -542,7 +541,6 @@ app.adjust.io
 app.adjust.net.in
 app.any.run
 app.appsflyer.com
-app.box.com
 app.bronto.com
 app.chat.xiaomi.net
 app.getresponse.com
@@ -550,7 +548,6 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -817,7 +814,6 @@ cdn.rlcdn.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
-cdn.shopify.com
 cdn.sift.com
 cdn.siftscience.com
 cdn.streamlike.com
@@ -854,6 +850,7 @@ cftrack.com
 cfvod.kaltura.com
 ch0p.darty.com
 channeladvisor.com
+chat-assets.frontapp.com
 chatango.com
 check.ddos-guard.net
 chicago2.vip.townnews.com
@@ -959,7 +956,6 @@ config.uca.cloud.unity3d.com
 configprd.samsungcloudsolution.net
 configuration-vending.service.amazonsilk.com
 confirmit.com
-confirmsubscription.com
 conn.skype.com
 connect.facebook.com
 connect.facebook.net
@@ -1142,7 +1138,6 @@ dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 do-not-tracker.org
 docs.bugsnag.com
-docsend.com
 doctortro.com
 documentingreality.com
 dodge-forum.eu
@@ -1173,7 +1168,6 @@ dpstatic.com
 dpu.samsungelectronics.com
 drift.com
 driftt.com
-drive.google.com
 driverfix.com
 drivethelife.com
 drm-pr-us.crackle.com
@@ -1310,7 +1304,6 @@ fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 feature.fm
 feedblitz.com
-feeds.feedburner.com
 feedsportal.com
 fembed.com
 femto.pw
@@ -1324,7 +1317,6 @@ filmha.top
 findglocal.com
 firebasedynamiclinks.googleapis.com
 firebaseinstallations.googleapis.com
-firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1336,8 +1328,6 @@ flipp.com
 flirt.com
 flix360.com
 flixcar.com
-flow.page
-flowcode.com
 flowgo.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
@@ -1365,18 +1355,14 @@ fonts.net
 footprints-pa.googleapis.com
 forcepoint.com
 ford.to
-form.123formbuilder.com
 formcrafts.com
 forms.convertkit.com
-forms.gle
-forms.office.com
 forter.com
 fourier.taobao.com
 foxnews.demdex.net
 fpt.microsoft.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
-fra1.digitaloceanspaces.com
 frameip.com
 freegeoip.app
 freegeoip.net
@@ -1442,7 +1428,6 @@ getblueshift.com
 getdrip.com
 getroman.com
 gfe.nvidia.com
-gg.gg
 gg.google.com
 ghbtns.com
 ghostery-collector.ghostery.com
@@ -1464,7 +1449,6 @@ gm.mmstat.com
 go-mpulse.net
 go.pardot.com
 go.redirectingat.com
-go.skimresources.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
@@ -1849,7 +1833,6 @@ iwin.com
 iww.ca
 izeselet.hu
 j.gs
-j.mp
 jaleco.com
 janrain.com
 japantv.club
@@ -1953,7 +1936,6 @@ liveperson.net
 livetex.ru
 liveupdate.mac.sandai.net
 ll.a.hulu.com
-lnkd.in
 lnks.gd
 localytics.com
 lofter.com
@@ -1968,7 +1950,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -2442,7 +2423,6 @@ powr.io
 powvideo.net
 ppcprotect.com
 ppro.de
-ppt.cc
 ppurifier.game.xiaomi.com
 pr-cy.ru
 pr0gramm.com
@@ -2503,7 +2483,6 @@ q4mn.adj.st
 qksrv.net
 ql.tc
 qmerce.com
-qrco.de
 quainator.com
 quantcast.mgr.consensu.org
 quantserve.com
@@ -2511,7 +2490,6 @@ quantummetric.com
 quartic.pl
 questionpro.com
 quiddity.goguardian.com
-quip.com
 quttera.com
 qzonestyle.gtimg.cn
 qzs.qq.com
@@ -2528,7 +2506,6 @@ rapidvideo.com
 raxco.com
 rayfile.com
 rayli.com.cn
-rb.gy
 rbc.ua
 rbx.gg
 rd.rakuten.co.jp
@@ -2602,7 +2579,6 @@ s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
-s.id
 s.marketwatch.com
 s.media-imdb.com
 s.shopify.com
@@ -2753,7 +2729,6 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
-simp.ly
 simply.com
 simplyhired.com
 sinajs.cn
@@ -2812,6 +2787,7 @@ softwarehelpdata.com
 solvemedia.com
 som.aeroplan.com
 someonewhocares.com
+somni.huk.de
 soo.gd
 soo.sg
 soundofhope.org
@@ -2878,7 +2854,6 @@ stereomag.ro
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
-storage.cloud.google.com
 store-stc.zdn.vn
 store.keshefoundation.org
 store.qq.com
@@ -3092,7 +3067,6 @@ typeform.com
 typekit.net
 u.cubeupload.com
 u.teknik.io
-u.to
 uamobile.net
 uarating.com
 ub.edu.ph
@@ -3167,7 +3141,6 @@ ust.chatango.com
 utility.rogersmedia.com
 uzreklam.com
 v.fwmrm.net
-v.ht
 v.shopify.com
 v2.zopim.com
 v2html.atm.youku.com
@@ -3218,7 +3191,6 @@ vortex.data.glbdns2.microsoft.com
 vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
-vr-banking-app.de
 vserv.bc.cdn.bitgravity.com
 vur.me
 vv.video.qq.com
