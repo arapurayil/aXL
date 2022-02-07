@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.06
-# Last modified: 06 Feb 2022 16:02:38 UTC
+# Version: 3.02.07
+# Last modified: 07 Feb 2022 00:18:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2137,7 +2137,6 @@ ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams.keshefoundation.org
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -2730,7 +2729,6 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
-app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -5964,6 +5962,7 @@ chartersavingsbank.co.uk
 charts.profinance.ru
 chase.com
 chasecanada.ca
+chat-assets.frontapp.com
 chat-gateway-prod.chat.snapchat.com
 chat-gateway000-prod.chat.snapchat.com
 chat-gateway001-prod.chat.snapchat.com
@@ -6786,7 +6785,6 @@ configs.nabstudio.com
 configuration-vending.service.amazonsilk.com
 configuration.apple.com.akadns.net
 confirmit.com
-confirmsubscription.com
 confraternitaet.at
 conn.skype.akadns.net
 conn.skype.com
@@ -8027,7 +8025,6 @@ docs.prime.coinbase.com
 docs.pro.coinbase.com
 docs.snapchat.com
 docs.vuukle.com
-docsend.com
 doctor.ndtv.com
 doctorpk.mywibes.com
 doctorshospitaldallas.com
@@ -9810,8 +9807,6 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
-flow.page
-flowcode.com
 flowershospital.com
 flowgo.com
 flowplayer.com
@@ -9976,7 +9971,6 @@ foreningssparbanken.se
 foresee.com
 foreseeresults.com
 forex.se
-form.123formbuilder.com
 form.jotform.com
 form.office.naver.com
 formcrafts.com
@@ -10120,7 +10114,6 @@ fr.statcounter.com
 fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
-fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -14886,7 +14879,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -19403,7 +19395,6 @@ qqc.co
 qr-code-generator.com
 qr.ae
 qr.net
-qrco.de
 qrs.ly
 qrtag.fr
 qsc.de
@@ -19432,7 +19423,6 @@ quick.bankvl.ru
 quiddity.goguardian.com
 quik.psbank.ru
 quincyhospital.org
-quip.com
 quiubi.it
 quizilla.com
 quizlet.com
@@ -19816,7 +19806,6 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
-rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -21522,7 +21511,6 @@ simasfinance.co.id
 similarweb.com
 simivalleyhospital.com
 simmonsfirst.com
-simp.ly
 simple.com
 simple.wikipedia.com
 simplehosting.ch
@@ -21887,6 +21875,7 @@ somalibuzz.com
 someonewhocares.com
 someonewhocares.org
 somersetsavings.com
+somni.huk.de
 sonic.net
 sonico.com
 sonicocnt.com
@@ -22971,7 +22960,6 @@ stopalcoholabuse.gov
 stopfraud.gov
 stopklatka.pl
 stopmortgagefraud.com
-storage.cloud.google.com
 storage.engadget.com
 storage.googleapis.com
 storage.l.googleusercontent.com
@@ -25669,7 +25657,6 @@ vr-bank-passau.de
 vr-bank-stuttgart.de
 vr-bank-sw.de
 vr-bank-wuerzburg.de
-vr-banking-app.de
 vr-banknordeifel.de
 vr-bankverein.de
 vr-bayernmitte.de
