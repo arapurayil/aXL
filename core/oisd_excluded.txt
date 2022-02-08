@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Feb 2022 00:18:03 UTC
+# Last modified: 08 Feb 2022 08:04:16 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -548,13 +548,11 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
 appbrain.com
 appcast.io
-appcenter.ms
 appier.com
 appletoolbox.com
 appmetrica.yandex.com
@@ -1316,7 +1314,6 @@ fili.cc
 filman.tv
 filmha.top
 findglocal.com
-firebasedynamiclinks.googleapis.com
 firebaseinstallations.googleapis.com
 fireflyengagement.com
 fishki.net
@@ -1785,7 +1782,6 @@ instana.io
 instantmessaging-pa.googleapis.com
 instapage.com
 intelliad.de
-inter.71edge.com
 intercom.com
 intergi.com
 internal.unity3d.com
@@ -1825,7 +1821,6 @@ islandmob.com
 isnssdk.com
 ist-track.com
 itelligent.nl
-iterable.com
 itsfogo.com
 itv.ard.de
 iubenda.com
@@ -1951,7 +1946,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -2607,7 +2601,6 @@ safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 safebrowsing-cache.google.com
 safebrowsing.google.com
-safebrowsing.googleapis.com
 sail-horizon.com
 sailthru.com
 sakura.goguardian.com
@@ -2786,7 +2779,6 @@ socket.streamable.com
 softcity.upclick.com
 softwareadvice.com
 softwarehelpdata.com
-solvemedia.com
 som.aeroplan.com
 someonewhocares.com
 somni.huk.de
@@ -3198,7 +3190,6 @@ vur.me
 vv.video.qq.com
 vz-cdn.trafficjunky.net
 vz-cdn2.adtng.com
-w1.hoopchina.com.cn
 w2xg.com
 w88.espn.com
 waaw.to
