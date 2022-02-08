@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.08
-# Last modified: 08 Feb 2022 08:04:16 UTC
+# Last modified: 08 Feb 2022 16:04:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2729,7 +2729,6 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
-app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -2755,7 +2754,6 @@ appboy-images.com
 appbrain.com
 appc.baidu.com
 appcast.io
-appcenter.ms
 appcloud.ironbeast.io
 appdown.naver.com
 appengine.google.com
@@ -9627,7 +9625,6 @@ fioniabank.dk
 fiplabcdn.com
 fir.im
 firebase-settings.crashlytics.com
-firebasedynamiclinks.googleapis.com
 firebaseinstallations.googleapis.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
@@ -13138,7 +13135,6 @@ intelink.gov
 intellectmoney.ru
 intelleq.net
 intelliad.de
-inter.71edge.com
 inter.com.ve
 inter.net
 inter.youdao.com
@@ -13396,7 +13392,6 @@ itelligent.nl
 item.kakao.com
 item.mi.com
 item.taobao.com
-iterable.com
 itimes.com
 itiny.industrialbank.ua
 itknowledgeexchange.techtarget.com
@@ -14880,7 +14875,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -25810,7 +25804,6 @@ w.m.taobao.com
 w.org
 w.soundcloud.com
 w.x.sndcdn.com
-w1.hoopchina.com.cn
 w1.sndcdn.com
 w1.web.whatsapp.com
 w1p.fr
