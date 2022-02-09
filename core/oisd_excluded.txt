@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Feb 2022 16:04:01 UTC
+# Last modified: 09 Feb 2022 00:17:49 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -914,6 +914,7 @@ cliqz.com
 clk.boulanger.com
 clk.tradedoubler.com
 clkuk.tradedoubler.com
+cloom.com
 cloud.rovio.com
 cloud.unity3d.com
 cloudflareinsights.com
@@ -1373,6 +1374,7 @@ fs.microsoft.com
 ftp.byethost11.com
 ftp.drivehq.com
 ftpcontent.worldnow.com
+fund.10jqka.com.cn
 fundingchoicesmessages.google.com
 funshion.com
 fus.lenovomm.com
@@ -2720,6 +2722,7 @@ shopperapproved.com
 shopzilla.com
 shorte.st
 shortpixel.ai
+showscale.com
 sibforms.com
 sickrage.ca
 sift.com
