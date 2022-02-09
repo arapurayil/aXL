@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.09
-# Last modified: 09 Feb 2022 00:17:50 UTC
+# Last modified: 09 Feb 2022 08:06:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6414,6 +6414,7 @@ clkuk.tradedoubler.com
 cloakhost.com
 clog-aggregator.kakao.com
 cloob.com
+cloom.com
 cloud.google.com
 cloud.gov
 cloud.gsdk.proximabeta.com
@@ -10296,6 +10297,7 @@ fult.com
 fultonbank.com
 fun.to
 funatsu-animal-hospital.com
+fund.10jqka.com.cn
 fund.jr.mi.com
 funda.nl
 funda.nl.kpnis.nl
@@ -21446,6 +21448,7 @@ shortpixel.ai
 shots.snap.com
 showbox-tr.dropbox.com
 shownieuws.nl
+showscale.com
 shpd.motivtelecom.ru
 shrd.fncstatic.com
 shropshire-cc.gov.uk
