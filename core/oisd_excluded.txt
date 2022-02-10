@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Feb 2022 00:19:44 UTC
+# Last modified: 10 Feb 2022 08:05:29 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -548,6 +548,7 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
+app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -769,7 +770,6 @@ campaign.adobe.com
 canadapharmacy.com
 capesandbox.com
 care2.com
-cartoonresearch.com
 carvertical.com
 cbox.ws
 cbs.wondershare.com
@@ -1048,6 +1048,7 @@ d1oxlq5h9kq8q5.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
+d2cmedia.ca
 d2e0sxz09bo7k2.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
@@ -1058,6 +1059,7 @@ d3dy5gmtp8yhk7.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
 d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
+d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 d26b395fwzu5fz.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d179kwmlpc4o47.cloudfront.net
@@ -1237,6 +1239,7 @@ ep00.epimg.net
 epizy.com
 epl.paypal-communication.com
 epsilon.com
+eq.10jqka.com.cn
 err.lolipop.jp
 err.taobao.com
 error.fc2.com
@@ -1265,6 +1268,7 @@ events.godaddy.com
 events.jotform.com
 events.launchdarkly.com
 events.mapbox.com
+events.release.narrativ.com
 events.split.io
 everesttech.net
 evidon.com
@@ -1316,6 +1320,7 @@ filman.tv
 filmha.top
 findglocal.com
 firebaseinstallations.googleapis.com
+firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1498,7 +1503,6 @@ guanjia.qq.com
 guce.advertising.com
 guce.huffingtonpost.co.uk
 guce.oath.com
-guce.yahoo.com
 guiama.is
 guidetopetersburg.com
 gunosy.com
@@ -1948,6 +1952,7 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
+login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -2194,7 +2199,6 @@ nuskin.com
 nutaku.com
 nv.vi-serve.com
 nw-umwatson.events.data.microsoft.com
-nyc3.digitaloceanspaces.com
 o.auspost.com.au
 o0bc.com
 o2o.api.xiaomi.com
@@ -2592,8 +2596,6 @@ s1.yimg.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
-s3-us-west-2.amazonaws.com
-s3.us-east-2.amazonaws.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
@@ -3046,6 +3048,7 @@ trk.email.dynect.net
 trk.emlbest.com
 trk.pinterest.com
 trojan-killer.net
+trowel.twitch.tv
 trust.zone
 trustarc.com
 trustarc.mgr.consensu.org
@@ -3070,6 +3073,7 @@ ub.edu.ph
 ublock.org
 uca.cloud.unity3d.com
 ucam.me
+uceprotect.net
 ucweb.com
 udec.cl
 udimg.com
