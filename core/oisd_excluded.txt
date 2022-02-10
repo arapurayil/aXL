@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Feb 2022 08:05:29 UTC
+# Last modified: 10 Feb 2022 16:03:38 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -660,6 +660,7 @@ beacon-v2.helpscout.net
 beacon.netflix.com
 behance.net
 benefits.sovendus.com
+benkow.cc
 bert.org
 bestgore.com
 bestvpnrating.com
@@ -918,6 +919,7 @@ cloom.com
 cloud.rovio.com
 cloud.unity3d.com
 cloudflareinsights.com
+cloudharmony.net
 cm.adc.glbdns.microsoft.com
 cm.miaozhen.atm.youku.com
 cmicapui.ce.gov.br

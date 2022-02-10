@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.10
-# Last modified: 10 Feb 2022 08:05:29 UTC
+# Last modified: 10 Feb 2022 16:03:38 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2729,6 +2729,7 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
+app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
 app.smartsheet.com
@@ -5353,7 +5354,6 @@ cart.mi.com
 cart.tmall.com
 cartm.gearbest.com
 cartoonland.de
-cartoonresearch.com
 carvertical.com
 casagrandehospital.com
 casapropia.com
@@ -7374,6 +7374,7 @@ d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4.me
 d4f.de
+d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
 da-services.ch
@@ -8900,6 +8901,7 @@ epl.paypal-communication.com
 epochtimes.com
 epsilon.com
 epuls.pl
+eq.10jqka.com.cn
 eqbank.ca
 equator-principles.com
 equifax.com
@@ -9086,6 +9088,7 @@ events.launchdarkly.com
 events.mapbox.com
 events.recode.net
 events.redditmedia.com
+events.release.narrativ.com
 events.split.io
 everbank.com
 everest.castbox.fm
@@ -14877,6 +14880,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -17351,7 +17355,6 @@ ny1.com
 nyaa.se
 nyackhospital.org
 nyba.com
-nyc3.digitaloceanspaces.com
 nyct.net
 nydailynews.com
 nykredit.dk
@@ -24372,6 +24375,7 @@ ucbankmn.com
 ucbi.com
 ucbl.com
 ucbnd.com
+uceprotect.net
 uchicago.edu
 uchicagokidshospital.org
 uchospitals.edu
