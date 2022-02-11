@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Feb 2022 16:03:38 UTC
+# Last modified: 11 Feb 2022 00:18:43 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1285,6 +1285,7 @@ example.net
 example.org
 exchange4media.com
 exe.io
+exemsi.com
 exosrv.com
 experience.jcu.edu.au
 experience.tinypass.com
@@ -3272,7 +3273,6 @@ wsapi-global.master.live
 wss.analyticacdn.com
 wt-eu02.net
 wumii.com
-www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 wwwimg.roku.com
 wx.qlogo.cn

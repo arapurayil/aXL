@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.10
-# Last modified: 10 Feb 2022 16:03:38 UTC
+# Version: 3.02.11
+# Last modified: 11 Feb 2022 00:18:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4175,6 +4175,7 @@ benefits.gov
 benefits.sovendus.com
 benfranklinbank.com
 benfranklinsavings.com
+benkow.cc
 bensbergerbank.de
 berbanca.it
 berenberg.de
@@ -6435,6 +6436,7 @@ cloudflareinsights.com
 cloudflareworkers.com
 cloudfront-app-cdn.spot.im
 cloudfront.net
+cloudharmony.net
 cloudinary.com
 cloudmail17.netcore.co.in
 cloudns.cl
