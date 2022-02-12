@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Feb 2022 16:04:44 UTC
+# Last modified: 12 Feb 2022 00:19:28 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -23,7 +23,6 @@
 5z8.info
 7.ly
 7eer.net
-7zap.com
 24.hu
 51.com
 51.la
@@ -112,6 +111,7 @@ aboluowang.com
 about.com
 aboutads.info
 ac.duckduckgo.com
+ac.pa
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
@@ -472,6 +472,7 @@ antiphishing.cliqz.com
 anura.io
 anycast.adnxs.com
 apac1.notify.windows.com.akadns.net
+api-2-0.spot.im
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-xl9-ssl.xunlei.com
@@ -544,6 +545,7 @@ app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
 app.getresponse.com
+app.hubspot.com
 app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
@@ -663,7 +665,6 @@ benefits.sovendus.com
 benkow.cc
 bert.org
 bestgore.com
-bestvpnrating.com
 beta.spotify.map.fastly.net
 betclic.com
 betfaq.ru
@@ -733,11 +734,13 @@ bsv.atm.youku.com
 btguard.com
 btstatic.com
 bttn.io
+buc.edu.om
 budurl.com
 bufferapp.com
 bugetul.ro
 bugly.qq.com
 bugsnag.com
+builder-assets.unbounce.com
 burnside.dtcn.com
 buscape.com.br
 business.opera.com
@@ -904,6 +907,7 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
+client.crisp.chat
 clientapi.myteamspeak.com
 clientmetrics-augmentum.kik.com
 clients.l.google.com
@@ -928,6 +932,7 @@ cmp.nextday.media
 cmstool.youku.com
 cnetcontentsolutions.com
 cnzz.com
+co.in
 code.createjs.com
 codepush.appcenter.ms
 codepush.azurewebsites.net
@@ -937,6 +942,7 @@ cohesionapps.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collector.wallapop.com
+com.br
 com.com
 combine.urbanairship.com
 comet.yahoo.com
@@ -994,6 +1000,7 @@ countere.com
 countess.twitch.tv
 countvoncount.goguardian.com
 couponxoo.com
+cpm.wargaming.net
 cpt.itv.com
 cptrack.de
 cquotient.com
@@ -1072,10 +1079,10 @@ da.netease.com
 dadata.ru
 daemon.indapass.hu
 dailydot.com
-dailystorm.ru
 damoh.schneevonmorgen.com
 damoh.spiegel.de
 dansguardian.org
+danviet.vn
 darknet.org.uk
 dart.l.doubleclick.net
 dartsearch.net
@@ -1127,6 +1134,7 @@ digits.com
 directtrack.com
 disqus.com
 disquscdn.com
+ditto.com
 djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.downloadly.ir
@@ -1144,7 +1152,6 @@ do-not-tracker.org
 docs.bugsnag.com
 doctortro.com
 documentingreality.com
-dodge-forum.eu
 doiop.com
 dolphincdn.xyz
 domain.com
@@ -1210,7 +1217,10 @@ edgecastcdn.net
 edgesuite.net
 edigitalsurvey.com
 edrone.me
+edu.co
+edu.ec
 edu.hebnews.cn
+edu.lb
 effiliation.com
 effinghamanimalhospital.com
 ehow.com
@@ -1229,6 +1239,7 @@ emjcd.com
 emkei.cz
 emoji.redditmedia.com
 emptyloop.com
+en25.com
 endpoint1.collection.eu.sumologic.com
 energizect.com
 engage.com
@@ -1303,6 +1314,7 @@ fairyseason.com
 faktor.io
 fast-anime.ru
 fast.appcues.com
+fast.wistia.com
 fast.wistia.net
 fastly-analytics.com
 fc.vodafone.de
@@ -1375,6 +1387,7 @@ freegeoip.app
 freegeoip.net
 freesteamkeys.com
 freewebsitetemplates.com
+fresheye.com
 frog.wix.com
 frontegg.com
 frontier.musical.ly
@@ -1507,7 +1520,6 @@ guce.advertising.com
 guce.huffingtonpost.co.uk
 guce.oath.com
 guiama.is
-guidetopetersburg.com
 gunosy.com
 gus.host
 gvt2.com
@@ -1522,7 +1534,6 @@ hackerbot.net
 hackers.com
 harriscomputer.com
 hastebin.com
-hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
 hbbtv-1.eurosport.com
@@ -1582,6 +1593,7 @@ hs-scripts.com
 hs.eloqua.com
 hsforms.com
 hsforms.net
+hspx.hotstar.com
 hsx.com
 ht.ly
 ht.youporn.com
@@ -1853,6 +1865,7 @@ joyreactor.cc
 jqueryscript.net
 js-agent.newrelic.com
 js-sec.indexww.com
+js.driftt.com
 js.hs-scripts.com
 js.indexww.com
 js.intercomcdn.com
@@ -1868,6 +1881,7 @@ k.cocooncenter.com
 k.sinaimg.cn
 kampyle.com
 kaotic.com
+kaptcha.com
 katcr.to
 kauth.kakao.com
 kaxsdc.com
@@ -1876,7 +1890,6 @@ kemsos.go.id
 kepler.jd.com
 keshefoundation.org
 keylane.com
-kharkov.ua
 kickass.cd
 kiddostoysclub.com
 kiev.ua
@@ -1894,7 +1907,6 @@ kolabsys.com
 komachi.yomiuri.co.jp
 kount.com
 kqzyfj.com
-kredytbank.com.ua
 krxd.net
 kryptoslogic.com
 kutt.it
@@ -2001,7 +2013,6 @@ maps.windows.com
 marchex.io
 marfeel.com
 marfeelcache.com
-marinetraffic.com
 marinsm.com
 mark.isbank.com.tr
 market.mi-img.com
@@ -2022,6 +2033,7 @@ maxmind.com
 mc.yandex.ru
 md-nx.com
 mdis.uz
+medallia.com
 media.complex.com
 media.expedia.com
 media.richrelevance.com
@@ -2072,7 +2084,11 @@ mlsend.com
 mmstat.com
 mmtro.com
 mobile-collector.newrelic.com
+mobile-dssf-prod.cmtelematics.com
+mobile-log-dssf-prod.cmtelematics.com
+mobile-log.cmtelematics.com
 mobile.anycast.adnxs.com
+mobile.cmtelematics.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 mobile.qzone.qq.com
@@ -2118,7 +2134,6 @@ myao.adocean.pl
 myapp.com
 mybbc-analytics.files.bbci.co.uk
 mybloglog.com
-myftpupload.com
 myhomescreen.tv
 mystats.com
 myvisualiq.net
@@ -2313,6 +2328,8 @@ p2.music.126.net
 p3.music.126.net
 p4.music.126.net
 paddleapi.com
+page.amap.com
+page.link
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -2516,6 +2533,7 @@ rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
 rdrtr.com
+rdstation.com.br
 rdx2.lgtvsdp.com
 realsrv.com
 realtime.services.disqus.com
@@ -2534,6 +2552,7 @@ redirector.gvt1.com
 redventures.io
 refer.ccbill.com
 referrer.disqus.com
+registeridm.com
 relevant-digital.com
 remind.me
 reports.cliqz.com
@@ -2543,7 +2562,6 @@ res-x.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
-resellerclub.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2577,6 +2595,7 @@ rubicon.wellsfargo.com
 rutrk.org
 rv.furaffinity.net
 s-bid.rmp.rakuten.com
+s.adrise.tv
 s.amazon-adsystem.com
 s.aolcdn.com
 s.btstatic.com
@@ -2652,6 +2671,7 @@ sdk.iad-01.braze.com
 sdk.iad-02.braze.com
 sdk.iad-03.braze.com
 sdk.iad-04.braze.com
+sdk.privacy-center.org
 sdk.waze.com
 sdmaid.darken.eu
 sdn.szn.cz
@@ -2659,7 +2679,6 @@ seadform.net
 seal.verisign.com
 sealserver.trustwave.com
 searchads.apple.com
-searchencrypt.com
 seccdn-gl.imrworldwide.com
 secure-booker.com
 secure-dcr.imrworldwide.com
@@ -2668,6 +2687,7 @@ secure.adnxs.com
 secure.eloqua.com
 secure.footprint.net
 secure.insightexpressai.com
+secure.livechatinc.com
 secure.oneallcdn.com
 secure.quantserve.com
 secure.skypeassets.com
@@ -2738,7 +2758,6 @@ sinajs.cn
 sinematurk.com
 singular.net
 sinlix.lk
-site5.com
 siteplug.com
 sitetracker.com
 skepticalscience.com
@@ -2843,6 +2862,7 @@ static.skypeassets.com
 static.vrv.co
 static.wi-fi.ru
 static.ws.126.net
+static.zdassets.com
 staticxx.facebook.com
 stats.adobe.com
 stats.gc.apple.com
@@ -2897,6 +2917,7 @@ sysdig.com
 systweak.com
 szentkoronaradio.com
 szlong.weixin.qq.com
+t-online.de
 t.eloqua.com
 t.en25.com
 t.indeed.com
@@ -2924,6 +2945,7 @@ tag.shopping-feed.com
 tagcommander.com
 tagger.opecloud.com
 tagm.tchibo.de
+tagmanager.google.com
 tags.adsafety.net
 tags.news.com.au
 tags.tiqcdn.com
@@ -2973,6 +2995,7 @@ tickle.com
 tidebuy.com
 tigase.net
 tile-service.weather.microsoft.com
+time.is
 time.samsungcloudsolution.com
 tiny.cc
 tinypass.com
@@ -2993,7 +3016,6 @@ tom.itv.com
 tongbu.com
 tongji.baidu.com
 toolbar.google.com
-tooplay.com
 toots-a.akamaihd.net
 top1.ro
 torc.com
@@ -3129,6 +3151,7 @@ us.info.lgsmartad.com
 us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
 us04logfiles.zoom.us
+us2.sumologic.com
 usabilla.com
 usage.trackjs.com
 use.typekit.com
@@ -3213,6 +3236,7 @@ watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
+wchat.freshchat.com
 we-stats.com
 web.vortex.data.microsoft.com
 webair.com
@@ -3255,7 +3279,6 @@ woocall.sina.com.cn
 woodpecker.uc.cn
 wootric.com
 wordstream.com
-workona.com
 worldssl.net
 wp-stat.s3.amazonaws.com
 wpc.v0cdn.net
@@ -3331,7 +3354,6 @@ zer0day.ch
 ziffdavis.com
 zip.net
 zipansion.com
-zola.com
 zoo.sandiegozoo.org
 zopim.com
 zorpia.com
