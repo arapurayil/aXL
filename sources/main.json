@@ -198,7 +198,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 430
+            "num_unblock_rules": 431
         },
         {
             "name": "NoExitTV whitelist",
@@ -216,7 +216,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 1723
+            "num_unblock_rules": 1727
         },
         {
             "name": "oisd.nl excludes",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3335
+            "num_unblock_rules": 3357
         },
         {
             "name": "ookangzheng blahdns whitelist",

@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.12
-# Last modified: 12 Feb 2022 00:19:29 UTC
+# Last modified: 12 Feb 2022 08:04:34 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -574,6 +574,7 @@ abuse.ch
 abuzhost.ru
 ac-talk.kakao.com
 ac.duckduckgo.com
+ac.pa
 ac.search.naver.com
 ac0-edge-chat.facebook.com
 academia.edu
@@ -2295,6 +2296,7 @@ apbt.org.tn
 apeksbank.com.ua
 apex.techrepublic.com
 apexstats.com
+api-2-0.spot.im
 api-auth.soundcloud.com
 api-beta.huawei.com
 api-between.vcnc.co.kr
@@ -2707,6 +2709,7 @@ app.dharma.io
 app.energized.pro
 app.getresponse.com
 app.huawei.com
+app.hubspot.com
 app.hulu.com
 app.intercom.io
 app.intuit.launchdarkly.com
@@ -4967,6 +4970,7 @@ btstatic.com
 bttn.io
 btv.at
 bubbleshare.com
+buc.edu.om
 buckster.soundcloud.com
 budapestbank.hu
 budgetbankers.com
@@ -6537,6 +6541,7 @@ co-opbank.co.ke
 co-operativebank.co.nz
 co-operativebank.co.uk
 co.il
+co.in
 co.jp
 co.nz
 co.th
@@ -6627,6 +6632,7 @@ columbusmba.org
 com-verification.id
 com.akadns.net
 com.au
+com.br
 com.cn
 com.com
 com.edgekey.net
@@ -7430,6 +7436,7 @@ danskebank.no
 danskebank.se
 danskretursystem.dk
 danuoyi.alicdn.com
+danviet.vn
 daoheng.com
 daombank.fanspace.com
 darierhentsch.ch
@@ -7915,6 +7922,7 @@ displayimage.messenger.yahooapis.com
 disqus.com
 disquscdn.com
 distribute.adobe.com
+ditto.com
 dji.com
 djix.com
 djtflbt20bdde.cloudfront.net
@@ -8034,7 +8042,6 @@ doctorshospitaldallas.com
 doctortro.com
 documentingreality.com
 docusign.net
-dodge-forum.eu
 dodgersdigest.com
 doe.gov
 dog.bin
@@ -8603,8 +8610,11 @@ ednetz.de
 edoc.huawei.com
 edrone.me
 eds.xboxlive.com
+edu.co
 edu.dcinside.com
+edu.ec
 edu.hebnews.cn
+edu.lb
 education.ti.com
 ee.hit.gemius.pl
 eek.ch
@@ -10191,6 +10201,7 @@ frepa.livedoor.com
 fresenius-kabi.com
 freshbooks.com
 freshdirect.com
+fresheye.com
 freunde.de
 freundeskreis.einslive.de
 freundeweb.net
@@ -11904,6 +11915,7 @@ hsforms.com
 hsforms.net
 hsh-nordbank.de
 hsk-wiesbaden.de
+hspx.hotstar.com
 hsx.com
 ht.ly
 ht.youporn.com
@@ -13616,6 +13628,7 @@ js-sec.indexww.com
 js.api.here.com
 js.braintreegateway.com
 js.data.auto.qq.com
+js.driftt.com
 js.gleam.io
 js.hs-scripts.com
 js.hsforms.net
@@ -13694,6 +13707,7 @@ kantonalbank.ch
 kantonsspitalglarus.ch
 kaotic.com
 kapitalbank.az
+kaptcha.com
 karafarinbank.com
 karalyte.com
 karanpc.com
@@ -15488,6 +15502,7 @@ mechbank.com
 mecknc.gov
 med-care.at
 med-rf.ru
+medallia.com
 medals.bizrate.com
 medcs.huawei.com
 medfordcoopbank.com
@@ -16109,11 +16124,15 @@ mobilcom-debitel.de
 mobile-ap.spotify.com
 mobile-blog.line.me
 mobile-collector.newrelic.com
+mobile-dssf-prod.cmtelematics.com
+mobile-log-dssf-prod.cmtelematics.com
+mobile-log.cmtelematics.com
 mobile-update.bithumb.com
 mobile.anycast.adnxs.com
 mobile.bet365.com
 mobile.beta.facebook.com
 mobile.binance.com
+mobile.cmtelematics.com
 mobile.dcinside.com
 mobile.engadget.com
 mobile.events.data.microsoft.com
@@ -18152,7 +18171,9 @@ paddleapi.com
 paessler.com
 pafnet.de
 pagbrasil.com
+page.amap.com
 page.line.me
+page.link
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -19887,6 +19908,7 @@ rd.yahoo.com
 rdrtr.com
 rds-assets.nvidia.com
 rdsig.yahoo.co.jp
+rdstation.com.br
 rdtcdn.com
 rdwest.playstation.com
 rdx2.lgtvsdp.com
@@ -20008,6 +20030,7 @@ regions.com
 regionshospital.com
 register.xmpush.global.xiaomi.com
 register.xmpush.xiaomi.com
+registeridm.com
 regulations.gov
 reha-sachsen.de
 reha-zentrum-mettingen.de
@@ -20450,6 +20473,7 @@ s-usc1c-nss-223.firebaseio.com
 s-usc1c-nss-233.firebaseio.com
 s-usc1c-nss-249.firebaseio.com
 s.4pda.to
+s.adrise.tv
 s.amazon-adsystem.com
 s.aolcdn.com
 s.bit.ly
@@ -23401,6 +23425,7 @@ taggedmail.com
 tagger.opecloud.com
 tagilbank.ru
 tagm.tchibo.de
+tagmanager.google.com
 tags.adsafety.net
 tags.bkrtx.com
 tags.news.com.au
@@ -23507,6 +23532,7 @@ tdscpc.gov.in
 tdstelecom.com
 te.deviantart.com
 te.me
+te.technical-service.net
 te.wikipedia.com
 tealium.cbsnews.com
 tealium.com
@@ -23944,7 +23970,6 @@ tools.naver.com
 tools.pingdom.com
 tools.ranker.com
 tools.tracemyip.org
-tooplay.com
 toots-a.akamaihd.net
 top.cafe.daum.net
 top.mail.ru
@@ -24768,6 +24793,7 @@ us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
 us04logfiles.zoom.us
 us1.locationiq.com
+us2.sumologic.com
 usa.gov
 usa.kaspersky.com
 usaa.com
@@ -25939,6 +25965,7 @@ wbpr.com
 wccftech.com
 wcghospital.datastar.net
 wch.sa.gov.au
+wchat.freshchat.com
 wcmc.org
 wcnbwooster.com
 wcs.naver.com
@@ -27037,7 +27064,6 @@ zmtcdn.edgekey.net
 zobj.net
 zoho.com
 zoho.in
-zola.com
 zomato.com
 zomato.com.edgekey.net
 zombo.com
