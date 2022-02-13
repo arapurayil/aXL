@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Feb 2022 00:20:52 UTC
+# Last modified: 13 Feb 2022 08:05:41 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -550,7 +550,6 @@ app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -709,6 +708,7 @@ bluekai.com
 bluetoad.com
 bm.pl
 bm23.com
+bmetrack.com
 bn5x.net
 bnc.lt
 bodis.com
@@ -734,7 +734,6 @@ bsv.atm.youku.com
 btguard.com
 btstatic.com
 bttn.io
-buc.edu.om
 budurl.com
 bufferapp.com
 bugetul.ro
@@ -1335,7 +1334,6 @@ filman.tv
 filmha.top
 findglocal.com
 firebaseinstallations.googleapis.com
-firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1967,7 +1965,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -3200,7 +3197,6 @@ video-stats.l.google.com
 videoplayerhub.com
 videoplaza.tv
 vidible.tv
-vidoza.net
 vidtech.cbsinteractive.com
 viewpoint.com
 viglink.com
