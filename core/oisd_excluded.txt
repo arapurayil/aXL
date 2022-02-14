@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Feb 2022 16:04:20 UTC
+# Last modified: 14 Feb 2022 00:18:56 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -906,7 +906,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client.crisp.chat
 clientapi.myteamspeak.com
 clientmetrics-augmentum.kik.com
 clients.l.google.com
@@ -2684,7 +2683,6 @@ secure.adnxs.com
 secure.eloqua.com
 secure.footprint.net
 secure.insightexpressai.com
-secure.livechatinc.com
 secure.oneallcdn.com
 secure.quantserve.com
 secure.skypeassets.com
@@ -2859,7 +2857,6 @@ static.skypeassets.com
 static.vrv.co
 static.wi-fi.ru
 static.ws.126.net
-static.zdassets.com
 staticxx.facebook.com
 stats.adobe.com
 stats.gc.apple.com
@@ -3232,7 +3229,6 @@ watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
-wchat.freshchat.com
 we-stats.com
 web.vortex.data.microsoft.com
 webair.com
