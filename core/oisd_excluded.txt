@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Feb 2022 16:03:42 UTC
+# Last modified: 15 Feb 2022 00:18:45 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -17,6 +17,8 @@
 2mdn.net
 2o7.net
 3dme.com
+3dns-2.adobe.com
+3dns-3.adobe.com
 3gimg.qq.com
 3x.ro
 4shared.com
@@ -24,6 +26,7 @@
 7.ly
 7eer.net
 24.hu
+37signals.com
 51.com
 51.la
 56.com
@@ -79,6 +82,7 @@ a3.mediagra.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a771.dscq.akamai.net
+a43601.actonservice.com
 aan.amazon.com
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
@@ -107,6 +111,8 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+ablink.e.hungryjacks.com.au
+ablinksuni.a.grubhub.com
 aboluowang.com
 about.com
 aboutads.info
@@ -124,9 +130,14 @@ ackcdn.net
 acpbdf.com.br
 acr0.samsungcloudsolution.com
 acs.m.taobao.com
+actie.milieudefensie.nl
 action.metaffiliation.com
+activate-sea.adobe.com
+activate-sjc0.adobe.com
+activate.wip3.adobe.com
 activation.unity3d.com
 active.com
+activehosted.com
 activity.windows.com
 actonservice.com
 actonsoftware.com
@@ -167,6 +178,10 @@ admarkt.marktplaats.nl
 admitad.com
 adnetasia.com
 adnxs.com
+adobe-campaign.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+adobe-dns.adobe.com
 adobedtm.com
 adocean.pl
 adpushup.com
@@ -431,6 +446,7 @@ ak.sail-horizon.com
 akam.net
 akamaitechnologies.com
 akstat.io
+akubebas.com
 akvideo.stream
 al.dmm.co.jp
 alawar.com
@@ -438,6 +454,7 @@ alb.reddit.com
 alepuniv.edu.sy
 alexa.com
 algolia.com
+aliapp.org
 alicdn.com
 alimama.com
 alitems.com
@@ -494,6 +511,7 @@ api.euro.hismarttv.com
 api.facebook.com
 api.faceid.com
 api.gfe.nvidia.com
+api.groupon.com
 api.io.mi.com
 api.ipify.org
 api.ipinfodb.com
@@ -544,12 +562,15 @@ app.any.run
 app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
+app.e2ma.net
 app.getresponse.com
 app.hubspot.com
 app.launchdarkly.com
 app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
+app.sephora.com
+app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -568,6 +589,7 @@ appsumo.com
 apptimize.com
 arc.epoq.de
 armaholic.com
+arms-retcode.aliyuncs.com
 arstechnica.com
 art19.com
 arvetellefsen.no
@@ -622,6 +644,7 @@ aws.keshefoundation.org
 awstrack.me
 azabu-u.ac.jp
 azurewebsites.net
+b.hatena.ne.jp
 b.koodomobile.com
 b.scorecardresearch.com
 b.stats.paypal.com
@@ -668,6 +691,7 @@ beta.spotify.map.fastly.net
 betclic.com
 betfaq.ru
 betrad.com
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
 bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
@@ -718,6 +742,7 @@ brakrock.be
 branch.io
 brand.sogou.com
 bravia.dl.playstation.net
+braze.com
 brian-fitzgerald.com
 bridgetrack.com
 brightedge.com
@@ -771,6 +796,7 @@ cafeomai.com.au
 calendar.fontanka.ru
 campaign.adobe.com
 canadapharmacy.com
+canyoublockit.com
 capesandbox.com
 care2.com
 carvertical.com
@@ -785,6 +811,7 @@ cdn-image.com
 cdn-net.com
 cdn-noc.net
 cdn-settings.segment.com
+cdn.adc.eamobile.com
 cdn.adf.ly
 cdn.akubebas.com
 cdn.appdynamics.com
@@ -855,6 +882,7 @@ channeladvisor.com
 chat-assets.frontapp.com
 chatango.com
 check.ddos-guard.net
+checkip.amazonaws.com
 chicago2.vip.townnews.com
 chickenkiller.com
 chip.de
@@ -862,6 +890,7 @@ chkd.org
 choice.microsoft.com
 choices.truste.com
 chromefeedcontentsuggestions-pa.googleapis.com
+cifraclub.com.br
 cint.com
 cintnetworks.com
 cision.com
@@ -884,20 +913,24 @@ click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
 click.dtiserv2.com
+click.e.affirm.com
 click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.ml.mailersend.com
+click.official.nike.com
 click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
+click.simba.taobao.com
 clickbank.com
 clickbank.net
 clickcease.com
 clickdimensions.com
 clickfunnels.com
 clickhouse.com
+clickmail.stubhub.com
 clickmeter.com
 clicks.aweber.com
 clickserve.cc-dt.com
@@ -965,6 +998,7 @@ confirmit.com
 conn.skype.com
 connect.facebook.com
 connect.facebook.net
+connect.ok.ru
 connect.rom.miui.com
 connect.scroll.com
 connect.zebra.com
@@ -972,8 +1006,11 @@ consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.cookiebot.com
+consent.dk
 consent.faz.net
 consent.truste.com
+consentmanager.mgr.consensu.org
+consentmanager.net
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.aimatch.com
@@ -984,8 +1021,10 @@ controleng.com
 conversions.appsflyer.com
 converti.se
 conviva.com
+cookie-script.com
 cookie.vrt.be
 cookiebot.com
+cookieinformation.com
 cookielaw.org
 cookies.nos.nl
 coordinator-production-28516768.us-east-1.elb.amazonaws.com
@@ -1004,6 +1043,7 @@ cptrack.de
 cquotient.com
 crashlytics.com
 crbcdn.jsfiddle.net
+creativecommons.org
 creatives.ancoraplatform.com
 creditonebank.com
 credomobile.com
@@ -1033,6 +1073,7 @@ cuci.nl
 cultdeadcow.com
 cur.lv
 curalate.com
+cursors-4u.net
 custom.plausible.io
 customer.io
 customerevents.netflix.com
@@ -1069,6 +1110,7 @@ d3rt1990lpmkn.cloudfront.net
 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 d26b395fwzu5fz.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
+d36eyd5j1kt1m6.cloudfront.net
 d179kwmlpc4o47.cloudfront.net
 d2405b0jymm2dk.cloudfront.net
 da-services.ch
@@ -1095,6 +1137,7 @@ datacaciques.com
 datadoghq-browser-agent.com
 dauth-lp1.ndas.srv.nintendo.net
 daystar.ac.ke
+db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
 dca.nl
 dcms.1688.com
@@ -1129,6 +1172,7 @@ digitaladvisor.dk
 digitalive.world
 digitalsmiths.net
 digits.com
+digsby.com
 directtrack.com
 disqus.com
 disquscdn.com
@@ -1182,12 +1226,14 @@ drivethelife.com
 drm-pr-us.crackle.com
 drp.su
 ds1.nl
+dsp.brand.sogou.com
 dspultra.com
 dstreet.pl
 dt51.net
 dtiserv2.com
 duc.edu.iq
 duckdns.org
+dw-online.ksosoft.com
 dw.cbsi.com
 dw.com
 dw.com.com
@@ -1195,6 +1241,7 @@ dwq4do82y8xi7.cloudfront.net
 dynamicyield.com
 dynatrace.com
 dzc-metrics.mzstatic.com
+e.kc-education.com
 e.reddit.com
 ea.galerieslafayette.com
 eaglenews.in
@@ -1237,6 +1284,7 @@ emjcd.com
 emkei.cz
 emoji.redditmedia.com
 emptyloop.com
+emsecure.net
 en25.com
 endpoint1.collection.eu.sumologic.com
 energizect.com
@@ -1247,6 +1295,7 @@ enigmasoftware.com
 ensighten.com
 enter-system.com
 ep00.epimg.net
+episerver.net
 epizy.com
 epl.paypal-communication.com
 epsilon.com
@@ -1320,8 +1369,10 @@ fccinteractive.com
 fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 feature.fm
+feedaty.com
 feedblitz.com
 feedsportal.com
+feefo.com
 fembed.com
 femto.pw
 ffdns.net
@@ -1402,6 +1453,7 @@ fy.v.vrv.co
 g.alicdn.com
 g.ezoic.net
 g.msn.com
+g.tbcdn.cn
 gala.spiceworks.com
 gall.dcinside.com
 game.baidu.com
@@ -1492,6 +1544,7 @@ gopjn.com
 goregrish.com
 gosquared.com
 gotraffic.net
+govdelivery.com
 gpm.samsungqbe.com
 grab.com
 grabify.link
@@ -1547,6 +1600,7 @@ hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
+healthgrades.com
 healthwarehouse.com
 heank.nl
 hechenblaikner.at
@@ -1567,10 +1621,13 @@ hit.stat24.com
 hitmarkerjobs.com
 hkepc.net
 hkg1.aastocks.com
+hl2rcv.adobe.com
 hockeyapp.net
 hollyhockhill.com
 home.bt.com
 home.wanadoo.nl
+honcode.ch
+hoodline.com
 hooks.slack.com
 horriblevideos.com
 horror-comics.com
@@ -1585,6 +1642,7 @@ hotkeys.com
 hotpop.com
 hotspotshield.com
 howsmyssl.com
+hqq.tv
 href.li
 hs-scripts.com
 hs.eloqua.com
@@ -1626,6 +1684,7 @@ iadsdk.apple.com
 iam-agof-app.irquest.com
 ias.r10s.jp
 ias.rakuten.co.jp
+iask.cn
 ib.anycast.adnxs.com
 ib.snssdk.com
 ibs.lgappstv.com
@@ -1768,6 +1827,7 @@ img.beeg.com
 img.blesk.cz
 img.en25.com
 img.mp.itc.cn
+img.shouji.sogou.com
 img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
@@ -1815,6 +1875,7 @@ ip.anysrc.net
 ip.goguardian.com
 ip02.gntl.co.uk
 ip2location.com
+ipapi.co
 ipcheck.tmgrup.com.tr
 ipdata.co
 ipgmkdri.edu.my
@@ -1909,6 +1970,8 @@ kryptoslogic.com
 kutt.it
 l.betrad.com
 l.doubleclick.net
+l.engage.canva.com
+l.franceculture.fr
 l.qq.com
 l2.io
 l3.evidon.com
@@ -1931,6 +1994,7 @@ lgsmartad.com
 lib.rus.ec
 libs.coremetrics.com
 license.unity3d.com
+licensebuttons.net
 licensing.mp.microsoft.com
 licensingphone.mp.microsoft.com
 lidl.media01.eu
@@ -1938,6 +2002,10 @@ limneos.net
 lindy.co.id
 link.p0.com
 linkev.com
+linkifier.com
+links.playon.tv
+links.strava.com
+linksnappy.com
 linksynergy.com
 litix.io
 live.primis.tech
@@ -1950,6 +2018,7 @@ liveperson.net
 livetex.ru
 liveupdate.mac.sandai.net
 ll.a.hulu.com
+llnw.net
 lnks.gd
 localytics.com
 lofter.com
@@ -1964,6 +2033,8 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
+login-live.com-s02.net
+loginfra.com
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
@@ -1979,6 +2050,7 @@ m.exactag.com
 m.hotmail.com
 m.pr0gramm.com
 m.yap.yahoo.com
+m1.daumcdn.net
 m1.fwmrm.net
 m1.nsimg.net
 m2.nsimg.net
@@ -2046,6 +2118,7 @@ meebo.com
 meetyourmessenger.co.uk
 meltwater.com
 messagemedia.com
+messengerpeople.com
 met2.hp.com
 meta.vn
 metaffiliation.com
@@ -2069,6 +2142,7 @@ mijnbladopdemat.nl
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
 minutemediaservices.com
+mirtesen.ru
 mis.migc.xiaomi.com
 miscopy.com
 mixi.jp
@@ -2093,6 +2167,7 @@ mobilityware.com
 mobivity.com
 moengage.com
 mojpieknyogrod.pl
+monero.how
 moneroocean.stream
 moneyplatform.biz
 monitis.com
@@ -2104,6 +2179,7 @@ mp.twitch.tv
 mparticle.com
 mplxtms.com
 mpsnare.iesnare.com
+mql5.com
 mqtt-mini.facebook.com
 mr.da.netease.com
 mrex.exs.pl
@@ -2157,6 +2233,7 @@ netcore.co.in
 netiq.com
 netsalesmedia.pl
 netupdater.info
+networkedblogs.com
 neustar.biz
 newrelic.com
 news.ebc.net.tw
@@ -2287,9 +2364,11 @@ online-metrix.net
 online.adservicemedia.dk
 ooyala.com
 openapi.samsung.com
+opencmp.net
 openmarket.com
 openmobile.qq.com
 openvim.com
+opinary.com
 opinionstage.com
 ops.bpost.be
 optanon.blob.core.windows.net
@@ -2360,10 +2439,13 @@ pbsiddhartha.ac.in
 pcekspert.com
 pcrisk.com
 pdc.micloud.xiaomi.net
+pdfcomplete.com
+pdst.fm
 peerius.com
 pendo.io
 people-pa.googleapis.com
 peoplehub.xboxlive.com
+pepper.com
 pepperjamnetwork.com
 perfdrive.com
 performgroup.com
@@ -2378,9 +2460,12 @@ phs.tanx.com
 pi.pardot.com
 piaggioaerospace.it
 piano.io
+pic.iask.cn
+pic.pic-img.com
 pidorg.ru
 pigu.lt
 pila.pl
+pimg1.126.net
 ping-admin.ru
 ping.cloud.tencent.com
 ping.tapas.io
@@ -2408,13 +2493,17 @@ platform.instagram.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
+plausible.eurostocks.nl
 plausible.io
+plaxo.com
+play-asia.com
 player-feedback-v1.glomex.com
 player.anyclip.com
 player.cnevids.com
 player.dacast.com
 player.h-cdn.com
 player.ooyala.com
+playercdn.net
 players.brightcove.net
 playhydrax.com
 playwire.com
@@ -2444,8 +2533,10 @@ ppro.de
 ppurifier.game.xiaomi.com
 pr-cy.ru
 pr0gramm.com
+practivate.adobe.com
 prd.jwpltx.com
 prebid.adnxs.com
+pressly.com
 prf.hn
 pricelist.skype.com
 primenetwork.net
@@ -2456,6 +2547,7 @@ prism.app-us1.com
 privacy-center.org
 privacy-mgmt.com
 privacy-policy.truste.com
+privacymanager.io
 pro.hit.gemius.pl
 pro.ip-api.com
 prod-adops-proxy.dnitv.net
@@ -2469,6 +2561,8 @@ productsup.com
 prodxnews1blob.blob.core.windows.net
 promo.mobile.de
 promos.fling.com
+promotions.newegg.com
+proofpoint.com
 prov.samsungcloudsolution.com
 proxad.net
 prvsz4pe.micpn.com
@@ -2476,6 +2570,7 @@ psicologia-online.com
 pstmrk.it
 public.popcorn-tracker.org
 publicidees.com
+publish0x.com
 pubnub.com
 pull.ticktick.com
 pulsar.ebay.at
@@ -2490,6 +2585,7 @@ pulsar.ebay.it
 pumppazh.com
 purch.com
 push.api.bbci.co.uk
+push.rollout.io
 pusherapp.com
 pushwelcome.com
 pv.sohu.com
@@ -2546,15 +2642,18 @@ redirect.viglink.com
 redirectingat.com
 redirector.gvt1.com
 redventures.io
+reevoo.com
 refer.ccbill.com
 referrer.disqus.com
 registeridm.com
 relevant-digital.com
 remind.me
+report-uri.com
 reports.cliqz.com
 repository.cliqz.com
 rereddit.com
 res-x.com
+research.net
 researchintel.com
 researchnow.co.uk
 researchnow.com
@@ -2576,6 +2675,7 @@ rink.hockeyapp.net
 rlcdn.com
 rm.api.weibo.com
 rmp.rakuten.com
+rokt.com
 rollbar.com
 rollout.io
 rover.ebay.co.uk
@@ -2588,6 +2688,7 @@ rqd.sparta.mig.tencent-cloud.net
 rs6.net
 rsci.app.link
 rubicon.wellsfargo.com
+rumble.com
 rutrk.org
 rv.furaffinity.net
 s-bid.rmp.rakuten.com
@@ -2628,6 +2729,7 @@ sailthru.com
 sakura.goguardian.com
 salesforceliveagent.com
 salesmanago.pl
+salon.com
 salottobar.com
 samsungacr.com
 samsungcloudsolution.com
@@ -2654,6 +2756,7 @@ sci.intuit.ca
 sci.intuit.com
 scone-pa.clients6.google.com
 scontent.xx.fbcdn.net
+scoop.it
 scorecardresearch.com
 scr.wfcdn.de
 screenshots.goguardian.com
@@ -2674,6 +2777,7 @@ sdn.szn.cz
 seadform.net
 seal.verisign.com
 sealserver.trustwave.com
+search.twitter.com
 searchads.apple.com
 seccdn-gl.imrworldwide.com
 secure-booker.com
@@ -2703,6 +2807,8 @@ semawur.com
 semnaniau.ac.ir
 sendibt2.com
 sendibt3.com
+sendpulse.com
+sendsay.ru
 sensic.net
 sentitlement2.mobile.att.net
 sentry.io
@@ -2747,6 +2853,7 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
+similarweb.com
 simply.com
 simplyhired.com
 sinajs.cn
@@ -2755,6 +2862,7 @@ singular.net
 sinlix.lk
 siteplug.com
 sitetracker.com
+sjv.io
 skepticalscience.com
 skidrow-games.com
 skimlinks.com
@@ -2796,6 +2904,7 @@ snssdk.com
 snu.lge.com
 snxd.com
 socialize.us1.gigya.com
+socialvibe.com
 society6.com
 socket.streamable.com
 softcity.upclick.com
@@ -2807,6 +2916,7 @@ somni.huk.de
 soo.gd
 soo.sg
 soundofhope.org
+sourcepoint.mgr.consensu.org
 sp-mms.weather.com
 sp-seller.webkul.com
 spade.twitch.tv
@@ -2832,6 +2942,7 @@ sso.internetat.tv
 ssp.meba.kr
 sstats.adobe.com
 st.chatango.com
+stackpathdns.com
 stacksocial.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
@@ -2843,7 +2954,6 @@ stat.ethz.ch
 stat24.com
 statcounter.com
 static-asm.secure.skypeassets.com
-static.3001.net
 static.adsafeprotected.com
 static.cleverpush.com
 static.cloudflareinsights.com
@@ -2854,6 +2964,7 @@ static.parsely.com
 static.scroll.com
 static.siteheart.com
 static.skypeassets.com
+static.smi2.net
 static.vrv.co
 static.wi-fi.ru
 static.ws.126.net
@@ -3005,12 +3116,14 @@ tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
 tmclub.eu
 tmearn.com
+to8to.com
 todhamilton.pro
 tom.itv.com
 tongbu.com
 tongji.baidu.com
 toolbar.google.com
 toots-a.akamaihd.net
+top.taobao.com
 top1.ro
 torc.com
 torimochi.line-apps.com
@@ -3066,6 +3179,7 @@ tritondigital.com
 trk.email.dynect.net
 trk.emlbest.com
 trk.pinterest.com
+trk.s.sephora.com
 trojan-killer.net
 trowel.twitch.tv
 trust.zone
@@ -3075,6 +3189,7 @@ truste.com
 trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tudasfaja.com
+tuenti.com
 tvn.adocean.pl
 tvpage.com
 tvpassport.com
@@ -3122,6 +3237,8 @@ unitedbike.com
 unity.com
 unity3d.com
 untd.com
+uol.com.br
+up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
 update.miui.com
@@ -3204,6 +3321,7 @@ visit.digidip.net
 vistaprint.com
 visualwebsiteoptimizer.com
 vk.cc
+vms-players.minutemediaservices.com
 vofcw7x.x.incapdns.net
 voodoo.com
 vortex-win.data.microsoft.com
@@ -3220,6 +3338,7 @@ w2xg.com
 w88.espn.com
 waaw.to
 waldenfarms.com
+wallet.advcash.com
 wallpaper.pandora.xiaomi.com
 wallpapers.com
 wallstreetcn.com
@@ -3229,6 +3348,7 @@ watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 way2traffic.com
 wayin.com
+wc4.net
 we-stats.com
 web.vortex.data.microsoft.com
 webair.com
@@ -3239,17 +3359,22 @@ webgains.com
 webhop.net
 webpayment-promo.internet.apps.samsung.com
 webpower.eu
+webpushr.com
 webredir.vip.gandi.net
 websecurityguard.com
 webspaceconfig.de
+weheartit.com
 westbyte.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
+weworkremotely.com
 whatismyip.akamai.com
 whoisprivacyprotect.com
 widget-cdn.rpxnow.com
 widget.intercom.io
+widget.pushbullet.com
 widget.trustpilot.com
+widgets.getpocket.com
 widgets.prisjakt.nu
 widgets.trustedshops.com
 wieistmeineip.de
@@ -3261,8 +3386,10 @@ win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 windows.net
 windowsupdate.s.llnwi.net
+wip3.adobe.com
 wixsite.com
 wl.jd.com
+wl.spotify.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
@@ -3288,6 +3415,7 @@ wsapi-global.master.live
 wss.analyticacdn.com
 wt-eu02.net
 wumii.com
+wwis-dubc1-vip60.adobe.com
 www-googletagmanager.l.google.com
 wwwimg.roku.com
 wx.qlogo.cn

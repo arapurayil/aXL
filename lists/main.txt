@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.14
-# Last modified: 14 Feb 2022 16:03:42 UTC
+# Version: 3.02.15
+# Last modified: 15 Feb 2022 00:18:45 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10320,6 +10320,7 @@ funda.nl
 funda.nl.kpnis.nl
 fundingchoicesmessages.google.com
 fundmoremerchantbank.com
+fundrich.com.tw
 funimation.com
 funk.eu
 funkybabes.nl
@@ -11439,6 +11440,7 @@ havelhoehe.de
 hawaiicounty.gov
 hawaiinational.com
 hawaiisurf.com
+hawho.tw
 hawk.pcgamer.com
 hawthornesavings.com
 haymarket.com
@@ -22691,6 +22693,7 @@ stardata.it
 starfinancial.com
 starfish.pandora.xiaomi.com
 stargate.net
+starlingbank.com
 starsmedia.ign.com
 start-net.com
 start-player.npo.nl
@@ -23514,6 +23517,7 @@ tcbbank.com.tw
 tcdn.qq.com
 tce.alicdn.com
 tcfbank.com
+tcfhc-sec.com.tw
 tcmb.gov.tr
 tcq.net
 tcrn.ch
@@ -24309,6 +24313,7 @@ tweetdeck.com
 tweetdeck.twitter.com
 twemoji.maxcdn.com
 twet.fr
+twfhcsec.com.tw
 twi.im
 twiends.com
 twilightparadox.com
@@ -24326,6 +24331,7 @@ twitter.it
 twix.com
 twlr.me
 twmp.com.tw
+twnch.org.tw
 twoo.com
 tworivershospital.com
 tworiversstatebank.com
