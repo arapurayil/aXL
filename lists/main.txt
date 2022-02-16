@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.16
-# Last modified: 16 Feb 2022 08:06:44 UTC
+# Last modified: 16 Feb 2022 16:03:24 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -578,7 +578,6 @@ abuse.ch
 abuzhost.ru
 ac-talk.kakao.com
 ac.duckduckgo.com
-ac.pa
 ac.search.naver.com
 ac0-edge-chat.facebook.com
 academia.edu
@@ -6557,7 +6556,6 @@ co-opbank.co.ke
 co-operativebank.co.nz
 co-operativebank.co.uk
 co.il
-co.in
 co.jp
 co.nz
 co.th
@@ -6648,7 +6646,6 @@ columbusmba.org
 com-verification.id
 com.akadns.net
 com.au
-com.br
 com.cn
 com.com
 com.edgekey.net
@@ -8634,11 +8631,8 @@ ednetz.de
 edoc.huawei.com
 edrone.me
 eds.xboxlive.com
-edu.co
 edu.dcinside.com
-edu.ec
 edu.hebnews.cn
-edu.lb
 education.ti.com
 ee.hit.gemius.pl
 eek.ch
@@ -9154,6 +9148,7 @@ evrtonline.com
 evry91.bnp.fr
 evsecure-ocsp.verisign.com
 evt.klarna.com
+evt.mxplay.com
 evus.gov
 evvet.org
 evyy.net
@@ -10656,6 +10651,7 @@ getmovil.com
 getnada.com
 getpocket.com
 getprof.sg.np.community.playstation.net
+getpublica.com
 getresponse.com
 getrheel.co.nz
 getroman.com
@@ -18222,7 +18218,6 @@ pafnet.de
 pagbrasil.com
 page.amap.com
 page.line.me
-page.link
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -22611,6 +22606,7 @@ sskduesseldorf.de
 sskm.de
 sskpw.de
 ssl-ccstatic.highwebmedia.com
+ssl-cdn.static.browser.mi-img.com
 ssl-images-amazon.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
