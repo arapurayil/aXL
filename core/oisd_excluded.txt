@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Feb 2022 00:18:24 UTC
+# Last modified: 16 Feb 2022 08:06:44 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -117,7 +117,6 @@ aboluowang.com
 about.com
 aboutads.info
 ac.duckduckgo.com
-ac.pa
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
@@ -132,6 +131,7 @@ acr0.samsungcloudsolution.com
 acs.m.taobao.com
 actie.milieudefensie.nl
 action.metaffiliation.com
+actionbutton.co
 activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.wip3.adobe.com
@@ -963,7 +963,6 @@ cmp.nextday.media
 cmstool.youku.com
 cnetcontentsolutions.com
 cnzz.com
-co.in
 code.createjs.com
 codepush.appcenter.ms
 codepush.azurewebsites.net
@@ -973,7 +972,6 @@ cohesionapps.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collector.wallapop.com
-com.br
 com.com
 combine.urbanairship.com
 comet.yahoo.com
@@ -1262,10 +1260,7 @@ edgecastcdn.net
 edgesuite.net
 edigitalsurvey.com
 edrone.me
-edu.co
-edu.ec
 edu.hebnews.cn
-edu.lb
 effiliation.com
 effinghamanimalhospital.com
 ehow.com
@@ -1334,6 +1329,7 @@ everesttech.net
 evidon.com
 eviltracker.net
 evt.klarna.com
+evt.mxplay.com
 evyy.net
 ew1.dms-gld.bigdata.ssp.samsung.com
 exactag.com
@@ -1496,6 +1492,7 @@ get.x-link.pl
 getadmiral.com
 getblueshift.com
 getdrip.com
+getpublica.com
 getroman.com
 gfe.nvidia.com
 gg.google.com
@@ -2404,7 +2401,6 @@ p3.music.126.net
 p4.music.126.net
 paddleapi.com
 page.amap.com
-page.link
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -2932,6 +2928,7 @@ spl.hit.gemius.pl
 spot.im
 sqimg.qq.com
 srvtrck.com
+ssl-cdn.static.browser.mi-img.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
 ssl.google-analytics.com
@@ -2954,6 +2951,7 @@ stat.ethz.ch
 stat24.com
 statcounter.com
 static-asm.secure.skypeassets.com
+static.3001.net
 static.adsafeprotected.com
 static.cleverpush.com
 static.cloudflareinsights.com
@@ -3022,7 +3020,6 @@ sysdig.com
 systweak.com
 szentkoronaradio.com
 szlong.weixin.qq.com
-t-online.de
 t.eloqua.com
 t.en25.com
 t.indeed.com
@@ -3100,7 +3097,6 @@ tickle.com
 tidebuy.com
 tigase.net
 tile-service.weather.microsoft.com
-time.is
 time.samsungcloudsolution.com
 tiny.cc
 tinypass.com
