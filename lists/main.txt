@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.17
-# Last modified: 17 Feb 2022 00:18:00 UTC
+# Last modified: 17 Feb 2022 08:03:42 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -20823,6 +20823,7 @@ saradar.com
 sarasin.com
 sarasin.lu
 saraswatbank.com
+sare25.com
 sas.com
 sas.ooyala.com
 sas.samsungcloudsolution.com
