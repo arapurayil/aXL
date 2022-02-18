@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.18
-# Last modified: 18 Feb 2022 08:06:25 UTC
+# Last modified: 18 Feb 2022 16:05:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -94,6 +94,7 @@
 100webspace.com
 100webspace.net
 100x100banco.com
+101010.pl
 101internet.co.uk
 102.112.2o7.net
 102.122.2o7.net
@@ -470,6 +471,7 @@ aax-cpm.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-fe-pek.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -754,6 +756,7 @@ ad.mediaplex.com
 ad.nl
 ad.samsungadhub.com
 ad.vu
+ad.xiaomi.com
 ad.zanox.com
 ad2.media01.eu
 ad2.netshelter.net
@@ -1483,6 +1486,7 @@ altbank.com
 alternativeto.net
 alternativeveterinaryhospital.com
 altervista.org
+altfarm.mediaplex.com
 altinn.no
 altonmemorialhospital.org
 alvaradohospital.com
@@ -2118,7 +2122,6 @@ amiez.org
 amigoseninternet.com
 amigotalk.de
 amil.com.br
-amishcountryfurnishings.com
 amistad.com
 aml-gateway.cloud.vimeo.com
 ammerland-klinik.de
@@ -2189,7 +2192,6 @@ andhrabank-india.com
 andmuchmore.com
 andreasklinik.ch
 andro4all.com
-androeed.ru
 android.bugly.qq.com
 android.clients.google.com
 android.com
@@ -2792,6 +2794,7 @@ appnee.com
 apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
 apps-pub.samsungcloudcdn.com
+apps.crashlytics.com
 apps.cybonline.co.uk
 apps.daum.net
 apps.elfsight.com
@@ -2885,7 +2888,6 @@ arkbankers.org
 arkhospitals.org
 arknatl.com
 arkoselabs.com
-armaholic.com
 armdl.adobe.com
 armedforcesinternet.com
 armmf.adobe.com
@@ -3088,6 +3090,7 @@ atlasbank.com
 atlassbx.com
 atlassian.com
 atlassian.net
+atm.youku.com
 atmos.ucla.edu
 atomz.com
 atspace.com
@@ -3950,7 +3953,6 @@ bartowcountybank.com
 bas-info.ch
 base64decode.org
 basecamp.com
-bashupload.com
 basisbank.dk
 basketbuild.com
 bassandequitable.com.au
@@ -4019,7 +4021,6 @@ bbss.softbankbb.co.jp
 bbstatic.ign.com
 bbt.com
 bbtree.com
-bbuseruploads.s3.amazonaws.com
 bbva.com.ar
 bbva.com.co
 bbva.es
@@ -4187,7 +4188,6 @@ benefits.gov
 benefits.sovendus.com
 benfranklinbank.com
 benfranklinsavings.com
-benkow.cc
 bensbergerbank.de
 berbanca.it
 berenberg.de
@@ -4423,7 +4423,6 @@ bits.twitch.tv
 bitstamp.net
 bittersweetparis.com
 bittip.coinbase.com
-bittor.pw
 bittorrent.com
 bittrex.com
 bitw.in
@@ -4911,6 +4910,7 @@ browser-update.org
 browser.cloud.ucweb.com
 browser.events.data.microsoft.com
 browser.events.data.msn.com
+browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browserapi.micloud.xiaomi.net
@@ -5084,6 +5084,7 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
+bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -5092,6 +5093,7 @@ byet.org
 byethost10.com
 byjusclasses.com
 byjusclasses.freshdesk.com
+byoblu.com
 byod-web.huawei.com
 byside.com
 bystrobank.ru
@@ -6619,6 +6621,7 @@ colgate.com.br
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collateral.medium.com
+collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
@@ -6668,7 +6671,6 @@ comfedbank.com
 comic.naver.com
 comic.nil.naver.com
 comingsoon.namebright.com
-command.com
 commander1.com
 commbank-wge.com
 commbank.com.au
@@ -7658,6 +7660,7 @@ delivery.acm.org
 delivery.rakuten.co.jp
 delivery.tacticalrepublic.com
 delivery.vidible.tv
+delivery.way2traffic.com
 dell.com
 dellin.ru
 dellsbank.com
@@ -7972,7 +7975,6 @@ dl.360safe.com
 dl.delivery.mp.microsoft.com
 dl.developer.sonymobile.com
 dl.discordapp.net
-dl.downloadly.ir
 dl.dropbox.com
 dl.dropboxusercontent.com
 dl.free.fr
@@ -9000,7 +9002,6 @@ essex-fire.gov.uk
 essexsavings.com
 estaticos.tvn.cl
 estore.sonymobile.com
-estpak.ee
 estream.to
 esube.abank.com.tr
 esube.albarakaturk.com.tr
@@ -9178,7 +9179,6 @@ exchange.kaspersky.com
 exchange4media.com
 exchangebk.com
 exe.io
-exemsi.com
 exetervethospital.com
 eximb.com
 eximbank.com
@@ -9844,6 +9844,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flowcode.com
 flowershospital.com
 flowgo.com
 flowplayer.com
@@ -10579,6 +10580,7 @@ genovolksbank.de
 genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
+geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -10677,6 +10679,7 @@ ghbtns.com
 ghostbin.com
 ghostery-collector.ghostery.com
 ghostery.com
+ghosthis.review
 ghs.googlehosted.com
 ghsitia.gr
 gia.jd.com
@@ -10787,7 +10790,6 @@ glocalnet.se
 gloimg.gbtcdn.com
 gloint.com
 glomex.com
-glotorrents.pw
 gloucestershire.gov.uk
 gloyah.net
 gls-bank.de
@@ -12642,6 +12644,7 @@ id.m.wikipedia.com
 id.pilet.ee
 id.rambler.ru
 id.santanderconsumer.no
+id.server
 id.smt.docomo.ne.jp
 id.sonyentertainmentnetwork.com
 id.twitch.tv
@@ -14805,6 +14808,7 @@ livedocs.adobe.com
 livedoor.jp
 livefilestore.com
 livefyre.com
+liveintent.com
 liveinternet.ru
 livejasmin.com
 livejournal.com
@@ -14936,7 +14940,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15267,6 +15270,8 @@ manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
 mange-news.com
+mangler1.generals.ea.com
+mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mangomoney.ru
@@ -15416,6 +15421,7 @@ massmba.com
 master-capital.org
 masterpass.ch
 masterpass.com
+mastodon.online
 mat1.gtimg.com
 match.com
 matchinguu.com
@@ -15667,7 +15673,6 @@ media.viafoura.net
 media.viber.com
 media.viva.nl
 media.wired.com
-media.wtf
 media.xda-developers.com
 media01.eu
 media4.steampowered.com
@@ -16067,6 +16072,7 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -16168,6 +16174,7 @@ mobile-collector.newrelic.com
 mobile-dssf-prod.cmtelematics.com
 mobile-log-dssf-prod.cmtelematics.com
 mobile-log.cmtelematics.com
+mobile-service.segment.com
 mobile-update.bithumb.com
 mobile.anycast.adnxs.com
 mobile.bet365.com
@@ -17334,7 +17341,6 @@ nsall5th.huawei.com
 nsall6th.huawei.com
 nsallsec.huawei.com
 nsandi.com
-nsanedown.com
 nsatc.net
 nsbank.com
 nsbbank.com
@@ -17488,7 +17494,6 @@ oberlinhaus.de
 oberschwabenklinik.de
 obk.be
 oblhospital.com.ua
-oblin.at
 oboom.com
 observer.com
 obviousidea.com
@@ -17532,7 +17537,6 @@ oct.assets.appreciatehub.com
 octafx.com
 octopop.com
 oculus.com
-od.lk
 odc.officeapps.live.com
 odc.weather.com
 odcdn.com
@@ -18257,6 +18261,7 @@ pando.com
 pandora.com
 pandora.mi.com
 panduoduo.net
+panel.adtify.pl
 pangaliit.ee
 pangle.io
 pankkiyhdistys.fi
@@ -20245,7 +20250,6 @@ rhp.uams.edu
 ri.ms
 rib.ru
 ricehospital.com
-ricepaperscissors.com.au
 richart.tw
 richlandbank.com
 richlandhospital.com
@@ -20404,7 +20408,6 @@ rpm.newrelic.com
 rptb.ru
 rptrcks.walmart.com
 rpxnow.com
-rqd.sparta.mig.tencent-cloud.net
 rr.com
 rrsb.com
 rs-portal.capitalbank.ru
@@ -20564,6 +20567,7 @@ s.pinimg.com.gslb.pinterest.com
 s.put.re
 s.reddit.com
 s.s-bol.com
+s.sa.aol.com
 s.sc-cdn.net
 s.sc-jpl.com
 s.shopify.com
@@ -20657,6 +20661,7 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
+sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -21368,6 +21373,7 @@ servint.net
 servis24.cz
 servix.idnes.cz
 servizioelettriconazionale.it
+servserv.generals.ea.com
 sesiahs.health.nsw.gov.au
 sessioncam.com
 sessionstack.com
@@ -21426,6 +21432,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21689,7 +21696,6 @@ skbank.com.tw
 skbbank.ru
 skbwitten.de
 skenet.ch
-skepticalscience.com
 sketch.sonymobile.com
 skh-arnsdorf.de
 skh-grossschweidnitz.de
@@ -21939,7 +21945,6 @@ software-download.microsoft.com
 software.naver.com
 software.sonymobile.com
 softwareadvice.com
-softwarehelpdata.com
 sogou.com
 sohu.com
 soku.com
@@ -22407,7 +22412,6 @@ spdy3.maps.rostaxi.org
 speakeasy.net
 spearehospital.com
 spec.radeant.com
-speccy.piriform.com
 specialty-hospital.com
 spectre.twitch.tv
 spectrocoin.com
@@ -22624,6 +22628,7 @@ ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
+ssl4anyone2.com
 sslbl.abuse.ch
 sslshare.gshifen.com
 ssm.pd.biv.sony.tv
@@ -23471,6 +23476,7 @@ t35.com
 ta.gd
 ta.wikipedia.com
 ta4a.info
+taatta.net
 tabac-info-service.fr
 tabbank.com
 taboola.com
@@ -23978,7 +23984,6 @@ tmba.org
 tmbdirect.com
 tmblr.co
 tmcaz.com
-tmclub.eu
 tmdb.np.dl.playstation.net
 tmearn.com
 tmi.twitch.tv
@@ -24117,7 +24122,6 @@ track.ucas.com
 track.upaknee.com
 track.webgains.com
 trackcmp.net
-tracker.bittor.pw
 tracker.btzoo.eu
 tracker.cyber-hub.net
 tracker.debian.org
@@ -24419,10 +24423,8 @@ u-e-k.de
 u.alicdn.com
 u.bb
 u.cloud.vimeo.com
-u.cubeupload.com
 u.jimcdn.com
 u.nu
-u.teknik.io
 u.to
 u.wechat.com
 uabonline.org
@@ -24864,6 +24866,7 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
@@ -24939,7 +24942,6 @@ usphs.gov
 uspis.gov
 usps.com
 usps.gov
-usrfiles.com
 ust.chatango.com
 ustream.tv
 ustreas.gov
@@ -26117,7 +26119,6 @@ webcache.googleusercontent.com
 webcam.yahoo.com
 webcamflushcrush.com
 webcare.byside.com
-webcindario.com
 webcityfed.com
 webcollage.net
 webconferencia.net
@@ -26375,7 +26376,6 @@ windowsphone.com
 windowsphone.xbox.com
 windowsupdate.com
 windowsupdate.nsatc.net
-windowsupdate.s.llnwi.net
 windowupdate.org
 windscribe.com
 windsorparkanimalhospital.com
@@ -26493,6 +26493,7 @@ world-net.co.nz
 worldbank-bangladesh.org
 worldbank.org
 worlddsl.com
+worldnewsdailyreport.com
 worldoftanks.eu
 worldometers.info
 worldskyline.com
