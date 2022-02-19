@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.18
-# Last modified: 18 Feb 2022 16:05:25 UTC
+# Version: 3.02.19
+# Last modified: 19 Feb 2022 00:23:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5553,6 +5553,7 @@ cdm.co.ma
 cdm.cursecdn.com
 cdm24.pl
 cdmdownload.adobe.com
+cdn-147.anonfiles.com
 cdn-3.convertexperiments.com
 cdn-a.sonyentertainmentnetwork.com
 cdn-apple.com
@@ -12031,6 +12032,7 @@ hybrid-analysis.com
 hybrid.xiaomi.com
 hydracdn.network
 hydrax.net
+hydromet.gov.bz
 hygeia.gr
 hyperurl.co
 hypestat.com
@@ -17142,6 +17144,7 @@ nmbankers.com
 nmcheck.gnome.org
 nmetrics.samsung.com
 nmmba.org
+nms.gov.bz
 no-cache.hubspot.com
 no-go.kelkoogroup.net
 no-intro.dlgsoftware.net
@@ -19527,6 +19530,7 @@ r.bbci.co.uk
 r.browser.intl.miui.com
 r.browser.miui.com
 r.mail.ru
+r.megogo.net
 r.mzstatic.com
 r.orange.fr
 r.r10s.jp
@@ -25035,6 +25039,7 @@ vandelaydesign.com
 vanguard.com
 vanilla.futurecdn.net
 vanlanschot.nl
+vanwa.tech
 varengold.de
 variety.com
 vas.samsungapps.com

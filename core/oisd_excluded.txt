@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Feb 2022 16:05:25 UTC
+# Last modified: 19 Feb 2022 00:23:36 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -807,7 +807,6 @@ cbsinteractive.com
 cc-dt.com
 ccbill.com
 cdex.mu
-cdn-147.anonfiles.com
 cdn-gl.imrworldwide.com
 cdn-image.com
 cdn-net.com
@@ -1138,7 +1137,6 @@ data.ubi.com
 datacaciques.com
 datadoghq-browser-agent.com
 dauth-lp1.ndas.srv.nintendo.net
-daystar.ac.ke
 db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
 dca.nl
@@ -1233,7 +1231,6 @@ dspultra.com
 dstreet.pl
 dt51.net
 dtiserv2.com
-duc.edu.iq
 duckdns.org
 dw-online.ksosoft.com
 dw.cbsi.com
@@ -1667,7 +1664,6 @@ humanpresence.app
 hw-cdn.trafficjunky.net
 hw-cdn2.adtng.com
 hydracdn.network
-hydromet.gov.bz
 hyperurl.co
 hypestat.com
 i.cdnpark.com
@@ -2265,7 +2261,6 @@ njih.net
 nl.sitestat.com
 nllapps.com
 nlrb.gov
-nms.gov.bz
 nocdnrlly.xyz
 non.li
 nonstoppartner.net
@@ -2386,7 +2381,6 @@ orkut.com.br
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
-oshi.at
 osimg.nbcuni.com
 ospserver.net
 otf.msn.com
@@ -3107,7 +3101,6 @@ theintelligencer.com
 theraleighregister.com
 theync.com
 thirdparty.bnc.lt
-thomsonplaza.com.sg
 tickcounter.com
 tickle.com
 tidebuy.com
