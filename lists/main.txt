@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.19
-# Last modified: 19 Feb 2022 00:23:36 UTC
+# Last modified: 19 Feb 2022 08:04:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5553,7 +5553,6 @@ cdm.co.ma
 cdm.cursecdn.com
 cdm24.pl
 cdmdownload.adobe.com
-cdn-147.anonfiles.com
 cdn-3.convertexperiments.com
 cdn-a.sonyentertainmentnetwork.com
 cdn-apple.com
@@ -7532,7 +7531,6 @@ davivienda.com
 day2day.dk
 daycoval.com.br
 days.yahoo.co.jp
-daystar.ac.ke
 daytonhearthospital.com
 db-ip.com
 db-pbc.pl
@@ -8314,7 +8312,6 @@ du1gtm004.adobe.com
 dualstack.kayak.map.fastly.net
 duba.com
 dubuquebank.com
-duc.edu.iq
 duck.co
 duckdns.org
 duckduckgo.com
@@ -12032,7 +12029,6 @@ hybrid-analysis.com
 hybrid.xiaomi.com
 hydracdn.network
 hydrax.net
-hydromet.gov.bz
 hygeia.gr
 hyperurl.co
 hypestat.com
@@ -17144,7 +17140,6 @@ nmbankers.com
 nmcheck.gnome.org
 nmetrics.samsung.com
 nmmba.org
-nms.gov.bz
 no-cache.hubspot.com
 no-go.kelkoogroup.net
 no-intro.dlgsoftware.net
@@ -18059,7 +18054,6 @@ oschadnybank.com
 oscp.apple.com
 osgv.de
 osha.gov
-oshi.at
 oshrc.gov
 osimg.nbcuni.com
 osint.bambenekconsulting.com
@@ -23872,7 +23866,6 @@ thisissand.com
 thisisyourbank.com
 thm.market.xiaomi.com
 thomashospital.com
-thomsonplaza.com.sg
 threatcrowd.org
 threats.kaspersky.com
 three.com.au
