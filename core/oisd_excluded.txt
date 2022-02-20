@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Feb 2022 08:06:54 UTC
+# Last modified: 20 Feb 2022 16:03:51 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -1879,6 +1879,7 @@ irchan.com
 iris.tv
 ironbeast.io
 is.snssdk.com
+isao.org
 isgprivacy.cbsi.com
 islandmob.com
 isnssdk.com
@@ -2203,6 +2204,7 @@ naiadsystems.com
 naifei.shop
 named.myteamspeak.com
 nanigans.com
+nanovisor.io
 narrativ.com
 nasapaul.com
 nationalisacs.org
@@ -2638,6 +2640,7 @@ research.net
 researchintel.com
 researchnow.co.uk
 researchnow.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -2950,6 +2953,7 @@ static.ws.126.net
 staticxx.facebook.com
 stats.adobe.com
 stats.gc.apple.com
+stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
 stats.t-online.de
@@ -3428,6 +3432,7 @@ youtube-ui.l.google.com
 youtube.de
 youvisit.com
 youxi.baidu.com
+ypu.edu.tw
 yt3.ggpht.com
 yt4.ggpht.com
 yui.yahooapis.com
