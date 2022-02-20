@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.20
-# Last modified: 20 Feb 2022 00:25:59 UTC
+# Last modified: 20 Feb 2022 08:06:54 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -471,7 +471,6 @@ aax-cpm.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
-aax-fe-pek.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -756,7 +755,6 @@ ad.mediaplex.com
 ad.nl
 ad.samsungadhub.com
 ad.vu
-ad.xiaomi.com
 ad.zanox.com
 ad2.media01.eu
 ad2.netshelter.net
@@ -1486,7 +1484,6 @@ altbank.com
 alternativeto.net
 alternativeveterinaryhospital.com
 altervista.org
-altfarm.mediaplex.com
 altinn.no
 altonmemorialhospital.org
 alvaradohospital.com
@@ -2794,7 +2791,6 @@ appnee.com
 apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
 apps-pub.samsungcloudcdn.com
-apps.crashlytics.com
 apps.cybonline.co.uk
 apps.daum.net
 apps.elfsight.com
@@ -3090,7 +3086,6 @@ atlasbank.com
 atlassbx.com
 atlassian.com
 atlassian.net
-atm.youku.com
 atmos.ucla.edu
 atomz.com
 atspace.com
@@ -4910,7 +4905,6 @@ browser-update.org
 browser.cloud.ucweb.com
 browser.events.data.microsoft.com
 browser.events.data.msn.com
-browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browserapi.micloud.xiaomi.net
@@ -5084,7 +5078,6 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
-bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -6621,7 +6614,6 @@ colgate.com.br
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collateral.medium.com
-collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
@@ -7659,7 +7651,6 @@ delivery.acm.org
 delivery.rakuten.co.jp
 delivery.tacticalrepublic.com
 delivery.vidible.tv
-delivery.way2traffic.com
 dell.com
 dellin.ru
 dellsbank.com
@@ -9816,6 +9807,7 @@ fleischhacker.de
 flemail.flipboard.com
 flessabank.de
 fletc.gov
+flexlinkspro.com
 flic.kr
 flickr.com
 flickr.com.br
@@ -9842,7 +9834,6 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
-flowcode.com
 flowershospital.com
 flowgo.com
 flowplayer.com
@@ -10578,7 +10569,6 @@ genovolksbank.de
 genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
-geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -12642,7 +12632,6 @@ id.m.wikipedia.com
 id.pilet.ee
 id.rambler.ru
 id.santanderconsumer.no
-id.server
 id.smt.docomo.ne.jp
 id.sonyentertainmentnetwork.com
 id.twitch.tv
@@ -14938,6 +14927,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15268,8 +15258,6 @@ manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
 mange-news.com
-mangler1.generals.ea.com
-mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mangomoney.ru
@@ -16070,7 +16058,6 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -16172,7 +16159,6 @@ mobile-collector.newrelic.com
 mobile-dssf-prod.cmtelematics.com
 mobile-log-dssf-prod.cmtelematics.com
 mobile-log.cmtelematics.com
-mobile-service.segment.com
 mobile-update.bithumb.com
 mobile.anycast.adnxs.com
 mobile.bet365.com
@@ -18258,7 +18244,6 @@ pando.com
 pandora.com
 pandora.mi.com
 panduoduo.net
-panel.adtify.pl
 pangaliit.ee
 pangle.io
 pankkiyhdistys.fi
@@ -20565,7 +20550,6 @@ s.pinimg.com.gslb.pinterest.com
 s.put.re
 s.reddit.com
 s.s-bol.com
-s.sa.aol.com
 s.sc-cdn.net
 s.sc-jpl.com
 s.shopify.com
@@ -20659,7 +20643,6 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
-sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -21371,7 +21354,6 @@ servint.net
 servis24.cz
 servix.idnes.cz
 servizioelettriconazionale.it
-servserv.generals.ea.com
 sesiahs.health.nsw.gov.au
 sessioncam.com
 sessionstack.com
@@ -21430,7 +21412,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -22626,7 +22607,6 @@ ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
-ssl4anyone2.com
 sslbl.abuse.ch
 sslshare.gshifen.com
 ssm.pd.biv.sony.tv
@@ -23474,7 +23454,6 @@ t35.com
 ta.gd
 ta.wikipedia.com
 ta4a.info
-taatta.net
 tabac-info-service.fr
 tabbank.com
 taboola.com
@@ -24109,6 +24088,7 @@ track.adtraction.com
 track.bpost.be
 track.customer.io
 track.effiliation.com
+track.flexlinkspro.com
 track.hulu.com
 track.kuronekoyamato.co.jp
 track.nzz.ch
@@ -24863,7 +24843,6 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
