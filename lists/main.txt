@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.20
-# Last modified: 20 Feb 2022 16:03:52 UTC
+# Version: 3.02.21
+# Last modified: 21 Feb 2022 00:22:08 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -13376,6 +13376,7 @@ is.alicdn.com
 is.gd
 is.hide.me
 is.snssdk.com
+isao.org
 isb-algona.com
 isb.rlp.de
 isbank.com.tr
@@ -16696,6 +16697,7 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
+nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -22911,6 +22913,7 @@ stats.channel4.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
+stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
 stats.streamelements.com
@@ -26977,6 +26980,7 @@ youvisit.com
 youxi.baidu.com
 yoyo.org
 yoyo.pl
+ypu.edu.tw
 yql.yahoo.com
 yrmc.org
 ysear.ch
