@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Feb 2022 00:22:08 UTC
+# Last modified: 21 Feb 2022 08:06:53 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -567,7 +567,6 @@ app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
 app.sephora.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -2019,7 +2018,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 loginfra.com
 logrocket.com
 logs.amap.com
@@ -2204,7 +2202,6 @@ naiadsystems.com
 naifei.shop
 named.myteamspeak.com
 nanigans.com
-nanovisor.io
 narrativ.com
 nasapaul.com
 nationalisacs.org
@@ -2640,7 +2637,6 @@ research.net
 researchintel.com
 researchnow.co.uk
 researchnow.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
