@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Feb 2022 08:06:47 UTC
+# Last modified: 22 Feb 2022 16:06:45 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -395,6 +395,7 @@ adtraction.com
 adultswim.com
 adups.com
 adv.li
+advancedhosters.com
 advertising-module.api.dpgmedia.cloud
 advertising.com
 adwords.google.com
@@ -583,7 +584,6 @@ aus.waterfox.net
 auscanforum.com
 auslogics.com
 auth.gfx.ms
-auth.omoplanet.com
 auth.samsungosp.com
 authbe.sec.intl.miui.com
 auto.search.msn.com
@@ -787,7 +787,6 @@ cdn.tinypass.com
 cdn.viafoura.net
 cdn.vidible.tv
 cdn.wootric.com
-cdn.ziffstatic.com
 cdn.zomap.de
 cdn1.ettoday.net
 cdn1.smartadserver.com
@@ -1216,6 +1215,7 @@ evyy.net
 ew1.dms-gld.bigdata.ssp.samsung.com
 exactag.com
 exacttarget.com
+examsnap.io
 exe.io
 exosrv.com
 experience.jcu.edu.au
@@ -1243,6 +1243,7 @@ femto.pw
 ffdns.net
 file.market.xiaomi.com
 filehorse.com
+files.im
 files.viva64.com
 fili.cc
 filman.tv
@@ -1360,7 +1361,6 @@ getpublica.com
 getroman.com
 gfe.nvidia.com
 gg.google.com
-ghbtns.com
 ghostery-collector.ghostery.com
 ghosthis.review
 gia.jd.com
@@ -1650,7 +1650,6 @@ igodigital.com
 ikohs.com
 image.ceneo.pl
 images.ccbill.com
-images.dmca.com
 images.sohu.com
 imagesak.secureserver.net
 imasdk.googleapis.com
@@ -1768,6 +1767,7 @@ katcr.to
 kauth.kakao.com
 kaxsdc.com
 keepvid.com
+kelkoogroup.net
 kemsos.go.id
 kepler.jd.com
 keshefoundation.org
@@ -1835,7 +1835,6 @@ liveupdate.mac.sandai.net
 ll.a.hulu.com
 lnks.gd
 localytics.com
-lofter.com
 log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
@@ -2055,6 +2054,7 @@ nlrb.gov
 nonstoppartner.net
 norstatsurveys.com
 notice.samsungcloudsolution.com
+notice.sp-prod.net
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 nova.collect.igodigital.com
@@ -2193,7 +2193,6 @@ pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pages.info.exclusive-networks.com
 pages03.net
-pair.com
 pandapush-iad-prod.inscloudgate.net
 pangle.io
 panoramio.com
@@ -2433,6 +2432,7 @@ rpgenerator.net
 rpxnow.com
 rs6.net
 rsci.app.link
+ru.com
 rubicon.wellsfargo.com
 rutrk.org
 rv.furaffinity.net
@@ -2587,7 +2587,6 @@ shopperapproved.com
 shopzilla.com
 shorte.st
 siamzone.com
-sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
@@ -2899,6 +2898,7 @@ truste.com
 trytechnical.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tudasfaja.com
+tv.sohu.com
 tvn.adocean.pl
 tvpassport.com
 tvzap.kataweb.it
@@ -3123,7 +3123,6 @@ yap.yahoo.com
 ydstatic.com
 yeshen.com
 yeswegays.com
-yimg.com
 ykrec.youku.com
 ynuf.aliapp.org
 ynuf.alipay.com
