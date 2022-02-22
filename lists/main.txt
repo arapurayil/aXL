@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.22
-# Last modified: 22 Feb 2022 00:21:48 UTC
+# Last modified: 22 Feb 2022 08:06:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2151,7 +2151,6 @@ amundi-tc.com
 amway.com
 amzn.com
 amzn.to
-an.yandex.ru
 ana.fr
 anadolubank.com.tr
 anadolufinans.com.tr
@@ -3240,7 +3239,6 @@ avtobank.ru
 avtokrazbank.ua
 avtoradio.ru
 avvillas.com.co
-awaps.yandex.ru
 awards.netflix.com
 awbank.net
 awdgp.org.au
@@ -4921,7 +4919,6 @@ brzu.net
 bs-bank.ch
 bs.gravatar.com
 bs.serving-sys.com
-bs.yandex.ru
 bsa.org.uk
 bsb.by
 bsbbank.com
@@ -6274,8 +6271,6 @@ clb.olmabank.ru
 clbank.investcapitalbank.ru
 clc.stackoverflow.com
 clck.ru
-clck.yandex.com
-clck.yandex.com.tr
 clck.yandex.ru
 cleancss.com
 cleaner.daum.net
@@ -11163,7 +11158,6 @@ grabify.link
 grabillbank.com
 grabo.bg
 grabtaxi.com
-grade.market.yandex.ru
 graffiti.net
 grafschafter-klinikum.de
 grafschafter-volksbank.de
@@ -11935,6 +11929,7 @@ hsforms.com
 hsforms.net
 hsh-nordbank.de
 hsk-wiesbaden.de
+hsoub.com
 hspx.hotstar.com
 hsx.com
 ht.ly
@@ -13297,6 +13292,7 @@ ip.anysrc.net
 ip.breitbart.com
 ip.cms.sohu.com
 ip.goguardian.com
+ip.nf
 ip02.gntl.co.uk
 ip2location.com
 ipapi.co
@@ -13327,6 +13323,7 @@ ipkobiznes.pl
 ipla.hit.stat24.com
 ipla.tv
 ipleak.net
+iplist.cc
 iplists.firehol.org
 iplocation.net
 ipm-provider.ff.avast.com
@@ -13904,7 +13901,6 @@ kijiji.ca
 kijiji.com
 kik.soundcloud.com
 kiks.yandex.ru
-kiks.yandex.ua
 kilim.net.tr
 kimbanet.net
 kin.naver.com
@@ -15482,7 +15478,6 @@ mbvt.com
 mbz19n.accounts.clickbank.com
 mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net
 mc-siderail.spot.im
-mc.yandex.ru
 mcaf.ee
 mcafee.com
 mcb-bank.com
@@ -16363,7 +16358,6 @@ mrthumb.nabstudio.com
 mrzikj.com
 ms-bank.com
 ms.gravatar.com
-ms.yandex.ru
 msa.akadns6.net
 msa.enel.it
 msbankers.com
@@ -21538,6 +21532,7 @@ shy.si
 si.edu
 si.playstation.com
 siab.ru
+siamzone.com
 siasat.pk
 siatka.org
 sib.ci
@@ -24762,6 +24757,7 @@ url.dnspod.com
 url.it
 url.me
 url.org
+url.rw
 url2.fr
 url5.org
 url8807.global.passport.xiaomi.com
