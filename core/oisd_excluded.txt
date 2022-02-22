@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Feb 2022 16:05:29 UTC
+# Last modified: 22 Feb 2022 00:21:48 UTC
 0catch.com
 000webhostapp.com
 1coolbox.com
@@ -468,7 +468,6 @@ americanlisted.com
 amplitude.com
 ams.keshefoundation.org
 amway.com
-an.yandex.ru
 analytics.edgekey.net
 analytics.google.com
 analytics.localytics.com
@@ -629,7 +628,6 @@ avantlink.com
 avatarservices.xboxlive.com
 aviasales.ru
 avivaromm.com
-awaps.yandex.ru
 aweber.com
 awemwh.com
 awin.com
@@ -744,7 +742,6 @@ browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bs.serving-sys.com
-bs.yandex.ru
 bsiderats.nl
 bsv.atm.youku.com
 btguard.com
@@ -894,8 +891,6 @@ cl.exct.net
 classmates.com
 clc.stackoverflow.com
 clck.ru
-clck.yandex.com
-clck.yandex.com.tr
 clck.yandex.ru
 clearbit.com
 cleverpush.com
@@ -1533,7 +1528,6 @@ gpm.samsungqbe.com
 grab.com
 grabify.link
 grabo.bg
-grade.market.yandex.ru
 graph.accountkit.com
 graph.facebook.com
 graph.instagram.com
@@ -1632,6 +1626,7 @@ hs-scripts.com
 hs.eloqua.com
 hsforms.com
 hsforms.net
+hsoub.com
 hspx.hotstar.com
 hsx.com
 ht.ly
@@ -1856,6 +1851,7 @@ ip-api.com
 ip-tracker.org
 ip.anysrc.net
 ip.goguardian.com
+ip.nf
 ip02.gntl.co.uk
 ip2location.com
 ipapi.co
@@ -1869,6 +1865,7 @@ ipinfo.info
 ipinfo.io
 ipinfodb.com
 ipla.hit.stat24.com
+iplist.cc
 ipm-provider.ff.avast.com
 ipoker.com
 ipredictive.com
@@ -1936,7 +1933,6 @@ kickass.cd
 kiddostoysclub.com
 kiev.ua
 kiks.yandex.ru
-kiks.yandex.ua
 kisshentai.net
 kiwifarms.net
 klarnaservices.com
@@ -2083,7 +2079,6 @@ mas-ssr-ad.amazon.com
 mastodon.online
 maxcdn.bootstrapcdn.com
 maxmind.com
-mc.yandex.ru
 md-nx.com
 mdis.uz
 medallia.com
@@ -2169,7 +2164,6 @@ mr.da.netease.com
 mrex.exs.pl
 mrgugu.com
 mrzikj.com
-ms.yandex.ru
 msedge.net
 msftncsi.com
 msgfocus.com
@@ -2828,6 +2822,7 @@ shopzilla.com
 shorte.st
 shortpixel.ai
 showscale.com
+siamzone.com
 sibforms.com
 sickrage.ca
 sift.com
@@ -3224,6 +3219,7 @@ uptracker.ru
 upu.samsungelectronics.com
 urbanairship.com
 url.dnspod.com
+url.rw
 url8807.global.passport.xiaomi.com
 urlz.fr
 us-v10.events.data.microsoft.com
