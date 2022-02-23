@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.22
-# Last modified: 22 Feb 2022 16:06:45 UTC
+# Version: 3.02.23
+# Last modified: 23 Feb 2022 00:25:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1141,6 +1141,7 @@ adv.li
 adv.sec.miui.com
 advance.com.au
 advanceautoparts.com
+advancedhosters.com
 advancedstream.com
 advancefinancial.com
 advantagebank.com
@@ -3151,7 +3152,6 @@ auth.factorio.com
 auth.flipboard.com
 auth.gfx.ms
 auth.hitbtc.com
-auth.omoplanet.com
 auth.samsungosp.com
 auth.simperium.com
 auth.snapchat.com
@@ -5710,7 +5710,6 @@ cdn.wetest.qq.com
 cdn.whatsapp.net
 cdn.wololo.net
 cdn.wootric.com
-cdn.ziffstatic.com
 cdn.zomap.de
 cdn01.dailycaller.com
 cdn1.digitaltrends.com
@@ -9090,6 +9089,7 @@ exacttarget.com
 examiner.com
 example.com
 example.org
+examsnap.io
 exblog.jp
 exceptions.coinbase.com
 exchange.coinbase.com
@@ -9518,6 +9518,7 @@ files.coinmarketcap.com
 files.dcinside.com
 files.fm
 files.gumroad.com
+files.im
 files.msal.ru
 files.overclock.net
 files.slack.com
@@ -13698,6 +13699,7 @@ keepvid.com
 keesia.com
 kefche.com
 keiba.rakuten.co.jp
+kelkoogroup.net
 kempen.nl
 kemsat.com
 kemsos.go.id
@@ -14799,7 +14801,6 @@ lodihealth.org
 lodz.tvp.pl
 loebbecke-bank.de
 loekkensparekasse.dk
-lofter.com
 log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
@@ -17096,6 +17097,7 @@ noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
 notice.samsungcloudsolution.com
+notice.sp-prod.net
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -18097,7 +18099,6 @@ paidon-agiasofia.gr
 paikallisosuuspankit.fi
 paimgcdn.baidu.com
 painthegame.playstation.com
-pair.com
 pakbankers.com
 pallas-olten.ch
 palmeranimalhospital.net
@@ -20280,6 +20281,7 @@ ru.api.io.mi.com
 ru.app.chat.global.xiaomi.net
 ru.business.smartcamera.api.io.mi.com
 ru.buy.mi.com
+ru.com
 ru.gravatar.com
 ru.ign.com
 ru.mbuy.mi.com
@@ -21392,7 +21394,6 @@ sibank.ru
 sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
-sibforms.com
 sibs.pt
 sicax.net
 sickrage.ca
