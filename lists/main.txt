@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.24
-# Last modified: 24 Feb 2022 00:23:05 UTC
+# Last modified: 24 Feb 2022 08:06:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -870,7 +870,6 @@ adrianstatebank.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
-ads-twitter.com
 ads.dh.duba.com
 ads.exoclick.com
 ads.google.com
@@ -1128,7 +1127,6 @@ adshostnet.com
 adsl-service-providers.net
 adsl4home.co.uk
 adsp.xunlei.com
-adsrvr.org
 adswizz.com
 adtech.de
 adtidy.net
@@ -14882,7 +14880,6 @@ logout.xiaomi.com
 logout.xiaomi.net
 logrocket.com
 logs.amap.com
-logs.datadoghq.com
 logs.datadoghq.eu
 logs.heroku.com
 logsss.com
@@ -18927,6 +18924,7 @@ preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
 presence-grpc-noneu.truecaller.com
 presence-grpc.truecaller.com
+president.gov.by
 presidential.com
 press.soundcloud.com
 press.vimeo.com
