@@ -3,41 +3,26 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2022-02-23T16:05:13.545Z
+! Last modified: 2022-02-24T00:23:15.635Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
 @@||adserver.adtech.de^
-@@||adserver.va3.megaphone.cloud^
-@@||advertisement.alibabacorp.com^
-@@||advertisement.tanx.com^
-@@||advertisement.tanx.com.gds.alibabadns.com^
 @@||advertising-module.api.dpgmedia.cloud^
-@@||advertising.amazon.com^
 @@||advertising.com^
 @@||advertising.soundcloud.com^
-@@||adverts.ie^
 @@||affiliate-program.amazon.com^
 @@||affiliate.dmm.com^
 @@||affiliate.hitbtc.com^
-@@||affiliate.shopee.co.id^
 @@||affiliate.twitch.tv^
-@@||affiliates.etoro.com.edgekey.net^
-@@||affiliates.nordvpn.com^
-@@||analytics-collector-production.c3.yle.fi^
 @@||analytics.bsgwireless.com^
-@@||analytics.console.aws.a2z.com^
 @@||analytics.dev.azure.com^
 @@||analytics.edgekey.net^
 @@||analytics.edgesuite.net^
-@@||analytics.fosrvt.com^
-@@||analytics.ghostery.com^
 @@||analytics.google.com^
-@@||analytics.gotowebinar.com^
 @@||analytics.localytics.com^
 @@||analytics.query.yahoo.com^
 @@||analytics.robinhood.com^
-@@||analytics.tripwireinteractive.com^
 @@||analytics.twitter.com^
 @@||banner.play-asia.com^
 @@||banners.funimation.com^
@@ -46,33 +31,25 @@
 @@||beacon-v2.helpscout.net^
 @@||beacon.geo.netflix.com^
 @@||beacon.netflix.com^
-@@||beacon.schneidercorp.com^
 @@||counter-strike.net^
 @@||mads.amazon-adsystem.com^
 @@||mads.amazon.com^
-@@||mads.de^
 @@||pixel.everesttech.net^
 @@||pixel.nymag.com^
 @@||pixel.quantserve.com^
 @@||pixel.redditmedia.com^
 @@||pixel.wp.com^
-@@||s3-telemetry-eust3.cloudapp.net^
-@@||s3-telemetry-eust4.cloudapp.net^
-@@||telemetry-eu-west-prd.vn.tesla.services^
+@@||prod.telemetry.ros.rockstargames.com^
 @@||telemetry-in.battle.net^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
-@@||telemetry-na-east-prd.an.tesla.services^
 @@||telemetry-prd.ap.tesla.services^
 @@||telemetry-prd.vn.tesla.services^
-@@||telemetry.api.2kcoretech.online^
 @@||telemetry.api.swiftkey.com^
 @@||telemetry.gfe.nvidia.com^
 @@||telemetry.insights.video.a2z.com^
 @@||telemetry.microsoft.com^
 @@||telemetry.mozilla.org^
-@@||telemetry.ros.rockstargames.com^
 @@||telemetry.soundcloud.com^
-@@||telemetry.svc.halowaypoint.com^
 @@||use.adserver.snapads.com^
 @@/beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
 @@/^(captive\.|adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/

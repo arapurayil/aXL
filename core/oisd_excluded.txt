@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Feb 2022 16:05:02 UTC
+# Last modified: 24 Feb 2022 00:23:05 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -165,7 +165,6 @@ adregain.com
 adrise.tv
 ads-blocker.com
 ads-cdn.grab.com
-ads-twitter.com
 ads.google.com
 ads.harvard.edu
 ads.nexage.com
@@ -386,7 +385,6 @@ adservice.google.ws
 adservicemedia.dk
 adserwer.afilo.pl
 adsp.xunlei.com
-adsrvr.org
 adswizz.com
 adtech.de
 adtidy.net
@@ -783,7 +781,6 @@ cdn.siftscience.com
 cdn.streamlike.com
 cdn.stroeerdigitalgroup.de
 cdn.syndication.twimg.com
-cdn.syndication.twitter.com
 cdn.tagcommander.com
 cdn.tinypass.com
 cdn.viafoura.net
@@ -1099,7 +1096,6 @@ dotomi.com
 doubleclick.net
 doublepimp.com
 down.360safe.com
-down.sandai.net
 download-dc1.gfe.nvidia.com
 downloadanysong.com
 downloads.wisecleaner.com
@@ -1493,9 +1489,7 @@ ht.ly
 ht.youporn.com
 http-test1.luminatinet.com
 huangye.miui.com
-hub5pn.sandai.net
 hubblecontent.osi.office.net
-hubciddata.sandai.net
 hubspot.com
 huffingtonpost.com
 hugedomains.com
@@ -1853,7 +1847,6 @@ login-live.com-s02.net
 loginfra.com
 logrocket.com
 logs.amap.com
-logs.datadoghq.com
 logs.datadoghq.eu
 lomadee.com
 lootcrate.com
@@ -2307,6 +2300,7 @@ pr-cy.ru
 pr0gramm.com
 prd.jwpltx.com
 prebid.adnxs.com
+president.gov.by
 pricelist.skype.com
 primetime-a.akamaihd.net
 prisacom.112.2o7.net
