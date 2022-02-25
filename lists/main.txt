@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.25
-# Last modified: 25 Feb 2022 00:23:11 UTC
+# Last modified: 25 Feb 2022 08:07:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2422,7 +2422,6 @@ api.erabu.sonymobile.com
 api.euro.hismarttv.com
 api.exchange.coinbase.com
 api.facebook.com
-api.faceid.com
 api.fast.com
 api.feedburner.com
 api.flexpool.io
@@ -2603,8 +2602,6 @@ api.vuukle.com
 api.waptest.taobao.com
 api.weather.com
 api.wechat.com
-api.weibo.cn
-api.weibo.com
 api.whatsapp.com
 api.winred.com
 api.wunderground.com
@@ -2638,7 +2635,6 @@ api5.origin.com
 apicache.vudu.com
 apihub.daum.net
 apiit.edu.my
-apilocate.amap.com
 apimobile.lifelog.sonymobile.com
 apis.daum.net
 apis.google.com
@@ -8559,7 +8555,6 @@ edoc.huawei.com
 edrone.me
 eds.xboxlive.com
 edu.dcinside.com
-edu.hebnews.cn
 education.ti.com
 ee.hit.gemius.pl
 eek.ch
@@ -12800,7 +12795,6 @@ img.huffingtonpost.com
 img.hulu.com
 img.investorwords.com
 img.mediaset.it
-img.mp.itc.cn
 img.onesignal.com
 img.over-blog-kiwi.com
 img.particlenews.com
@@ -14821,7 +14815,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -17809,7 +17802,6 @@ openmarket.com
 openmic.soundcloud.com
 openmmx.com
 openmmx.de
-openmobile.qq.com
 openpeeps.com
 openphish.com
 opensource.org
@@ -21186,7 +21178,6 @@ service.maxymiser.net
 service.oneplus.com
 service.santanderconsumer.at
 service.weather.microsoft.com
-service.weibo.com
 serviceapi.rmcnmv.naver.com
 servicenetwork.sonymobile.com
 services.addons.mozilla.org
@@ -26880,6 +26871,7 @@ zee.cws.conviva.com
 zee5.com-v1.edgekey.net
 zeek.ir
 zeit.co
+zenaps.com
 zencdn.net
 zendesk.com
 zenginkyo.or.jp
