@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Feb 2022 16:05:27 UTC
+# Last modified: 25 Feb 2022 00:23:11 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -146,7 +146,6 @@ addthis.com
 adf.ly
 adfoc.us
 adform.net
-adiu.amap.com
 adj.st
 adjust.com
 adjust.io
@@ -475,7 +474,6 @@ api.cxense.com
 api.device.xiaomi.net
 api.euro.hismarttv.com
 api.facebook.com
-api.faceid.com
 api.gfe.nvidia.com
 api.groupon.com
 api.io.mi.com
@@ -495,7 +493,6 @@ api.rollbar.com
 api.sec.intl.miui.com
 api.sec.miui.com
 api.setting.intl.miui.com
-api.skype.com
 api.solvemedia.com
 api.taboola.com
 api.techet.net
@@ -506,15 +503,12 @@ api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
 api.vip.miui.com
-api.weibo.cn
-api.weibo.com
 api.xiaomi.com
 api.xmpush.xiaomi.com
 api16-access-sg.pangle.io
 api2.branch.io
 api3.siftscience.com
 apiit.edu.my
-apilocate.amap.com
 apis.google.com
 apiservices.krxd.net
 apmebf.com
@@ -533,7 +527,6 @@ app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
 app.sephora.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -721,7 +714,6 @@ c.evidon.com
 c.id.mi.com
 c.live.com
 c.msn.com
-c.msn.com.nsatc.net
 c.paypal.com
 c.yes.youku.com
 c.ypcdn.com
@@ -988,7 +980,6 @@ cy2.settings.data.microsoft.com.akadns.net
 cyberinc.nl
 d.agkn.com
 d.ghostery.com
-d.ifengimg.com
 d.la1-c2-iad.salesforceliveagent.com
 d.toutiao.com
 d179kwmlpc4o47.cloudfront.net
@@ -1145,7 +1136,6 @@ edgecastcdn.net
 edgesuite.net
 edigitalsurvey.com
 edrone.me
-edu.hebnews.cn
 effiliation.com
 effinghamanimalhospital.com
 ehow.com
@@ -1293,7 +1283,6 @@ forter.com
 fourier.taobao.com
 foxnews.demdex.net
 fpt.microsoft.com
-fr.app.chat.global.xiaomi.net
 frameip.com
 freegeoip.app
 freegeoip.net
@@ -1655,7 +1644,6 @@ img-fotki.yandex.ru
 img.beeg.com
 img.blesk.cz
 img.en25.com
-img.mp.itc.cn
 img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
@@ -1843,7 +1831,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 loginfra.com
 logrocket.com
 logs.amap.com
@@ -2151,7 +2138,6 @@ online.adservicemedia.dk
 ooyala.com
 openapi.samsung.com
 openmarket.com
-openmobile.qq.com
 opinionstage.com
 ops.bpost.be
 optanon.blob.core.windows.net
@@ -2407,7 +2393,6 @@ researchnow.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
-restapi.amap.com
 resu8.hjfile.cn
 revistaeventos.com.br
 revistasobrerodas.com.br
@@ -2553,7 +2538,6 @@ serve.adtrackers.net
 servedby.o2.co.uk
 server.iad.liveperson.net
 service.cz.nl
-service.weibo.com
 services.brid.tv
 services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
@@ -2676,7 +2660,6 @@ stat.download.xunlei.com
 stat.ethz.ch
 stat24.com
 statcounter.com
-static-asm.secure.skypeassets.com
 static.3001.net
 static.adsafeprotected.com
 static.cleverpush.com
@@ -2687,7 +2670,6 @@ static.mediav.com
 static.parsely.com
 static.scroll.com
 static.siteheart.com
-static.skypeassets.com
 static.vrv.co
 static.wi-fi.ru
 static.ws.126.net
@@ -2917,7 +2899,6 @@ udimg.com
 udm.scorecardresearch.com
 ue.flipboard.com
 ufrpe.br
-ui.skype.akadns.net
 ui.skype.com
 uib.ff.avast.com
 uid.mavencoalition.io
@@ -3144,6 +3125,7 @@ zapr.in
 zbiornik.com
 zdbb.net
 zee.cws.conviva.com
+zenaps.com
 ziffdavis.com
 zip.net
 zipansion.com
