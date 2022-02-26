@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Feb 2022 08:16:59 UTC
+# Last modified: 26 Feb 2022 16:03:23 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -1929,6 +1929,7 @@ micpn.com
 microless.com
 microsoftwindowsupdate.net
 mijnbladopdemat.nl
+mimgnews.pstatic.net
 mindtake.com
 minecraftprod.rtep.msgamestudios.com
 mintos.com
