@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.02.26
-# Last modified: 26 Feb 2022 00:21:32 UTC
+# Last modified: 26 Feb 2022 08:16:59 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7196,6 +7196,7 @@ ctk.de
 ctldl.windowsupdate.com
 ctnbank.com.tw
 cts.businesswire.com
+cts.vresp.com
 ctt-trier.de
 cttrustsvcs.com
 ctwisp.com
@@ -14815,6 +14816,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -16271,6 +16273,7 @@ mspb.gov
 mspbank.ru
 msport.gov.pl
 mss-offermgmt.modpim.com
+mstdn.social
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -25926,6 +25929,7 @@ webfriends.in
 webfusion.co.uk
 webgains.com
 webgrab.wechat.com
+webhook.site
 webhop.net
 webhostingpad.com
 webhostingplanet.com
