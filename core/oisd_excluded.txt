@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Feb 2022 16:06:12 UTC
+# Last modified: 26 Feb 2022 00:21:31 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -527,6 +527,7 @@ app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
 app.sephora.com
+app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -966,6 +967,7 @@ cstwpush.com
 ct.pinterest.com
 ct.sendgrid.net
 cts.businesswire.com
+cts.vresp.com
 cultdeadcow.com
 cur.lv
 curalate.com
@@ -1831,6 +1833,7 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
+login-live.com-s02.net
 loginfra.com
 logrocket.com
 logs.amap.com
@@ -1970,6 +1973,7 @@ msftncsi.com
 msgfocus.com
 msh.amazon.co.uk
 msh.amazon.com
+mstdn.social
 multiscreen.samsung.com
 multiscreensite.com
 multiview.com
@@ -2496,6 +2500,7 @@ sdk.iad-01.braze.com
 sdk.iad-02.braze.com
 sdk.iad-03.braze.com
 sdk.iad-04.braze.com
+sdk.privacy-center.org
 sdk.waze.com
 sdmaid.darken.eu
 sdn.szn.cz
@@ -3021,6 +3026,7 @@ webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
 webgains.com
+webhook.site
 webhop.net
 webpayment-promo.internet.apps.samsung.com
 webpower.eu
