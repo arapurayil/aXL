@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Feb 2022 16:03:23 UTC
+# Last modified: 27 Feb 2022 00:25:23 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -159,6 +159,7 @@ adnetasia.com
 adnxs.com
 adobedtm.com
 adocean.pl
+adperfect.com
 adpushup.com
 adregain.com
 adrise.tv

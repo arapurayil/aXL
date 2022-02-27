@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.26
-# Last modified: 26 Feb 2022 16:03:24 UTC
+# Version: 3.02.27
+# Last modified: 27 Feb 2022 00:25:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -15867,6 +15867,7 @@ milwaukeewesternbank.com
 mimc.chat.xiaomi.net
 mimc.com
 mimecast.com
+mimgnews.pstatic.net
 mimobile.esim.mihome.xiaomi.net
 minapp.com
 minavardkontakter.se
