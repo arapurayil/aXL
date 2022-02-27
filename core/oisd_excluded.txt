@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Feb 2022 08:05:02 UTC
+# Last modified: 27 Feb 2022 16:04:18 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -706,7 +706,6 @@ buzzador.com
 bwin.com
 by.uservoice.com
 byet.org
-byoblu.com
 byteimg.com
 c-api-bit.shopeemobile.com
 c.allegrostatic.pl
@@ -1053,7 +1052,6 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 dff2h0hbfv6w4.cloudfront.net
-dhgate.com
 diagnostics.meethue.com
 diagnostics.support.microsoft.com
 diary.ru
@@ -1241,7 +1239,6 @@ filman.tv
 filmha.top
 findglocal.com
 firebaseinstallations.googleapis.com
-firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1686,7 +1683,6 @@ invoca.net
 involve.asia
 ioam.de
 ip-api.com
-ip-tracker.org
 ip.anysrc.net
 ip.goguardian.com
 ip.nf
@@ -1903,6 +1899,7 @@ media01.eu
 mediacorp.112.2o7.net
 mediametrics.ru
 mediaplex.com
+mediatriple.net
 mediav.com
 medrx.telstra.com.au
 meebo.com
@@ -2356,7 +2353,6 @@ qzonestyle.gtimg.cn
 qzs.qq.com
 r.bbci.co.uk
 r.mail.ru
-r.megogo.net
 r.orange.fr
 r.sg.sec.miui.com
 r1.ykimg.com
@@ -2609,7 +2605,6 @@ smetrics.discover.com
 smetrics.frontier.com
 smetrics.latitudefinancial.com
 smetrics.santander.co.uk
-smi2.ru
 smileycentral.com
 smljmp.com
 smll.co
@@ -2678,7 +2673,6 @@ static.parsely.com
 static.scroll.com
 static.siteheart.com
 static.vrv.co
-static.wi-fi.ru
 static.ws.126.net
 staticxx.facebook.com
 stats.adobe.com
@@ -2912,7 +2906,6 @@ uid.mavencoalition.io
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
-ulogin.ru
 ultimedia.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
@@ -3028,7 +3021,6 @@ webair.com
 webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
 webgains.com
-webhook.site
 webhop.net
 webpayment-promo.internet.apps.samsung.com
 webpower.eu
@@ -3064,7 +3056,6 @@ woocall.sina.com.cn
 woodpecker.uc.cn
 wootric.com
 wordstream.com
-worldnewsdailyreport.com
 worldssl.net
 wp-stat.s3.amazonaws.com
 wpc.v0cdn.net
