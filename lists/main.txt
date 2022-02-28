@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.02.27
-# Last modified: 27 Feb 2022 16:04:18 UTC
+# Version: 3.02.28
+# Last modified: 28 Feb 2022 00:24:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5053,7 +5053,6 @@ byet.org
 byethost10.com
 byjusclasses.com
 byjusclasses.freshdesk.com
-byoblu.com
 byod-web.huawei.com
 bystrobank.ru
 byteimg.com
@@ -15564,6 +15563,7 @@ mediapark-klinik.de
 mediapcs.engadget.com
 mediaplex.com
 mediaset.it
+mediatriple.net
 mediav.com
 medicaid.gov
 medicalcityhospital.com
@@ -19371,7 +19371,6 @@ r.bbci.co.uk
 r.browser.intl.miui.com
 r.browser.miui.com
 r.mail.ru
-r.megogo.net
 r.mzstatic.com
 r.orange.fr
 r.r10s.jp
@@ -21644,7 +21643,6 @@ smetrics.us.playstation.com
 smfg.co.jp
 smh-online.de
 smh.com.au
-smi2.ru
 smida.gov.ua
 smile.amazon.com
 smileadsl.com
@@ -22726,7 +22724,6 @@ static.videoder.net
 static.vrv.co
 static.vtwonen.nl
 static.whatsapp.net
-static.wi-fi.ru
 static.wired.com
 static.wixstatic.com
 static.ws.126.net
@@ -24358,7 +24355,6 @@ ulink.adjust.com
 ulmart.ru
 ulmt.in
 ulmwp.org
-ulogin.ru
 ulrici-kliniken.de
 ulsterbank.co.uk
 ulsterbank.com
@@ -25931,7 +25927,6 @@ webfriends.in
 webfusion.co.uk
 webgains.com
 webgrab.wechat.com
-webhook.site
 webhop.net
 webhostingpad.com
 webhostingplanet.com
@@ -26289,7 +26284,6 @@ world-net.co.nz
 worldbank-bangladesh.org
 worldbank.org
 worlddsl.com
-worldnewsdailyreport.com
 worldoftanks.eu
 worldometers.info
 worldskyline.com
