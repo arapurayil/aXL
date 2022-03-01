@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.01
-# Last modified: 01 Mar 2022 00:25:02 UTC
+# Last modified: 01 Mar 2022 08:07:17 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -264,6 +264,7 @@
 36kr.com
 39.net
 3c.co
+3cinteractive.com
 3d-creator.sonymobile.com
 3dns-2.adobe.com
 3dns-3.adobe.com
@@ -6053,6 +6054,7 @@ chicagolandcompliance.org
 chicagotribune.com
 chickenkiller.com
 chiefinternet.com
+chihuahua.gob.mx
 childrenshospital.org
 childrenshospitalla.org
 childrenshospitals.net
@@ -8700,6 +8702,7 @@ email-assets.soundcloud.com
 email-clk.adguard.com
 email-connect.spot.im
 email-ee.co.uk
+email-sendgrid-deep-linking.chewy.com
 email-tracking.infobip.com
 email.163.com
 email.appsumo.com
@@ -8721,6 +8724,7 @@ emails.kickstarter.com
 emarinebank.com
 emarketer.com
 emarsys.com
+emarsys.net
 emb.spb.ru
 embed-fastly.wistia.com
 embed.actionbutton.co
@@ -9086,7 +9090,6 @@ exacttarget.com
 examiner.com
 example.com
 example.org
-examsnap.io
 exblog.jp
 exceptions.coinbase.com
 exchange.coinbase.com
@@ -14816,7 +14819,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -18512,7 +18514,6 @@ pi-dns.com
 pi-hole.net
 pi.hole
 pi.pardot.com
-piaggioaerospace.it
 piano.io
 pib.ru
 pib.ua
