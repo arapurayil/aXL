@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Feb 2022 16:05:32 UTC
+# Last modified: 01 Mar 2022 00:25:02 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -30,6 +30,7 @@
 2mdn.net
 2o7.net
 360.yahoo.com
+3cinteractive.com
 3gimg.qq.com
 3x.ro
 4shared.com
@@ -528,7 +529,6 @@ app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
 app.sephora.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -807,6 +807,7 @@ chatango.com
 check.ddos-guard.net
 chicago2.vip.townnews.com
 chickenkiller.com
+chihuahua.gob.mx
 chip.de
 chkd.org
 choice.microsoft.com
@@ -1147,7 +1148,9 @@ elastx.net
 ellation.map.fastly.net
 eloqua.com
 email-clk.adguard.com
+email-sendgrid-deep-linking.chewy.com
 email.uber.com
+emarsys.net
 embed.tawk.to
 embed.windy.com
 emjcd.com
@@ -1204,7 +1207,6 @@ evyy.net
 ew1.dms-gld.bigdata.ssp.samsung.com
 exactag.com
 exacttarget.com
-examsnap.io
 exe.io
 exosrv.com
 experience.jcu.edu.au
@@ -1450,6 +1452,7 @@ hit.bg
 hit.gemius.pl
 hit.interia.pl
 hit.stat24.com
+hitbtc.com
 hitmarkerjobs.com
 hkg1.aastocks.com
 hockeyapp.net
@@ -1830,7 +1833,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 loginfra.com
 logrocket.com
 logs.amap.com
@@ -2222,7 +2224,6 @@ phonecallapi.micloud.xiaomi.net
 photo.net
 phs.tanx.com
 pi.pardot.com
-piaggioaerospace.it
 piano.io
 pidorg.ru
 pigu.lt
