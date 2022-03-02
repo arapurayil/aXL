@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.02
-# Last modified: 02 Mar 2022 00:24:31 UTC
+# Last modified: 02 Mar 2022 08:07:24 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -447,6 +447,7 @@ a771.dscq.akamai.net
 a790.w16.akamai.net
 a8onlineshop.trendmicro.co.jp
 a90.g.akamai.net
+aaa.army
 aaadir.com
 aaadvisors.fr
 aab.de
@@ -489,6 +490,7 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+ab1n.net
 aba-argentina.com
 aba.com
 abansa.org.sv
@@ -2257,7 +2259,6 @@ antonprokschinstitut.at
 antonveneta.it
 antpool.com
 antrimveterinaryhospital.com
-anura.io
 anurl.com
 anvil.opentok.com
 anwb.nl
@@ -5837,6 +5838,7 @@ centurybankfl.com
 centurylink.com
 cepteteb.com.tr
 ceredigion.gov.uk
+ceres.org.au
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
 certification.bithumb.com
@@ -6791,6 +6793,7 @@ consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.cookiebot.com
+consent.dk
 consent.faz.net
 consent.google.nl
 consent.trustarc.com
@@ -7956,6 +7959,7 @@ dnfsb.gov
 dnister.com
 dns.cloudflare.com
 dns.msftncsi.com
+dns.weixin.qq.com
 dns1.funimation.com
 dns1.registrar-servers.com
 dns1.tk.msft.net
@@ -8246,6 +8250,7 @@ duepuntozero.com
 dumpert.nl
 dunant.gr
 duo.nl
+duoyi.com
 durov.ru
 dv.gd
 dvb.pandora.xiaomi.com
@@ -10340,6 +10345,7 @@ game.internetat.tv
 game.line.me
 game.naver.com
 game.weibo.com
+game.weixin.qq.com
 game.xiaomi.com
 gamecopyworld.click
 gamedl.ru
@@ -10429,6 +10435,7 @@ gdata.youtube.com
 gdb-pur.com
 gdbc.net
 gdcsite.cdnsrv.jio.com
+gdpr-tcfv2.sp-prod.net
 gds-vhs-drops-campaign-images.twitch.tv
 gdwbank.com
 ge-laan.dk
@@ -10758,6 +10765,7 @@ go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
+go.usa.gov
 go.wechat.com
 go2cloud.org
 go2jump.org
@@ -11529,6 +11537,7 @@ hessen-spion.de
 hestehospitalet.dk
 hetparool.nl
 hex.io
+hexun.com
 heymistr.com
 heyue.xiaomi.com
 hf-wa.com
@@ -13210,7 +13219,6 @@ ipb.cz
 ipb.ru
 ipcheck.tmgrup.com.tr
 ipchicken.com
-ipdata.co
 ipeer.se
 ipej.tripod.com
 ipfire.org
@@ -14819,6 +14827,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -14862,7 +14871,6 @@ login.windows-ppe.net
 login.windows.net
 login.yahoo.com
 logincdn.msauth.net
-loginfra.com
 loginhood.io
 loginpoll.wechat.com
 logins.daum.net
@@ -15192,7 +15200,9 @@ marbletownanimalhospital.com
 marca.com
 marcard.de
 marchex.io
+marcomm.woodward.com
 marcus.com
+mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marfinbank.ua
@@ -16469,6 +16479,7 @@ mygayspace.com
 mygirlyspace.com
 mygw.alipay.com
 myhalyk.kz
+myhealth.net.au
 myhighlandvet.com
 myhome.naver.com
 myhomefed.com
@@ -18792,6 +18803,7 @@ pontosconsult.de
 pool.btc.com
 pool.next.exchange
 pool.ntp.org
+pool.pm
 poolhb.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
@@ -19084,7 +19096,6 @@ promoted.soundcloud.com
 promotion.aliexpress.com
 promotions.newegg.com
 promotions.soundcloud.com
-proofpoint.com
 propublica.org
 prosper-hospital.de
 prosperitybanktx.com
@@ -21144,7 +21155,6 @@ sendgrid.net
 sendibt2.com
 sendibt3.com
 sendinblue.hitbtc.com
-sendpulse.com
 sendspace.com
 sendwyre.com
 senecafederal.com
@@ -21261,6 +21271,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21497,7 +21508,6 @@ sj1gtm004.adobe.com
 sjbank.com
 sjk-wien.at
 sjnb.com
-sjv.io
 sk-go.kelkoogroup.net
 sk-neuwied.de
 sk-westerwald-sieg.de
@@ -22995,7 +23005,6 @@ sube.iktisatbank.com
 sube.sekerbank.com.tr
 subesizbankacilik.vakifbank.com.tr
 subhd.com
-subs.youmaker.com
 subscene.com
 subscribe.ign.com
 subscribe.ru
@@ -25095,6 +25104,7 @@ vice-web-statics-cdn.vice.com
 vice.com
 vicsuper.com.au
 victoriasecret.com
+victoriousfestival.co.uk
 vid.pr0gramm.com
 vidaextra.com
 vidaxl.pl
@@ -25822,6 +25832,7 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
+waveneyrivercentre.co.uk
 way2traffic.com
 wayerless.com
 wayforpay.com
@@ -26734,6 +26745,7 @@ yipes.com
 ykb.com
 ykb.nl
 ykrec.youku.com
+yle-consent-sdk.yle.fi
 ynuf.aliapp.org
 ynuf.alipay.com
 yoakumhospital.org
