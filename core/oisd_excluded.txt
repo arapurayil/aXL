@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Mar 2022 16:06:21 UTC
+# Last modified: 02 Mar 2022 00:24:30 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -72,6 +72,7 @@ a2z.com
 a3.mediagra.com
 a43601.actonservice.com
 a771.dscq.akamai.net
+aaa.army
 aan.amazon.com
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
@@ -100,6 +101,7 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+ab1n.net
 ablink.e.hungryjacks.com.au
 ablink.o.sofi.org
 ablinksuni.a.grubhub.com
@@ -117,6 +119,7 @@ acenar.com
 ackcdn.net
 acpbdf.com.br
 acr0.samsungcloudsolution.com
+acs.m.taobao.com
 actie.milieudefensie.nl
 action.metaffiliation.com
 activation.unity3d.com
@@ -425,6 +428,7 @@ alb.reddit.com
 alepuniv.edu.sy
 alexa.com
 algolia.com
+aliapp.org
 alicdn.com
 alimama.com
 alitems.com
@@ -453,7 +457,6 @@ anrdoezrs.net
 answerhub.com
 antionline.com
 antiphishing.cliqz.com
-anura.io
 anycast.adnxs.com
 apac1.notify.windows.com.akadns.net
 api-2-0.spot.im
@@ -529,6 +532,7 @@ app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
 app.sephora.com
+app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -546,6 +550,7 @@ appspot-preview.l.google.com
 appsumo.com
 apptimize.com
 arc.epoq.de
+arms-retcode.aliyuncs.com
 arstechnica.com
 art19.com
 arvetellefsen.no
@@ -762,7 +767,9 @@ cdn.onesignal.com
 cdn.optimizely.com
 cdn.pardot.com
 cdn.pendo.io
+cdn.polyfill.io
 cdn.printfriendly.com
+cdn.privacy-mgmt.com
 cdn.raygun.io
 cdn.rlcdn.com
 cdn.rollbar.com
@@ -791,6 +798,7 @@ cdnstatic.detik.com
 cec.ro
 cedexis.com
 cedexis.net
+ceres.org.au
 certona.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
@@ -812,7 +820,6 @@ chip.de
 chkd.org
 choice.microsoft.com
 choices.truste.com
-cifraclub.com.br
 cint.com
 cintnetworks.com
 cision.com
@@ -918,6 +925,7 @@ consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.cookiebot.com
+consent.dk
 consent.faz.net
 consent.truste.com
 consumer.krxd.net
@@ -1030,7 +1038,6 @@ data.over-blog-kiwi.com
 data.ubi.com
 datacaciques.com
 datadoghq-browser-agent.com
-db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
 dcms.1688.com
 dcs.audi.com
@@ -1073,6 +1080,8 @@ dls.di.atlas.samsung.com
 dlvr.t-online.de
 dmd.metaservices.microsoft.com
 dmp.adform.net
+dns.msftncsi.com
+dns.weixin.qq.com
 dnspod.cn
 dnspod.com
 dnsseed.bitcoin.dashjr.org
@@ -1110,6 +1119,8 @@ dstreet.pl
 dt51.net
 dtiserv2.com
 duckdns.org
+duoyi.com
+dw-online.ksosoft.com
 dw.cbsi.com
 dw.com
 dw.com.com
@@ -1165,7 +1176,6 @@ enigmasoftware.com
 ensighten.com
 enter-system.com
 ep00.epimg.net
-episerver.net
 epl.paypal-communication.com
 epsilon.com
 eq.10jqka.com.cn
@@ -1310,6 +1320,7 @@ gall.dcinside.com
 game.baidu.com
 game.internetat.tv
 game.weibo.com
+game.weixin.qq.com
 game.xiaomi.com
 gamedl.ru
 gamehouse.com
@@ -1320,6 +1331,7 @@ gateway.reddit.com
 gayly.ru
 gc.zgo.at
 gcp.api.snapchat.com
+gdpr-tcfv2.sp-prod.net
 gecko-sg.byteoversea.com
 geller-pa.googleapis.com
 gelnhausen.de
@@ -1370,6 +1382,7 @@ go.pardot.com
 go.redirectingat.com
 go.theregister.com
 go.trouter.skype.com
+go.usa.gov
 go2cloud.org
 go2jump.org
 goatcounter.com
@@ -1377,10 +1390,6 @@ godly.website
 goldbach.com
 goldenline.pl
 google-analytics.com
-google.cf
-google.ga
-google.ml
-google.tk
 googleadapis.l.google.com
 googleadservices.com
 googlesyndication.com
@@ -1445,6 +1454,7 @@ hello.myfonts.net
 heraldm.com
 here.com
 herokussl.com
+hexun.com
 heymistr.com
 highonandroid.com
 highwebmedia.com
@@ -1452,7 +1462,6 @@ hit.bg
 hit.gemius.pl
 hit.interia.pl
 hit.stat24.com
-hitbtc.com
 hitmarkerjobs.com
 hkg1.aastocks.com
 hockeyapp.net
@@ -1480,6 +1489,7 @@ hspx.hotstar.com
 ht.ly
 ht.youporn.com
 http-test1.luminatinet.com
+httpdns.n.netease.com
 huangye.miui.com
 hubblecontent.osi.office.net
 hubspot.com
@@ -1691,9 +1701,7 @@ ip.goguardian.com
 ip.nf
 ip02.gntl.co.uk
 ip2location.com
-ipapi.co
 ipcheck.tmgrup.com.tr
-ipdata.co
 iphone-services.apple.com
 iphonesubmissions.apple.com
 ipify.org
@@ -1833,7 +1841,7 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-loginfra.com
+login-live.com-s02.net
 logrocket.com
 logs.amap.com
 logs.datadoghq.eu
@@ -1873,6 +1881,8 @@ mangler4.generals.ea.com
 manifest.auditude.com
 maps.windows.com
 marchex.io
+marcomm.woodward.com
+mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marinsm.com
@@ -1963,13 +1973,13 @@ mp.twitch.tv
 mparticle.com
 mplxtms.com
 mpsnare.iesnare.com
-mql5.com
 mqtt-mini.facebook.com
 mr.da.netease.com
 mrex.exs.pl
 mrgugu.com
 mrzikj.com
 msedge.net
+msftconnecttest.com
 msftncsi.com
 msgfocus.com
 msh.amazon.co.uk
@@ -1990,6 +2000,7 @@ myao.adocean.pl
 myapp.com
 mybbc-analytics.files.bbci.co.uk
 mybloglog.com
+myhealth.net.au
 myhomescreen.tv
 mystats.com
 myvisualiq.net
@@ -2276,6 +2287,7 @@ po.st
 pokerstrategy.com
 polldaddy.com
 polyfill.io
+pool.pm
 pornerbros.com
 post.spmailtechno.com
 postclickmarketing.com
@@ -2310,7 +2322,6 @@ prod.telemetry.ros.rockstargames.com
 productsup.com
 promo.mobile.de
 promos.fling.com
-proofpoint.com
 prov.samsungcloudsolution.com
 proxad.net
 prvsz4pe.micpn.com
@@ -2385,7 +2396,6 @@ redirector.gvt1.com
 refer.ccbill.com
 referrer.disqus.com
 relevant-digital.com
-report-uri.com
 reports.cliqz.com
 repository.cliqz.com
 rereddit.com
@@ -2533,7 +2543,6 @@ sematext.com
 semnaniau.ac.ir
 sendibt2.com
 sendibt3.com
-sendpulse.com
 sensic.net
 sentitlement2.mobile.att.net
 sentry.io
@@ -2554,6 +2563,7 @@ settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -2582,7 +2592,6 @@ singular.net
 sinlix.lk
 siteplug.com
 sitetracker.com
-sjv.io
 skidrow-games.com
 skimlinks.com
 skimresources.com
@@ -2703,7 +2712,6 @@ streamplay.to
 stressthem.to
 stripe.network
 stroeerdigitalgroup.de
-subs.youmaker.com
 sucmetrics.unicredit.it
 suggestqueries-clients6.youtube.com
 sumologic.com
@@ -2893,6 +2901,7 @@ uamobile.net
 uarating.com
 ub.edu.ph
 ublock.org
+uc.cn
 uca.cloud.unity3d.com
 ucam.me
 uceprotect.net
@@ -2979,6 +2988,7 @@ vgwort.de
 vi-serve.com
 via.placeholder.com
 viarnd.112.2o7.net
+victoriousfestival.co.uk
 vidaxl.pl
 vidazoo.com
 video-fa.scdn.co
@@ -3014,6 +3024,7 @@ wallstreetcn.com
 warnerbros.112.2o7.net
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
+waveneyrivercentre.co.uk
 way2traffic.com
 wayin.com
 we-stats.com
@@ -3103,6 +3114,7 @@ ydstatic.com
 yeshen.com
 yeswegays.com
 ykrec.youku.com
+yle-consent-sdk.yle.fi
 ynuf.aliapp.org
 ynuf.alipay.com
 youbora.com
