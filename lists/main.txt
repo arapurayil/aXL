@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.04
-# Last modified: 04 Mar 2022 00:27:38 UTC
+# Last modified: 04 Mar 2022 08:08:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -17049,6 +17049,7 @@ noahshospitals.com
 nobacon.de
 nobaeg.de
 nobook.com
+noc.social
 nocache.support.sonymobile.com
 node.plexapp.com
 nodes1.cryptopia.co.nz
