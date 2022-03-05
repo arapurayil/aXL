@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Mar 2022 16:05:56 UTC
+# Last modified: 05 Mar 2022 00:23:37 UTC
 000webhostapp.com
 0catch.com
 102.112.2o7.net
@@ -79,7 +79,6 @@ aax-cpm.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
-aax-fe-pek.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -136,13 +135,11 @@ ad.dmm.com
 ad.doubleclick.net
 ad.lgsmartad.com
 ad.mediaplex.com
-ad.xiaomi.com
 ad.zanox.com
 ad2.media01.eu
 adage.com
 adash.man.aliyuncs.com
 adashx.m.taobao.com
-adblock.gjtech.net
 adblockplus.org
 adbrix.io
 adcell.com
@@ -439,7 +436,6 @@ aliyuncs.com
 alltheinternet.com
 alpari.ru
 alphadomus.co.nz
-altfarm.mediaplex.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amdc.m.taobao.com
@@ -537,7 +533,6 @@ app.link
 app.migc.xiaomi.com
 app.pr0gramm.com
 app.sephora.com
-app.skiff.org
 app.usercentrics.eu
 app2.salesmanago.pl
 appboy-images.com
@@ -548,7 +543,6 @@ appletoolbox.com
 appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
-apps.crashlytics.com
 apps.elfsight.com
 apps.skype.com
 appsflyer.com
@@ -577,7 +571,6 @@ atharori.net
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati-host.net
 atlassbx.com
-atm.youku.com
 atmos.ucla.edu
 attraqt.com
 audid-api.taobao.com
@@ -698,7 +691,6 @@ bronto.com
 browser-update.org
 browser.events.data.microsoft.com
 browser.events.data.msn.com
-browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bs.serving-sys.com
@@ -717,7 +709,6 @@ buy.tinypass.com
 buysub.com
 buzzador.com
 bwin.com
-bxczchdxynw.com
 by.uservoice.com
 byet.org
 byteimg.com
@@ -728,7 +719,6 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
-c.microsoft.com
 c.msn.com
 c.paypal.com
 c.yes.youku.com
@@ -874,7 +864,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clientapi.myteamspeak.com
 clientmetrics-augmentum.kik.com
 clients.l.google.com
@@ -906,7 +895,6 @@ cognito-identity.us-east-1.amazonaws.com
 cohesionapps.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
-collect.igodigital.com
 collector.wallapop.com
 com.com
 combine.urbanairship.com
@@ -950,7 +938,6 @@ controleng.com
 conversions.appsflyer.com
 converti.se
 conviva.com
-cookie.monster.com
 cookie.vrt.be
 cookiebot.com
 cookielaw.org
@@ -968,7 +955,6 @@ cptrack.de
 cquotient.com
 crashlytics.com
 crbcdn.jsfiddle.net
-creative.ak.fbcdn.net
 creatives.ancoraplatform.com
 creditonebank.com
 credomobile.com
@@ -1055,6 +1041,7 @@ datacaciques.com
 datadoghq-browser-agent.com
 db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
+dcf.espn.com
 dcms.1688.com
 dcs.audi.com
 dd-cdn.multiscreensite.com
@@ -1064,7 +1051,6 @@ de.ioam.de
 deals.macupdate.com
 delivery.tacticalrepublic.com
 delivery.vidible.tv
-delivery.way2traffic.com
 demdex.net
 derekseaman.com
 desktop.spotify.com
@@ -1077,6 +1063,7 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 dff2h0hbfv6w4.cloudfront.net
+dhgate.com
 diagnostics.meethue.com
 diagnostics.support.microsoft.com
 diary.ru
@@ -1217,6 +1204,7 @@ eulerian.net
 eultech.fnac.com
 eurobet.it
 event.udn.com
+eventgw.twilio.com
 events.api.godaddy.com
 events.data.microsoft.com
 events.gfe.nvidia.com
@@ -1251,7 +1239,6 @@ fabric.io
 faktor.io
 fast.appcues.com
 fast.wistia.net
-fbcdn-creative-a.akamaihd.net
 fc.vodafone.de
 fccinteractive.com
 fe2.update.microsoft.com.akadns.net
@@ -1346,7 +1333,6 @@ gamehouse.com
 gametame.com
 gan.doubleclick.net
 gardenstatehelicopters.com
-gate.hockeyapp.net
 gateway.reddit.com
 gayly.ru
 gc.zgo.at
@@ -1360,7 +1346,6 @@ generals.ea.com
 geni.us
 geniegamer.com
 geo-prod.do.dsp.mp.microsoft.com
-geo.mozilla.org
 geo.nbcsports.com
 geo.ngtv.io
 geo.vortex.data.microsoft.com.akadns.net
@@ -1656,7 +1641,6 @@ id.google.tn
 id.google.tt
 id.l.google.com
 id.rambler.ru
-id.server
 id.unity.com
 idcdn.de
 idealmedia.io
@@ -1741,6 +1725,7 @@ ipv4.tracker.harry.lu
 irchan.com
 iris.tv
 ironbeast.io
+is.gd
 is.snssdk.com
 isao.org
 isgprivacy.cbsi.com
@@ -1807,7 +1792,6 @@ komachi.yomiuri.co.jp
 kqzyfj.com
 krxd.net
 kryptoslogic.com
-kucoin.com
 l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
@@ -1867,7 +1851,6 @@ log.tiktokv.com
 log.ys7.com
 logentries.com
 loggly.com
-login-live.com-s02.net
 loginfra.com
 logrocket.com
 logs.amap.com
@@ -1903,8 +1886,6 @@ mairdumont.com
 malaya.com.ph
 mallgroup.com
 manga-news.com
-mangler1.generals.ea.com
-mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 manifest.auditude.com
@@ -1974,7 +1955,6 @@ minecraftprod.rtep.msgamestudios.com
 mintos.com
 mis.migc.xiaomi.com
 miscopy.com
-mistat.xiaomi.com
 mixi.jp
 mixi.media
 mixpanel.com
@@ -1983,7 +1963,6 @@ mlsend.com
 mmstat.com
 mmtro.com
 mobile-collector.newrelic.com
-mobile-service.segment.com
 mobile.anycast.adnxs.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
@@ -2000,7 +1979,6 @@ monitor.azure.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
-mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mplxtms.com
@@ -2201,7 +2179,6 @@ osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
 osimg.nbcuni.com
 ospserver.net
-otf.msn.com
 otn.samsungcloudcdn.com
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
@@ -2228,7 +2205,6 @@ pagead46.l.doubleclick.net
 pages.info.exclusive-networks.com
 pages03.net
 pandapush-iad-prod.inscloudgate.net
-panel.adtify.pl
 pangle.io
 panoramio.com
 panther.goguardian.com
@@ -2401,6 +2377,7 @@ qzonestyle.gtimg.cn
 qzs.qq.com
 r.bbci.co.uk
 r.mail.ru
+r.megogo.net
 r.orange.fr
 r.sg.sec.miui.com
 r1.ykimg.com
@@ -2479,7 +2456,6 @@ s.dolphincdn.xyz
 s.gateway.messenger.live.com
 s.marketwatch.com
 s.media-imdb.com
-s.sa.aol.com
 s.shopify.com
 s.thebrighttag.com
 s.toutiao.com
@@ -2490,14 +2466,12 @@ s.zkcdn.net
 s0.2mdn.net
 s1.trrsf.com
 s1325.t.eloqua.com
-s2.youtube.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
-sa.aol.com
 saa.cbsi.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
@@ -2598,15 +2572,12 @@ services.gfe.nvidia.com.global.ogslb.com
 services.zam.com
 serving-sys.com
 servix.idnes.cz
-servserv.generals.ea.com
 sessionstack.com
 settings-win.data.microsoft.com
-settings.crashlytics.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf6-ttcdn-tos.pstatp.com
 sfsapi.micloud.xiaomi.net
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -2659,6 +2630,7 @@ smetrics.discover.com
 smetrics.frontier.com
 smetrics.latitudefinancial.com
 smetrics.santander.co.uk
+smi2.ru
 smileycentral.com
 smljmp.com
 smll.co
@@ -2701,7 +2673,6 @@ ssl.bblck.me
 ssl.google-analytics.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
-ssl4anyone2.com
 ssm1.internet.sony.tv
 sso.internetat.tv
 ssp.meba.kr
@@ -2728,6 +2699,7 @@ static.parsely.com
 static.scroll.com
 static.siteheart.com
 static.vrv.co
+static.wi-fi.ru
 static.ws.126.net
 staticxx.facebook.com
 stats.adobe.com
@@ -2736,7 +2708,6 @@ stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
 stats.t-online.de
-statsfe2.update.microsoft.com.akadns.net
 statusapi.micloud.xiaomi.net
 stc.za.zaloapp.com
 steamanalyst.com
@@ -2798,7 +2769,6 @@ t11.baidu.com
 t12.baidu.com
 t2.hulu.com
 t23.intelliad.de
-taatta.net
 tabac-info-service.fr
 taboola.com
 taboola.map.fastly.net
@@ -2834,7 +2804,6 @@ teamsinsight.myanalytics.cdn.office.net
 technical-service.net
 tecnosell.com
 teeth.co.jp
-teicrete.gr
 tekweis.com
 telecommand.telemetry.microsoft.com
 telemetry-prd.ap.tesla.services
@@ -2964,6 +2933,7 @@ uid.mavencoalition.io
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
+ulogin.ru
 ultimedia.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
@@ -2978,7 +2948,6 @@ uniregistry.com
 unitedbike.com
 unity.com
 unity3d.com
-unk.vver.kiae.rr
 untd.com
 update.360safe.com
 update.avlyun.sec.miui.com
@@ -2999,7 +2968,6 @@ us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 usabilla.com
 usage.trackjs.com
@@ -3033,7 +3001,6 @@ vendorlist.consensu.org
 vendorlist.dmcdn.net
 verify.authorize.net
 verizonmedia.com
-version.bind
 version.hybrid.api.here.com
 vgwort.de
 vi-serve.com
@@ -3101,12 +3068,10 @@ widget.trustpilot.com
 widgets.getpocket.com
 widgets.prisjakt.nu
 widgets.trustedshops.com
-widgets.twimg.com
 wieistmeineip.de
 wifi.com
 wifiapi.micloud.xiaomi.net
 wildtangent.com
-willst-du-mein-freund-sein.com
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
