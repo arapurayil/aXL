@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.07
-# Last modified: 07 Mar 2022 00:23:40 UTC
+# Last modified: 07 Mar 2022 08:07:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10810,6 +10810,7 @@ get.freshly.com
 get.net.playstation.net
 get.skype.com
 get.soundcloud.com
+get.untangle.com
 get.vuukle.com
 get.x-link.pl
 get.xda-developers.com
@@ -19333,6 +19334,7 @@ ppurifier.game.xiaomi.com
 pr-clinica.ru
 pr-cy.ru
 pr.oneplus.com
+pr0.net
 pr0gramm.com
 practice.typekit.com
 practivate.adobe.com
@@ -27127,6 +27129,7 @@ www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
 www5.2giga.link
+www5.untangle.com
 www6.2giga.link
 www6.9Anime.to
 www7.2giga.link
