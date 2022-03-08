@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.08
-# Last modified: 08 Mar 2022 08:07:28 UTC
+# Last modified: 08 Mar 2022 16:07:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1486,6 +1486,7 @@ alluc.ee
 alluremedia.com
 alluremedia.com.au
 ally.com
+almanar.com.lb
 almawarid.com.lb
 almbrand.dk
 almprofessional.com
@@ -4539,7 +4540,6 @@ blackhatworld.com
 blacklistednews.com
 blackriverhospital.com
 blap.net
-blastingnews.com
 blau.de
 blausteinklinik.de
 blauworld.de
@@ -8319,7 +8319,6 @@ downloads.telmex.com
 downloads.wisecleaner.com
 downloadtime.org
 downmobile.kugou.com
-doxologia.ro
 doyoudo.com
 dp-discovery-na-ext.amazon.com
 dp.blog.naver.com
