@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Mar 2022 16:04:56 UTC
+# Last modified: 08 Mar 2022 00:22:04 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -572,7 +572,6 @@ api.ipify.org
 api.ipinfodb.com
 api.ipstack.com
 api.jr.mi.com
-api.kryptex.org
 api.leanplum.com
 api.loganalytics.io
 api.map.baidu.com
@@ -1229,7 +1228,6 @@ cxense.com.edgekey.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cy2.settings.data.microsoft.com.akadns.net
 cyberinc.nl
-cyberthreatcoalition.org
 cydia.saurik.com.cdngc.net
 d.agkn.com
 d.ghostery.com
@@ -1629,6 +1627,7 @@ fonts.net
 footprints-pa.googleapis.com
 forcepoint.com
 ford.to
+form.jotform.com
 formcrafts.com
 forms.convertkit.com
 forpci42.actonsoftware.com
@@ -1918,6 +1917,7 @@ http-test1.luminatinet.com
 httpdns.n.netease.com
 huangye.miui.com
 hubblecontent.osi.office.net
+hubs.ly
 hubspot.com
 huffingtonpost.com
 hugedomains.com
@@ -2264,6 +2264,7 @@ kolabsys.com
 komachi.yomiuri.co.jp
 kopimi.com
 kount.com
+koyu.space
 kqzyfj.com
 krxd.net
 kryptoslogic.com
@@ -2396,7 +2397,6 @@ mangler4.generals.ea.com
 manifest.auditude.com
 maps.windows.com
 marchex.io
-marcomm.woodward.com
 mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
@@ -3087,6 +3087,7 @@ rs6.net
 rsci.app.link
 ru.com
 rubicon.wellsfargo.com
+rude.com
 rumble.com
 rutrk.org
 rv.furaffinity.net
@@ -3124,6 +3125,7 @@ s3-directional-w.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.ap-southeast-1.amazonaws.com
 s3.ll.videorolls.row.aiv-cdn.net
+s3.us-west-1.wasabisys.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
@@ -3585,9 +3587,7 @@ tipranks.com
 tiqcdn.com
 tkn.fux.com
 tkqlhce.com
-tm.a.prd.aadg.trafficmanager.net
 tm.jsuol.com.br
-tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
 tmearn.com
 tnsglobal.com
@@ -3770,6 +3770,7 @@ use.typekit.net
 useinsider.com
 usercentrics.com
 usercentrics.eu
+userleap.com
 users.atw.hu
 users.on.net
 users.telenet.be
