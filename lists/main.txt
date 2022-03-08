@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.08
-# Last modified: 08 Mar 2022 00:22:04 UTC
+# Last modified: 08 Mar 2022 08:07:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7456,7 +7456,6 @@ cybermind-usa.net
 cyberone.com.au
 cyberonic.com
 cybersurf.com
-cyberthreatcoalition.org
 cybr.fr
 cydia.saurik.com
 cydia.saurik.com.cdngc.net
@@ -12179,6 +12178,7 @@ hub5pn.sandai.net
 hubank.com
 hubblecontent.osi.office.net
 hubciddata.sandai.net
+hubs.ly
 hubspot.com
 hubspot.net
 hubspotemail.net
@@ -14360,6 +14360,7 @@ kotakmahindrabank.com
 kotaku.com
 kount.com
 koyote.com
+koyu.space
 kpk.gov.pl
 kqzyfj.com
 kr.blog.twitch.tv
@@ -15555,7 +15556,6 @@ marbletownanimalhospital.com
 marca.com
 marcard.de
 marchex.io
-marcomm.woodward.com
 marcus.com
 mardenherefordshire-pc.gov.uk
 marfeel.com
@@ -20766,6 +20766,7 @@ ru.wikipedia.com
 rubank.ru
 rubensdreams.de
 rubicon.wellsfargo.com
+rude.com
 rudo.video
 rudolfinerhaus.at
 rudolfstiftung.at
@@ -20960,6 +20961,7 @@ s3.symcb.com
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
 s3.us-west-1.amazonaws.com
+s3.us-west-1.wasabisys.com
 s3.us-west-2.amazonaws.com
 s3.vuukle.com
 s3.wp.com
@@ -24334,9 +24336,7 @@ tldr.sk
 tllg.net
 tlnbank.com
 tlu.dl.delivery.mp.microsoft.com
-tm.a.prd.aadg.trafficmanager.net
 tm.jsuol.com.br
-tm.lg.prod.aadmsa.trafficmanager.net
 tm.tradetracker.net
 tmall.com
 tmba.org
@@ -25296,6 +25296,7 @@ userede.com.br
 userguide-files.sonymobile.com
 userguide.sonymobile.com
 userid.xiaomi.com
+userleap.com
 userplane.com
 userreplay.net
 users.alcohol-soft.com

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Mar 2022 00:22:04 UTC
+# Last modified: 08 Mar 2022 08:07:28 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -497,6 +497,7 @@ alimama.com
 alitems.com
 aliyuncs.com
 alltheinternet.com
+almanar.com.lb
 alpari.ru
 alphadomus.co.nz
 amazon-adsystem.amazon.com
@@ -791,7 +792,6 @@ bj.bcebos.com
 bkav.com.vn
 blackcanyoncoffee.com
 blackhatworld.com
-blastingnews.com
 blipblop.net
 blob.core.windows.net
 blockthrough.com
@@ -1376,7 +1376,6 @@ downloadanysong.com
 downloads.wisecleaner.com
 downloadtime.org
 downmobile.kugou.com
-doxologia.ro
 dp-discovery-na-ext.amazon.com
 dp.im.weibo.cn
 dpbfm6h358sh7.cloudfront.net
