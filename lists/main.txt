@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.09
-# Last modified: 09 Mar 2022 00:23:48 UTC
+# Last modified: 09 Mar 2022 08:07:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5965,7 +5965,6 @@ centurybankfl.com
 centurylink.com
 cepteteb.com.tr
 ceredigion.gov.uk
-ceres.org.au
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
 certification.bithumb.com
@@ -15556,7 +15555,6 @@ marca.com
 marcard.de
 marchex.io
 marcus.com
-mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marfinbank.ua
@@ -16855,7 +16853,6 @@ mygayspace.com
 mygirlyspace.com
 mygw.alipay.com
 myhalyk.kz
-myhealth.net.au
 myhighlandvet.com
 myhome.naver.com
 myhomefed.com
@@ -25678,7 +25675,6 @@ vice-web-statics-cdn.vice.com
 vice.com
 vicsuper.com.au
 victoriasecret.com
-victoriousfestival.co.uk
 vid.pr0gramm.com
 vidaextra.com
 vidaxl.pl
@@ -26414,7 +26410,6 @@ waukeshabank.com
 wav.tv
 wave.sndcdn.com
 waveii.com
-waveneyrivercentre.co.uk
 way2traffic.com
 wayerless.com
 wayforpay.com
