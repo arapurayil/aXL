@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Mar 2022 16:07:10 UTC
+# Last modified: 09 Mar 2022 00:23:47 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -974,7 +974,6 @@ cdnstatic.detik.com
 cec.ro
 cedexis.com
 cedexis.net
-ceres.org.au
 certona.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
@@ -2396,7 +2395,6 @@ mangler4.generals.ea.com
 manifest.auditude.com
 maps.windows.com
 marchex.io
-mardenherefordshire-pc.gov.uk
 marfeel.com
 marfeelcache.com
 marinsm.com
@@ -2545,7 +2543,6 @@ myao.adocean.pl
 myapp.com
 mybbc-analytics.files.bbci.co.uk
 mybloglog.com
-myhealth.net.au
 myhomescreen.tv
 mystats.com
 myvisualiq.net
@@ -3808,7 +3805,6 @@ vgwort.de
 vi-serve.com
 via.placeholder.com
 viarnd.112.2o7.net
-victoriousfestival.co.uk
 vidaxl.pl
 vidazoo.com
 video-fa.scdn.co
@@ -3856,7 +3852,6 @@ walmart.com.akadns.net
 warnerbros.112.2o7.net
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
-waveneyrivercentre.co.uk
 way2traffic.com
 wayin.com
 wc4.net
