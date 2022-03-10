@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Mar 2022 08:08:01 UTC
+# Last modified: 10 Mar 2022 16:06:43 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -2422,6 +2422,7 @@ mastodon.online
 maxcdn.bootstrapcdn.com
 maxmind.com
 mb-cdn.stocard.de
+mbga.jp
 md-a-s.apptimize.com
 md-nx.com
 mdis.uz
@@ -3088,7 +3089,6 @@ rs6.net
 rsci.app.link
 ru.com
 rubicon.wellsfargo.com
-rude.com
 rumble.com
 rutrk.org
 rv.furaffinity.net
@@ -3127,7 +3127,6 @@ s3-directional-w.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.ap-southeast-1.amazonaws.com
 s3.ll.videorolls.row.aiv-cdn.net
-s3.us-west-1.wasabisys.com
 s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
@@ -3248,13 +3247,11 @@ services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
 services.zam.com
 serving-sys.com
-servint.com
 servix.idnes.cz
 sessionstack.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
-sexyono.com
 sf6-ttcdn-tos.pstatp.com
 sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
@@ -3281,7 +3278,6 @@ shortpixel.ai
 showscale.com
 shutterstock.7eer.net
 siamzone.com
-sickjunk.com
 sickrage.ca
 sift.com
 siftscience.com
@@ -3300,7 +3296,6 @@ sjv.io
 skidrow-games.com
 skimlinks.com
 skimresources.com
-skins.be
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
 slike.indiatimes.com
@@ -3438,7 +3433,6 @@ statusapi.micloud.xiaomi.net
 stc.za.zaloapp.com
 steamanalyst.com
 stereomag.ro
-stereomanuals.com
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
@@ -3462,14 +3456,11 @@ stroeerdigitalgroup.de
 su.ff.avast.com
 subs.youmaker.com
 sucmetrics.unicredit.it
-suggest.com
 suggestqueries-clients6.youtube.com
 sumologic.com
 sundaysky.com
 supercell.net
-superiorpics.com
 supportmetrics.apple.com
-survey.alchemer.com
 survey.confirmit.com
 surveygizmo.com
 surveyrouter.com
@@ -3485,8 +3476,6 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-syndikat-asphaltfieber.de
-synlab.lt
 sypi.gpshopper.com
 sysdig.com
 systweak.com
