@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.03.10
-# Last modified: 10 Mar 2022 16:06:43 UTC
+# Version: 3.03.11
+# Last modified: 11 Mar 2022 00:27:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -15725,6 +15725,7 @@ mbastl.com
 mbaswf.org
 mbba-nh.org
 mbest.aliexpress.com
+mbga.jp
 mbl.is
 mblbd.com
 mbna.com
@@ -20766,7 +20767,6 @@ ru.wikipedia.com
 rubank.ru
 rubensdreams.de
 rubicon.wellsfargo.com
-rude.com
 rudo.video
 rudolfinerhaus.at
 rudolfstiftung.at
@@ -20961,7 +20961,6 @@ s3.symcb.com
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
 s3.us-west-1.amazonaws.com
-s3.us-west-1.wasabisys.com
 s3.us-west-2.amazonaws.com
 s3.vuukle.com
 s3.wp.com
@@ -21892,7 +21891,6 @@ siberianet.ru
 sibes.omsk.ru
 sibs.pt
 sicax.net
-sickjunk.com
 sickrage.ca
 sicoob.com.br
 sicredi.com.br
@@ -22032,7 +22030,6 @@ skidrow-games.com
 skills.samsung.com
 skimlinks.com
 skimresources.com
-skins.be
 skipper.indevice.sonymobile.com
 skittles.com
 skjernbank.dk
@@ -23338,7 +23335,6 @@ steinonline.it
 stej.se
 stelisabethhospital.com
 stereomag.ro
-stereomanuals.com
 sterlingbank.com
 sterlingbank.ws
 sterlingbankasia.com
@@ -23544,7 +23540,6 @@ sug.search.daum.net
 sugar-online.de
 sugarsync.com
 sugg.search.yahoo.net
-suggest.com
 suggestqueries-clients6.youtube.com
 suggestqueries.google.com
 suite.office.com
@@ -23582,7 +23577,6 @@ supercable.com
 supercell.net
 superio.diigo.com
 superiorbank.com
-superiorpics.com
 superitu.com
 superjob.ru
 supermedios.com
@@ -23664,7 +23658,6 @@ surl.me
 surpasshosting.com
 survey-blog.line.me
 survey-ng.indevice.sonymobile.com
-survey.alchemer.com
 survey.confirmit.com
 survey.foreseeresults.com
 survey.forseeresults.com
@@ -23755,10 +23748,8 @@ syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
-syndikat-asphaltfieber.de
 syndonline.in
 synergybank.com
-synlab.lt
 synology.com
 synologynotification.com
 synterra.ru
