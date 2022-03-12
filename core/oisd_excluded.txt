@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Mar 2022 16:06:21 UTC
+# Last modified: 12 Mar 2022 00:22:14 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -81,6 +81,7 @@ a2.xinhuanet.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a2z.com
+a2zapk.com
 a3.mediagra.com
 a43601.actonservice.com
 a771.dscq.akamai.net
@@ -1414,7 +1415,6 @@ forms.convertkit.com
 forter.com
 fourier.taobao.com
 foxnews.demdex.net
-foxypool.io
 fpt.microsoft.com
 fr-go.kelkoogroup.net
 frameip.com
@@ -1907,7 +1907,6 @@ jiathis.com
 jiit.ac.in
 jimdo.com
 jivox.com
-jonasschnelli.ch
 journity.com
 joyreactor.cc
 jqueryscript.net
@@ -2509,7 +2508,6 @@ po.st
 pokerstrategy.com
 polldaddy.com
 polyfill.io
-pool.pm
 pornerbros.com
 post.spmailtechno.com
 postbanking.org
@@ -2975,6 +2973,7 @@ stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
 store.keshefoundation.org
 store.qq.com
+store2.gofile.io
 storeedgefd.dsx.mp.microsoft.com
 stormap.sapo.pt
 stormgain.com
