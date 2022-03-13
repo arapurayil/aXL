@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Mar 2022 16:04:46 UTC
+# Last modified: 13 Mar 2022 00:23:08 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -473,7 +473,6 @@ amdc.m.taobao.com
 americanlisted.com
 amplitude.com
 ams.keshefoundation.org
-ams3.digitaloceanspaces.com
 amway.com
 analytics.edgekey.net
 analytics.google.com
@@ -727,6 +726,7 @@ bn5x.net
 bnc.lt
 bodis.com
 boldchat.com
+bots.io
 bp01.net
 brakrock.be
 branch.io
@@ -1369,7 +1369,6 @@ filman.tv
 filmha.top
 findglocal.com
 firebaseinstallations.googleapis.com
-firebasestorage.googleapis.com
 fireflyengagement.com
 fishki.net
 fkp.samsungcloudsolution.com
@@ -1997,7 +1996,6 @@ links.playon.tv
 links.strava.com
 linksnappy.com
 linksynergy.com
-linktr.ee
 litix.io
 live.primis.tech
 live.simcitybuildit.com
@@ -2689,7 +2687,6 @@ s.click.taobao.com
 s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
-s.id
 s.marketwatch.com
 s.media-imdb.com
 s.shopify.com
