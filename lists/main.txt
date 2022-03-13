@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.13
-# Last modified: 13 Mar 2022 00:23:08 UTC
+# Last modified: 13 Mar 2022 08:07:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2151,7 +2151,6 @@ ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams.keshefoundation.org
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -4757,6 +4756,7 @@ bot.or.th
 botc.com
 bote.me
 bothellpethospital.com
+bots.io
 botw-ep.com
 botwodessa.com
 bou.or.ug
