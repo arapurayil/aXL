@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Mar 2022 08:07:20 UTC
+# Last modified: 14 Mar 2022 16:07:19 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -491,7 +491,6 @@ amdc.m.taobao.com
 americanlisted.com
 ampcid.google.com
 amplitude.com
-amren.com
 ams.keshefoundation.org
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
@@ -1433,7 +1432,6 @@ emoji.redditmedia.com
 emptyloop.com
 emsecure.net
 en25.com
-endoftheamericandream.com
 endpoint1.collection.eu.sumologic.com
 energizect.com
 engage.com
@@ -1617,7 +1615,6 @@ fpt.microsoft.com
 fr-go.kelkoogroup.net
 frameip.com
 free.fr
-freebeacon.com
 freegeoip.app
 freegeoip.net
 freesteamkeys.com
@@ -2771,6 +2768,7 @@ perr.h-cdn.com
 pf.intuit.com
 phaetus.com
 phatthalung.go.th
+phenompeople.com
 phonearena.com
 phonecallapi.micloud.xiaomi.net
 photo.net
@@ -2885,6 +2883,7 @@ prod-adops-proxy.dnitv.net
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
 prod-rotation-v2.guce.aws.oath.cloud
+prod.cdo.pitchleads.com
 prod.leanplum.com
 prod.mobile.roku.com
 prod.nexusrules.live.com.akadns.net
@@ -2963,6 +2962,7 @@ raxco.com
 rayfile.com
 rayli.com.cn
 rbc.ua
+rbwtech.net
 rbx.gg
 rd.rakuten.co.jp
 rd.yahoo.com
@@ -3203,7 +3203,6 @@ sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
 sgsnssdk.com.edgekey.net
-sgtreport.com
 sh.st
 share.dmca.gripe
 shareaholic.com
@@ -3380,7 +3379,6 @@ stormap.sapo.pt
 stormgain.com
 stptrisakti.ac.id
 stradeanas.it
-strategic-culture.org
 streamate.com
 streaming.adswizz.com
 streamlike.com
@@ -3838,7 +3836,6 @@ woodpecker.uc.cn
 wootric.com
 wordstream.com
 workona.com
-worldnewsdailyreport.com
 worldssl.net
 wp-stat.s3.amazonaws.com
 wpc.v0cdn.net
