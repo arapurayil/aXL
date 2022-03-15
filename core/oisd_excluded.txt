@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Mar 2022 00:24:00 UTC
+# Last modified: 15 Mar 2022 08:07:29 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -188,6 +188,7 @@ adage.com
 adash.man.aliyuncs.com
 adashx.m.taobao.com
 adaware.com
+adblock.gjtech.net
 adblockplus.org
 adbrix.io
 adcell.com
@@ -826,6 +827,7 @@ bj.bcebos.com
 bkav.com.vn
 blackcanyoncoffee.com
 blackhatworld.com
+blap.net
 blipblop.net
 blob.core.windows.net
 blockthrough.com
@@ -869,6 +871,7 @@ brownells.7eer.net
 browser-update.org
 browser.events.data.microsoft.com
 browser.events.data.msn.com
+browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bs.serving-sys.com
@@ -891,6 +894,7 @@ buysub.com
 buzzador.com
 buzzmein.com
 bwin.com
+bxczchdxynw.com
 by.uservoice.com
 byet.org
 byside.com
@@ -1108,6 +1112,7 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
+client-event-reporter.twitch.tv
 clientapi.myteamspeak.com
 clientmetrics-augmentum.kik.com
 clients.l.google.com
@@ -1125,6 +1130,7 @@ cloud.gsdk.proximabeta.com
 cloud.internetstores.com
 cloud.rovio.com
 cloud.unity3d.com
+clouddn.com
 cloudflareinsights.com
 cloudharmony.net
 cloudns.cl
@@ -1636,6 +1642,7 @@ fast.wistia.com
 fast.wistia.net
 fastly-analytics.com
 faygoluvers.net
+fbcdn-creative-a.akamaihd.net
 fc.eulerian.net
 fc.vodafone.de
 fccinteractive.com
@@ -1652,6 +1659,7 @@ femto.pw
 ffdns.net
 fi-mtv3.videoplaza.tv
 fidelity.com.edgekey.net
+fiil.com
 file.market.xiaomi.com
 filehorse.com
 files.bbci.co.uk
@@ -1792,6 +1800,7 @@ geni.us
 geniegamer.com
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
+geo.mozilla.org
 geo.nbcsports.com
 geo.ngtv.io
 geo.vortex.data.microsoft.com.akadns.net
@@ -1966,6 +1975,7 @@ hello.heroku.com
 hello.myfonts.net
 heraldm.com
 here.com
+herephyshy.info
 herokussl.com
 heureka.cz
 heureka.sk
@@ -2178,6 +2188,7 @@ id.google.tn
 id.google.tt
 id.l.google.com
 id.rambler.ru
+id.server
 id.tinypass.com
 id.unity.com
 idcdn.de
@@ -2617,6 +2628,7 @@ mirtesen.ru
 mis.migc.xiaomi.com
 miscopy.com
 mistat.intl.xiaomi.com
+mistat.xiaomi.com
 mixi.jp
 mixi.media
 mixnews.lv
@@ -2659,6 +2671,7 @@ monitor.clickcease.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
+mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mparticle.map.fastly.net
@@ -2711,6 +2724,7 @@ naiadsystems.com
 naifei.shop
 named.myteamspeak.com
 nanigans.com
+nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -3215,6 +3229,7 @@ referrer.disqus.com
 registeridm.com
 relevant-digital.com
 remind.me
+remington700chassis.com
 renderer.qmerce.com
 report-uri.com
 reports.cliqz.com
@@ -3227,6 +3242,7 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
+resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
@@ -3303,7 +3319,6 @@ s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.ap-southeast-1.amazonaws.com
 s3.ll.videorolls.row.aiv-cdn.net
 s3.wasabisys.com
-s3t3d2y7.ackcdn.net
 s7.addthis.com
 s8.addthis.com
 saa.cbsi.com
@@ -3400,7 +3415,6 @@ securemvt.apple.com
 securify.nl
 securitymetrics.com
 sedoparking.com
-seed.bitcoin.sipa.be
 seed.bitcoinstats.com
 seesaa.jp
 segment.com
@@ -3451,7 +3465,6 @@ sharewood.org
 shenyun.com
 shifen.com
 shinobi.jp
-shockgore.com
 shodanhq.com
 shop.spreadshirt.com
 shop.zalo.me
@@ -3648,7 +3661,6 @@ stroeerdigitalgroup.de
 stun.l.google.com
 su.ff.avast.com
 subs.youmaker.com
-sucmetrics.unicredit.it
 suggestqueries-clients6.youtube.com
 sumologic.com
 sundaysky.com
@@ -3961,6 +3973,7 @@ us.phonecallapi.micloud.xiaomi.net
 us.rdx2.lgtvsdp.com
 us.sfsapi.micloud.xiaomi.net
 us.smsapi.micloud.xiaomi.net
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
@@ -4060,6 +4073,7 @@ wallpaper.pandora.xiaomi.com
 wallpapers.com
 wallstreetcn.com
 walmart.com.akadns.net
+warez-bb.org
 warnerbros.112.2o7.net
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
