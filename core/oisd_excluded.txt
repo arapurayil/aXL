@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Mar 2022 08:07:29 UTC
+# Last modified: 15 Mar 2022 16:07:16 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -1112,7 +1112,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clientapi.myteamspeak.com
 clientmetrics-augmentum.kik.com
 clients.l.google.com
@@ -1642,7 +1641,6 @@ fast.wistia.com
 fast.wistia.net
 fastly-analytics.com
 faygoluvers.net
-fbcdn-creative-a.akamaihd.net
 fc.eulerian.net
 fc.vodafone.de
 fccinteractive.com
@@ -1800,7 +1798,6 @@ geni.us
 geniegamer.com
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
-geo.mozilla.org
 geo.nbcsports.com
 geo.ngtv.io
 geo.vortex.data.microsoft.com.akadns.net
@@ -2188,7 +2185,6 @@ id.google.tn
 id.google.tt
 id.l.google.com
 id.rambler.ru
-id.server
 id.tinypass.com
 id.unity.com
 idcdn.de
@@ -2628,7 +2624,6 @@ mirtesen.ru
 mis.migc.xiaomi.com
 miscopy.com
 mistat.intl.xiaomi.com
-mistat.xiaomi.com
 mixi.jp
 mixi.media
 mixnews.lv
@@ -2671,7 +2666,6 @@ monitor.clickcease.com
 mopinion.com
 movable-ink-397.com
 movie.xunlei.com
-mp.huangye.miui.com
 mp.twitch.tv
 mparticle.com
 mparticle.map.fastly.net
@@ -2724,7 +2718,6 @@ naiadsystems.com
 naifei.shop
 named.myteamspeak.com
 nanigans.com
-nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -3242,7 +3235,6 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
-resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
@@ -3973,7 +3965,6 @@ us.phonecallapi.micloud.xiaomi.net
 us.rdx2.lgtvsdp.com
 us.sfsapi.micloud.xiaomi.net
 us.smsapi.micloud.xiaomi.net
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com

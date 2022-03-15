@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.15
-# Last modified: 15 Mar 2022 08:07:29 UTC
+# Last modified: 15 Mar 2022 16:07:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5006,6 +5006,7 @@ browser-update.org
 browser.cloud.ucweb.com
 browser.events.data.microsoft.com
 browser.events.data.msn.com
+browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browserapi.micloud.xiaomi.net
@@ -5178,6 +5179,7 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
+bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -9791,6 +9793,7 @@ fig.bbc.co.uk
 figma.app
 figshare.com
 fih.dk
+fiil.com
 fiiwarsaw.com
 filament.io
 file-extensions.org
@@ -10824,6 +10827,7 @@ genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
+geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -11872,6 +11876,7 @@ hera.co.at
 heraldm.com
 herbeauty.co
 here.com
+herephyshy.info
 heritageanimalhospital.com
 heritagebankeastbay.com
 heritagebankna.com
@@ -12935,6 +12940,7 @@ id.m.wikipedia.com
 id.pilet.ee
 id.rambler.ru
 id.santanderconsumer.no
+id.server
 id.smt.docomo.ne.jp
 id.sonyentertainmentnetwork.com
 id.tinypass.com
@@ -16419,6 +16425,7 @@ mission4health.com
 missionhospitals.org
 missionoaksbank.com
 mistat.intl.xiaomi.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -17072,6 +17079,7 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
+nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -20539,6 +20547,7 @@ remadaro.com
 remember.to
 remind.me
 reminders-pa.googleapis.com
+remington700chassis.com
 remla.com
 remote-data.urbanairship.com
 remoteworkcentral.com
@@ -21086,7 +21095,6 @@ s3.us-west-2.amazonaws.com
 s3.vuukle.com
 s3.wasabisys.com
 s3.wp.com
-s3t3d2y7.ackcdn.net
 s4.symcb.com
 s5.symcb.com
 s7.addthis.com
@@ -21710,7 +21718,6 @@ sedo.us
 sedoparking.com
 see.valimail.com
 seebachgrund.de
-seed.bitcoin.sipa.be
 seed.bitcoinstats.com
 seedr.cc
 seeligerbank.de
@@ -21946,7 +21953,6 @@ shinobi.jp
 shinseibank.com
 shkb.ch
 shminorshort.weixin.qq.com
-shockgore.com
 shockplay.com
 shockwave.com
 shodanhq.com
@@ -23666,7 +23672,6 @@ substrate.office.com
 suburbanhospital.org
 suche.t-online.de
 suckerpunch.playstation.com
-sucmetrics.unicredit.it
 sudu8.com
 suffolkcc.gov.uk
 sug.search.daum.net
@@ -25377,6 +25382,7 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
