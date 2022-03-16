@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Mar 2022 16:07:16 UTC
+# Last modified: 16 Mar 2022 00:22:45 UTC
 000webhostapp.com
 0catch.com
 101010.pl
@@ -1568,6 +1568,7 @@ error.fc2.com
 es.wowhead.com
 estaticos.tvn.cl
 estpak.ee
+esurvey.stdd.kerala.gov.in
 et.tidal.com
 etl.tindersparks.com
 etn.fm
@@ -2196,6 +2197,7 @@ idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
 idp.clogin.att.com
 idv0h0h.qiniudns.com
+iec.nhp.gov.in
 ientrymail.com
 iesnare.com
 ietf.org
@@ -2685,6 +2687,7 @@ msftncsi.com
 msgfocus.com
 msh.amazon.co.uk
 msh.amazon.com
+mssl.fwmrm.net
 mstdn.social
 multiscreen.samsung.com
 multiscreensite.com

@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.03.15
-# Last modified: 15 Mar 2022 16:07:16 UTC
+# Version: 3.03.16
+# Last modified: 16 Mar 2022 00:22:45 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10827,7 +10827,6 @@ genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
-geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -12940,7 +12939,6 @@ id.m.wikipedia.com
 id.pilet.ee
 id.rambler.ru
 id.santanderconsumer.no
-id.server
 id.smt.docomo.ne.jp
 id.sonyentertainmentnetwork.com
 id.tinypass.com
@@ -16425,7 +16423,6 @@ mission4health.com
 missionhospitals.org
 missionoaksbank.com
 mistat.intl.xiaomi.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -17079,7 +17076,6 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
-nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -25382,7 +25378,6 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
