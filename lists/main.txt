@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.17
-# Last modified: 17 Mar 2022 00:23:12 UTC
+# Last modified: 17 Mar 2022 08:06:58 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5888,6 +5888,7 @@ cdn2.funimation.com
 cdn2.hubspot.net
 cdn2.optimizely.com
 cdn2.xda-developers.com
+cdn3.bigcommerce.com
 cdn3.digitaltrends.com
 cdn3.optimizely.com
 cdn3.xda-developers.com
@@ -5898,7 +5899,6 @@ cdn5.bigcommerce.com
 cdn5.digitaltrends.com
 cdn6.bigcommerce.com
 cdn6.digitaltrends.com
-cdn7.bigcommerce.com
 cdn7.digitaltrends.com
 cdn7.es.digitaltrends.com
 cdn77.org
@@ -12237,7 +12237,6 @@ hsk-wiesbaden.de
 hsoub.com
 hspx.hotstar.com
 hsx.com
-ht-cdn2.adtng.com
 ht.ly
 ht.youporn.com
 htm.huawei.com
@@ -13209,6 +13208,7 @@ img.huffingtonpost.com
 img.hulu.com
 img.investorwords.com
 img.mediaset.it
+img.netwrix.com
 img.onesignal.com
 img.over-blog-kiwi.com
 img.particlenews.com
@@ -13264,7 +13264,6 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
-imgshare.info
 imgsmail.ru
 imgssl.constantcontact.com
 imgstock.naver.com
@@ -16776,6 +16775,7 @@ msport.gov.pl
 mss-offermgmt.modpim.com
 mssl.fwmrm.net
 mstdn.social
+msuac.edu.mn
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -19131,6 +19131,7 @@ piu.ac.ke
 pius-hospital.de
 piwik.org
 pix11.com
+pix2.services.tvn.pl
 pixel.everesttech.net
 pixel.nymag.com
 pixel.quantserve.com
@@ -23582,6 +23583,7 @@ store.steampowered.com
 store.vox.com
 store.whale.naver.com
 store.xbox.com
+store2.gofile.io
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
 storeconfig.mistat.intl.xiaomi.com
@@ -23859,6 +23861,7 @@ swna.wdpr.disney.com
 swpinger.wip4.adobe.com
 swsahs.nsw.gov.au
 swupmf.adobe.com
+sxp.smartclip.net
 sy.ameblo.jp
 sy.pe
 syandus.com
