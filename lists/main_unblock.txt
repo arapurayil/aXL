@@ -3,7 +3,7 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2022-03-17T16:05:40.016Z
+! Last modified: 2022-03-18T00:24:02.640Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26,6 +26,7 @@
 @@||analytics.localytics.com^
 @@||analytics.query.yahoo.com^
 @@||analytics.robinhood.com^
+@@||analytics.tripwireinteractive.com^
 @@||analytics.twitter.com^
 @@||banner.play-asia.com^
 @@||banners.funimation.com^
@@ -34,6 +35,7 @@
 @@||beacon-v2.helpscout.net^
 @@||beacon.geo.netflix.com^
 @@||beacon.netflix.com^
+@@||beacon.schneidercorp.com^
 @@||counter-strike.net^
 @@||mads.amazon-adsystem.com^
 @@||mads.amazon.com^
