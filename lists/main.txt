@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.18
-# Last modified: 18 Mar 2022 08:08:26 UTC
+# Last modified: 18 Mar 2022 16:07:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -319,7 +319,6 @@
 50webs.com
 51.com
 51.la
-51yes.com
 5231.xg4ken.com
 53.com
 55.ru
@@ -14364,7 +14363,6 @@ kingstonnationalbank.com
 kinja-debug.firebaseio.com
 kinja-static.com
 kinja.com
-kinorun.com
 kipling90.com
 kirbyhospital.org
 kishbank.com
@@ -24820,7 +24818,6 @@ tracker.btzoo.eu
 tracker.cyber-hub.net
 tracker.debian.org
 tracker.dominos.com
-tracker.filemail.com
 tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
@@ -24831,7 +24828,6 @@ tracker.pomf.se
 tracker.publicbt.com
 tracker.trackerfix.com
 tracker2.wasabii.com.tw
-tracker4.itzmx.com
 trackersimulator.org
 tracking-protection.cdn.mozilla.net
 tracking.bol.com
