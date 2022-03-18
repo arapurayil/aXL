@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.18
-# Last modified: 18 Mar 2022 00:23:56 UTC
+# Last modified: 18 Mar 2022 08:08:26 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -349,6 +349,7 @@
 7.ly
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 70i.net
+7235901.collect.igodigital.com
 76.gd
 76.org
 77.ai
@@ -364,6 +365,7 @@
 7vd.cn
 7zap.com
 801.tianya.cn
+825610.parkingcrew.net
 881903.com
 888poker.com
 8ch.net
@@ -437,6 +439,7 @@ a.stat.xiaomi.com
 a.thumbs.redditmedia.com
 a.tiles.mapbox.com
 a.trellocdn.com
+a.uguu.se
 a.union.mi.com
 a.wishabi.com
 a0.fr
@@ -2496,6 +2499,7 @@ api.cricbuzz.com
 api.crowdin.com
 api.crunchyroll.com
 api.cryptonator.com
+api.curalate.com
 api.cxense.com
 api.d.xiaomi.com
 api.dailymotion.com
@@ -2527,6 +2531,7 @@ api.foxnews.com
 api.freeletics.com
 api.gallery.intl.miui.com
 api.geetest.com
+api.getblueshift.com
 api.getpocket.com
 api.gfe.nvidia.com
 api.github.com
@@ -3363,6 +3368,7 @@ aws.com
 aws.keshefoundation.org
 awsg.at
 awssgp0-files.fds.api.xiaomi.com
+awsstatic.com
 awstrack.me
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 ax.init.itunes.apple.com
@@ -5262,6 +5268,7 @@ c.ypcdn.com
 c0.wp.com
 c00.adobe.com
 c1.g.mi.com
+c1.humanpresence.app
 c1.microsoft.com
 c1.xmssmc.mws.xiaomi.net
 c212.net
@@ -5823,6 +5830,7 @@ cdn.mozilla.net
 cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.naver.com
+cdn.nsstatic.com
 cdn.office.net
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
@@ -6965,6 +6973,7 @@ conductor-prod.ros.rockstargames.com
 conduit-services.com
 conduit.mailchimpapp.com
 confib.ifmo.ru
+config-prod.choice.faktor.io
 config.a-mo.net
 config.edge.skype.com
 config.fp.measure.office.com
@@ -8853,6 +8862,7 @@ edge-tyo3.demdex.net
 edge-usw2.demdex.net
 edge.activity.windows.com
 edge.api.brightcove.com
+edge.curalate.com
 edge.pantheon.io
 edge.skype.com
 edge1.certona.net
@@ -9242,6 +9252,7 @@ es.twitch.tv
 es.wikipedia.com
 es.wix.com
 es.wowhead.com
+esd.icloseli.com
 esearch.rakuten.co.jp
 eset.com
 esetnod32.ru
@@ -11138,6 +11149,7 @@ gnbsudameris.com.co
 gnty.com
 gnu.org
 go-corsair-com.ct.impactradius.com
+go-direct.flx1.com
 go-mpulse.net
 go.amazonservices.com
 go.binance.com
@@ -11149,6 +11161,7 @@ go.daum.net
 go.digitalocean.com
 go.dlink.com
 go.energized.pro
+go.flx1.com
 go.icq.com
 go.ign.com
 go.infoblox.com
@@ -12505,6 +12518,7 @@ i.ytimg.com
 i0.gmx.net
 i0.web.de
 i0.wp.com
+i1.cdn-image.com
 i1.feedspot.com
 i1.sdlcdn.com
 i1.services.social.microsoft.com
@@ -13684,6 +13698,7 @@ io.playstation.com
 ioam.de
 iob.com
 iob.imgur.com
+iobit.com
 iobnet.co.in
 iobsingapore.com
 ioconto.it
@@ -14907,6 +14922,7 @@ lazada.co.id
 lb.gravatar.com
 lb.production-public.tubi.io
 lb.wikipedia.com
+lb1.affex.org
 lb1.ow.ly
 lb2.ow.ly
 lba.org
@@ -18693,6 +18709,7 @@ p.typekit.net-v3.edgekey.net
 p.yotpo.com
 p0.com
 p0.ipstatp.com
+p01.t.eloqua.com
 p1.cn
 p1.soundcloud.com
 p2.music.126.net
@@ -18795,7 +18812,6 @@ paracelsus-kliniken.de
 paracelsus-spital.ch
 paradisevalleyhospital.com
 paragonbankmn.com
-parall.ax
 parallels.com
 paranabanco.com.br
 parastorage.com
@@ -20091,6 +20107,7 @@ r.sb.hitbtc.com
 r.search.yahoo.com
 r.sendinblue.hitbtc.com
 r.sg.sec.miui.com
+r.srvtrck.com
 r.us-east-1.awstrack.me
 r0n.net
 r1.bithumb.com
@@ -21730,6 +21747,7 @@ secure-banking.de
 secure-booker.com
 secure-cdn.mplxtms.com
 secure-dcr.imrworldwide.com
+secure-eu-west-1.imrworldwide.com
 secure-media1.hotstarext.com
 secure-origin.imrworldwide.com
 secure-payments.express-bank.ru
@@ -22385,6 +22403,7 @@ sluhospital.com
 slushpool.com
 slycooper.playstation.com
 sm.ign.com
+sm1.multiview.com
 smallbusiness.chron.com
 smallbusiness.yahoo.com
 smallfiles.client.xunlei.com
@@ -23496,6 +23515,7 @@ static.mediav.com
 static.medium.com
 static.mibi.xiaomi.com
 static.micloud.xiaomi.net
+static.mixi.media
 static.moddb.com
 static.moovitapp.com
 static.naver.com
@@ -23540,16 +23560,23 @@ static.xx.fbcdn.net
 static.zdassets.com
 static01.nyt.com
 static1.animeseason.com
+static1.mixi.media
 static1.smi2.net
 static1.squarespace.com
 static2.animeseason.com
+static2.mixi.media
 static2.smi2.net
 static2cdn.hubspot.com
+static3.mixi.media
 static3.smi2.net
+static4.mixi.media
 static4.smi2.net
+static5.mixi.media
 static5.smi2.net
+static6.mixi.media
 static6.smi2.net
 static7.smi2.net
+static8.mixi.media
 static8.smi2.net
 staticflickr.com
 staticlive.douyucdn.cn
@@ -23722,6 +23749,7 @@ store.coinbase.com
 store.crunchyroll.com
 store.gematsu.com
 store.hide.me
+store.iobit.com
 store.kaspersky.com
 store.keshefoundation.org
 store.lg.com
@@ -24137,6 +24165,7 @@ tag.aticdn.net
 tag.aticdn.net.edgekey.net
 tag.blog.naver.com
 tag.getdrip.com
+tag.md-nx.com
 tag.partner.mairdumont.com
 tag.shopping-feed.com
 tagcommander.com
@@ -24562,6 +24591,7 @@ tier1net.com
 tier2.ios.skypeassets.com
 tifafinance.co.id
 tigase.net
+tigase.tech
 tigger-citadel.touchtype-fluency.com
 tiistenjoenop.fi
 tikker.emta.ee
@@ -27111,6 +27141,7 @@ winterbacher-bank.de
 winterhillbank.com
 winterlinger-bank.de
 wintrust.com
+winzip.com
 wip3.adobe.com
 wip4.adobe.com
 wir.ch
