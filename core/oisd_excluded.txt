@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Mar 2022 00:22:18 UTC
+# Last modified: 19 Mar 2022 08:06:55 UTC
 0.gravatar.com
 000webhostapp.com
 0catch.com
@@ -1400,6 +1400,7 @@ cyberinc.nl
 cydia.saurik.com.cdngc.net
 cyonix.to
 d.agkn.com
+d.getpocket.com
 d.ghostery.com
 d.ifengimg.com
 d.la1-c2-iad.salesforceliveagent.com
@@ -3432,6 +3433,7 @@ production-cmp.isgprivacy.cbsi.com
 production-public.tubi.io
 productsup.com
 prodxnews1blob.blob.core.windows.net
+project-rainbowcrack.com
 promo.mobile.de
 promos.fling.com
 promotions.newegg.com
@@ -4307,6 +4309,7 @@ uarating.com
 ub.edu.ph
 ublock.org
 uc.cn
+uc.r.appspot.com
 uca.cloud.unity3d.com
 ucam.me
 uceprotect.net

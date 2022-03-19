@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.19
-# Last modified: 19 Mar 2022 00:22:18 UTC
+# Last modified: 19 Mar 2022 08:06:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -348,7 +348,6 @@
 7.ly
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 70i.net
-7235901.collect.igodigital.com
 76.gd
 76.org
 77.ai
@@ -364,7 +363,6 @@
 7vd.cn
 7zap.com
 801.tianya.cn
-825610.parkingcrew.net
 881903.com
 888poker.com
 8ch.net
@@ -441,6 +439,7 @@ a.trellocdn.com
 a.uguu.se
 a.union.mi.com
 a.wishabi.com
+a0.awsstatic.com
 a0.fr
 a0.smi2.ru
 a1.api.bbc.co.uk
@@ -712,6 +711,7 @@ acompli.net
 acorns.com
 acp.jiobuzz.com
 acpbdf.com.br
+acquia.com
 acquirethisname.com
 acquisition-1.americanexpress.com
 acquisition.gov
@@ -1420,6 +1420,7 @@ aldwx.com
 aledobroadband.com
 alepuniv.edu.sy
 aleron.com
+alerts.newrelic.com
 alex-book.ru
 alexa.com
 alexandracooks.com
@@ -2621,6 +2622,7 @@ api.post.adobe.com
 api.preprod.vudu.com
 api.pro.coinbase.com
 api.pushbullet.com
+api.quantcast.mgr.consensu.org
 api.ra2.xlmc.sec.miui.com
 api.rapidvideo.com
 api.rebrandly.com
@@ -2868,6 +2870,7 @@ appcast.io
 appcloud.ironbeast.io
 appcloud.mcafee.com
 appdown.naver.com
+appdynamics.com
 appengine.google.com
 appier.com
 appldnld.apple.com
@@ -2923,6 +2926,7 @@ appstore.cdn.pandora.xiaomi.com
 appstore.huawei.com
 appstore.pandora.xiaomi.com
 appsumo.com
+apptentive.com
 apptimize.com
 apptinder.com
 appx.transient.amazon.com
@@ -2930,6 +2934,7 @@ appx.transient.amazon.in
 apresolve.spotify.com
 apsiyon.com
 apt.izzysoft.de
+apt.newrelic.com
 apt.sonarr.tv
 aquacard.co.uk
 aqva.pl
@@ -4346,6 +4351,7 @@ beta.flipboard.com
 beta.funimation.com
 beta.huffingtonpost.com.au
 beta.hulu.com
+beta.ionicframework.com
 beta.namecoin.info
 beta.next.exchange
 beta.now.bt.co
@@ -4656,6 +4662,7 @@ blog.hide.me
 blog.hitbtc.com
 blog.hubspot.com
 blog.hulu.com
+blog.ionicframework.com
 blog.it.playstation.com
 blog.like.naver.com
 blog.linkedin.com
@@ -5259,15 +5266,16 @@ c.s-microsoft.com
 c.singular.net
 c.storage.googleapis.com
 c.t-online.de
+c.tadst.com
 c.trello.com
 c.woopic.com
+c.xkcd.com
 c.yes.youku.com
 c.youtube.com
 c.ypcdn.com
 c0.wp.com
 c00.adobe.com
 c1.g.mi.com
-c1.humanpresence.app
 c1.microsoft.com
 c1.xmssmc.mws.xiaomi.net
 c212.net
@@ -5415,6 +5423,7 @@ canva.com
 canyoncommunitybank.com
 canyoublockit.com
 cap.cyberlink.com
+capacitor.ionicframework.com
 capebretonpost.com
 capehawkehospital.com.au
 capesandbox.com
@@ -5954,6 +5963,8 @@ cdnjs.tvpage.com
 cdns.eu1.gigya.com
 cdns.gigya.com
 cdns1.gigya.com
+cdns2.gigya.com
+cdns3.gigya.com
 cdnsecakmi.kaltura.com
 cdnssl.softpedia.com
 cdnstatic.detik.com
@@ -6467,6 +6478,7 @@ clemenshospitale.de
 clementine-kinderhospital.de
 clementinenhaus.de
 cleopatrahospital.com
+clerk.io
 clermontanimalhospital.com
 clevelandclinic.org
 clevelandstatebank.com
@@ -7694,6 +7706,8 @@ dash.row.aiv-cdn.net
 dash.tmearn.com
 dashboard-01.braze.com
 dashboard-03.braze.com
+dashboard-06.braze.com
+dashboard.ionicframework.com
 dashboard.jeeng.com
 dashboard.plex.tv
 dashboard.pusher.com
@@ -7965,6 +7979,7 @@ dev-stable.gotinder.com
 dev.appboy.com
 dev.blog.naver.com
 dev.mi.com
+dev.newrelic.com
 dev.soundcloud.com
 dev.twitch.tv
 dev.twitter.com
@@ -8164,6 +8179,7 @@ discovercard.com
 discovermagazine.com
 discovery.com
 discuss.dev.twitch.tv
+discuss.newrelic.com
 discussions.apple.com
 dishclover.net
 disk.yandex.net
@@ -8283,13 +8299,16 @@ docerad.wps.cn
 docfcu.org
 dochs.org
 docker.com
+docs.appdynamics.com
 docs.bitfinex.com
 docs.brightcove.com
 docs.bugsnag.com
 docs.exchange.coinbase.com
 docs.fabric.io
+docs.fastlane.tools
 docs.google.com
 docs.microsoft.com-c.edgekey.net
+docs.newrelic.com
 docs.notepad-plus-plus.org
 docs.playstation.com
 docs.prime.coinbase.com
@@ -8400,6 +8419,7 @@ download.intsig.net
 download.microsoft.com
 download.minergate.com
 download.mozilla.org
+download.newrelic.com
 download.nirsoft.net
 download.nullsoft.com
 download.nvidia.com
@@ -8585,6 +8605,7 @@ dwpbank.de
 dwq4do82y8xi7.cloudfront.net
 dxp.baidu.com
 dyn.com
+dyn.keepa.com
 dynaimage.cdn.turner.com
 dynamic-cdn.spot.im
 dynamic.rakuten.co.jp
@@ -8988,6 +9009,7 @@ elespanol.com
 elev.eu
 elevationsbanking.com
 elevationscu.com
+elfsight.com
 elginfc.com
 elhospital.com
 elinkeu.clickdimensions.com
@@ -9314,6 +9336,7 @@ eu-west-1.elb.amazonaws.com
 eu-west-3.elb.amazonaws.com
 eu.cdn.survey.medallia.com
 eu.community.samsung.com
+eu.newrelic.com
 eu.pipe.aria.microsoft.com
 eu.playstation.com
 eu.spgo.io
@@ -9407,6 +9430,7 @@ everest.castbox.fm
 everesttech.net
 everettbank.com
 evergage.com
+evergreen.segment.com
 evergreenbanking.com
 evernote.com
 everychildmatters.gov.uk
@@ -9644,6 +9668,7 @@ fastdomain.com
 fastdrama.co
 fastdrama.se
 fasthosts.co.uk
+fastlane.tools
 fastly-analytics.com
 fastly-chat.ign.com
 fastly.net
@@ -10288,6 +10313,7 @@ fonts.gstatic.com
 fonts.net
 food.gov.uk
 foodnetwork.com
+fool.com
 foothillindbank.com
 foothills.net
 foothillsanimalhospital.com
@@ -10710,6 +10736,7 @@ g.whatsapp.net
 g00.me
 g00.msn.com
 g1.symcb.com
+g10.s.fwmrm.net
 g2.symcb.com
 g2a.com
 g2play.com
@@ -10925,6 +10952,7 @@ geofilters-community-api.snapchat.com
 geofilters.snapchat.com
 geoip-db.com
 geoip.hmageo.com
+geoip.maxmind.com
 geoip.nekudo.com
 geoip.newsdev.nytimes.com
 geoip.sonymobile.com
@@ -11149,7 +11177,6 @@ gnbsudameris.com.co
 gnty.com
 gnu.org
 go-corsair-com.ct.impactradius.com
-go-direct.flx1.com
 go-mpulse.net
 go.amazonservices.com
 go.binance.com
@@ -11220,6 +11247,7 @@ golfgalaxy.com
 golfroseanimalhospital.vetsuite.com
 golfsavingsbank.com
 goliath.bi.miniclippt.com
+golink.segment.com
 goloci.de
 gongzhushe.com
 goo-gl.me
@@ -12500,6 +12528,7 @@ i.postimg.cc
 i.redd.it
 i.reddit.com
 i.rietumu.lv
+i.rmbl.ws
 i.rtl.nl
 i.s-microsoft.com
 i.scdn.co
@@ -13474,6 +13503,7 @@ info.seek.com
 info.social.ea.com
 info.techcrunch.com
 info.viber.com
+info.weather.yandex.net
 info.wps.cn
 infoblox.com
 infogram.com
@@ -13705,6 +13735,7 @@ ioffice.kz
 iol.cz
 iolam.it
 ioniahospital.org
+ionicframework.com
 iopscience.iop.org
 ios.nccp.netflix.com
 ios.soundcloud.com
@@ -13869,6 +13900,7 @@ itelligent.nl
 item.kakao.com
 item.mi.com
 item.taobao.com
+iterable.com
 itimes.com
 itiny.industrialbank.ua
 itknowledgeexchange.techtarget.com
@@ -14022,6 +14054,7 @@ joannewrightmckenzie.com
 job.com
 jobs.dailycaller.com
 jobs.engadget.com
+jobs.ionicframework.com
 jobs.lever.co
 jobs.lifehacker.com
 jobs.medium.com
@@ -14801,6 +14834,7 @@ kyongnambank.co.kr
 kz.shinhanglobal.com
 l-k.be
 l-msedge.net
+l-stat.livejournal.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
@@ -14920,7 +14954,6 @@ lazada.co.id
 lb.gravatar.com
 lb.production-public.tubi.io
 lb.wikipedia.com
-lb1.affex.org
 lb1.ow.ly
 lb2.ow.ly
 lba.org
@@ -15419,6 +15452,7 @@ login.microsoftonline.com
 login.microsoftonline.us
 login.msa.akadns6.net
 login.myid.disney.com
+login.newrelic.com
 login.optumbank.com
 login.sebbank.ru
 login.servizioelettriconazionale.it
@@ -15778,6 +15812,7 @@ marchex.io
 marcus.com
 marfeel.com
 marfeelcache.com
+marfeelcdn.com
 marfinbank.ua
 margevicius.lt
 maria-hilf-krankenhaus.de
@@ -15816,6 +15851,7 @@ market-api.staging.viber.com
 market.admin.staging.viber.com
 market.android.com
 market.api.staging.viber.com
+market.ionicframework.com
 market.mi-img.com
 market.spotify.com
 market.viber.com
@@ -16329,6 +16365,7 @@ metacritic.com
 metactrl.com
 metadefender.com
 metaffiliation.com
+metalex.io
 metalflirt.de
 metallinvestbank.com
 metaxa-hospital.gr
@@ -18634,6 +18671,7 @@ ou.gd
 oua.be
 oudersvannu.nl
 ouedkniss.com
+oui.cdn.optimizely.com
 ouo.io
 ouo.press
 oup.com
@@ -20624,6 +20662,8 @@ redirect.viglink.com
 redirect.wip4.adobe.com
 redirectdetective.com
 redirectingat.com
+redirection.prod.cms.msn.com
+redirection.prod.cms.msn.com.akadns.net
 redirectme.net
 redirector.googlevideo.com
 redirector.gvt1.com
@@ -21743,7 +21783,6 @@ secure-banking.de
 secure-booker.com
 secure-cdn.mplxtms.com
 secure-dcr.imrworldwide.com
-secure-eu-west-1.imrworldwide.com
 secure-media1.hotstarext.com
 secure-origin.imrworldwide.com
 secure-payments.express-bank.ru
@@ -21907,6 +21946,7 @@ selfwealth.com.au
 sell.smartstore.naver.com
 sell.storefarm.naver.com
 sella.it
+sellfy.com
 sellix.io
 sematext.com
 semawur.com
@@ -21956,12 +21996,14 @@ serverorigin.com
 servetown.com
 service.biv.sony.tv
 service.cz.nl
+service.eu.newrelic.com
 service.fuib.com
 service.game-mode.net
 service.gov.uk
 service.hotstar.com
 service.marketing.adobe.com
 service.maxymiser.net
+service.newrelic.com
 service.oneplus.com
 service.santanderconsumer.at
 service.signalr.net
@@ -22012,6 +22054,7 @@ sf.api.np.km.playstation.net
 sf.prod.sonyentertainmentnetwork.com
 sf1-ttcdn-tos.pstatp.com
 sf6-ttcdn-tos.pstatp.com
+sfdict.com
 sff.net
 sfgate.com
 sfn.info
@@ -22159,6 +22202,7 @@ shorte.st
 shortpixel.ai
 shots.snap.com
 showbox-tr.dropbox.com
+showcase.ionicframework.com
 shownieuws.nl
 showscale.com
 shpd.motivtelecom.ru
@@ -22269,6 +22313,7 @@ sitecheck7.opera.com
 sitefights.com
 sitefinder-idn.verisign.com
 sitefinder.verisign.com
+siteheart.com
 siteplug.com
 sitepoint.com
 sites.engadget.com
@@ -22398,7 +22443,6 @@ sluhospital.com
 slushpool.com
 slycooper.playstation.com
 sm.ign.com
-sm1.multiview.com
 smallbusiness.chron.com
 smallbusiness.yahoo.com
 smallfiles.client.xunlei.com
@@ -23263,6 +23307,7 @@ ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
 sslbl.abuse.ch
+sslcs.cdngc.net
 sslshare.gshifen.com
 ssm.pd.biv.sony.tv
 ssm1.internet.sony.tv
@@ -23345,12 +23390,15 @@ staging-api.spot.im
 staging-cdn.support.sonymobile.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
+staging-discuss.newrelic.com
+staging-service.newrelic.com
 staging-store.crunchyroll.com
 staging.admin.e.mi.com
 staging.ai.api.xiaomi.com
 staging.app-analytics.snapchat.com
 staging.community.coinbase.com
 staging.flipboard.com
+staging.ionicframework.com
 staging.plex.tv
 staging.preview.www.huffingtonpost.com
 staging.server-analytics.snapchat.com
@@ -23526,6 +23574,7 @@ static.returnpath.net
 static.rtl.nl
 static.scroll.com
 static.sh.st
+static.shorte.st
 static.siteheart.com
 static.skypeassets.com
 static.smi2.net
@@ -23614,6 +23663,8 @@ status.dealersocket.com
 status.funda.nl
 status.github.com
 status.icq.com
+status.ionicframework.com
+status.newrelic.com
 status.playstation.com
 status.plex.tv
 status.pro.coinbase.com
@@ -23623,6 +23674,7 @@ status.twitch.tv
 status.typekit.com
 status.vimeo.com
 statusapi.micloud.xiaomi.net
+statuscake.com
 statuspage.io
 stayblue.de
 stayfriends.com
@@ -23640,6 +23692,7 @@ steamcommunity.com
 steamcontent.com
 steamgames.com
 steampowered.com
+steamsignature.com
 steamstatic.com
 steamstore-a.akamaihd.net
 steamusercontent.com
@@ -23940,6 +23993,7 @@ support.jp.playstation.com
 support.kaspersky.com
 support.microsoft.com
 support.mozilla.org
+support.newrelic.com
 support.oneplus.com
 support.pinterest.com
 support.pro.coinbase.com
@@ -24993,6 +25047,7 @@ ttvnw.net
 tuasaude.com
 tuba.fm
 tuba.gov.tr
+tube.paperstreetcash.com
 tube8.com
 tubely.com
 tuchong.com
@@ -25008,6 +25063,7 @@ tuentiadictos.es
 tui.taobao.com
 tumblr.com
 tunein.com
+tuoitre.vn
 tupelosmallanimalhospital.com
 turanbank.az
 turbobit.net
@@ -25273,6 +25329,7 @@ umwatsonc.events.data.microsoft.com
 umweltbank.de
 un.org
 unagi-eu.amazon.com
+unagi-fe.amazon.com
 unagi-na.amazon.com
 unagi.amazon.co.jp
 unagi.amazon.com
@@ -25615,6 +25672,7 @@ use.fontawesome.com
 use.typekit.com
 use.typekit.net
 use.typekit.net.edgekey.net
+usebutton.com
 useinsider.com
 usenix.org
 user.binance.com
@@ -25894,6 +25952,7 @@ vbnv.com
 vbo.mkb.ru
 vbohz.de
 vbos-nordland.de
+vbox7.com
 vboyten.de
 vbpf.de
 vbrb.de
@@ -26847,6 +26906,7 @@ webcam.yahoo.com
 webcamflushcrush.com
 webcare.byside.com
 webcityfed.com
+webclicks24.com
 webcollage.net
 webconferencia.net
 webd.pl
@@ -26910,6 +26970,7 @@ webstat.channel4.com
 websterbank.com
 webstore.amazon.de
 websub-test-proxy.twitch.tv
+webtrack.dhlglobalmail.com
 webtrading.onvista-bank.de
 webtropia.com
 webtv.com
