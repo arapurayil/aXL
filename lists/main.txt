@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.03.18
-# Last modified: 18 Mar 2022 16:07:04 UTC
+# Version: 3.03.19
+# Last modified: 19 Mar 2022 00:22:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8278,6 +8278,7 @@ do.co
 doblecero.com
 doc.btc.com
 doc.emergingthreats.net
+docdro.id
 docerad.wps.cn
 docfcu.org
 dochs.org
@@ -12238,7 +12239,6 @@ hosts.herndl.org
 hostsfile.mine.nu
 hostsfile.org
 hostwindsor.com
-hotbar.com
 hotdoc.com.au
 hotel.travel.rakuten.co.jp
 hotels.com
@@ -16147,7 +16147,6 @@ mediacorp.112.2o7.net
 mediafile.dcinside.com
 mediafire.com
 mediafiretrend.com
-mediagra.com
 mediakit.breitbart.com
 mediamarkt.at
 mediamarkt.de
@@ -16831,7 +16830,6 @@ mozilla.org
 mozillazine.org
 mp.huangye.miui.com
 mp.microsoft.com
-mp.pianomedia.eu
 mp.twitch.tv
 mp.weixinbridge.com
 mp3-archives.com
@@ -22117,7 +22115,6 @@ shinobi.jp
 shinseibank.com
 shkb.ch
 shminorshort.weixin.qq.com
-shockgore.com
 shockplay.com
 shockwave.com
 shodanhq.com
