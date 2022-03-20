@@ -3,7 +3,7 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2022-03-20T08:05:31.215Z
+! Last modified: 2022-03-20T16:04:25.954Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -12,10 +12,12 @@
 @@||advertising.amazon.com^
 @@||advertising.com^
 @@||advertising.soundcloud.com^
+@@||adverts.ie^
 @@||affiliate-program.amazon.com^
 @@||affiliate.dmm.com^
 @@||affiliate.hitbtc.com^
 @@||affiliate.twitch.tv^
+@@||analytics.barnebys.sh^
 @@||analytics.bsgwireless.com^
 @@||analytics.console.aws.a2z.com^
 @@||analytics.dev.azure.com^
@@ -49,6 +51,7 @@
 @@||telemetry-incoming.r53-2.services.mozilla.com^
 @@||telemetry-prd.ap.tesla.services^
 @@||telemetry-prd.vn.tesla.services^
+@@||telemetry.api.2kcoretech.online^
 @@||telemetry.api.swiftkey.com^
 @@||telemetry.gfe.nvidia.com^
 @@||telemetry.insights.video.a2z.com^
