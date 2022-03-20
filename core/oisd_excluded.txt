@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Mar 2022 16:06:56 UTC
+# Last modified: 20 Mar 2022 00:24:31 UTC
 0.gravatar.com
 000webhostapp.com
 0catch.com
@@ -537,6 +537,7 @@ amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazonbusiness.com
 amdc.m.taobao.com
+americanexpress-travel-americanexpress-co-uk.ezrez.net
 americanlisted.com
 amlg.io
 ampcid.google.com
@@ -1665,7 +1666,6 @@ elastx.net
 elb.eu-west-1.amazonaws.com
 elb.us-west-1.amazonaws.com
 elblogdelnarco.com
-elfsight.com
 elinkeu.clickdimensions.com
 ellation.map.fastly.net
 eloqua.com
@@ -1947,6 +1947,7 @@ g3.s.fwmrm.net
 g3.v.fwmrm.net
 gala.spiceworks.com
 gall.dcinside.com
+galleryapi.micloud.xiaomi.net
 game.baidu.com
 game.internetat.tv
 game.weibo.com
@@ -2469,7 +2470,6 @@ inference.location.live.net
 info.com
 info.lgsmartad.com
 info.seek.com
-info.weather.yandex.net
 infolink.pavv.co.kr
 informer.com
 informer.yandex.ru
@@ -2493,7 +2493,6 @@ instantmessaging-pa.googleapis.com
 instapage.com
 intelliad.de
 intercom.com
-intercom.io
 intergi.com
 internal-api.snapkit.com
 internal.unity3d.com
@@ -2966,7 +2965,6 @@ msh.amazon.com
 mss.handmark.com
 mssl.fwmrm.net
 mstdn.social
-msuac.edu.mn
 multiscreen.samsung.com
 multiscreensite.com
 multiview.com
@@ -3002,7 +3000,6 @@ naiadsystems.com
 naifei.shop
 named.myteamspeak.com
 nanigans.com
-nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -3643,6 +3640,7 @@ s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3-us-east-2.amazonaws.com
 s3.ap-southeast-1.amazonaws.com
 s3.ll.videorolls.row.aiv-cdn.net
 s3.wasabisys.com
@@ -3739,7 +3737,7 @@ secure.eloqua.com
 secure.footprint.net
 secure.gooddata.com
 secure.insightexpressai.com
-secure.livechatinc.com
+secure.nch.com.au
 secure.oneallcdn.com
 secure.paymentech.com
 secure.quantserve.com
@@ -3843,7 +3841,6 @@ sinematurk.com
 singular.net
 sinlix.lk
 site5.com
-siteheart.com
 siteplug.com
 sitetracker.com
 sjv.io
@@ -3852,7 +3849,6 @@ skimlinks.com
 skimresources.com
 skin.mobilesentrix.com
 skins.be
-slashdot.org
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
 slike.indiatimes.com
@@ -3904,7 +3900,6 @@ solutions.tradedoubler.com
 som.aeroplan.com
 someonewhocares.com
 somni.huk.de
-soo.gd
 soo.sg
 soundofhope.org
 sourcepoint.mgr.consensu.org
@@ -4025,7 +4020,6 @@ statusapi.micloud.xiaomi.net
 statuscake.com
 stc.za.zaloapp.com
 steamanalyst.com
-steamsignature.com
 stereomag.ro
 stiripesurse.ro
 stocks-analytics-events.apple.com
