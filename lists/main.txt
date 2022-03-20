@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.20
-# Last modified: 20 Mar 2022 00:24:31 UTC
+# Last modified: 20 Mar 2022 08:05:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2153,6 +2153,7 @@ americanbanktulsa.com
 americanbridebank.de
 americanbroadbandservice.com
 americanchartered.com
+americanexpress-travel-americanexpress-co-uk.ezrez.net
 americanexpress.com
 americanexpress.com.au
 americanfederalbank.com
@@ -9010,7 +9011,6 @@ elespanol.com
 elev.eu
 elevationsbanking.com
 elevationscu.com
-elfsight.com
 elginfc.com
 elhospital.com
 elinkeu.clickdimensions.com
@@ -13504,7 +13504,6 @@ info.seek.com
 info.social.ea.com
 info.techcrunch.com
 info.viber.com
-info.weather.yandex.net
 info.wps.cn
 infoblox.com
 infogram.com
@@ -16941,7 +16940,6 @@ mss-offermgmt.modpim.com
 mss.handmark.com
 mssl.fwmrm.net
 mstdn.social
-msuac.edu.mn
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -17245,7 +17243,6 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
-nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -21255,6 +21252,7 @@ s3-ap-southeast-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3-us-east-2.amazonaws.com
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.af-south-1.amazonaws.com
@@ -21833,6 +21831,7 @@ secure.logmein.com
 secure.mbl.is
 secure.meetup.com
 secure.moneygram.com
+secure.nch.com.au
 secure.netflix.com
 secure.ogone.com
 secure.okpay.com
@@ -22315,7 +22314,6 @@ sitecheck7.opera.com
 sitefights.com
 sitefinder-idn.verisign.com
 sitefinder.verisign.com
-siteheart.com
 siteplug.com
 sitepoint.com
 sites.engadget.com
@@ -23694,7 +23692,6 @@ steamcommunity.com
 steamcontent.com
 steamgames.com
 steampowered.com
-steamsignature.com
 steamstatic.com
 steamstore-a.akamaihd.net
 steamusercontent.com
