@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Mar 2022 16:04:16 UTC
+# Last modified: 21 Mar 2022 00:24:29 UTC
 0.gravatar.com
 000webhostapp.com
 0catch.com
@@ -684,6 +684,7 @@ apidq.punchh.com
 apiit.edu.my
 apis.com.br
 apis.google.com
+apis.ihg.com.edgekey.net
 apis.playstove.com.edgekey.net
 apiservices.krxd.net
 apituner.ecbsn.com
@@ -836,6 +837,7 @@ balajihospital.net
 bam-x.com
 bam.eu01.nr-data.net
 bannerbank.com
+banners.spiceworks.com
 bannertrack.net
 banyanhill.com
 barclaybanking.com
@@ -993,6 +995,7 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
+c.microsoft.com
 c.msn.com
 c.paypal.com
 c.singular.net
@@ -1230,6 +1233,7 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
+client-event-reporter.twitch.tv
 clientapi.myteamspeak.com
 clientconfig.passport.net
 clientmetrics-augmentum.kik.com
@@ -1259,6 +1263,7 @@ cmail19.com
 cmail20.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
+cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmstool.youku.com
 cn.bing.com
@@ -1407,6 +1412,7 @@ csr.onet.pl
 cst.cstwpush.com
 cstat.apple.com
 cstwpush.com
+ct.impactradius.com
 ct.pinterest.com
 ct.sendgrid.net
 cta-redirect.hubspot.com
@@ -2033,6 +2039,7 @@ geni.us
 geniegamer.com
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
+geo.mozilla.org
 geo.nbcsports.com
 geo.ngtv.io
 geo.vortex.data.microsoft.com.akadns.net
@@ -2265,6 +2272,7 @@ hosting-1a.mijndomein-ws.nl
 hosting24.com
 hostingprod.com
 hostip.info
+hotbar.com
 hotelscombined.com.au
 hotkeys.com
 hotpop.com
@@ -2983,6 +2991,7 @@ mirtesen.ru
 mis.migc.xiaomi.com
 miscopy.com
 mistat.intl.xiaomi.com
+mistat.xiaomi.com
 mixi.jp
 mixi.media
 mixpanel.com
@@ -3347,6 +3356,7 @@ pages.info.exclusive-networks.com
 pages02.net
 pages03.net
 pandapush-iad-prod.inscloudgate.net
+panel.adtify.pl
 pangle.io
 pangle.io.edgekey.net
 panoramio.com
@@ -3569,6 +3579,7 @@ pstmrk.it
 pt.lax.mx
 public-family.api.account.microsoft.com
 public.popcorn-tracker.org
+public.vilynx.com
 publicidees.com
 publish0x.com
 pubnub.com
@@ -3696,6 +3707,7 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
+resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
@@ -3775,6 +3787,7 @@ s1.trrsf.com
 s1.wp.com
 s1.yimg.com
 s1325.t.eloqua.com
+s2.youtube.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -3788,6 +3801,7 @@ s3.wp.com
 s7.addthis.com
 s7d2.scene7.com
 s8.addthis.com
+sa.aol.com
 saa.cbsi.com
 sabre.com
 safe-browsing-quorum.cliqz.com
@@ -3935,6 +3949,7 @@ serving-sys.com
 servix.idnes.cz
 sessionstack.com
 settings-win.data.microsoft.com
+settings.crashlytics.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sf-tb-sg.ibytedtos.com
@@ -3976,6 +3991,7 @@ sidecar.gitter.im
 sift.com
 siftscience.com
 signal-collector.gemaltodigitalbankingidcloud.com
+signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 silktide.com
 similarweb.com
 simp.ly
@@ -4085,6 +4101,7 @@ ssl.msdk.qq.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
 ssl.p.jwpcdn.com
+ssl4anyone2.com
 sslcs.cdngc.net
 ssm1.internet.sony.tv
 sso.internetat.tv
