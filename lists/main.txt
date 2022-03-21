@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.21
-# Last modified: 21 Mar 2022 00:24:29 UTC
+# Last modified: 21 Mar 2022 08:07:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2762,6 +2762,7 @@ apis.com.br
 apis.daum.net
 apis.google.com
 apis.ign.com
+apis.ihg.com.edgekey.net
 apis.justwatch.com
 apis.live.net
 apis.mail.yahoo.com
@@ -6714,6 +6715,7 @@ cmicapui.ce.gov.br
 cml.org.uk
 cmla.com
 cmp-cdn.ghostery.com
+cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmr.cl
 cms-portal.qualcomm.com
@@ -10968,6 +10970,7 @@ genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
+geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -12306,6 +12309,7 @@ hosts.herndl.org
 hostsfile.mine.nu
 hostsfile.org
 hostwindsor.com
+hotbar.com
 hotdoc.com.au
 hotel.travel.rakuten.co.jp
 hotels.com
@@ -16640,6 +16644,7 @@ mission4health.com
 missionhospitals.org
 missionoaksbank.com
 mistat.intl.xiaomi.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -18902,6 +18907,7 @@ pando.com
 pandora.com
 pandora.mi.com
 panduoduo.net
+panel.adtify.pl
 pangaliit.ee
 pangle.io
 pangle.io.edgekey.net
@@ -21385,6 +21391,7 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
+sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -23402,6 +23409,7 @@ ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
+ssl4anyone2.com
 sslbl.abuse.ch
 sslcs.cdngc.net
 sslshare.gshifen.com
@@ -25590,6 +25598,7 @@ update.sonymobile.com
 update.unisdk.easebar.com
 update.utorrent.com
 update.viber.com
+updatefaker.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 updates.push.services.mozilla.com
