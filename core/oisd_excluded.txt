@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Mar 2022 16:06:47 UTC
+# Last modified: 22 Mar 2022 00:24:54 UTC
 0.gravatar.com
 000webhostapp.com
 0catch.com
@@ -684,7 +684,6 @@ apidq.punchh.com
 apiit.edu.my
 apis.com.br
 apis.google.com
-apis.ihg.com.edgekey.net
 apis.playstove.com.edgekey.net
 apiservices.krxd.net
 apituner.ecbsn.com
@@ -995,7 +994,6 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
-c.microsoft.com
 c.msn.com
 c.paypal.com
 c.singular.net
@@ -1233,7 +1231,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clientapi.myteamspeak.com
 clientconfig.passport.net
 clientmetrics-augmentum.kik.com
@@ -1527,7 +1524,6 @@ datadoghq.com
 datawrapper.de
 daumcdn.net
 dauth-lp1.ndas.srv.nintendo.net
-daystar.ac.ke
 db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
 dc.applicationinsights.azure.com
@@ -2039,7 +2035,6 @@ geni.us
 geniegamer.com
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
-geo.mozilla.org
 geo.nbcsports.com
 geo.ngtv.io
 geo.vortex.data.microsoft.com.akadns.net
@@ -2102,6 +2097,7 @@ go.cerner.com
 go.dlink.com
 go.flx1.com
 go.madmimi.com
+go.mybusinessacademy.ph
 go.neverware.com
 go.nordvpn.net
 go.onelink.me
@@ -2309,7 +2305,6 @@ hw-cdn2.trafficjunky.net
 hybridclient.naiadsystems.com
 hydracdn.network
 hydrax.net
-hydromet.gov.bz
 hyperurl.co
 hypestat.com
 i-technet.sec.s-msft.com
@@ -2728,6 +2723,7 @@ kredytbank.com.ua
 krxd.net
 kryptoslogic.com
 ksmobile.com
+kx.com
 l-stat.livejournal.net
 l.betrad.com
 l.doubleclick.net
@@ -2991,7 +2987,6 @@ mirtesen.ru
 mis.migc.xiaomi.com
 miscopy.com
 mistat.intl.xiaomi.com
-mistat.xiaomi.com
 mixi.jp
 mixi.media
 mixpanel.com
@@ -3169,7 +3164,6 @@ njih.net
 nl.sitestat.com
 nllapps.com
 nlrb.gov
-nms.gov.bz
 noc.social
 nocdnrlly.xyz
 non.li
@@ -3707,7 +3701,6 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
-resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
@@ -3801,7 +3794,6 @@ s3.wp.com
 s7.addthis.com
 s7d2.scene7.com
 s8.addthis.com
-sa.aol.com
 saa.cbsi.com
 sabre.com
 safe-browsing-quorum.cliqz.com
@@ -4090,6 +4082,7 @@ sptrack.mailer.humblebundle.com
 sqimg.qq.com
 srvtrck.com
 ss.phncdn.com
+ssl-bbcsmarttv.2cnt.net
 ssl-cdn.static.browser.mi-img.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
@@ -4332,6 +4325,7 @@ test.quantcast.mgr.consensu.org
 texashomebase.com
 thaiticketmajor.com
 the-home-depot-ca.pxf.io
+thealtening.com
 theannoyingsite.com
 thebrighttag.com
 thecounter.com
