@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Mar 2022 00:24:54 UTC
+# Last modified: 22 Mar 2022 08:07:33 UTC
 0.gravatar.com
 000webhostapp.com
 0catch.com
@@ -1786,6 +1786,7 @@ etoro.com
 etracker.de
 etrk.asus.com
 ettoday.com
+eu-auth2.samsungosp.com
 eu-central-1.elb.amazonaws.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com

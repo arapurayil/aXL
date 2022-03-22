@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.22
-# Last modified: 22 Mar 2022 00:24:54 UTC
+# Last modified: 22 Mar 2022 08:07:33 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2762,7 +2762,6 @@ apis.com.br
 apis.daum.net
 apis.google.com
 apis.ign.com
-apis.ihg.com.edgekey.net
 apis.justwatch.com
 apis.live.net
 apis.mail.yahoo.com
@@ -7802,7 +7801,6 @@ davivienda.com
 day2day.dk
 daycoval.com.br
 days.yahoo.co.jp
-daystar.ac.ke
 daytonhearthospital.com
 db-ip.com
 db-pbc.pl
@@ -10970,7 +10968,6 @@ genuine.adobe.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
 geo.atlassbx.com
-geo.mozilla.org
 geo.nabstudio.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -12477,7 +12474,6 @@ hybrid.xiaomi.com
 hybridclient.naiadsystems.com
 hydracdn.network
 hydrax.net
-hydromet.gov.bz
 hygeia.gr
 hyperurl.co
 hypestat.com
@@ -14877,6 +14873,7 @@ kvarnerbanka.hr
 kvartplata.ru
 kwick.ch
 kwick.de
+kx.com
 kxb.me
 kxcdn.com
 kybanks.com
@@ -16644,7 +16641,6 @@ mission4health.com
 missionhospitals.org
 missionoaksbank.com
 mistat.intl.xiaomi.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -17759,7 +17755,6 @@ nmbankers.com
 nmcheck.gnome.org
 nmetrics.samsung.com
 nmmba.org
-nms.gov.bz
 no-cache.hubspot.com
 no-go.kelkoogroup.net
 no-intro.dlgsoftware.net
@@ -21391,7 +21386,6 @@ sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
 sa-in-f27.1e100.net
-sa.aol.com
 sa.api.intl.miui.com
 sa.nexon.game.naver.com
 sa.symcb.com
@@ -23388,6 +23382,7 @@ sskborken.de
 sskduesseldorf.de
 sskm.de
 sskpw.de
+ssl-bbcsmarttv.2cnt.net
 ssl-ccstatic.highwebmedia.com
 ssl-cdn.static.browser.mi-img.com
 ssl-images-amazon.com
@@ -24612,6 +24607,7 @@ the-housingbank.com
 the-housingbank.com.jo
 the.earth.li
 the1st.com
+thealtening.com
 theandroidsoul.com
 theanimalmedicalhospital.com
 theannoyingsite.com
