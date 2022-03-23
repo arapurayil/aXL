@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.23
-# Last modified: 23 Mar 2022 00:29:07 UTC
+# Last modified: 23 Mar 2022 08:07:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -435,10 +435,8 @@ a.stat.xiaomi.com
 a.thumbs.redditmedia.com
 a.tiles.mapbox.com
 a.trellocdn.com
-a.uguu.se
 a.union.mi.com
 a.wishabi.com
-a0.awsstatic.com
 a0.fr
 a0.smi2.ru
 a1.api.bbc.co.uk
@@ -3384,7 +3382,6 @@ aws.com
 aws.keshefoundation.org
 awsg.at
 awssgp0-files.fds.api.xiaomi.com
-awsstatic.com
 awstrack.me
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 ax.init.itunes.apple.com
@@ -7292,7 +7289,6 @@ cpsinternetbanking.com.au
 cpt.itv.com
 cptrack.de
 cpu-net.com
-cpu.edu.tw
 cpy-crack.com
 cquotient.com
 cr-ledro.net
@@ -7801,6 +7797,7 @@ davivienda.com
 day2day.dk
 daycoval.com.br
 days.yahoo.co.jp
+daystar.ac.ke
 daytonhearthospital.com
 db-ip.com
 db-pbc.pl
@@ -7993,7 +7990,6 @@ detectportal.firefox.com
 detelegraaf.nl
 detik.com
 dettinger-bank.de
-deu.edu.tr
 deutsche-bank-bauspar.de
 deutsche-bank-pbc.pl
 deutsche-bank.de
@@ -12053,7 +12049,6 @@ hersheybank.com
 hertfordshire.gov.uk
 herz-jesu-kh.net
 herz-jesu-krankenhaus.de
-herzen.spb.ru
 herzzentrum-dresden.com
 hesab.az
 hessen-spion.de
@@ -12475,6 +12470,7 @@ hybrid.xiaomi.com
 hybridclient.naiadsystems.com
 hydracdn.network
 hydrax.net
+hydromet.gov.bz
 hygeia.gr
 hyperurl.co
 hypestat.com
@@ -13769,7 +13765,6 @@ io.playstation.com
 ioam.de
 iob.com
 iob.imgur.com
-iobit.com
 iobnet.co.in
 iobsingapore.com
 ioconto.it
@@ -14948,7 +14943,6 @@ landbank.com.tw
 landerhospital.com
 landeskrankenhaus.net
 landing.adobe.com
-landkreis-aurich.de
 landmarkbank.com
 landmarkbanks.com
 landsbank.fo
@@ -16096,6 +16090,7 @@ me.kaspersky.com
 me.spot.im
 meabank.com
 meanlate.com
+measurement-lab.org
 measurementlab.net
 mebank.com.au
 mebytmb.com
@@ -16574,6 +16569,7 @@ minclinic.ru
 mindenexchange.com
 mindnmagick.com
 mindtake.com
+mindvalley.com
 mine.nu
 minecraft.cryptopia.co.nz
 minecraftprod.rtep.msgamestudios.com
@@ -17446,7 +17442,6 @@ ncu.ca
 nd.demdex.net
 ndba.com
 ndbbankonline.com
-ndhu.edu.tw
 ndirect.ppro.de
 ndmdhs.com
 ndrive.naver.com
@@ -17756,6 +17751,7 @@ nmbankers.com
 nmcheck.gnome.org
 nmetrics.samsung.com
 nmmba.org
+nms.gov.bz
 no-cache.hubspot.com
 no-go.kelkoogroup.net
 no-intro.dlgsoftware.net
@@ -18346,6 +18342,7 @@ onelaunch.com
 onelink-translations.com
 onelink.me
 onelogin.com
+onelouder.com
 onenetworkdirect.net
 oneocsp.microsoft.com
 oneplus.com
@@ -19090,6 +19087,7 @@ paymo.ru
 paymybills.com
 payonlinesystem.com
 payouts.payoneer.com
+paypal-carregamento.pt
 paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
@@ -19325,7 +19323,6 @@ picena.bcc.it
 pich.in
 picpay.com
 picscdn.redblue.de
-picshag.com
 pictet.com
 picupload.ebay.com
 piczo.com
@@ -19904,7 +19901,6 @@ progreso.com.do
 progressbank.com
 progressiveozarkbank.com
 prohosting.com
-project-rainbowcrack.com
 projects.huffingtonpost.com.au
 prologue.blog.naver.com
 promenergobank.ru
@@ -20100,6 +20096,7 @@ pushwoosh.com
 put.re
 putlocker.is
 puu.sh
+puui.qpic.cn
 puzz.com
 puzzle-english.com
 pv.api.io.mi.com
@@ -20808,6 +20805,7 @@ reims.bnp.fr
 reise.lc
 reisebank.de
 relay01.hitbtc.com
+relayforlife.org
 release.theplatform.com
 release.twitch.tv
 releasenotes.sonymobile.com
@@ -20988,6 +20986,7 @@ rink.hockeyapp.com
 rink.hockeyapp.net
 riotgames.com
 riotpixels.com
+riotpixels.net
 ripb.parsian-bank.ir
 ris.api.iris.microsoft.com
 river.data.ea.com
@@ -23555,7 +23554,6 @@ startmail.com
 startpage.com
 startpagina.nl
 startup.mobile.yandex.net
-staseraintv.com
 stat-dv.mtsbank.ru
 stat.download.xunlei.com
 stat.ethz.ch
@@ -23897,7 +23895,6 @@ store.coinbase.com
 store.crunchyroll.com
 store.gematsu.com
 store.hide.me
-store.iobit.com
 store.kaspersky.com
 store.keshefoundation.org
 store.lg.com
@@ -23987,7 +23984,6 @@ style.sndcdn.com
 stylehive.com
 stylem.com
 styles.redditmedia.com
-su.ac.th
 su.ff.avast.com
 su.pr
 suarankri.me
@@ -25445,7 +25441,6 @@ unagi-fe.amazon.com
 unagi-na.amazon.com
 unagi.amazon.co.jp
 unagi.amazon.com
-unap.edu.pe
 unb.co.ae
 unbank.com
 unblocksit.es
@@ -25510,7 +25505,6 @@ unionstatebank.org
 uniontrust.com
 uniportal.huawei.com
 uniras.gov.uk
-unirc.it
 unirea.ro
 uniregistry.com
 unisdk.update.easebar.com
@@ -25840,6 +25834,7 @@ utfg.sk
 utibank.com
 utility.rogersmedia.com
 utkonos.ru
+utopia-suites.com
 uturl.com
 utz.me
 uu.nu
@@ -26197,7 +26192,6 @@ video-api.mco.arcpublishing.com
 video-api.wsj.com
 video-api.yql.yahoo.com
 video-fa.scdn.co
-video-one.com
 video-preview.gtflixtv.com
 video-stats.l.google.com
 video.api.playstation.com
@@ -27309,9 +27303,7 @@ winterbacher-bank.de
 winterhillbank.com
 winterlinger-bank.de
 wintrust.com
-winzip.com
 wip3.adobe.com
-wip4.adobe.com
 wir.ch
 wire.com
 wirecardbank.de
@@ -27733,7 +27725,6 @@ xdm.wireless.att.com
 xed.nl
 xelion.it
 xero.com
-xf.cz
 xfce.org
 xfinity.com
 xflight.xboxlive.com
