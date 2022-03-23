@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Mar 2022 08:07:33 UTC
+# Last modified: 23 Mar 2022 00:29:07 UTC
 0.gravatar.com
 000webhostapp.com
 0catch.com
@@ -90,9 +90,7 @@ a.pomf.cat
 a.pomf.su
 a.pr-cy.ru
 a.realsrv.com
-a.uguu.se
 a.wishabi.com
-a0.awsstatic.com
 a0.smi2.ru
 a1.api.bbc.co.uk
 a1.mzstatic.com
@@ -104,7 +102,6 @@ a2.xinhuanet.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a2z.com
-a2zapk.com
 a3.mediagra.com
 a3.smi2.ru
 a4.smi2.ru
@@ -746,7 +743,6 @@ art19.com
 arvetellefsen.no
 as.baidu.com
 asadcdn.com
-ashampoo.com
 asimov-win.settings.data.microsoft.com.akadns.net
 assets-land-ht.contentdef.com
 assets-secure.applicaster.com
@@ -806,7 +802,6 @@ awin.com
 awin1.com
 aws.com
 aws.keshefoundation.org
-awsstatic.com
 awstrack.me
 az416426.vo.msecnd.net
 azabu-u.ac.jp
@@ -1378,7 +1373,6 @@ cp1.news.com.au
 cpm.wargaming.net
 cpt.itv.com
 cptrack.de
-cpu.edu.tw
 cquotient.com
 cracking.org
 crashlytics.com
@@ -1524,6 +1518,7 @@ datadoghq.com
 datawrapper.de
 daumcdn.net
 dauth-lp1.ndas.srv.nintendo.net
+daystar.ac.ke
 db-ip.com
 db5.vortex.data.microsoft.com.akadns.net
 dc.applicationinsights.azure.com
@@ -1551,7 +1546,6 @@ demdex.net
 derat.nl
 derekseaman.com
 desktop.spotify.com
-deu.edu.tr
 dev-multiscreen.samsung.com
 dev.newrelic.com
 dev.virtualearth.net
@@ -1630,7 +1624,6 @@ down.360safe.com
 download-dc1.gfe.nvidia.com
 download-free-games.com
 download.newrelic.com
-download.winzip.com
 downloadanysong.com
 downloads.mailchimp.com
 downloads.wisecleaner.com
@@ -2233,7 +2226,6 @@ here.com
 herephyshy.info
 herokuapp.com
 herokussl.com
-herzen.spb.ru
 heureka.cz
 heureka.sk
 hexun.com
@@ -2306,6 +2298,7 @@ hw-cdn2.trafficjunky.net
 hybridclient.naiadsystems.com
 hydracdn.network
 hydrax.net
+hydromet.gov.bz
 hyperurl.co
 hypestat.com
 i-technet.sec.s-msft.com
@@ -2524,6 +2517,8 @@ imp.appledaily.com
 impactradius.com
 imrworldwide.com
 in.appcenter.ms
+in.phonecallapi.micloud.xiaomi.net
+in.smsapi.micloud.xiaomi.net
 inc.com
 includecheck.oisd.nl
 incoming.telemetry.mozilla.org
@@ -2571,7 +2566,6 @@ investingchannel.com
 invoca.net
 involve.asia
 ioam.de
-iobit.com
 iolam.it
 ionicframework.com
 iotcplatform.com
@@ -2738,7 +2732,6 @@ l3.evidon.com
 labs-mqtt.xda-developers.com
 lads.myspace.com
 lads.myspacecdn.com
-landkreis-aurich.de
 lapauseyogachaud.com
 launch1.co
 launcher.spot.im
@@ -2927,6 +2920,7 @@ md-a-s.apptimize.com
 md-nx.com
 mdis.uz
 mds.yandex.net
+measurement-lab.org
 measurementlab.net
 medallia.com
 media-mercury.cursecdn.com
@@ -2979,6 +2973,7 @@ midasplayer.com
 mijnbladopdemat.nl
 mimgnews.pstatic.net
 mindtake.com
+mindvalley.com
 minecraftprod.rtep.msgamestudios.com
 miningpoolhub.com
 mintos.com
@@ -3115,7 +3110,6 @@ navitime.co.jp
 naytev.com
 nbcu.demdex.net
 nd.demdex.net
-ndhu.edu.tw
 ndirect.ppro.de
 ndmdhs.com
 neemu.com
@@ -3165,6 +3159,7 @@ njih.net
 nl.sitestat.com
 nllapps.com
 nlrb.gov
+nms.gov.bz
 noc.social
 nocdnrlly.xyz
 non.li
@@ -3263,7 +3258,6 @@ olmprodpowerlift-cdn.azureedge.net
 oload.cloud
 oload.info
 oload.tv
-oload.win
 om.cbsi.com
 om.forgeofempires.com
 om.symantec.com
@@ -3281,6 +3275,7 @@ onegoodthingbyjillee.com
 onelaunch.com
 onelink-translations.com
 onelink.me
+onelouder.com
 onenetworkdirect.net
 onesignal.com
 onetrust.com
@@ -3378,6 +3373,7 @@ pavtube.com
 pavv.co.kr
 paydirekt-de01.wt-eu02.net
 payeer.com
+paypal-carregamento.pt
 paypal-customerfeedback.com
 paypal-opladen.be
 pb-assets.tedcdn.com
@@ -3416,7 +3412,6 @@ piano.io
 pianomedia.eu
 pic.iask.cn
 pic.pic-img.com
-picshag.com
 pidorg.ru
 pigu.lt
 pila.pl
@@ -3559,7 +3554,6 @@ production-cmp.isgprivacy.cbsi.com
 production-public.tubi.io
 productsup.com
 prodxnews1blob.blob.core.windows.net
-project-rainbowcrack.com
 promo.mobile.de
 promos.fling.com
 promotions.newegg.com
@@ -3598,8 +3592,8 @@ pushbullet.com
 pusher.com
 pusherapp.com
 pushwelcome.com
+puui.qpic.cn
 pv.sohu.com
-pw2.ro
 px.spiceworks.com
 pxc-coding.com
 pxf.io
@@ -3687,6 +3681,7 @@ refer.ccbill.com
 referrer.disqus.com
 refersion.com
 registeridm.com
+relayforlife.org
 relevant-digital.com
 remind.me
 remington700chassis.com
@@ -3717,6 +3712,7 @@ rfk.biglots.com
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
+riotpixels.net
 rlcdn.com
 rm.api.weibo.com
 rm02.net
@@ -3739,7 +3735,6 @@ rpxnow.com
 rs.epoq.de
 rs6.net
 rsci.app.link
-rsload.net
 ru.com
 rubicon.wellsfargo.com
 rumble.com
@@ -3776,6 +3771,7 @@ s.ytimg.com
 s.zkcdn.net
 s0-2mdn-net.l.google.com
 s0.2mdn.net
+s01.riotpixels.net
 s019.radikal.ru
 s1.trrsf.com
 s1.wp.com
@@ -4115,7 +4111,6 @@ standardmedia.co.ke
 staples.com.edgekey.net
 star.c10r.facebook.com
 startup.mobile.yandex.net
-staseraintv.com
 stat.download.xunlei.com
 stat.ethz.ch
 stat24.com
@@ -4188,7 +4183,6 @@ stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
-store.iobit.com
 store.keshefoundation.org
 store.qq.com
 store2.gofile.io
@@ -4206,7 +4200,6 @@ stressthem.to
 stripe.network
 stroeerdigitalgroup.de
 stun.l.google.com
-su.ac.th
 su.ff.avast.com
 subs.youmaker.com
 sucmetrics.unicredit.it
@@ -4230,7 +4223,6 @@ swa.bol.com
 swift.com
 sxp.smartclip.net
 sy.ameblo.jp
-syandus.com
 symcd.com
 syncplusconfig.s3.amazonaws.com
 synd.cricbuzz.com
@@ -4509,14 +4501,12 @@ unagi-fe.amazon.com
 unagi-na.amazon.com
 unagi.amazon.co.jp
 unagi.amazon.com
-unap.edu.pe
 unblocksit.es
 unbounce.com
 uni-rostock.de
 unid.go.com
 unikrn.com
 unionbanknig.com
-unirc.it
 uniregistry.com
 unisdk.update.easebar.com
 unitedbike.com
@@ -4583,6 +4573,7 @@ uservoice.com
 usher.ttvnw.net
 ust.chatango.com
 utility.rogersmedia.com
+utopia-suites.com
 uzreklam.com
 v.fwmrm.net
 v.ht
@@ -4627,7 +4618,6 @@ vibetronic.id
 vidaxl.pl
 vidazoo.com
 video-fa.scdn.co
-video-one.com
 video-stats.l.google.com
 videoplayerhub.com
 videoplaza.tv
@@ -4644,7 +4634,6 @@ visit.digidip.net
 vistaprint.com
 visualwebsiteoptimizer.com
 vk.cc
-vlab.pp.ru
 vms-players.minutemediaservices.com
 vms.bluebillywig.com
 vofcw7x.x.incapdns.net
@@ -4688,7 +4677,6 @@ webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
 webclicks24.com
 webcollage.net
-webd.pl
 webgains.com
 webhop.net
 weblockapp.com
@@ -4740,9 +4728,7 @@ win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
 windows.net
-winzip.com
 wip3.adobe.com
-wip4.adobe.com
 wistia.com
 wistia.net
 wixsite.com
@@ -4751,7 +4737,6 @@ wl.spotify.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
-wn.nr
 wns.windows.com
 wo.vzwwo.com
 woocall.sina.com.cn
@@ -4799,7 +4784,6 @@ x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
 xapi.ozon.ru
 xdm.wireless.att.com
-xf.cz
 xg4ken.com
 xhcom.edu.cn
 xhost.ro
@@ -4818,7 +4802,6 @@ xtra1.gpsonextra.net
 xtra2.gpsonextra.net
 xtra3.gpsonextra.net
 xtra4.gpsonextra.net
-xunlei.com
 xxxjmp.com
 xzone.cz
 y8.com
@@ -4848,7 +4831,6 @@ youtube-ui.l.google.com
 youtube.de
 youvisit.com
 youxi.baidu.com
-yoyo.pl
 yp.com
 ypu.edu.tw
 yql.yahoo.com
@@ -4862,11 +4844,9 @@ yupoo.com
 yximgs.com
 z-m.c10r.facebook.com
 z.zz.ht
-za.pl
 zaloapp.com
 zanox.com
 zapr.in
-zapto.org
 zbiornik.com
 zdbb.net
 zee.cws.conviva.com
@@ -4884,7 +4864,6 @@ zoo.sandiegozoo.org
 zopim.com
 zorpia.com
 ztd.dds.microsoft.com
-zxq.net
 zyngawithfriends.com
 zytpirwai.net
 zzb.bz

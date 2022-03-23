@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.03.22
-# Last modified: 22 Mar 2022 08:07:33 UTC
+# Version: 3.03.23
+# Last modified: 23 Mar 2022 00:29:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9368,6 +9368,7 @@ etrk.asus.com
 etrust.ru
 etsy.com
 ettoday.com
+eu-auth2.samsungosp.com
 eu-central-1.elb.amazonaws.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
