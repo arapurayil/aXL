@@ -333,7 +333,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 79
+            "num_unblock_rules": 82
         },
         {
             "name": "_ aBL core excluded",
