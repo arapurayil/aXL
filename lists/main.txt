@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.03.31
-# Last modified: 31 Mar 2022 08:08:26 UTC
+# Last modified: 31 Mar 2022 16:06:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8387,6 +8387,7 @@ etebac.com
 etf.com
 ethermine.org
 ethias-banque.be
+ethikbank-onlinebanking.de
 ethikbank.de
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -12232,6 +12233,7 @@ internetbanken.privat.nordea.se
 internetbanking.btn.co.id
 internetbanking.caixa.gov.br
 internetbanking.ro
+internetbanking.suncorpbank.com.au
 internetbaukasten.de
 internetchicago.com
 internetchoice.com.au
@@ -14611,6 +14613,7 @@ meine.postbank.de
 meinebank.de
 meineheimat.de
 meinevolksbank.de
+meinkonto.tfbank.de
 meinlbank.com
 meinvz.de
 meinvz.net
@@ -21502,6 +21505,7 @@ sumterbank.com
 sunbancorp.com
 suncoastmba.org
 suncommunity.com
+suncorp.com.au
 suncorpbank.com.au
 suncorpmetway.com.au
 sundaymirror.co.uk
@@ -24474,6 +24478,7 @@ wirtualnemedia.pl
 wis.sndcdn.com
 wisbank.com
 wisc.edu
+wise.com
 wiserearth.org
 wistia.com
 wistia.net
