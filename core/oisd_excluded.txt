@@ -2,4 +2,4 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Apr 2022 16:06:44 UTC
+# Last modified: 14 Apr 2022 00:31:47 UTC
