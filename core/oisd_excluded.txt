@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Apr 2022 08:08:13 UTC
+# Last modified: 20 Apr 2022 16:06:59 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -860,6 +860,7 @@ betrad.com
 better-search.net
 bettersearch.co
 bfast.com
+bfmtv.com
 bgp.fe01.c3.xiaomi.com
 bi.medscape.com
 biggamecountdown.com
@@ -3869,6 +3870,7 @@ s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
+s3.us-east-1.wasabisys.com
 s3.wasabisys.com
 s7.addthis.com
 s8.addthis.com
