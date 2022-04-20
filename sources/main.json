@@ -18,7 +18,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3568
+            "num_unblock_rules": 3570
         },
         {
             "name": "AdguardTeam exclusions/firefox",
@@ -45,7 +45,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 102
+            "num_unblock_rules": 105
         },
         {
             "name": "anudeepND whitelist",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 0
+            "num_unblock_rules": 5222
         },
         {
             "name": "ookangzheng blahdns whitelist",
