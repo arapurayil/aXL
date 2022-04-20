@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 5222
+            "num_unblock_rules": 5221
         },
         {
             "name": "ookangzheng blahdns whitelist",

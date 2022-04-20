@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.04.20
-# Last modified: 20 Apr 2022 00:27:30 UTC
+# Last modified: 20 Apr 2022 08:08:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -25093,7 +25093,6 @@ thisissand.com
 thisisyourbank.com
 thisposition.info
 thm.market.xiaomi.com
-thoaimedia.com
 thomashospital.com
 threatcrowd.org
 threats.kaspersky.com
