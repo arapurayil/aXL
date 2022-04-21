@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.04.21
-# Last modified: 21 Apr 2022 00:29:27 UTC
+# Last modified: 21 Apr 2022 08:08:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2659,7 +2659,6 @@ api.toptenreviews.com
 api.traq.li
 api.travel.rakuten.co.jp
 api.trello.com
-api.truckersmp.com
 api.tumblr.com
 api.tvpage.com
 api.tw.weibo.com
@@ -5729,6 +5728,7 @@ cdn-ci50.actonsoftware.com
 cdn-content.ampproject.org
 cdn-eu.metacdn.com
 cdn-gl.imrworldwide.com
+cdn-go.cn
 cdn-hw.aliez.me
 cdn-images-1.medium.com
 cdn-images-2.medium.com
@@ -7078,6 +7078,7 @@ content.vidgyor.com
 content.webcollage.net
 content.yikyakapi.net
 contentful.com
+contents.fc2.com
 contests.dailycaller.com
 contextlist.info
 contextlist.net
@@ -8955,6 +8956,7 @@ efirstfed.com
 efs-f5rp.sdse.disney.com
 eftel.com
 eftps.gov
+egb.com
 egolomt.mn
 ehh.dk
 ehotspot.co.uk
