@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.20
-# Last modified: 20 Apr 2022 16:06:59 UTC
+# Version: 3.04.21
+# Last modified: 21 Apr 2022 00:29:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4390,6 +4390,7 @@ bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
+bfmtv.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -21544,6 +21545,7 @@ s3.me-south-1.amazonaws.com
 s3.sa-east-1.amazonaws.com
 s3.symcb.com
 s3.us-east-1.amazonaws.com
+s3.us-east-1.wasabisys.com
 s3.us-east-2.amazonaws.com
 s3.us-west-1.amazonaws.com
 s3.us-west-2.amazonaws.com

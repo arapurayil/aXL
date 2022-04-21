@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Apr 2022 16:06:59 UTC
+# Last modified: 21 Apr 2022 00:29:27 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -629,7 +629,6 @@ api.telegram.org
 api.testrequest.info
 api.toptenreviews.com
 api.traq.li
-api.truckersmp.com
 api.tvpage.com
 api.tw06.xlmc.sec.miui.com
 api.uca.cloud.unity3d.com
@@ -1034,6 +1033,7 @@ cdex.mu
 cdm.cursecdn.com
 cdn-3.convertexperiments.com
 cdn-gl.imrworldwide.com
+cdn-go.cn
 cdn-images.com
 cdn-net.com
 cdn.adf.ly
@@ -1272,6 +1272,7 @@ contactapi.micloud.xiaomi.net
 content.awaze.com
 content.eaton.com
 content.swrve.com
+contents.fc2.com
 contextlist.info
 contextlist.net
 contextmsc.info
@@ -1666,6 +1667,7 @@ edigitalsurvey.com
 edrone.me
 effiliation.com
 effinghamanimalhospital.com
+egb.com
 ehow.com
 ek21.com
 ekg.riotgames.com
@@ -2747,7 +2749,6 @@ librarysafe.net
 librarysafe.org
 libs.coremetrics.com
 license.unity3d.com
-licensing.mp.microsoft.com
 licensingphone.mp.microsoft.com
 lidl.media01.eu
 lifopp-sacoho.com
