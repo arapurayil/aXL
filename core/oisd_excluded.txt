@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Apr 2022 08:08:59 UTC
+# Last modified: 22 Apr 2022 16:07:13 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
