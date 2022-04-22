@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Apr 2022 16:07:02 UTC
+# Last modified: 22 Apr 2022 00:29:46 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -3109,6 +3109,7 @@ na1r.services.adobe.com
 na2m-pr.licenses.adobe.com
 naiadsystems.com
 naifei.shop
+namecoin.info
 namefwd.com
 nanoavi.info
 narrativ.com
@@ -4939,7 +4940,6 @@ video.intl.xiaomi.com
 videoder.net
 videoplaza.tv
 vidible.tv
-vidmate.net
 vidolog.com
 vidtech.cbsinteractive.com
 viewpoint.com

@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.21
-# Last modified: 21 Apr 2022 16:07:02 UTC
+# Version: 3.04.22
+# Last modified: 22 Apr 2022 00:29:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -11268,6 +11268,7 @@ go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
+go.updates.iata.org
 go.usa.gov
 go.wechat.com
 go2cloud.org
@@ -19871,6 +19872,7 @@ premierleague.com
 premium.linkedin.com
 premium.roxypalace.com
 premium.soundcloud.com
+premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
@@ -24104,6 +24106,7 @@ stayfriends.com
 stayfriends.de
 stayfriends.se
 stbarbarakh-sad.de
+stbimg.echostarcdn.com.c.footprint.net
 stc.za.zaloapp.com
 stcharleshospital.com
 stdl.qq.com
