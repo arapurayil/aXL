@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Apr 2022 08:07:19 UTC
+# Last modified: 23 Apr 2022 16:06:44 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -2431,6 +2431,7 @@ js.gleam.io
 js.hs-scripts.com
 js.intercomcdn.com
 js.maxmind.com
+js.monitor.azure.com
 js.pusher.com
 js.stripe.com
 js.taplytics.com
