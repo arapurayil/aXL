@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Apr 2022 16:06:44 UTC
+# Last modified: 24 Apr 2022 00:26:35 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -632,6 +632,7 @@ app.meltwater.com
 app.migc.xiaomi.com
 app.pr0gramm.com
 app.qq.com
+app.sephora.com
 app.usercentrics.eu
 app.wapx.cn
 app.wootric.com
@@ -800,7 +801,6 @@ betrad.com
 better-search.net
 bettersearch.co
 bfast.com
-bfmtv.com
 bgp.fe01.c3.xiaomi.com
 bi.medscape.com
 biggamecountdown.com
@@ -1039,6 +1039,7 @@ cf1.vuze.com
 cf2.me
 cfemedia.com
 cfvod.kaltura.com
+cgames.de
 ch0p.darty.com
 channeladvisor.com
 charcdn.com
@@ -1087,6 +1088,7 @@ click.pstmrk.it
 click.redditmail.com
 click.sender.yandex.ru
 click.simba.taobao.com
+click.taobao.com
 clickcease.com
 clickdimensions.com
 clickfunnels.com
@@ -2071,6 +2073,7 @@ hostpp.gq
 hostpp2.tk
 hot-finder.com
 hotbar.com
+hotdeals.com
 hotelscombined.com.au
 hotspotshield.com
 houmpage.com
@@ -2245,7 +2248,6 @@ idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
 iesnare.com
 iexplore.co
-ifengcdn.com
 igg.biz
 ignorelist.com
 igodigital.com
@@ -2357,6 +2359,7 @@ ip-info.ff.avast.com
 ip-tracker.org
 ip.goguardian.com
 ip2location.com
+ipcheck.tmgrup.com.tr
 ipdata.co
 iphone-services.apple.com
 iphonesubmissions.apple.com
@@ -4021,7 +4024,6 @@ static.vrv.co
 static.ws.126.net
 static.zixizyxetaz.com
 staticpm.com
-statics-marketingsites-eus-ms-com.akamaized.net
 staticxx.facebook.com
 stats.crossrider.com
 stats.distributed.net
@@ -4185,6 +4187,7 @@ targetedlistings.net
 tawuhoju.com
 tbapi.search.ask.com
 tbccint.com
+tblog-8sodn459.kgslb.com
 tbskip.taobao.com
 tc.tradetracker.net
 tc.tradetracker.nl
@@ -4258,6 +4261,7 @@ tinyurl.com
 tiqcdn.com
 tkn.fux.com
 tkqlhce.com
+tkx.mp.lura.live
 tlcgame.000webhostapp.com
 tm.tradetracker.net
 to5s.biz
@@ -4343,8 +4347,6 @@ tritondigital.com
 trk.email.dynect.net
 trk.emlbest.com
 trk.klclick.com
-trk.klclick2.com
-trk.klclick3.com
 trk.pinterest.com
 trolatunt.com
 trotux.com
@@ -4429,7 +4431,6 @@ updatesync.info
 upmostly.com
 uppersearch.tk
 uprise.website
-upsb.edu.pe
 uptracker.ru
 urbanairship.com
 urbansquares.com
@@ -4641,6 +4642,7 @@ wisersearch.com
 wisesearches.com
 wkwindowsflash.com
 wl.jd.com
+wl.spotify.com
 wmsu.edu.ph
 wonderfulsearches.info
 wondrousmoviessearch.com

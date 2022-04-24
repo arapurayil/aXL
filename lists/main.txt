@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.23
-# Last modified: 23 Apr 2022 16:06:44 UTC
+# Version: 3.04.24
+# Last modified: 24 Apr 2022 00:26:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -14187,6 +14187,7 @@ js.intercomcdn.com
 js.iplsc.com
 js.maxmind.com
 js.media-lab.ai
+js.monitor.azure.com
 js.passport.qihucdn.com
 js.pulseinsights.com
 js.pusher.com
