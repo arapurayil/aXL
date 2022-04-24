@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.04.24
-# Last modified: 24 Apr 2022 00:26:35 UTC
+# Last modified: 24 Apr 2022 08:07:57 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2810,6 +2810,7 @@ app.plus.google.com
 app.pr0gramm.com
 app.qq.com
 app.rebrandly.com
+app.sephora.com
 app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
@@ -4385,7 +4386,6 @@ bfa.ru
 bfast.com
 bfc.com.ve
 bfer.ro
-bfmtv.com
 bfr.ro
 bg.gravatar.com
 bg.playstation.com
@@ -6105,6 +6105,7 @@ cfsb.com
 cfsbancorp.com
 cfu.net
 cfvod.kaltura.com
+cgames.de
 cgd.pt
 cgi.adobe.com
 cgi.connect.qq.com
@@ -6506,6 +6507,7 @@ click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
+click.taobao.com
 click.txn-email.playstation.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -12320,6 +12322,7 @@ hostsfile.org
 hostwindsor.com
 hot-finder.com
 hotbar.com
+hotdeals.com
 hotdoc.com.au
 hotel.travel.rakuten.co.jp
 hotels.com
@@ -13145,7 +13148,6 @@ ieonline.microsoft.com
 iesnare.com
 iexplore.co
 ifbag.com
-ifengcdn.com
 ifibank.com
 ifigest.it
 ifixit.com
@@ -24010,7 +24012,6 @@ static2cdn.hubspot.com
 staticflickr.com
 staticlive.douyucdn.cn
 staticpm.com
-statics-marketingsites-eus-ms-com.akamaized.net
 statics-storeexp-eus-ms-com.akamaized.net
 statics-www-ssl.gingersoftware.com
 statics.streamable.com
@@ -24745,6 +24746,7 @@ tbcbank.com.ge
 tbccint.com
 tbcdn.cn
 tbconline.ge
+tblog-8sodn459.kgslb.com
 tbskip.taobao.com
 tc.tradetracker.com
 tc.tradetracker.net
@@ -25160,6 +25162,7 @@ tkn.fux.com
 tknauth.spmode.ne.jp
 tkqlhce.com
 tkx.apis.anvato.net
+tkx.mp.lura.live
 tl.statcounter.com
 tl88.net
 tlc.com
@@ -25459,8 +25462,6 @@ trk.email.dynect.net
 trk.emlbest.com
 trk.klclick.com
 trk.klclick1.com
-trk.klclick2.com
-trk.klclick3.com
 trk.pinterest.com
 trkr.ws
 trlibor.org
@@ -25984,7 +25985,6 @@ uppersearch.tk
 uppit.com
 uprise.website
 ups.com
-upsb.edu.pe
 upside.app.link
 uptime.com
 uptimerobot.com
