@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Apr 2022 08:08:05 UTC
+# Last modified: 25 Apr 2022 16:06:34 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -536,7 +536,6 @@ altresults.com
 amauthprd.samsungcloudsolution.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
-amazonbusiness.com
 amdc.m.taobao.com
 amitaz.com
 amospalla.es
@@ -788,7 +787,6 @@ b.stats.paypal.com
 b.wishabi.com
 b13.com
 b23.ru
-b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babylon.com
@@ -998,7 +996,6 @@ cafeomai.com.au
 calcitapp.info
 calendar.fontanka.ru
 calltrk.com
-campaign.abb.com
 campaign.adobe.com
 campaignmonitor.com
 canadapharmacy.com
@@ -1116,7 +1113,6 @@ cf2.me
 cfemedia.com
 cfvod.kaltura.com
 ch0p.darty.com
-channelusa.samsung.com
 charcdn.com
 chariotoptic.com
 chaseswing.eu
@@ -1241,7 +1237,6 @@ confirmit.com
 conforama.ugc.bazaarvoice.com
 conicono.com
 connatix.com
-connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.ok.ru
@@ -1257,7 +1252,6 @@ consent.truste.com
 constantcontact.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
-content.awaze.com
 content.eaton.com
 content.jwplatform.com
 content.swrve.com
@@ -1566,6 +1560,7 @@ downlite.net
 download-app.net
 download-offer.com
 download.torrentex.ru
+download.wegame.qq.com
 download.yourfileinfo.com
 download123.igg.biz
 downloadatag.com
@@ -1682,6 +1677,7 @@ enigmasoftware.com
 ensighten.com
 enter-system.com
 entireweb.com
+entrypoint.ops.sparkpool.com
 eorezo.com
 ep00.epimg.net
 epicscanpronice.in
@@ -1753,7 +1749,6 @@ expbl2ro.xbox.com
 expendresults.com
 experience.tinypass.com
 exploit.in
-explore.amd.com
 explorednow.com
 exponea.com
 express-book.net
@@ -1802,7 +1797,6 @@ fastsearchings.info
 fastsoft.onlinedown.net
 fastunitdatagood.in
 fastunitdatagood.name
-faucethub.io
 fb38099g.bget.ru
 fc.vodafone.de
 fdownloadr.com
@@ -2005,7 +1999,6 @@ geover-prod.do.dsp.mp.microsoft.com
 get-express-vpn.com
 get-your-app.info
 get-your-file.info
-get.untangle.com
 get.x-link.pl
 getadmiral.com
 getalinkandshare.com
@@ -2061,20 +2054,14 @@ gnar.grammarly.com
 gnutella-cache.no-ip.com
 go-mpulse.net
 go-search.ru
-go.cerner.com
 go.leanplum.com
 go.madmimi.com
-go.mybusinessacademy.ph
-go.neverware.com
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
-go.slalom.com
 go.theregister.com
 go.trafficrouter.io
 go.trouter.skype.com
-go.updates.iata.org
 go.usa.gov
 go2cloud.org
 go2jump.org
@@ -2186,7 +2173,6 @@ healthwarehouse.com
 heank.nl
 heapanalytics.com
 hechenblaikner.at
-hello.heroku.com
 hello.myfonts.net
 helpbar.com
 helpmefindyour.info
@@ -2722,7 +2708,6 @@ leadboltmobile.net
 leadpages.net
 leakreality.com
 leanplum.com
-learn.cisecurity.org
 lekkit.hopto.org
 letitbit.net
 letoptpro.com
@@ -4216,6 +4201,7 @@ smetrics.discover.com
 smetrics.frontier.com
 smetrics.latitudefinancial.com
 smetrics.santander.co.uk
+smetrics.us.playstation.com
 smljmp.com
 smodus.nike.com
 smoot.apple.com
@@ -5076,13 +5062,10 @@ www-searching.com
 www1.2giga.link
 www2.2giga.link
 www2.pardot.com
-www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.webhostingtalk.com
-www4.orangecyberdefense.com
 www5.2giga.link
-www5.untangle.com
 www6.2giga.link
 www7.2giga.link
 www7.cbox.ws
