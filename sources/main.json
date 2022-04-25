@@ -216,7 +216,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 1733
+            "num_unblock_rules": 1737
         },
         {
             "name": "oisd.nl excludes",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 5312
+            "num_unblock_rules": 5176
         },
         {
             "name": "ookangzheng blahdns whitelist",
