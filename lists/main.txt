@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.25
-# Last modified: 25 Apr 2022 16:06:35 UTC
+# Version: 3.04.26
+# Last modified: 26 Apr 2022 00:29:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2129,7 +2129,6 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
-amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -3417,7 +3416,6 @@ b02.black.ndmdhs.com
 b13.com
 b2.ndb24.ru
 b23.ru
-b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -5413,7 +5411,6 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
-campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -6998,7 +6995,6 @@ conicono.com
 conn.skype.akadns.net
 connatix.com
 connect.auone.jp
-connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -7054,7 +7050,6 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
-content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -8439,6 +8434,7 @@ download.sonarr.tv
 download.torrentex.ru
 download.viber.com
 download.visualstudio.microsoft.com
+download.wegame.qq.com
 download.wikipedia.com
 download.windowsupdate.com
 download.winzip.com
@@ -9206,6 +9202,7 @@ entitlement.auth.adobe.com
 entpsz.alipay.com
 entrepreneur.com
 entry-at.line.me
+entrypoint.ops.sparkpool.com
 envirobank.org
 eo.nl
 eo.wikipedia.com
@@ -11239,7 +11236,6 @@ go-search.ru
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
-go.cerner.com
 go.co
 go.com
 go.daum.net
@@ -11252,17 +11248,14 @@ go.leanplum.com
 go.madmimi.com
 go.microsoft.com
 go.mybusinessacademy.ph
-go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
-go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -11270,7 +11263,6 @@ go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
-go.updates.iata.org
 go.usa.gov
 go.wechat.com
 go2cloud.org
@@ -11998,7 +11990,6 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
-hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -15084,7 +15075,6 @@ leadpages.co
 leadpages.net
 leakreality.com
 leanplum.com
-learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -28058,7 +28048,6 @@ www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
 www2.pardot.com
-www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
@@ -28067,7 +28056,6 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
-www4.orangecyberdefense.com
 www5.2giga.link
 www5.untangle.com
 www6.2giga.link
