@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Apr 2022 08:08:05 UTC
+# Last modified: 26 Apr 2022 16:06:54 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -1818,6 +1818,7 @@ extratorrent.cc
 extreme-ip-lookup.com
 ezoic.net
 f-log-at.grammarly.io
+f-p-va.isnssdk.com
 f1.g.mi.com
 f11.baidu.com
 fa8072.com
@@ -3036,6 +3037,7 @@ mimgnews.pstatic.net
 mindtake.com
 mindyourapp.info
 minecraftprod.rtep.msgamestudios.com
+minepi.com
 minergate.com
 miningpoolhub.com
 mintos.com
