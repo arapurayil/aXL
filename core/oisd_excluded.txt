@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Apr 2022 08:07:55 UTC
+# Last modified: 27 Apr 2022 16:06:57 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -33,7 +33,6 @@
 16start.com
 17173.com
 18video-on.com
-1coolbox.com
 1music-online.me
 1shoppingcart.com
 2-spyware.com
@@ -550,7 +549,6 @@ amishcountryfurnishings.com
 amitaz.com
 amospalla.es
 amplitude.com
-ams.keshefoundation.org
 amway.com
 analytics.console.aws.a2z.com
 analytics.edgekey.net
@@ -779,14 +777,12 @@ avantlink.com
 avatarservices.xboxlive.com
 avg.nation.com
 aviasales.ru
-avivaromm.com
 aweber.com
 awemwh.com
 awesomehp.com
 awin.com
 awin1.com
 aws.com
-aws.keshefoundation.org
 awstrack.me
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 ayurew.pw
@@ -826,7 +822,6 @@ banner.play-asia.com
 banner3.casino.com
 bannerbank.com
 bannertrack.net
-banyanhill.com
 barclaybanking.com
 baremetrics.com
 barracudacentral.org
@@ -897,8 +892,6 @@ bizigames.org
 bizrate.com
 bj.bcebos.com
 bkrtx.com
-blackhatworld.com
-blacklistalert.org
 blankrefer.com
 blekko.com
 blockadblock.com
@@ -1532,7 +1525,6 @@ digidip.net
 digimatic.biz
 diginetica.net
 digitaladvisor.dk
-digitalive.world
 digitalsmiths.net
 digits.com
 dinfo.3dpchip.com
@@ -1969,7 +1961,6 @@ freesteamkeys.com
 freeversion.ru
 freeversions.ru
 freeware.de
-freewebsitetemplates.com
 freewha.com
 freewheel-mtgx-tv.akamaized.net
 fresenius-kabi.com
@@ -2717,7 +2708,6 @@ keepa-super-clean-pc.info
 keeper-cleaner-pc-reports.org
 keepthefile.info
 kelkoogroup.net
-keshefoundation.org
 ketoweightlosspillsreviews.com
 key-find.com
 keyresultsguide.com
@@ -2902,6 +2892,7 @@ mabaya.com
 mac.search.naver.com
 mackeeper.com
 macromedia.com
+made.com
 madmax.stuffpicks.com
 madmax.utyuytjn.com
 madmimi.com
@@ -2913,7 +2904,6 @@ magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magiskmanager.com
 mail.bccto.me
-mail.keshefoundation.org
 mailchimp.com
 mailerlite.com
 mailfoogae.appspot.com
@@ -3218,7 +3208,6 @@ newnext.me
 newre-conversions.clickmeter.com
 newrelic.com
 news.smi2.ru
-newsbtc.com
 newscrawler.com
 newsearch123.com
 newsearchstation.com
@@ -4504,7 +4493,6 @@ storagepl1.info
 storagery.info
 storagery.net
 store-stc.zdn.vn
-store.keshefoundation.org
 store.qq.com
 storeconfig.mistat.intl.xiaomi.com
 stormap.sapo.pt
@@ -4886,7 +4874,6 @@ u.teknik.io
 ua1.lunrac.com
 ublock.org
 uca.cloud.unity3d.com
-uceprotect.net
 uclick.com
 ucoz.ru
 ucweb.com
