@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.04.27
-# Last modified: 27 Apr 2022 00:33:25 UTC
+# Last modified: 27 Apr 2022 08:07:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6275,7 +6275,6 @@ check6.facebook.com
 checkappexec.microsoft.com
 checkfree.com
 checkip.amazonaws.com
-checkip.synology.com
 checkout.bambora.com
 checkout.gateline.net
 checkout.iherb.com
@@ -9234,7 +9233,6 @@ entitlement.auth.adobe.com
 entpsz.alipay.com
 entrepreneur.com
 entry-at.line.me
-entrypoint.ops.sparkpool.com
 envirobank.org
 eo.nl
 eo.wikipedia.com
@@ -9993,6 +9991,7 @@ filetrans.blog.naver.com
 filetransfer.coinbase.com
 fili.cc
 fili.tv
+fillamoda.com
 filman.tv
 filmate-search.com
 filmha.top
@@ -10235,6 +10234,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+floryday.com
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
@@ -14086,6 +14086,7 @@ jalopnik.com
 jamaicahospital.org
 jamunabankbd.com
 janatabank-bd.com
+jango.com
 japan.techrepublic.com
 japanese.engadget.com
 japantimes.co.jp
@@ -23025,7 +23026,6 @@ sns.bgr.jp
 sns.fc2.com
 sns.land.to
 sns.nl
-sns.synology.com
 snsapi.relation.xiaomi.net
 snsbank.nl
 snssdk.com
@@ -26697,7 +26697,6 @@ video.xx.fbcdn.net
 videoapp-assets-ak.buzzfeed.com
 videocdn-sbs.akamaized.net
 videocopilot.net
-videoder.net
 videofarm.daum.net
 videolan.org
 videolog.blog.naver.com
