@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.26
-# Last modified: 26 Apr 2022 16:06:54 UTC
+# Version: 3.04.27
+# Last modified: 27 Apr 2022 00:33:25 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9609,6 +9609,7 @@ ezybanking.com.au
 f-droid.org
 f-i-s.lu
 f-log-at.grammarly.io
+f-p-va.isnssdk.com
 f-secure.com
 f.kinja-static.com
 f.thumbs.redditmedia.com
@@ -16690,6 +16691,7 @@ mine.nu
 minecraft.cryptopia.co.nz
 minecraftprod.rtep.msgamestudios.com
 mineolabank.com
+minepi.com
 minergate.com
 minershospital.com
 mineshaft1.cryptopia.co.nz

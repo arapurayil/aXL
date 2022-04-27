@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Apr 2022 16:06:54 UTC
+# Last modified: 27 Apr 2022 00:33:24 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -1151,7 +1151,6 @@ chat-assets.frontapp.com
 chat.ygosu.com
 chatango.com
 check.ddos-guard.net
-checkip.synology.com
 checkupdatenow.com
 chedot.com
 cheriefm.fr
@@ -1679,7 +1678,6 @@ ec2-35-166-136-23.us-west-2.compute.amazonaws.com
 ecn.dev.virtualearth.net
 ecology-tech403.ml
 edge.api.brightcove.com
-edgecastcdn.net
 edgefcs.net
 edgekey.net
 edgesuite.net
@@ -1718,7 +1716,6 @@ enigmasoftware.com
 ensighten.com
 enter-system.com
 entireweb.com
-entrypoint.ops.sparkpool.com
 eorezo.com
 ep00.epimg.net
 epicscanpronice.in
@@ -1872,6 +1869,7 @@ files.viva64.com
 filesarehere.com
 fili.cc
 fili.tv
+fillamoda.com
 filman.tv
 filmate-search.com
 filmha.top
@@ -1904,6 +1902,7 @@ flipora.com
 flipp.com
 flirt.com
 flix360.com
+floryday.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-eu.amazon-adsystem.com
@@ -2646,6 +2645,7 @@ iubenda.com
 ivelog.com
 ividi.org
 iwebar.com
+ix.sk
 izatcloud.net
 izeselet.hu
 j.gs
@@ -2653,6 +2653,7 @@ jabu.edu.ng
 jackjones.com
 jafuq.com
 jalbum.net
+jango.com
 japantv.club
 javdict.disqus.com
 jcloudcdn.com
@@ -4345,7 +4346,6 @@ snapengage.com
 snat.goguardian.com
 snjsearch.com
 snrcdn.net
-sns.synology.com
 snssdk.com
 snu.lge.com
 so-v.com
@@ -5031,7 +5031,6 @@ vidazoo.com
 vidcreek.tv
 video-fa.scdn.co
 video.intl.xiaomi.com
-videoder.net
 videoplaza.tv
 videoproc.com
 vidible.tv
