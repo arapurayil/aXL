@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.27
-# Last modified: 27 Apr 2022 16:06:57 UTC
+# Version: 3.04.28
+# Last modified: 28 Apr 2022 00:38:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -148,7 +148,6 @@
 1and1.fr
 1blu.de
 1cfresh.com
-1coolbox.com
 1dot0dot0dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 1drv.com
@@ -2214,7 +2213,6 @@ ampproject.net
 ampproject.org
 amrahbank.az
 ams.cdn.arkadiumhosted.com
-ams.keshefoundation.org
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -3342,7 +3340,6 @@ avhospital.org
 avia.ideabank.ua
 aviasales.ru
 avito.ru
-avivaromm.com
 avon.payupay.ru
 avonanimalhospital.com
 avonleaanimalhospital.ca
@@ -3367,7 +3364,6 @@ awin1.com
 awogsd.de
 aws.amazon.com
 aws.com
-aws.keshefoundation.org
 awsg.at
 awssgp0-files.fds.api.xiaomi.com
 awstrack.me
@@ -4033,7 +4029,6 @@ banvalor.ws
 banvalorbanco.com.ve
 banvenez.com
 banxico.org.mx
-banyanhill.com
 bapi.flipboard.com
 bapr.it
 baptist-health.com
@@ -4613,8 +4608,6 @@ black.game.naver.com
 blackapplehost.com
 blackberry.com
 blackboxrepack.com
-blackhatworld.com
-blacklistalert.org
 blacklistednews.com
 blackriverhospital.com
 blankrefer.com
@@ -8144,7 +8137,6 @@ digitalcameras.engadget.com
 digitalcanvas.com
 digitalfirstmedia.com
 digitalgov.gov
-digitalive.world
 digitalliteracy.gov
 digitalocean.com
 digitalselect.net
@@ -10627,7 +10619,6 @@ freeway-bitburg.de
 freewaywebhost.com
 freewebs.com
 freewebsitehosting.com
-freewebsitetemplates.com
 freewha.com
 freewheel-mtgx-tv.akamaized.net
 freewhost.com
@@ -14419,7 +14410,6 @@ kermitstate.com
 kernel.org
 kernmedicalcenter.com
 kerrisdalevethospital.com
-keshefoundation.org
 kestrelcapital.com
 ketoweightlosspillsreviews.com
 ketteler-krankenhaus.de
@@ -15797,6 +15787,7 @@ macromedia.com
 macrr.com
 macworld.co.uk
 macys.com
+made.com
 madison-bank.com
 madison.com
 madison.techcrunch.com
@@ -15843,7 +15834,6 @@ mail.dcinside.com
 mail.google.com
 mail.hostmonster.com
 mail.hulu.com
-mail.keshefoundation.org
 mail.linkedin.com
 mail.live.com
 mail.naver.com
@@ -17748,7 +17738,6 @@ news.xbox.com
 news.yahoo.com
 news.ycombinator.com
 newsapi.com.au
-newsbtc.com
 newscdn.com.au
 newscrawler.com
 newsday.com
@@ -24286,7 +24275,6 @@ store.crunchyroll.com
 store.gematsu.com
 store.hide.me
 store.kaspersky.com
-store.keshefoundation.org
 store.lg.com
 store.line.me
 store.mozilla.org
@@ -25809,7 +25797,6 @@ ucbankmn.com
 ucbi.com
 ucbl.com
 ucbnd.com
-uceprotect.net
 uchicago.edu
 uchicagokidshospital.org
 uchospitals.edu
