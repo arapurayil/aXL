@@ -3,11 +3,10 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2022-04-28T00:38:20.683Z
+! Last modified: 2022-04-28T08:07:44.806Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
-@@||adserver.snapads.com^
 @@||advertising-module.api.dpgmedia.cloud^
 @@||advertising.com^
 @@||advertising.soundcloud.com^
@@ -21,20 +20,17 @@
 @@||analytics.edgekey.net^
 @@||analytics.edgesuite.net^
 @@||analytics.google.com^
-@@||analytics.openapi.naver.com^
 @@||analytics.query.yahoo.com^
 @@||analytics.robinhood.com^
 @@||analytics.twitter.com^
-@@||banner.dafapunter.com^
 @@||banner.play-asia.com^
 @@||banners.funimation.com^
 @@||banners.spiceworks.com^
 @@||beacon-fullpage-predictor.goguardian.com^
-@@||beacon-v2.helpscout.net^
 @@||beacon.geo.netflix.com^
 @@||beacon.netflix.com^
-@@||beacon.schneidercorp.com^
 @@||counter-strike.net^
+@@||global.telemetry.insights.video.a2z.com^
 @@||mads.amazon-adsystem.com^
 @@||mads.amazon.com^
 @@||pixel.everesttech.net^
@@ -48,9 +44,9 @@
 @@||telemetry-prd.vn.tesla.services^
 @@||telemetry.api.swiftkey.com^
 @@||telemetry.gfe.nvidia.com^
-@@||telemetry.insights.video.a2z.com^
 @@||telemetry.microsoft.com^
 @@||telemetry.mozilla.org^
 @@||telemetry.soundcloud.com^
+@@||use.adserver.snapads.com^
 @@/beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
 @@/^(captive\.|adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/
