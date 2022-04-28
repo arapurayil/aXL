@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.04.28
-# Last modified: 28 Apr 2022 08:07:39 UTC
+# Last modified: 28 Apr 2022 16:06:57 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -408,11 +408,9 @@ a1.mzstatic.com
 a1.sndcdn.com
 a1.soundcloud.com
 a1014.g.akamai.net
-a1168.g.akamai.net
 a1843.g.akamai.net
 a1856.da1.akamai.net
 a1above.net
-a23.g.akamai.net
 a24m.a-bank.com.ua
 a2zapk.com
 a4.mzstatic.com
@@ -704,7 +702,6 @@ actonsoftware.com
 actrix.co.nz
 acumin.typekit.com
 acus.gov
-acxiom.com
 ad-blocker.org
 ad-ettoday.cdn.hinet.net
 ad-med.cz
@@ -2515,7 +2512,6 @@ api.target.com
 api.tastyworks.com
 api.teams.skype.com
 api.tech26.de
-api.techet.net
 api.termius.com
 api.themoviedb.org
 api.thetvdb.com
@@ -8504,7 +8500,6 @@ elmundo.es
 elo.com.br
 eloqua.com
 elpais.com
-elpais.es
 elpis.gr
 elsalvador.com
 elsb.com
@@ -8912,7 +8907,6 @@ exchange.globitex.com
 exchange.kaspersky.com
 exchange4media.com
 exchangebk.com
-exct.net
 exe.io
 exetervethospital.com
 eximb.com
@@ -9891,7 +9885,6 @@ franklinsavings.com
 franklinwi.gov
 fransabank.com
 fransabank.com.lb
-frantic.com
 fraud-net.com
 frauenliebe.info
 frbusiness.samsung.com
@@ -9928,7 +9921,6 @@ freeway-bitburg.de
 freewaywebhost.com
 freewebs.com
 freewebsitehosting.com
-freewha.com
 freewheel-mtgx-tv.akamaized.net
 freewhost.com
 freggers.de
@@ -14453,7 +14445,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15985,7 +15976,6 @@ mwf-service.akamaized.net
 mx-go.kelkoogroup.net
 mx.freenet.de
 mx.namecoin.info
-mx.yandex.ru
 mx1.hitbtc.com
 mxtoolbox.com
 my-beta.boldchat.com
@@ -16602,7 +16592,6 @@ nl.statcounter.com
 nl.wikipedia.com
 nlb.it
 nlb.si
-nllapps.com
 nlrb.gov
 nls.techrepublic.com
 nmbank.com
@@ -18465,7 +18454,6 @@ premierbnk.com
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
-premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
@@ -20619,7 +20607,6 @@ selfwealth.com.au
 sell.smartstore.naver.com
 sell.storefarm.naver.com
 sella.it
-sellfy.com
 sellix.io
 sematext.com
 semawur.com
@@ -20738,8 +20725,6 @@ sgdccdnems02.cdnsrv.jio.com
 sgdccdnems03.cdnsrv.jio.com
 sgdccdnems04.cdnsrv.jio.com
 sgeb.bg
-sgiz.mobi
-sgizmo.com
 sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
@@ -22676,7 +22661,6 @@ synology.com
 synologynotification.com
 synterra.ru
 synthesisbank.com
-sypi.gpshopper.com
 sysctl.org
 system-bank.ru
 system.aliorbank.pl

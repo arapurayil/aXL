@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Apr 2022 08:07:38 UTC
+# Last modified: 28 Apr 2022 16:06:57 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -173,7 +173,6 @@ analytics.robinhood.com
 analytics.twitter.com
 android.bugly.qq.com
 androidtvwatsonfe-pa.googleapis.com
-angi.com
 angolotesti.it
 anrdoezrs.net
 answerhub.com
@@ -279,7 +278,6 @@ bc.marfeel.com
 bc.marfeelcache.com
 bc.vc
 bc0a.com
-bccto.me
 bce.baidu.com
 beacon-fullpage-predictor.goguardian.com
 benefits.sovendus.com
@@ -622,7 +620,6 @@ fastly-analytics.com
 fc.vodafone.de
 feature.fm
 feedblitz.com
-fide.com
 files.viva64.com
 filmha.top
 fireflyengagement.com
@@ -692,7 +689,6 @@ get-express-vpn.com
 get.x-link.pl
 getadmiral.com
 getblueshift.com
-getnada.com
 getpublica.com
 gfe.nvidia.com
 ghosthis.review
@@ -797,7 +793,6 @@ iam-agof-app.irquest.com
 ias.rakuten.co.jp
 ib.anycast.adnxs.com
 ib.snssdk.com
-icam.fr
 icmarkets.com
 icptrack.com
 id.google.de
@@ -923,7 +918,6 @@ libs.coremetrics.com
 licensingphone.mp.microsoft.com
 lidl.media01.eu
 likera.com
-lilo.org
 lindy.co.id
 linkev.com
 linksynergy.com
@@ -951,7 +945,6 @@ logs.datadoghq.com
 logs.datadoghq.eu
 lomadee.com
 lptag.liveperson.net
-lsmu.com
 lulz.com
 m.exactag.com
 m.yap.yahoo.com
@@ -967,7 +960,6 @@ magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magnetmail1.net
-mail.bccto.me
 mailfoogae.appspot.com
 mairdumont.com
 manga-news.com
@@ -1043,7 +1035,6 @@ multiscreensite.com
 multiview.com
 muzeeum.nl
 my-deco-shop.com
-myabandonware.com
 myairbridge.com
 myao.adocean.pl
 mybbc-analytics.files.bbci.co.uk
@@ -1196,11 +1187,9 @@ pnapi.invoca.net
 pntra.com
 pntrac.com
 pntrs.com
-poczta.pl
 pokerstrategy.com
 polyfill.io
 pop-iad-2.cf.dash.row.aiv-cdn.net
-pop.com
 post.spmailtechno.com
 postclickmarketing.com
 postmediamontrealgazette2.files.wordpress.com
@@ -1378,7 +1367,6 @@ shortpixel.ai
 shrink.pe
 siamzone.com
 simp.ly
-simplelogin.co
 simplyhired.com
 singular.net
 siteplug.com
@@ -1456,7 +1444,6 @@ supplyframe.com
 surveygizmo.com
 surveyrouter.com
 surveys.insightexpressai.com
-sutterhealth.org
 sw88.go.com
 sxp.smartclip.net
 sy.ameblo.jp
@@ -1621,7 +1608,6 @@ vi-serve.com
 vidaxl.pl
 video-fa.scdn.co
 videoplaza.tv
-videoproc.com
 vidible.tv
 vidtech.cbsinteractive.com
 viglink.com
@@ -1700,5 +1686,4 @@ zenaps.com
 ziffdavis.com
 zipansion.com
 zmctrack.net
-zoho.com
 zopim.com
