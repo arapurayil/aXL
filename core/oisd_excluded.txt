@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Apr 2022 08:07:46 UTC
+# Last modified: 29 Apr 2022 16:07:02 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -229,7 +229,6 @@ api.elasticemail.com
 api.engager.ecbsn.com
 api.euro.hismarttv.com
 api.foursquare.com
-api.giphy.com
 api.hostip.info
 api.icmobile.singlewire.com
 api.io.mi.com
@@ -247,7 +246,6 @@ api.sec.intl.miui.com
 api.setting.intl.miui.com
 api.tapas.io
 api.themoviedb.org
-api.tiles.mapbox.com
 api.traq.li
 api.us.hismarttv.com
 api.vsee.com
@@ -499,6 +497,7 @@ cj.com
 cj.dotomi.com
 cj.mplxtms.com
 cl.exct.net
+classmates.com
 clck.yandex.ru
 cleverpush.com
 click.aliexpress.com
@@ -1213,7 +1212,6 @@ logentries.com
 logfiles.zoom.us
 loggly.com
 login-live.com-s02.net
-login.microsoftonline.com
 loginfra.com
 logrocket.com
 logs.amap.com
@@ -1276,6 +1274,7 @@ md-a-s.apptimize.com
 md-nx.com
 mdis.uz
 measure.ic.tver.jp
+media.disquscdn.com
 media.richrelevance.com
 media.wtf
 media01.eu
@@ -1375,6 +1374,7 @@ net-s.pl
 netiq.com
 nettvservices.com
 netupdater.info
+network.bazaarvoice.com
 netzathleten.de
 newre-conversions.clickmeter.com
 newrelic.com
