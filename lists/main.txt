@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.28
-# Last modified: 28 Apr 2022 16:06:57 UTC
+# Version: 3.04.29
+# Last modified: 29 Apr 2022 00:29:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2155,7 +2155,6 @@ androidwearcloudsync-pa.googleapis.com
 anelik.ru
 angel.co
 angelfire.com
-angi.com
 angloirishbank.com
 angolotesti.it
 angryip.org
@@ -3969,7 +3968,6 @@ bccr.fi.cr
 bccroscigno.it
 bccsanmarzano.it
 bccsanteramo.it
-bccto.me
 bcctriuggio.it
 bce.baidu.com
 bce.fin.ec
@@ -12131,7 +12129,6 @@ ic.vitabank.spb.ru
 ic.zhilcredit.ru
 ic3.events.data.microsoft.com
 icabanken.se
-icam.fr
 icampus.nl
 icanhazip.com
 icann.org
@@ -14565,7 +14562,6 @@ lsbank.com
 lsbbancshares.com
 lsbdirect.com
 lsbnc.com
-lsmu.com
 lsta.org
 lt-in-f14.1e100.net
 lt-in-f26.1e100.net
@@ -14694,7 +14690,6 @@ maibanu.com
 mail-attachment.googleusercontent.com
 mail-ve1eur020042.inbound.protection.outlook.com
 mail.163.com
-mail.bccto.me
 mail.bg
 mail.bithumb.com
 mail.breitbart.com
@@ -16026,7 +16021,6 @@ my.vudu.com
 my.ya.ru
 my1login.com
 my3gb.com
-myabandonware.com
 myaccount.nytimes.com
 myaccount.payoneer.com
 myairbridge.com
@@ -18290,7 +18284,6 @@ pobladores.com
 pochta.ru
 pocketmath-cdn.com
 pocketnow.com
-poczta.pl
 podcasting.help.soundcloud.com
 podcasts.engadget.com
 podcasts.shiftyjelly.com.au
