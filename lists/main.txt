@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.04.29
-# Last modified: 29 Apr 2022 16:07:02 UTC
+# Version: 3.04.30
+# Last modified: 30 Apr 2022 00:32:59 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2415,7 +2415,6 @@ api.gallery.intl.miui.com
 api.geetest.com
 api.getpocket.com
 api.gfe.nvidia.com
-api.giphy.com
 api.github.com
 api.glympse.com
 api.gm.com
@@ -15295,6 +15294,7 @@ media.complex.com
 media.daum.net
 media.dealersocket.com
 media.discordapp.net
+media.disquscdn.com
 media.dumpert.nl
 media.engadget.com
 media.eventhubs.com
