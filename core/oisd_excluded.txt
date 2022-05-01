@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 May 2022 00:36:48 UTC
+# Last modified: 01 May 2022 08:07:39 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -1238,6 +1238,7 @@ clara.net
 classmates.com
 clck.ru
 clck.yandex.ru
+cldup.com
 cleaner-pc-reports.org
 cleanpc-superinf.com
 clearcleanpc-superinf.com
