@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 May 2022 08:07:39 UTC
+# Last modified: 01 May 2022 16:06:35 UTC
 0.18video-on.com
 0.download-app.net
 0.downloadit-on.com
@@ -3698,6 +3698,7 @@ pages03.net
 pageset.com
 pajuwu.com
 palikan.com
+pancakeswap.finance
 pandapush-iad-prod.inscloudgate.net
 pangle.io
 pangle.io.edgekey.net
@@ -3718,6 +3719,7 @@ partners.etoro.com
 partners.salesforce.com
 partners.webmasterplan.com
 partycasino.com
+partypoker.com
 pass.1688.com
 passport.baidu.com
 passportinfo.info

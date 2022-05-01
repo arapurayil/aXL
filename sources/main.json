@@ -189,7 +189,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 49
+            "num_unblock_rules": 52
         },
         {
             "name": "nextdns affiliate-tracking",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 5675
+            "num_unblock_rules": 5676
         },
         {
             "name": "ookangzheng blahdns whitelist",

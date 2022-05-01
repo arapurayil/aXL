@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.01
-# Last modified: 01 May 2022 08:07:39 UTC
+# Last modified: 01 May 2022 16:06:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6540,6 +6540,7 @@ clbank.investcapitalbank.ru
 clc.stackoverflow.com
 clck.ru
 clck.yandex.ru
+cldup.com
 cleancss.com
 cleaner-pc-reports.org
 cleaner.daum.net
