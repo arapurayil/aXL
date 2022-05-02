@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.01
-# Last modified: 01 May 2022 16:06:35 UTC
+# Version: 3.05.02
+# Last modified: 02 May 2022 00:28:58 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -19258,6 +19258,7 @@ pamukbank.com.tr
 pan-klinik.de
 pan.baidu.com
 panahospital.com
+pancakeswap.finance
 pandapush-iad-prod.inscloudgate.net
 pandemicflu.gov
 pando.com
@@ -19341,6 +19342,7 @@ partyface.de
 partyflock.nl
 partypeeps2000.com
 partypeople.at
+partypoker.com
 partyshooters.de
 pasche.li
 pashabank.az
