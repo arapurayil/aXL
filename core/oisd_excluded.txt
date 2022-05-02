@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 May 2022 08:08:25 UTC
+# Last modified: 02 May 2022 16:07:05 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -3876,10 +3876,12 @@ track.upaknee.com
 track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
+tracker.cztorrent.net
 tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
+tracker.opentrackr.org
 tracker.pomf.se
 tracker.tfile.me
 tracker.trackerfix.com
@@ -4057,6 +4059,7 @@ v2.zopim.com
 v20.events.data.microsoft.com
 v2html.atm.youku.com
 v3cdn.net
+v4.ident.me
 v7event.stats.avast.com
 v9.com
 va.tawk.to
