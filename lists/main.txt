@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.02
-# Last modified: 02 May 2022 16:07:05 UTC
+# Version: 3.05.03
+# Last modified: 03 May 2022 00:30:29 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -24445,6 +24445,7 @@ track.webgains.com
 trackcmp.net
 tracker.btzoo.eu
 tracker.cyber-hub.net
+tracker.cztorrent.net
 tracker.debian.org
 tracker.dominos.com
 tracker.idocdn.com
@@ -25331,6 +25332,7 @@ v2html.atm.youku.com
 v3.antpool.com
 v3cdn.net
 v4.download.windowsupdate.com
+v4.ident.me
 v5.gd
 v7.stats.avast.com
 v7event.stats.avast.com

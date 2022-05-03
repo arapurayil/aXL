@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 May 2022 16:07:05 UTC
+# Last modified: 03 May 2022 00:30:29 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -437,6 +437,7 @@ adswizz.com
 adtechus.com
 adtrackers.net
 adtraction.com
+adultempire.com
 adulthub.ru
 adultswim.com
 adups.com
@@ -495,6 +496,7 @@ alphadomus.co.nz
 amauthprd.samsungcloudsolution.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
+amazonbusiness.com
 amdc.m.taobao.com
 amgload.net
 amospalla.es
@@ -731,6 +733,7 @@ b.stats.paypal.com
 b.wishabi.com
 b13.com
 b23.ru
+b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babylon.com
@@ -790,7 +793,6 @@ bit.do
 bit.ly
 bitable.com
 bitcheese.net
-bithumb.com
 bitly.com
 bittersweetparis.com
 bizrate.com
@@ -899,6 +901,7 @@ cafe24.com
 cafeomai.com.au
 calendar.fontanka.ru
 calltrk.com
+campaign.abb.com
 campaign.adobe.com
 campaignmonitor.com
 canadapharmacy.com
@@ -1142,6 +1145,7 @@ configprd.samsungcloudsolution.net
 confirmit.com
 conforama.ugc.bazaarvoice.com
 connatix.com
+connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.ok.ru
@@ -1157,6 +1161,7 @@ consent.truste.com
 consentmanager.mgr.consensu.org
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.awaze.com
 content.eaton.com
 content.jwplatform.com
 content.swrve.com
@@ -1385,6 +1390,7 @@ dnspod.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 docs.bugsnag.com
+docsdermgroup.com
 documentingreality.com
 dodge-forum.eu
 dolphincdn.xyz
@@ -1519,7 +1525,6 @@ estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
 etahub.com
-ethhex.com
 ethn.io
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -1573,6 +1578,7 @@ exosrv.com
 expbl2ro.xbox.com
 experience.tinypass.com
 exploit.in
+explore.amd.com
 exponea.com
 express-news.me
 ext.goguardian.com
@@ -1786,6 +1792,7 @@ georiot.com
 geover-prod.do.dsp.mp.microsoft.com
 gestyy.com
 get-express-vpn.com
+get.untangle.com
 get.x-link.pl
 getadmiral.com
 getairmail.com
@@ -1797,6 +1804,7 @@ getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
 gh.ffshrine.org
+ghash.io
 ghosthis.review
 gia.jd.com
 gigatribe.com
@@ -1822,13 +1830,19 @@ gmx.ch
 gnar.grammarly.com
 go-mpulse.net
 go-mpulse.net.edgekey.net
+go.cerner.com
 go.leanplum.com
 go.madmimi.com
+go.mybusinessacademy.ph
+go.neverware.com
+go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
+go.slalom.com
 go.theregister.com
 go.trouter.skype.com
+go.updates.iata.org
 go.usa.gov
 go2cloud.org
 go2jump.org
@@ -1932,6 +1946,7 @@ heank.nl
 heapanalytics.com
 hearstnp.com
 hechenblaikner.at
+hello.heroku.com
 hello.myfonts.net
 helpshift.com
 heraldm.com
@@ -2403,6 +2418,7 @@ leadboltmobile.net
 leadpages.net
 leakreality.com
 leanplum.com
+learn.cisecurity.org
 lelibrair.fr
 levada.ru
 levelstate.xyz
@@ -2484,6 +2500,7 @@ lulz.com
 lvbet.pl
 lxcdn.dl.files.xiaomi.net
 lycos.com
+m.blackberry.com
 m.bss.pandora.xiaomi.com
 m.cnbeta.com
 m.exactag.com
@@ -2933,6 +2950,7 @@ outbrain.com
 outbrain.com.edgekey.net
 outobox.net
 overture.com
+owensoundhub.org
 owlcarousel2.github.io
 ox.ac.uk
 ozy.com
@@ -2973,6 +2991,7 @@ partycasino.com
 partypoker.com
 pass.1688.com
 passport.baidu.com
+pastie.org
 patatap.com
 pavv.co.kr
 payeer.com
@@ -3093,7 +3112,6 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 preferences.truste.com
-premium57.web-hosting.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com
@@ -4233,13 +4251,17 @@ wurfl.io
 www-googletagmanager.l.google.com
 www-search.info
 www1.2giga.link
+www1.amnhealthcare.com
 www2.2giga.link
 www2.pardot.com
+www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.webhostingtalk.com
 www4.cbox.ws
+www4.orangecyberdefense.com
 www5.2giga.link
+www5.untangle.com
 www6.2giga.link
 www6.cbox.ws
 www7.2giga.link
