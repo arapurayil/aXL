@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 May 2022 08:08:12 UTC
+# Last modified: 03 May 2022 16:08:15 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -669,7 +669,6 @@ arstechnica.com
 art19.com
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
-asobanca.com.ve
 assets-secure.applicaster.com
 assets.adobedtm.com
 assets.dwell.com
@@ -1009,6 +1008,7 @@ cdns.gigya.com
 cdns.us1.gigya.com
 cdnstatic.detik.com
 cds.j3z9t3p6.hwcdn.net
+cds.m7s4v7n6.hwcdn.net
 cdurable.info
 cec.ro
 cedexis.com
@@ -1354,6 +1354,7 @@ device-provisioning.googleapis.com
 device.marketingcloudapis.com
 devices.carnivalmobile.com
 dfrs12kz9qye2.cloudfront.net
+dg.k.jd.com
 dgit.com
 dgkytklfjrqkb.cloudfront.net
 dhgate.com
@@ -2723,7 +2724,6 @@ msh.amazon.co.uk
 msh.amazon.com
 mssl.fwmrm.net
 mstdn.social
-msuac.edu.mn
 multiscreen.samsung.com
 multiscreensite.com
 multiview.com
@@ -3277,6 +3277,7 @@ returnpath.com
 returnpath.net
 revcontent.com
 revmob.com
+rewardsprod.trafficmanager.net
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
@@ -3334,7 +3335,6 @@ s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
-s3.us-east-1.wasabisys.com
 s3.wasabisys.com
 s7.addthis.com
 s7.orientaltrading.com
