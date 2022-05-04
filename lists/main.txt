@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.03
-# Last modified: 03 May 2022 16:08:15 UTC
+# Version: 3.05.04
+# Last modified: 04 May 2022 00:29:19 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5863,6 +5863,7 @@ cdp.cloud.unity3d.com
 cds.csx.sony.com
 cds.d2s7q6s2.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
+cds.m7s4v7n6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
 cdurable.info
 cdx.cedexis.net
@@ -7880,6 +7881,7 @@ dfnews.rdtuijian.com
 dfrs12kz9qye2.cloudfront.net
 dft.ba
 dftp.flowplayer.com
+dg.k.jd.com
 dgip.go.id
 dgit.com
 dgkytklfjrqkb.cloudfront.net
@@ -16655,7 +16657,6 @@ msport.gov.pl
 mss-offermgmt.modpim.com
 mssl.fwmrm.net
 mstdn.social
-msuac.edu.mn
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -20489,6 +20490,7 @@ revmob.com
 revolut.com
 revue.com
 rewards.xbox.com
+rewardsprod.trafficmanager.net
 rexdl.com
 reyaphastanesi.com.tr
 rfcu.com
@@ -20914,7 +20916,6 @@ s3.me-south-1.amazonaws.com
 s3.sa-east-1.amazonaws.com
 s3.symcb.com
 s3.us-east-1.amazonaws.com
-s3.us-east-1.wasabisys.com
 s3.us-east-2.amazonaws.com
 s3.us-west-1.amazonaws.com
 s3.us-west-2.amazonaws.com

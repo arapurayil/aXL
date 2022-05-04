@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 May 2022 16:08:15 UTC
+# Last modified: 04 May 2022 00:29:19 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -467,7 +467,6 @@ agoramedia.com
 ahd.ruten.com.tw
 ahinsashoes.cz
 ai.yimg.jp
-aic-ngfts.lge.com
 aii.sh
 aimatch.com
 airbrake.io
@@ -486,7 +485,6 @@ alepuniv.edu.sy
 alexa.com
 algolia.com
 alibaba.tanx.com
-alicdn.com
 alimama.com
 alipromo.com
 alitems.com
@@ -558,7 +556,6 @@ api.demandbase.com
 api.device.xiaomi.net
 api.elasticemail.com
 api.engager.ecbsn.com
-api.euro.hismarttv.com
 api.facebook.com
 api.foursquare.com
 api.groupon.com
@@ -594,7 +591,6 @@ api.toptenreviews.com
 api.traq.li
 api.tw06.xlmc.sec.miui.com
 api.uca.cloud.unity3d.com
-api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
 api.viafoura.co
@@ -755,7 +751,6 @@ baremetrics.com
 bat.bing.com
 batch.com
 bbin.ru
-bblck.me
 bbraunusa.com
 bbs.game.xiaomi.com
 bc.marfeel.com
@@ -1285,7 +1280,6 @@ d3d6wi7c7pa6m0.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3i1asoswufp5k.cloudfront.net
 d3l4qa0kmel7is.cloudfront.net
-d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 d5ou3dytze6uf.cloudfront.net
@@ -1526,6 +1520,7 @@ estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
 etahub.com
+ethhex.com
 ethn.io
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -1805,7 +1800,6 @@ getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
 gh.ffshrine.org
-ghash.io
 ghosthis.review
 gia.jd.com
 gigatribe.com
@@ -1928,7 +1922,6 @@ hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
-hbbtv.3sat.de
 hbbtv.kabeleins.de
 hbbtv.mediaset.net
 hbbtv.prosieben.de
@@ -1937,7 +1930,6 @@ hbbtv.redbutton.de
 hbbtv.rtl2.de
 hbbtv.sat1.de
 hbbtv.sixx.de
-hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
@@ -2333,7 +2325,6 @@ js.driftt.com
 js.gleam.io
 js.hs-scripts.com
 js.indexww.com
-js.intercomcdn.com
 js.maxmind.com
 js.monitor.azure.com
 js.pusher.com
@@ -2405,7 +2396,6 @@ lads.myspacecdn.com
 lapauseyogachaud.com
 larati.net
 lasagneandands.com
-launcher.spot.im
 launches.appsflyer.com
 laureus.com
 lb.production-public.tubi.io
@@ -2543,7 +2533,6 @@ management.azure.com
 manga-news.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
-manifest.auditude.com
 mantruckandbus.com
 map.baidu.com
 map.qq.com
@@ -2558,7 +2547,6 @@ mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
 marketing.net.idealo-partner.com
-marketing.tllms.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
 marketingprofs.com
@@ -2567,7 +2555,6 @@ markitondemand.com
 markmonitor.com
 maropost.com
 marsflag.com
-mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
 matchinguu.com
 matomo.org
@@ -2671,7 +2658,6 @@ mobile-dssf-prod.cmtelematics.com
 mobile-log-dgig.cmtelematics.com
 mobile-log-dssf-prod.cmtelematics.com
 mobile-log.cmtelematics.com
-mobile-sdk-api.intercom.io
 mobile.anycast.adnxs.com
 mobile.bet365.com
 mobile.cmtelematics.com
@@ -2710,7 +2696,6 @@ mparticle.map.fastly.net
 mplxtms.com
 mpsnare.iesnare.com
 mql5.com
-mqtt-mini.facebook.com
 mrgugu.com
 mrzikj.com
 msdk.qq.com
@@ -2720,7 +2705,6 @@ msftncsi.com
 msg2.client.xunlei.com
 msgfocus.com
 msgs.jp
-msh.amazon.co.uk
 msh.amazon.com
 mssl.fwmrm.net
 mstdn.social
@@ -2767,7 +2751,6 @@ nebula-collector.huawei.com
 neemu.com
 neobux.com
 net-s.pl
-net.etrality.com
 netc.sfr.fr
 netcore.co.in
 netcoresmartech.com
@@ -2828,7 +2811,6 @@ nova-collector-1192479543.us-east-1.elb.amazonaws.com
 nova.collect.igodigital.com
 now.eloqua.com
 nozonenet.com
-npdl.cdn.nintendowifi.net
 npttech.com
 nq.st
 nr-data.net
@@ -2838,7 +2820,6 @@ ns11.whois.co.kr
 nsimg.net
 nstarbank.com
 nsupdate.info
-nsx.np.dl.playstation.net
 ntdtv.com
 ntv.io
 nudatasecurity.com
@@ -2954,7 +2935,6 @@ owensoundhub.org
 owlcarousel2.github.io
 ox.ac.uk
 ozy.com
-p-hbbtv.superrtl.de
 p.d.0emn.com
 p.d.0fmm.com
 p.d.0mme.com
@@ -2988,7 +2968,6 @@ partners.etoro.com
 partners.salesforce.com
 partners.webmasterplan.com
 partycasino.com
-partypoker.com
 pass.1688.com
 passport.baidu.com
 pastie.org
@@ -3112,6 +3091,7 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 preferences.truste.com
+premium57.web-hosting.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com
@@ -3499,7 +3479,6 @@ sgqcvfjvr.onet.pl
 sgsnssdk.com
 sgsnssdk.com.edgekey.net
 sh.st
-shafa.ua
 share.dmca.gripe
 shareaholic.com
 shareasale.com
@@ -3550,7 +3529,6 @@ smart.link
 smartadserver.com
 smartasset.com
 smartclip.net
-smartklick.biz
 smartlook.com
 smartplugin.youbora.com
 smartredirect.de
@@ -3600,7 +3578,6 @@ spade.twitch.tv
 spamhaus.net
 spankwire.com
 spclient.wg.spotify.com
-speedcheck.org
 sphdigital.com
 sphosp.com
 spl.hit.gemius.pl
@@ -3696,7 +3673,6 @@ stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
-store.minisforum.de
 store.qq.com
 storeconfig.mistat.intl.xiaomi.com
 stormap.sapo.pt
@@ -3823,7 +3799,6 @@ test.quantcast.mgr.consensu.org
 texashomebase.com
 thaiticketmajor.com
 thealtening.com
-theannoyingsite.com
 thebestoffersintheweb.com
 thebrighttag.com
 thecounter.com
@@ -3937,7 +3912,6 @@ treehousei.com
 trial.api.huangye.miui.com
 trialpay.com
 trib.al
-tribdss.com
 tripolis.com
 tritondigital.com
 trk.email.dynect.net
@@ -4038,9 +4012,7 @@ us-v20.events.data.microsoft.com
 us.ad.lgsmartad.com
 us.find.api.micloud.xiaomi.net
 us.i1.yimg.com
-us.ibs.lgappstv.com
 us.info.lgsmartad.com
-us.rdx2.lgtvsdp.com
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
@@ -4307,7 +4279,6 @@ yandex.st
 yap.yahoo.com
 ydstatic.com
 yessearches.com
-yeswegays.com
 yi.org
 yimg.com
 ykrec.youku.com
