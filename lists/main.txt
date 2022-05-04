@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.04
-# Last modified: 04 May 2022 00:29:19 UTC
+# Last modified: 04 May 2022 08:08:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1255,7 +1255,6 @@ ahwatukeecommonsveterinaryhospital.vetsuite.com
 ai.ly
 ai.yimg.jp
 aib.ie
-aic-ngfts.lge.com
 aicdn.com
 aicp-rom.com
 aids.gov
@@ -2456,7 +2455,6 @@ api.engager.ecbsn.com
 api.entrance.sonymobile.com
 api.erabu.sony.tv
 api.erabu.sonymobile.com
-api.euro.hismarttv.com
 api.exchange.coinbase.com
 api.facebook.com
 api.fast.com
@@ -2624,7 +2622,6 @@ api.uaq.xiaomi.net
 api.uca.cloud.unity3d.com
 api.unsplash.com
 api.urbandictionary.com
-api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
 api.vc.bilibili.com
@@ -4041,7 +4038,6 @@ bbi.co.im
 bbin.ru
 bbl.be
 bbl.co.th
-bblck.me
 bblinz.at
 bbobank.ch
 bbr.ru
@@ -7472,7 +7468,6 @@ d3dy5gmtp8yhk7.cloudfront.net
 d3i1asoswufp5k.cloudfront.net
 d3l4qa0kmel7is.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
-d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4.me
 d4f.de
@@ -9113,6 +9108,7 @@ eteba.ro
 etebac.com
 etf.com
 ethermine.org
+ethhex.com
 ethias-banque.be
 ethikbank-onlinebanking.de
 ethikbank.de
@@ -15614,7 +15610,6 @@ marvel.com
 marx.libcom.org
 maryvalehospital.com
 mas-ext.amazon.com
-mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
 mas.gov.sg
 mas.sv
@@ -16408,7 +16403,6 @@ mobile-dssf-prod.cmtelematics.com
 mobile-log-dgig.cmtelematics.com
 mobile-log-dssf-prod.cmtelematics.com
 mobile-log.cmtelematics.com
-mobile-sdk-api.intercom.io
 mobile-update.bithumb.com
 mobile.anycast.adnxs.com
 mobile.bet365.com
@@ -16641,7 +16635,6 @@ msg.yahoo.com
 msg2.client.xunlei.com
 msgfocus.com
 msgs.jp
-msh.amazon.co.uk
 msh.amazon.com
 msha.gov
 msit.powerbi.com
@@ -17121,7 +17114,6 @@ nest.com
 net-s.pl
 net.au
 net.edgekey.net
-net.etrality.com
 net.kentbank.hr
 net.ms
 net.pnb.com
@@ -17534,7 +17526,6 @@ nowtheendbegins.com
 nozonenet.com
 np.reddit.com
 npage.de
-npdl.cdn.nintendowifi.net
 nphone.daum.net
 npmcdn.com
 npmjs.com
@@ -18590,7 +18581,6 @@ partyface.de
 partyflock.nl
 partypeeps2000.com
 partypeople.at
-partypoker.com
 partyshooters.de
 pasche.li
 pashabank.az
@@ -19331,6 +19321,7 @@ premierbnk.com
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
+premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
@@ -21730,7 +21721,6 @@ sh.st
 sh.wagbridge.taobao.com.gds.alibabadns.com
 shacknews.com
 shacombank.com.hk
-shafa.ua
 shaken.rakuten.co.jp
 shalbyhospital.org
 shalla.byethost12.com
@@ -22082,7 +22072,6 @@ smartbank.ru
 smartclip.net
 smartel.co.nz
 smartgit.userecho.com
-smartklick.biz
 smartlinks.intuit.com
 smartlock.google.com
 smartlook.com
@@ -22713,7 +22702,6 @@ spectre.twitch.tv
 spectrocoin.com
 speed4up.com
 speedbit.com
-speedcheck.org
 speednames.com
 speedof.me
 speedport.ip
@@ -23404,7 +23392,6 @@ store.hide.me
 store.kaspersky.com
 store.lg.com
 store.line.me
-store.minisforum.de
 store.mozilla.org
 store.naver.com
 store.nvidia.com
@@ -24100,7 +24087,6 @@ the1st.com
 thealtening.com
 theandroidsoul.com
 theanimalmedicalhospital.com
-theannoyingsite.com
 theasianbank.com
 theatlantic.com
 thebancorp.com
@@ -25187,7 +25173,6 @@ us.hide.me
 us.hsbc.com
 us.i.mi.com
 us.i1.yimg.com
-us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.kaspersky.com
 us.lgtvsdp.com
@@ -25204,7 +25189,6 @@ us.phonecallapi.micloud.xiaomi.net
 us.pipe.aria.microsoft.com
 us.playstation.com
 us.pool.ntp.org
-us.rdx2.lgtvsdp.com
 us.sfsapi.micloud.xiaomi.net
 us.smsapi.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
@@ -27324,7 +27308,6 @@ yep.it
 yerl.org
 yesbank.in
 yessearches.com
-yeswegays.com
 yetti.be
 yhd.com
 yi.org

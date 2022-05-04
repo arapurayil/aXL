@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 May 2022 00:29:19 UTC
+# Last modified: 04 May 2022 08:08:04 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -751,7 +751,6 @@ baremetrics.com
 bat.bing.com
 batch.com
 bbin.ru
-bbraunusa.com
 bbs.game.xiaomi.com
 bc.marfeel.com
 bc.marfeelcache.com
@@ -1715,7 +1714,6 @@ freeroms.com
 freesteamkeys.com
 freewha.com
 freewheel-mtgx-tv.akamaized.net
-fresenius-kabi.com
 friendbuy.com
 frontier.musical.ly
 fs.microsoft.com
@@ -2533,7 +2531,6 @@ management.azure.com
 manga-news.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
-mantruckandbus.com
 map.baidu.com
 map.qq.com
 maps.locuslabs.com
@@ -2778,7 +2775,6 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nfscars.net
 ngfts.lge.com
-ngg.net
 ngrok.io
 nhaxequanghuy.com
 nibis.de
