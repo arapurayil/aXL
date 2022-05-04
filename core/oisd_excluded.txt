@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 May 2022 08:08:04 UTC
+# Last modified: 04 May 2022 16:07:05 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -51,7 +51,6 @@
 7zap.com
 881903.com
 888poker.com
-8k.com
 91mobiles.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
@@ -738,7 +737,6 @@ backstage.taboola.com
 backtrack-linux.org
 badge.stumbleupon.com
 badoink.com
-balajihospital.net
 bam-x.com
 bam.eu01.nr-data.net
 bam.nr-data.net
@@ -820,7 +818,6 @@ bots.io
 bountysource.com
 bp01.net
 bpmonline.com
-br4.in
 brahe.apptimize.com
 brakrock.be
 branch.io
@@ -844,7 +841,6 @@ bs.to
 bss.pandora.xiaomi.com
 bsv.atm.youku.com
 btg.mtvnservices.com
-btguard.com
 btstatic.com
 bttn.io
 budurl.com
@@ -1096,7 +1092,6 @@ clouddn.com
 cloudflareinsights.com
 cloudinary.com
 cloudservices.roku.com
-club.quomodo.com
 cm.miaozhen.atm.youku.com
 cmcm.com
 cmicapui.ce.gov.br
@@ -1708,7 +1703,6 @@ free.fr
 freebitco.in
 freegeoip.app
 freegeoip.net
-freenom.link
 freeresultsguide.com
 freeroms.com
 freesteamkeys.com
@@ -1845,7 +1839,6 @@ godly.website
 gokano.com
 goldbach.com
 goliath.bi.miniclippt.com
-goo-gl.me
 gooddata.com
 goodolddownloads.com
 google-analytics.com
@@ -2626,7 +2619,6 @@ mimgnews.pstatic.net
 mindtake.com
 mindvalley.com
 minecraftprod.rtep.msgamestudios.com
-minepi.com
 minergate.com
 minexmr.com
 miningpoolhub.com
@@ -2722,7 +2714,6 @@ myapp.com
 mybannermaker.com
 mybbc-analytics.files.bbci.co.uk
 mycouponizemac.com
-mysearch-engine.net
 mysearch.com
 mystats.com
 myvisualiq.net
@@ -2743,7 +2734,6 @@ nav.browser.miui.com
 navitime.co.jp
 naytev.com
 ndirect.ppro.de
-ndmdhs.com
 nebula-collector.huawei.com
 neemu.com
 neobux.com
@@ -2829,8 +2819,8 @@ o.ss2.us
 o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
-oa.zalo.me
 oasjs.kataweb.it
+objectstorage.eu-milan-1.oraclecloud.com
 obviousidea.com
 ocsp.apple.com
 ocsp.comodoca.com
@@ -2866,7 +2856,6 @@ okyesmobi.com
 olmprodpowerlift-cdn.azureedge.net
 oload.cloud
 oload.tv
-olymptrade.com
 om.cbsi.com
 om.forgeofempires.com
 om.symantec.com
@@ -2972,7 +2961,6 @@ pavv.co.kr
 payeer.com
 paypal-carregamento.pt
 paypal-customerfeedback.com
-paypal-opladen.be
 pbsiddhartha.ac.in
 pcekspert.com
 pcrisk.com
@@ -3829,7 +3817,6 @@ tms-st.cdn.ngenix.net
 tns-sifo.se
 toboganantiques.com
 todhamilton.pro
-token.im
 token.safebrowsing.apple
 tollfreeforwarding.com
 tom.itv.com
@@ -3977,7 +3964,6 @@ unionbanknig.com
 uniregistry.com
 unisdk.update.easebar.com
 unitedbike.com
-unitspybookukset.org
 unity.com
 unity3d.com
 universalsearches.com

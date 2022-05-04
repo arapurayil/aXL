@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.04
-# Last modified: 04 May 2022 08:08:05 UTC
+# Last modified: 04 May 2022 16:07:06 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4041,7 +4041,6 @@ bbl.co.th
 bblinz.at
 bbobank.ch
 bbr.ru
-bbraunusa.com
 bbs.archlinux.org
 bbs.game.xiaomi.com
 bbs.pcbeta.com
@@ -17298,7 +17297,6 @@ nfrcom.com
 nfscars.net
 nga.gov
 ngfts.lge.com
-ngg.net
 ngi.it
 nginx.org
 ngrok.io
