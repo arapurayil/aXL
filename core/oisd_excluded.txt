@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 May 2022 08:08:11 UTC
+# Last modified: 05 May 2022 16:07:11 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -3302,6 +3302,7 @@ s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
+s3.us-east-1.wasabisys.com
 s3.wasabisys.com
 s7.addthis.com
 s7.orientaltrading.com
