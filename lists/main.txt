@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.04
-# Last modified: 04 May 2022 16:07:06 UTC
+# Version: 3.05.05
+# Last modified: 05 May 2022 00:29:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -350,7 +350,6 @@
 881903.com
 888poker.com
 8ch.net
-8k.com
 8k.ro
 8pecxstudios.com
 8u.cz
@@ -5001,7 +5000,6 @@ btconnect.com
 btg.mtvnservices.com
 btgpactual.com
 btgpactualdigital.com.br
-btguard.com
 btinternet.com
 btm.co.jp
 btn.co.id
@@ -6530,7 +6528,6 @@ clova-blog.line.me
 clova.line.me
 clu.sonymobile.com
 club.huawei.com
-club.quomodo.com
 clubedohardware.com.br
 clublesbi.com
 clubpenguin.com
@@ -16231,7 +16228,6 @@ mine.nu
 minecraft.cryptopia.co.nz
 minecraftprod.rtep.msgamestudios.com
 mineolabank.com
-minepi.com
 minergate.com
 minershospital.com
 mineshaft1.cryptopia.co.nz
@@ -16866,7 +16862,6 @@ myprops.org
 myprovident.com
 myqcloud.com
 myra.gov
-mysearch-engine.net
 mysearch.com
 myservice.xbox.com
 myshared.ru
@@ -17085,7 +17080,6 @@ ncu.ca
 ndba.com
 ndbbankonline.com
 ndirect.ppro.de
-ndmdhs.com
 ndrive.naver.com
 ndtv.com
 ne-derbyshire.gov.uk
@@ -17712,7 +17706,6 @@ o3.email.flipboard.com
 o6.email.flipboard.com
 o7.email.flipboard.com
 o8.email.flipboard.com
-oa.zalo.me
 oakf.com
 oaklawnbank.com
 oakparkhospital.org
@@ -17738,6 +17731,7 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
+objectstorage.eu-milan-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
 oboom.com
@@ -18690,7 +18684,6 @@ paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
 paypal-nakit.com
-paypal-opladen.be
 paypal-topup.ee
 paypal.boomkat.com
 paypal.ca
@@ -24334,7 +24327,6 @@ tohle.de
 token-dispenser-mirror.herokuapp.com
 token-dispenser.duckdns.org
 token-dispenser.herokuapp.com
-token.im
 token.safebrowsing.apple
 token.services.mozilla.com
 tokenization.api.playstation.com
@@ -24989,7 +24981,6 @@ unitedsecuritybank.com
 unitedstates.smartscreen-prod.microsoft.com
 unitedtrust.com
 unitpay.ru
-unitspybookukset.org
 unity.com
 unity3d.com
 unitybank.com

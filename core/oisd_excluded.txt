@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 May 2022 16:07:05 UTC
+# Last modified: 05 May 2022 00:29:09 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -487,6 +487,7 @@ alibaba.tanx.com
 alimama.com
 alipromo.com
 alitems.com
+alitems.site
 alluremedia.com.au
 alpari.ru
 alphadomus.co.nz
@@ -1148,6 +1149,7 @@ consent.cookiebot.com
 consent.faz.net
 consent.truste.com
 consentmanager.mgr.consensu.org
+consentmanager.net
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.awaze.com
@@ -1329,6 +1331,8 @@ delivery04.dhe.ibm.com
 delta-search.com
 demandbase.com
 demdex.net
+demo.hitbtc.com
+deskpi.com
 detectvid.com
 dev-multiscreen.samsung.com
 dev.appboy.com
@@ -1977,7 +1981,6 @@ hotspotshield.com
 howsmyssl.com
 howtofix.guide
 hpg.com.br
-href.li
 hs-scripts.com
 hs-sites.com
 hs.eloqua.com
@@ -3508,6 +3511,7 @@ sleeknotecustomerscripts.sleeknote.com
 slimpuls.nl
 sls.update.microsoft.com.akadns.net
 sludini.lv
+slushpool.com
 smallseotools.com
 smart.link
 smartadserver.com
