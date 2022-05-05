@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.05
-# Last modified: 05 May 2022 00:29:10 UTC
+# Last modified: 05 May 2022 08:08:12 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1422,6 +1422,7 @@ alipay.com
 alipayobjects.com
 alipromo.com
 alitems.com
+alitems.site
 alivenotdead.de
 aliyun.com
 aliyuncs.com
@@ -6901,6 +6902,7 @@ consent.google.nl
 consent.trustarc.com
 consent.truste.com
 consentmanager.mgr.consensu.org
+consentmanager.net
 consilnet.com
 console.cloud.google.com
 consorsbank.de
@@ -7765,6 +7767,7 @@ desi-mag.com
 design.www.huffingtonpost.com
 designcarthosting.com
 desjardins.com
+deskpi.com
 desktop-data.sonymobile.com
 desktop.github.com
 desktop.google.com
