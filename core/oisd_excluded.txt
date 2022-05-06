@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 May 2022 08:09:13 UTC
+# Last modified: 06 May 2022 16:06:59 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -444,7 +444,6 @@ adverigo.com
 advertisement.tanx.com
 advertising-module.api.dpgmedia.cloud
 advertising.com
-advil.waze.com
 adwords.google.com
 adzerk.com
 adzerk.net
@@ -863,7 +862,6 @@ c.live.com
 c.msn.com
 c.paypal.com
 c.sayhi.360.cn
-c.singular.net
 c.tadst.com
 c.woopic.com
 c.xkcd.com
@@ -881,7 +879,6 @@ campaign.adobe.com
 campaignmonitor.com
 canadapharmacy.com
 capebretonpost.com
-captive.roku.com
 carbonads.net
 casalemedia.com.edgekey.net
 casino.com
@@ -980,8 +977,6 @@ cdngarenanow-a.akamaihd.net
 cdns.gigya.com
 cdns.us1.gigya.com
 cdnstatic.detik.com
-cds.j3z9t3p6.hwcdn.net
-cds.m7s4v7n6.hwcdn.net
 cdurable.info
 cec.ro
 cedexis.com
@@ -1041,7 +1036,6 @@ click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
-click.trafficguard.ai
 clickbank.com
 clickcease.com
 clickdimensions.com
@@ -1309,7 +1303,6 @@ delivery04.dhe.ibm.com
 delta-search.com
 demandbase.com
 demdex.net
-deskpi.com
 detectvid.com
 dev-multiscreen.samsung.com
 dev.appboy.com
@@ -1395,7 +1388,6 @@ dsms0mj1bbhn4.cloudfront.net
 dsp.brand.sogou.com
 dspultra.com
 dt51.net
-dualstack.com.imgix.map.fastly.net
 duckdns.org
 durasite.net
 dv2m1uumnsgtu.cloudfront.net
@@ -1413,7 +1405,6 @@ dynu.com
 dzc-metrics.mzstatic.com
 e.imguol.com
 e.reddit.com
-e1151.e12.akamaiedge.net
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 e7876.dscg.akamaiedge.net
 ea.galerieslafayette.com
@@ -1629,7 +1620,6 @@ fls-na.amazon.com.br
 fls-na.amazon.com.mx
 flurry.com
 flx1.com
-flyertown.ca
 fmcurling.org
 fonecta.fi
 fontanka.ru
@@ -1953,7 +1943,6 @@ hugedomains.com
 humanpresence.app
 huodong.xiaomi.com
 huosai.xiaomi.com
-hwcdn.net
 hxtrack.com
 hybridclient.naiadsystems.com
 hydracdn.network
@@ -2185,7 +2174,6 @@ installtrk.com
 instana.io
 instant.page
 instapage.com
-intel11.edgekey.net
 intelliad.de
 intercom.com
 internal.unity3d.com
@@ -2275,7 +2263,6 @@ js.pusher.com
 js.stripe.com
 js.taplytics.com
 jssdks.mparticle.com
-jumia.com.ng
 justanswer.com
 juvander.net
 jwpcdn.com
@@ -2388,7 +2375,6 @@ liveinternet.ru
 livepassdl.conviva.com
 liveperson.com
 liveperson.net
-liveramp.com
 livetex.ru
 liveupdate.mac.sandai.net
 llnwd.net
@@ -2709,7 +2695,6 @@ ngfts.lge.com
 ngrok.io
 nhaxequanghuy.com
 nibis.de
-nic.ad.jp
 nicequest.com
 nicesearches.com
 nil.naver.com
@@ -3161,7 +3146,6 @@ response.unity3d.com
 responsys.net
 restapi.amap.com
 return.to
-returnpath.com
 returnpath.net
 revcontent.com
 revmob.com
@@ -3222,14 +3206,12 @@ s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3.us-east-1.wasabisys.com
-s3.wasabisys.com
 s7.addthis.com
 s7.orientaltrading.com
 s8.addthis.com
 sa.api.intl.miui.com
 sa.bbc.co.uk
 saa.cbsi.com
-saavn.com
 sabre.com
 sadmin.brightcove.com
 safe-browsing-quorum.cliqz.com
@@ -3350,7 +3332,6 @@ semnaniau.ac.ir
 semrush.com
 sendfwd.com
 sensic.net
-sentry.io
 seo.spot.im
 seqent.com
 serials.ws
@@ -3471,7 +3452,6 @@ soundofhope.org
 sourcepoint.mgr.consensu.org
 sp-seller.webkul.com
 sp.naver.com
-spacex.map.fastly.net
 spade.twitch.tv
 spamhaus.net
 spankwire.com
@@ -3480,14 +3460,12 @@ sphdigital.com
 sphosp.com
 spl.hit.gemius.pl
 split.to
-sportsinteraction.com
 spot.im
 spotops.spot.im
 sqimg.qq.com
 srvcs.tumblr.com
 srvtrck.com
 ss.phncdn.com
-ssl-bbcsmarttv.2cnt.net
 ssl-cdn.static.browser.mi-img.com
 ssl-nl.persgroep.edgekey.net
 ssl.google-analytics.com
@@ -3503,7 +3481,6 @@ sspapi-prd.samsungrs.com
 sstats.adobe.com
 sstats.economist.com
 staatenlos.ch
-stackpath.bootstrapcdn.com
 stackpathdns.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
@@ -3728,7 +3705,6 @@ tmearn.com
 tms-st.cdn.ngenix.net
 toboganantiques.com
 todhamilton.pro
-token.safebrowsing.apple
 tollfreeforwarding.com
 tom.itv.com
 toolbar.google.com
@@ -3767,11 +3743,8 @@ tracker.idocdn.com
 tracker.ktxp.com
 tracker.marinsm.com
 tracker.mg64.net
-tracker.opentrackr.org
 tracker.pomf.se
-tracker.tfile.me
 tracker.trackerfix.com
-tracker.tvnihon.com
 tracking.bol.com
 tracking.bp01.net
 tracking.deepsearch.adlucent.com
@@ -3780,10 +3753,8 @@ tracking.i2w.io
 tracking.lengow.com
 tracking.magnetmail.net
 tracking.nw.de
-tracking.post.japanpost.jp
 tracking.publicidees.com
 tracking.s24.com
-tracking.socketlabs.com
 tracking.surveycheck.com
 tracking.truthfinder.com
 trackjs.com
@@ -3861,7 +3832,6 @@ ulmwp.org
 umdc.aliapp.org
 umeng.com
 umwatsonc.events.data.microsoft.com
-unagi-na.amazon.com
 unagi.amazon.com
 unbi.ba
 unbounce.com
@@ -4086,7 +4056,6 @@ wootric.com
 wootric.com.herokudns.com
 wordstream.com
 workona.com
-world-gen.g.aaplimg.com
 worldnow.com
 worldssl.net
 wp-stat.s3.amazonaws.com
