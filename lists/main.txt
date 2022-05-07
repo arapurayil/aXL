@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.07
-# Last modified: 07 May 2022 08:08:16 UTC
+# Last modified: 07 May 2022 16:06:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4425,6 +4425,7 @@ bitbucket.org
 bitcheese.net
 bitcoin.com
 bitcoin.de
+bitcoin.jonasschnelli.ch
 bitcoin.org
 bitfinex.com
 bitfury.com
@@ -18413,6 +18414,7 @@ pagefair.com
 pages.ebay.com
 pages.em.funimation.com
 pages.engage.xbox.com
+pages.info.exclusive-networks.com
 pages.soundcloud.com
 pages.status.xbox.com
 pages.typekit.com
@@ -21814,6 +21816,7 @@ simplelogin.co
 simplepay.hu
 simpleswap.io
 simpletax.ca
+simpliftsbefore.info
 simplii.com
 simply.com
 simplyhired.com
@@ -22075,6 +22078,7 @@ snbenid.com
 snbonline.com
 sndcdn.com
 sndi.net
+sneakerfreaker.com
 snerpa.is
 snet.de
 snet.gob.sv
@@ -25453,6 +25457,7 @@ ve1.provinet.net
 veb.ru
 vectorizer.io
 vectorstock.com
+veeva.com
 velaro.com
 velocityisp.com
 vendorlist.consensu.org
