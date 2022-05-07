@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.07
-# Last modified: 07 May 2022 00:27:04 UTC
+# Last modified: 07 May 2022 08:08:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2223,7 +2223,6 @@ anelik.ru
 anexia-it.com
 angel.co
 angelfire.com
-angi.com
 angloirishbank.com
 angolotesti.it
 angryip.org
@@ -3968,6 +3967,7 @@ barretthospital.org
 barrhavenvethospital.ca
 barrieanimalhospital.com
 barringtonbank.com
+barstoolsports.com
 bartletthospital.org
 bartowcountybank.com
 bas-info.ch
@@ -4084,7 +4084,6 @@ bccr.fi.cr
 bccroscigno.it
 bccsanmarzano.it
 bccsanteramo.it
-bccto.me
 bcctriuggio.it
 bce.baidu.com
 bce.fin.ec
@@ -4947,7 +4946,6 @@ brzu.net
 bs-bank.ch
 bs.gravatar.com
 bs.serving-sys.com
-bs.to
 bsa.org.uk
 bsb.by
 bsbbank.com
@@ -5038,7 +5036,6 @@ bulldogdsl.com
 bulletin.plus.google.com
 bundesbank.de
 bundles.api.here.com
-bunk.at
 bunkus.org
 bunq.app
 bunq.com
@@ -12597,7 +12594,6 @@ ic.vitabank.spb.ru
 ic.zhilcredit.ru
 ic3.events.data.microsoft.com
 icabanken.se
-icam.fr
 icampus.nl
 icanhazip.com
 icann.org
@@ -14075,7 +14071,6 @@ kingstonnationalbank.com
 kinja-debug.firebaseio.com
 kinja-static.com
 kinja.com
-kinox.to
 kipling90.com
 kirbyhospital.org
 kishbank.com
@@ -15213,7 +15208,6 @@ lsbank.com
 lsbbancshares.com
 lsbdirect.com
 lsbnc.com
-lsmu.com
 lsta.org
 lt-in-f14.1e100.net
 lt-in-f26.1e100.net
@@ -15347,7 +15341,6 @@ maibanu.com
 mail-attachment.googleusercontent.com
 mail-ve1eur020042.inbound.protection.outlook.com
 mail.163.com
-mail.bccto.me
 mail.bg
 mail.bithumb.com
 mail.breitbart.com
@@ -16745,7 +16738,6 @@ my.vudu.com
 my.ya.ru
 my1login.com
 my3gb.com
-myabandonware.com
 myaccount.nytimes.com
 myaccount.payoneer.com
 myairbridge.com
@@ -19089,7 +19081,6 @@ pobladores.com
 pochta.ru
 pocketmath-cdn.com
 pocketnow.com
-poczta.pl
 podcasting.help.soundcloud.com
 podcasts.engadget.com
 podcasts.shiftyjelly.com.au
@@ -22878,7 +22869,6 @@ st.chatango.com
 st.hitbtc.com
 st.mycdn.me
 staalbankiers.nl
-staatenlos.ch
 stackdriver.googleapis.com
 stackexchange.com
 stackoverflow.com

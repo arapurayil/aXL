@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 May 2022 00:27:04 UTC
+# Last modified: 07 May 2022 08:08:16 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -769,6 +769,7 @@ bit.do
 bit.ly
 bitable.com
 bitcheese.net
+bitcoin.jonasschnelli.ch
 bitly.com
 bittersweetparis.com
 bizrate.com
@@ -2834,6 +2835,7 @@ pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagefair.com
+pages.info.exclusive-networks.com
 pages03.net
 pancakeswap.finance
 pandapush-iad-prod.inscloudgate.net
@@ -3359,6 +3361,7 @@ siftscience.com
 silktide.com
 simba.taobao.com
 simp.ly
+simpliftsbefore.info
 simply.com
 simplyhired.com
 sinajs.cn
@@ -3408,6 +3411,7 @@ snap.licdn.com
 snapads.com
 snapengage.com
 snat.goguardian.com
+sneakerfreaker.com
 sngpartners.in
 snrcdn.net
 snssdk.com
@@ -3440,7 +3444,6 @@ srvcs.tumblr.com
 srvtrck.com
 ss.phncdn.com
 ssl-cdn.static.browser.mi-img.com
-ssl-nl.persgroep.edgekey.net
 ssl.google-analytics.com
 ssl.kaptcha.com
 ssl.msdk.qq.com
@@ -3545,6 +3548,7 @@ supercell.net
 supersonido.es
 supplyframe.com
 support.2giga.link
+support.faucethub.io
 survey.foreseeresults.com
 surveyrouter.com
 surveys.insightexpressai.com
@@ -3890,6 +3894,7 @@ vcs.vdspf.com
 vd.l.qq.com
 vdterms.samsungcloudsolution.com
 vectorstock.com
+veeva.com
 velaro.com
 vendorlist.consensu.org
 vendorlist.dmcdn.net
