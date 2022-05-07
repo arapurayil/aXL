@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.06
-# Last modified: 06 May 2022 16:07:00 UTC
+# Version: 3.05.07
+# Last modified: 07 May 2022 00:27:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5147,7 +5147,6 @@ c.o0bc.com
 c.paypal.com
 c.s-microsoft.com
 c.sayhi.360.cn
-c.singular.net
 c.storage.googleapis.com
 c.t-online.de
 c.tadst.com
@@ -5333,7 +5332,6 @@ captcha.wechat.com
 captions.cloud.vimeo.com
 captivateprime.adobe.com
 captive.apple.com
-captive.roku.com
 captur.in
 caravan.ru
 carbonads.net
@@ -5842,7 +5840,6 @@ cdp.cloud.unity3d.com
 cds.csx.sony.com
 cds.d2s7q6s2.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
-cds.m7s4v7n6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
 cdurable.info
 cdx.cedexis.net
@@ -6369,7 +6366,6 @@ click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
-click.trafficguard.ai
 click.txn-email.playstation.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -7750,7 +7746,6 @@ desi-mag.com
 design.www.huffingtonpost.com
 designcarthosting.com
 desjardins.com
-deskpi.com
 desktop-data.sonymobile.com
 desktop.github.com
 desktop.google.com
@@ -8363,7 +8358,6 @@ dto.vakifbank.com.tr
 dts.podtrac.com
 dtv.gov
 du1gtm004.adobe.com
-dualstack.com.imgix.map.fastly.net
 dualstack.kayak.map.fastly.net
 duba.com
 dubuquebank.com
@@ -9955,7 +9949,6 @@ flurry.com
 flushingsavings.com
 flux.com
 flx1.com
-flyertown.ca
 fm-p.jp
 fm.tuba.pl
 fmb-ebank.com
@@ -13321,7 +13314,6 @@ integrabank.com
 integrabank.de
 integratives-gesundheitszentrum.de
 intel.com
-intel11.edgekey.net
 inteligo.pl
 intelink.gov
 intellectmoney.ru
@@ -14977,7 +14969,6 @@ livepages.nl
 livepassdl.conviva.com
 liveperson.com
 liveperson.net
-liveramp.com
 livestream.com
 livetex.ru
 livetile.hulu.com
@@ -20855,7 +20846,6 @@ s3.us-east-2.amazonaws.com
 s3.us-west-1.amazonaws.com
 s3.us-west-2.amazonaws.com
 s3.vuukle.com
-s3.wasabisys.com
 s3.wp.com
 s4.symcb.com
 s5.symcb.com
@@ -20879,7 +20869,6 @@ saarland-spion.de
 saarlb.de
 saarpfalz-kreis.de
 saastopankki.fi
-saavn.com
 saba.bankmelli-iran.com
 sabatiaeyehospital.org
 sabb.com
@@ -22275,7 +22264,6 @@ space2u.com
 spaceflightnow.com
 spaces.live.com
 spaces.ru
-spacex.map.fastly.net
 spadaka-friesoythe.de
 spadaka-hoengen.de
 spadaka-oeventrop.de
@@ -22756,7 +22744,6 @@ sports.dcinside.com
 sports.latimes.com
 sports.news.naver.com
 sports.yahoo.com
-sportsinteraction.com
 sportsmansguide.com
 sportsmedia.ign.com
 spot.im
@@ -22831,7 +22818,6 @@ sskborken.de
 sskduesseldorf.de
 sskm.de
 sskpw.de
-ssl-bbcsmarttv.2cnt.net
 ssl-ccstatic.highwebmedia.com
 ssl-cdn.static.browser.mi-img.com
 ssl-images-amazon.com
@@ -24387,9 +24373,7 @@ tracker.marinsm.com
 tracker.mg64.net
 tracker.opentrackr.org
 tracker.pomf.se
-tracker.tfile.me
 tracker.trackerfix.com
-tracker.tvnihon.com
 tracking-protection.cdn.mozilla.net
 tracking.bol.com
 tracking.bp01.net
@@ -24403,10 +24387,8 @@ tracking.lengow.com
 tracking.magnetmail.net
 tracking.miui.com
 tracking.nw.de
-tracking.post.japanpost.jp
 tracking.publicidees.com
 tracking.s24.com
-tracking.socketlabs.com
 tracking.surveycheck.com
 tracking.truthfinder.com
 trackingthetrackers.com

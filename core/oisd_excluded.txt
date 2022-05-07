@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 May 2022 16:06:59 UTC
+# Last modified: 07 May 2022 00:27:04 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -40,7 +40,6 @@
 4shared.com
 51.la
 5z8.info
-650dialup.com
 7.ly
 79423.analytics.edgekey.net
 79423.analytics.edgesuite.net
@@ -508,7 +507,6 @@ analytics.twitter.com
 android.bugly.qq.com
 androidtvwatsonfe-pa.googleapis.com
 anexia-it.com
-angi.com
 angolotesti.it
 anrdoezrs.net
 answerhub.com
@@ -734,6 +732,7 @@ bannerbank.com
 bannertrack.net
 barclaybanking.com
 baremetrics.com
+barstoolsports.com
 bat.bing.com
 batch.com
 bbin.ru
@@ -742,7 +741,6 @@ bc.marfeel.com
 bc.marfeelcache.com
 bc.vc
 bc0a.com
-bccto.me
 bce.baidu.com
 be.proximus.com
 beacon-fullpage-predictor.goguardian.com
@@ -823,7 +821,6 @@ browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bs.serving-sys.com
-bs.to
 bss.pandora.xiaomi.com
 bsv.atm.youku.com
 btg.mtvnservices.com
@@ -836,8 +833,6 @@ bugetul.ro
 bugly.qq.com
 bugsnag.com
 builder-assets.unbounce.com
-bunk.at
-burnermail.io
 business.opera.com
 buy.com
 buy.tinypass.com
@@ -878,7 +873,6 @@ campaign.abb.com
 campaign.adobe.com
 campaignmonitor.com
 canadapharmacy.com
-capebretonpost.com
 carbonads.net
 casalemedia.com.edgekey.net
 casino.com
@@ -1201,7 +1195,6 @@ curalate.com
 custom.plausible.io
 customer.io
 customerevents.netflix.com
-customnet.co.uk
 customtraffic.impactradius.com
 cutt.ly
 cwahi.net
@@ -1566,11 +1559,9 @@ fe02.lg.xiaomi.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 feature.fm
 feedblitz.com
-feedspot.com
 fembed.com
 femto.pw
 ffdns.net
-fide.com
 file.market.xiaomi.com
 filehorse.com
 files.constantcontact.com
@@ -1734,18 +1725,15 @@ get-express-vpn.com
 get.untangle.com
 get.x-link.pl
 getadmiral.com
-getairmail.com
 getalinkandshare.com
 getblueshift.com
 getdrip.com
-getnada.com
 getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
 gh.ffshrine.org
 ghosthis.review
 gia.jd.com
-gigatribe.com
 gigazine.asia
 gigya.com
 giqepofa.com
@@ -1842,7 +1830,6 @@ guardianapps.co.uk
 guce.advertising.com
 guce.huffingtonpost.co.uk
 guce.oath.com
-guerrillamail.com
 guidetopetersburg.com
 guitarforge.it
 gumtree.com
@@ -1970,7 +1957,6 @@ ib.anycast.adnxs.com
 ib.snssdk.com
 ib.snssdk.com.edgekey.net
 ibryte.com
-icam.fr
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icmarkets.com
@@ -2294,7 +2280,6 @@ kiks.yandex.ru
 kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kinja.com
-kinox.to
 kisshentai.net
 kissmetrics.com
 kiwifarms.net
@@ -2357,7 +2342,6 @@ lidl.media01.eu
 liftoff.io
 lihi.cc
 likera.com
-lilo.org
 limetorrents.cc
 limneos.net
 lindy.co.id
@@ -2411,7 +2395,6 @@ lp.babbel.com
 lps.innogames.com
 lps.innogamescdn.com
 lptag.liveperson.net
-lsmu.com
 luckyorange.com
 luckysearch123.com
 lulz.com
@@ -2445,7 +2428,6 @@ magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magiskmanager.com
 magnetmail1.net
-mail.bccto.me
 mailchimp.com
 mailerlite.com
 mailfoogae.appspot.com
@@ -2455,7 +2437,6 @@ malaya.com.ph
 malkm.com
 mallgroup.com
 malwareprotectionlive.com
-mamba.ru
 management.azure.com
 manga-news.com
 mangler3.generals.ea.com
@@ -2542,7 +2523,6 @@ micpn.com
 microless.com
 microsoftwindowsupdate.net
 midasplayer.com
-midsouthbank.com
 migc.g.mi.com
 mijnbladopdemat.nl
 mijnknwu.knwu.nl
@@ -2637,7 +2617,6 @@ mxmcdn.net
 mxpnl.com
 my-deco-shop.com
 my.plexapp.com
-myabandonware.com
 myairbridge.com
 myao.adocean.pl
 myapp.com
@@ -2729,7 +2708,6 @@ nrdp.nccp.netflix.com
 ns-cdn.neustar.biz
 ns11.whois.co.kr
 nsimg.net
-nstarbank.com
 nsupdate.info
 ntdtv.com
 ntv.io
@@ -2744,7 +2722,6 @@ o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
-obviousidea.com
 ocsp.apple.com
 ocsp.comodoca.com
 ocsp.int-x3.letsencrypt.org
@@ -2964,7 +2941,6 @@ pntra.com
 pntrac.com
 pntrs.com
 po.st
-poczta.pl
 pof.com
 pokerstrategy.com
 polldaddy.com
@@ -2972,7 +2948,6 @@ polling.bbc.co.uk
 polyfill.io
 poneytelecom.eu
 pop-iad-2.cf.dash.row.aiv-cdn.net
-pop.com
 popin.cc
 pornerbros.com
 portableroms.com
@@ -3384,7 +3359,6 @@ siftscience.com
 silktide.com
 simba.taobao.com
 simp.ly
-simplelogin.co
 simply.com
 simplyhired.com
 sinajs.cn
@@ -3457,7 +3431,6 @@ spamhaus.net
 spankwire.com
 spclient.wg.spotify.com
 sphdigital.com
-sphosp.com
 spl.hit.gemius.pl
 split.to
 spot.im
@@ -3480,7 +3453,6 @@ ssp.rambler.ru
 sspapi-prd.samsungrs.com
 sstats.adobe.com
 sstats.economist.com
-staatenlos.ch
 stackpathdns.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
@@ -3576,7 +3548,6 @@ support.2giga.link
 survey.foreseeresults.com
 surveyrouter.com
 surveys.insightexpressai.com
-sutterhealth.org
 svonm.com
 sw88.go.com
 swa.bol.com
@@ -3775,7 +3746,6 @@ treehousei.com
 trial.api.huangye.miui.com
 trialpay.com
 trib.al
-tripolis.com
 tritondigital.com
 trk.email.dynect.net
 trk.klclick.com
@@ -3826,7 +3796,6 @@ ui.skype.com
 uib.ff.avast.com
 uid.mavencoalition.io
 uim.tifbs.net
-ukmail.com
 ulink.adjust.com
 ulmwp.org
 umdc.aliapp.org
@@ -3941,7 +3910,6 @@ vidazoo.com
 video-fa.scdn.co
 video-stats.l.google.com
 videoplaza.tv
-videoproc.com
 vidible.tv
 vidtech.cbsinteractive.com
 viewpoint.com
@@ -4142,7 +4110,6 @@ yoast.com
 youbora.com
 youboranqs01.com
 youndoo.com
-yourlabs.org
 youtube-nocookie.com
 youtube-ui.l.google.com
 youvisit.com
@@ -4166,7 +4133,6 @@ ziffdavis.com
 zipansion.com
 zmctrack.net
 zoho.com
-zoho.in
 zombo.com
 zoo.sandiegozoo.org
 zopim.com
