@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.08
-# Last modified: 08 May 2022 00:27:50 UTC
+# Last modified: 08 May 2022 08:07:29 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -20917,6 +20917,7 @@ salemove.com
 sales.liveperson.net
 salesforce.com
 salesforceliveagent.com
+salesiq.zoho.com
 salesloft.com
 salesmanago.pl
 saliterbank.de
@@ -21437,6 +21438,7 @@ securel.longtailvideo.com
 securelist.com
 securemecca.com
 securemetrics.apple.com
+securemvt.apple.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
