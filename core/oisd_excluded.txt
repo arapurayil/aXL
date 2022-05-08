@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 May 2022 08:07:28 UTC
+# Last modified: 08 May 2022 16:05:46 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -18,6 +18,7 @@
 163.com
 17173.com
 1e100.net
+1hosts.cf
 2-spyware.com
 207.net
 2222mb.com
@@ -191,7 +192,10 @@ admin.brightcove.com
 admitad.com
 adnetasia.com
 adnxs.com
+adobe-aem.map.fastly.net
+adobe-campaign.com
 adobe-dns.adobe.com
+adobeaemcloud.com
 adobedtm.com
 adocean.pl
 adperfect.com
@@ -769,7 +773,6 @@ bit.do
 bit.ly
 bitable.com
 bitcheese.net
-bitcoin.jonasschnelli.ch
 bitly.com
 bittersweetparis.com
 bizrate.com
@@ -1183,7 +1186,6 @@ csi.gstatic.com
 cst.cstwpush.com
 cstwpush.com
 ct.pinterest.com
-ct.sendgrid.net
 cta-redirect.hubspot.com
 cts.businesswire.com
 cts.vresp.com
@@ -1198,6 +1200,7 @@ customer.io
 customerevents.netflix.com
 customtraffic.impactradius.com
 cutt.ly
+cvs.adobe.com
 cwahi.net
 cws-eu.conviva.com
 cws.conviva.com
@@ -1440,7 +1443,6 @@ elvenar.com
 em.bm23.com
 em.dynamicyield.com
 email-clk.adguard.com
-email.uber.com
 emarketer.com
 emarsys.net
 embed.spotify.com
@@ -1821,6 +1823,7 @@ grupeer.com
 gs.statcounter.com
 gscounters.us1.gigya.com
 gsdk.proximabeta.com
+gsp0.baidu.com
 gstatic.com
 gstaticadssl.l.google.com
 gtop100.com
@@ -2532,7 +2535,6 @@ mimage.opentext.com
 mimgnews.pstatic.net
 mindtake.com
 mindvalley.com
-minecraftprod.rtep.msgamestudios.com
 minergate.com
 minexmr.com
 miningpoolhub.com
@@ -2546,8 +2548,10 @@ mishop.pandora.xiaomi.com
 mitunes.game.xiaomi.com
 mixpanel.com
 mkt51.net
+mktoapps.com
 mktoedge.com
 mktossl.com
+mktoweb.com
 mlog.search.xiaomi.net
 mlsend.com
 mlstat.com
@@ -2658,6 +2662,7 @@ netzathleten.de
 neustar.biz
 newre-conversions.clickmeter.com
 newrelic.com
+news-easy.org
 news.ebc.net.tw
 news.smi2.ru
 newsbreak.com
@@ -2692,6 +2697,7 @@ nonstoppartner.net
 nordvpn.hasoffers.com
 norstatsurveys.com
 noscript.net
+notadsnow.com
 notice.game.xiaomi.com
 notice.samsungcloudsolution.com
 notice.sp-prod.net
@@ -2837,7 +2843,6 @@ pagead46.l.doubleclick.net
 pagefair.com
 pages.info.exclusive-networks.com
 pages03.net
-pancakeswap.finance
 pandapush-iad-prod.inscloudgate.net
 pangle.io
 pangle.io.edgekey.net
@@ -2937,7 +2942,6 @@ pltraffic8.com
 plus.google.com
 plus500.com
 plusgrade.com
-pmb.akprind.ac.id
 pnapi.invoca.net
 pntra.com
 pntrac.com
@@ -3214,6 +3218,7 @@ samsungrm.net
 sanalytics.disneyplus.com
 sandai.net
 sandbox.xmpush.xiaomi.com
+sandhyapi.online
 sare25.com
 sarvatra.in
 sas.com
@@ -3227,6 +3232,7 @@ sc-static.net
 sc.tradetracker.net
 sca.samsung.com
 scandit.com
+scene7.com
 scenefz.me
 schibsted.com
 schibsted.io
@@ -3550,7 +3556,6 @@ supercell.net
 supersonido.es
 supplyframe.com
 support.2giga.link
-support.faucethub.io
 survey.foreseeresults.com
 surveyrouter.com
 surveys.insightexpressai.com
@@ -3609,6 +3614,7 @@ tags.tiqcdn.com.edgekey.net
 talkingdata.com
 tamedia.ch
 tanx.com
+tanx.com.gds.alibabadns.com
 tap.company
 tapad.com
 taplytics.com
@@ -3838,7 +3844,6 @@ urbanairship.com
 urbantoronto.ca
 url.dnspod.com
 url.rw
-url8807.global.passport.xiaomi.com
 urlz.fr
 us-1.gladly.com
 us-v10.events.data.microsoft.com
@@ -4089,7 +4094,6 @@ xmrpool.eu
 xn--methrwallt-26ar0z.com
 xp.apple.com
 xrea.com
-xsph.ru
 xtgem.com
 xtra.co.nz
 xtra.gpsonextra.net
