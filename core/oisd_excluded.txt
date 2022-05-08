@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 May 2022 16:05:59 UTC
+# Last modified: 08 May 2022 00:27:49 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -3201,6 +3201,7 @@ sajari.com
 sakura.goguardian.com
 salemove.com
 salesforceliveagent.com
+salesiq.zoho.com
 salesloft.com
 salesmanago.pl
 samsungadhub.com
@@ -3291,6 +3292,7 @@ secure.gooddata.com
 secure.insightexpressai.com
 secured-login.net
 securemetrics.apple.com
+securemvt.apple.com
 securestudies.com
 security.browser.miui.com
 securitymetrics.com
