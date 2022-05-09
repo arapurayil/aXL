@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.08
-# Last modified: 08 May 2022 16:05:47 UTC
+# Version: 3.05.09
+# Last modified: 09 May 2022 00:28:21 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -848,6 +848,8 @@ admitad.com
 admongo.gov
 adnetasia.com
 adnxs.com
+adobe-aem.map.fastly.net
+adobe-campaign.com
 adobe-dns-01.adobe.com
 adobe-dns-02.adobe.com
 adobe-dns-04.adobe.com
@@ -857,6 +859,7 @@ adobe-dns.adobe.com
 adobe.com
 adobe.dk
 adobe.es
+adobeaemcloud.com
 adobeawards.com
 adobedtm.com
 adobeid-na1.services.adobe.com
@@ -4425,7 +4428,6 @@ bitbucket.org
 bitcheese.net
 bitcoin.com
 bitcoin.de
-bitcoin.jonasschnelli.ch
 bitcoin.org
 bitfinex.com
 bitfury.com
@@ -11391,6 +11393,7 @@ gsdk.proximabeta.com
 gsha.com
 gslb.spotify.com
 gsmarena.com
+gsp0.baidu.com
 gsp1.apple.com
 gss0.bdstatic.com
 gss2.bdstatic.com
@@ -16277,6 +16280,7 @@ mkontakt.pl
 mkt51.net
 mkt7185.com
 mktcloud.c.huawei.com
+mktoapps.com
 mktoedge.com
 mktossl.com
 mktoweb.com
@@ -17162,6 +17166,7 @@ newocr.com
 newportanimalhospital.com
 newre-conversions.clickmeter.com
 newrelic.com
+news-easy.org
 news-p.ru
 news-tst.qualcomm.com
 news.com
@@ -17421,6 +17426,7 @@ nospa.de
 nostalgia.bitfinex.com
 nostalgia.wikipedia.com
 notabug.org
+notadsnow.com
 note.microsoft.com
 noteapi.micloud.xiaomi.net
 notepad-plus-plus.org
@@ -18439,7 +18445,6 @@ pamukbank.com.tr
 pan-klinik.de
 pan.baidu.com
 panahospital.com
-pancakeswap.finance
 pandapush-iad-prod.inscloudgate.net
 pandemicflu.gov
 pando.com
@@ -19057,7 +19062,6 @@ pm.gov.uk
 pm.ly
 pm.wu.cz
 pmall.migc.xiaomi.com
-pmb.akprind.ac.id
 pmbank.com
 pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
@@ -20980,6 +20984,7 @@ sandbox.coinbase.com
 sandbox.exchange.coinbase.com
 sandbox.xmpush.xiaomi.com
 sanderbusch.de
+sandhyapi.online
 sandridgebank.com
 sanfrancisco.cbslocal.com
 sangli-bank.com
@@ -23762,6 +23767,7 @@ tanenbaumchat.org
 tangerine.ca
 tangle.com
 tanx.com
+tanx.com.gds.alibabadns.com
 taobao.com
 taobaocdn.com
 tap-rt-prod1-t.campaign.adobe.com
@@ -27139,7 +27145,6 @@ xqqyu.mjt.lu
 xrea.com
 xrl.us
 xseno.nl
-xsph.ru
 xsts.auth.xboxlive.com
 xt3.me
 xtgem.com

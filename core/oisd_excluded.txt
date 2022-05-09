@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 May 2022 16:05:46 UTC
+# Last modified: 09 May 2022 00:28:21 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -736,7 +736,6 @@ bannerbank.com
 bannertrack.net
 barclaybanking.com
 baremetrics.com
-barstoolsports.com
 bat.bing.com
 batch.com
 bbin.ru
@@ -1373,6 +1372,7 @@ dp.im.weibo.cn
 dpbolvw.net
 dpm.demdex.net
 dpu.samsungelectronics.com
+drfdisvc.walmart.com
 drift.com
 driftt.com
 driverrestore.com
@@ -1479,6 +1479,7 @@ estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
 etahub.com
+ethhex.com
 ethn.io
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -2384,6 +2385,7 @@ log.ys7.com
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.game.xiaomi.com
 loginhood.io
 logrocket.com
@@ -2860,6 +2862,7 @@ partners.etoro.com
 partners.salesforce.com
 partners.webmasterplan.com
 partycasino.com
+partypoker.com
 pass.1688.com
 passport.baidu.com
 pastie.org
@@ -2973,6 +2976,7 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 preferences.truste.com
+premium57.web-hosting.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com
@@ -4111,6 +4115,7 @@ yandex.st
 yap.yahoo.com
 ydstatic.com
 yessearches.com
+yeswegays.com
 yi.org
 yimg.com
 ykrec.youku.com
