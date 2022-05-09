@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 May 2022 08:08:02 UTC
+# Last modified: 09 May 2022 16:07:17 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -47,7 +47,6 @@
 7b935.v.fwmrm.net
 7eer.net
 7zap.com
-881903.com
 888poker.com
 91mobiles.com
 a-0001.a-msedge.net
@@ -967,6 +966,7 @@ cdn.wootric.com
 cdn.zry97.com
 cdn1.ettoday.net
 cdn1.smartadserver.com
+cdn2.cache.vn
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdna.clicktale.net
@@ -2599,6 +2599,7 @@ mouseflow.com
 movable-ink-2183.com
 movable-ink-397.com
 mp.twitch.tv
+mp3clan.com
 mparticle.com
 mparticle.map.fastly.net
 mplxtms.com
@@ -3662,7 +3663,6 @@ thealtening.com
 thebestoffersintheweb.com
 thebrighttag.com
 thecounter.com
-theepochtimes.com
 thefilter.com
 thefreesite.com
 theintelligencer.com
@@ -3709,6 +3709,7 @@ toupdate15.com
 townnews.com
 tp-emea.exactag.com
 tr.info.mango-mobilites.fr
+tr.netsalesmedia.pl
 tr.snapchat.com
 tracemyip.org
 track.adform.net
@@ -4030,7 +4031,6 @@ windows.net
 wip3.adobe.com
 wipe.de
 wistia.net
-wixsite.com
 wl.jd.com
 wmflabs.org
 wmsu.edu.ph
