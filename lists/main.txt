@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.10
-# Last modified: 10 May 2022 00:31:51 UTC
+# Last modified: 10 May 2022 08:08:37 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4971,6 +4971,7 @@ bss.finars.ru
 bss.novahovcb.ru
 bss.pandora.xiaomi.com
 bstatic.com
+bstats.org
 bsv.atm.youku.com
 bsv.de
 bsvnet.com
@@ -9083,7 +9084,6 @@ eteba.ro
 etebac.com
 etf.com
 ethermine.org
-ethhex.com
 ethias-banque.be
 ethikbank-onlinebanking.de
 ethikbank.de
@@ -15092,7 +15092,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -19262,7 +19261,6 @@ premierbnk.com
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
-premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
