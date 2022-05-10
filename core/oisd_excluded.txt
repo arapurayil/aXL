@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 May 2022 16:07:17 UTC
+# Last modified: 10 May 2022 00:31:51 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -824,6 +824,7 @@ browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bs.serving-sys.com
 bss.pandora.xiaomi.com
+bstats.org
 bsv.atm.youku.com
 btg.mtvnservices.com
 btstatic.com
@@ -1479,7 +1480,6 @@ estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
 etahub.com
-ethhex.com
 ethn.io
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -2385,7 +2385,6 @@ log.ys7.com
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.game.xiaomi.com
 loginhood.io
 logrocket.com
@@ -2977,7 +2976,6 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 preferences.truste.com
-premium57.web-hosting.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com

@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.09
-# Last modified: 09 May 2022 16:07:17 UTC
+# Version: 3.05.10
+# Last modified: 10 May 2022 00:31:51 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -345,7 +345,6 @@
 7li.in
 7vd.cn
 7zap.com
-881903.com
 888poker.com
 8ch.net
 8k.ro
@@ -5796,6 +5795,7 @@ cdn1.smartadserver.com
 cdn1.xda-developers.com
 cdn13.com
 cdn2.airfind.com
+cdn2.cache.vn
 cdn2.chia-anime.tv
 cdn2.dailycaller.com
 cdn2.digitaltrends.com
@@ -24044,7 +24044,6 @@ thecountybank.com
 thedailybeast.com
 thedailymodel.com
 thedailysheeple.com
-theepochtimes.com
 thefarmbank.com
 thefilter.com
 thefirma.org
@@ -24345,6 +24344,7 @@ tr.ign.com
 tr.im
 tr.info.mango-mobilites.fr
 tr.net
+tr.netsalesmedia.pl
 tr.snapchat.com
 tr.statcounter.com
 tr.twitch.tv
