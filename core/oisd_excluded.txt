@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 May 2022 16:07:31 UTC
+# Last modified: 11 May 2022 00:30:31 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -1162,7 +1162,6 @@ crbcdn.jsfiddle.net
 createsend.com
 createsend1.com
 creative.m2pub.com
-creatives.ancoraplatform.com
 creditonebank.com
 credomobile.com
 crisp.chat
@@ -1658,6 +1657,7 @@ friendbuy.com
 frontier.musical.ly
 fs.microsoft.com
 fsl.sytes.net
+fstream.binance.com
 ftp.byethost11.com
 ftpcontent.worldnow.com
 ftr2.external.xerox.com
@@ -2400,6 +2400,7 @@ lp.babbel.com
 lps.innogames.com
 lps.innogamescdn.com
 lptag.liveperson.net
+ltc.cryptopia.co.nz
 luckyorange.com
 luckysearch123.com
 lulz.com
@@ -3146,6 +3147,7 @@ rockstorageplace.com
 rollbar.com
 romsmania.com
 router.bittorrent.com
+router.cint.com
 rover.ebay.com
 row-advil.waze.com
 royalultimate.com
@@ -3985,6 +3987,7 @@ webcare.byside.com
 webclicks24.com
 webcompanion.com
 webgains.com
+webhook.logentries.com
 webhop.net
 webhostingtalk.com
 weblockapp.com
@@ -4092,6 +4095,7 @@ xlmc.sandai.net
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xmpush.xiaomi.com
+xmr.to
 xmrpool.eu
 xn--methrwallt-26ar0z.com
 xp.apple.com
