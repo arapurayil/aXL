@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.11
-# Last modified: 11 May 2022 00:30:31 UTC
+# Last modified: 11 May 2022 08:08:41 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7128,7 +7128,6 @@ creative.ak.fbcdn.net
 creative.m2pub.com
 creative.mylife.com
 creativecommons.org
-creatives.ancoraplatform.com
 creator-mag.line.me
 creator.line.me
 creatorguide.soundcloud.com
@@ -10396,6 +10395,7 @@ fsnh.com
 fsround.org
 fssb.com
 fstbnk.com
+fstream.binance.com
 ft.com
 ft.tt
 ftb.com
@@ -20577,6 +20577,7 @@ rottentomatoes.com
 round.ru
 roundrocktexas.gov
 router.bittorrent.com
+router.cint.com
 rover.ebay.co.uk
 rover.ebay.com
 rover.ebay.de
@@ -26389,6 +26390,7 @@ webfriends.in
 webfusion.co.uk
 webgains.com
 webgrab.wechat.com
+webhook.logentries.com
 webhop.net
 webhostingpad.com
 webhostingplanet.com
