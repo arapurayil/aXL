@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.12
-# Last modified: 12 May 2022 00:29:18 UTC
+# Last modified: 12 May 2022 08:07:08 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9083,6 +9083,7 @@ eteba.ro
 etebac.com
 etf.com
 ethermine.org
+ethhex.com
 ethias-banque.be
 ethikbank-onlinebanking.de
 ethikbank.de
@@ -10395,7 +10396,6 @@ fsnh.com
 fsround.org
 fssb.com
 fstbnk.com
-fstream.binance.com
 ft.com
 ft.tt
 ftb.com
@@ -10710,7 +10710,6 @@ geolocation-db.com
 geolocation.daznservices.com
 geolocation.onetrust.com
 geomed-klinik.de
-geomobileservices-pa.googleapis.com
 geomundos.com
 george.bcr.ro
 george.erstebank.hr
@@ -14068,7 +14067,6 @@ kinderhospital.de
 kinderkrankenhaus.net
 kindnesshospital.com
 kinect.co.nz
-kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kingfisherhospital.com
 kingston.gov.uk
@@ -15092,6 +15090,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15152,6 +15151,7 @@ logrocket.com
 logs.amap.com
 logs.datadoghq.com
 logs.datadoghq.eu
+logs.eu-west-1.amazonaws.com
 logs.heroku.com
 logsss.com
 logw306.ati-host.net
@@ -16772,6 +16772,7 @@ mycantos.com
 mycdn.me
 mycgb.com
 mychurch.org
+mycingular.net
 mycorners.com
 mycouponizemac.com
 mycred.io
@@ -19261,6 +19262,7 @@ premierbnk.com
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
+premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
@@ -27153,11 +27155,6 @@ xsts.auth.xboxlive.com
 xt3.me
 xtgem.com
 xtra.co.nz
-xtra.gpsonextra.net
-xtra1.gpsonextra.net
-xtra2.gpsonextra.net
-xtra3.gpsonextra.net
-xtra4.gpsonextra.net
 xtreme.net.nz
 xtube.com
 xua.me
