@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 May 2022 16:08:04 UTC
+# Last modified: 12 May 2022 00:29:18 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -1175,6 +1175,7 @@ crt.comodoca.com
 crunchyroll.adtrackers.net
 crunchyroll.bannertrack.net
 cryptolabpro.com
+cryptonator.com
 cs.money
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
@@ -1479,6 +1480,7 @@ estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
 etahub.com
+ethhex.com
 ethn.io
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -1657,7 +1659,6 @@ friendbuy.com
 frontier.musical.ly
 fs.microsoft.com
 fsl.sytes.net
-fstream.binance.com
 ftp.byethost11.com
 ftpcontent.worldnow.com
 ftr2.external.xerox.com
@@ -1721,7 +1722,6 @@ geoloc.arte.tv
 geolocation-db.com
 geolocation.daznservices.com
 geolocation.onetrust.com
-geomobileservices-pa.googleapis.com
 georiot.com
 geover-prod.do.dsp.mp.microsoft.com
 gestyy.com
@@ -1830,7 +1830,6 @@ gstaticadssl.l.google.com
 gtop100.com
 gtssl2-ocsp.geotrust.com
 guanjia.qq.com
-guard.io
 guardianapps.co.uk
 guce.advertising.com
 guce.huffingtonpost.co.uk
@@ -1942,7 +1941,6 @@ hydrax.net
 hypestat.com
 i.click.taobao.com
 i.cmpnet.com
-i.gyazo.com
 i.i.cbsi.com
 i.plug.it
 i.v2ex.co
@@ -2282,7 +2280,6 @@ kid-control.com
 kiddostoysclub.com
 kiev.ua
 kiks.yandex.ru
-kinesis.eu-west-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kinja.com
 kisshentai.net
@@ -2385,12 +2382,14 @@ log.ys7.com
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.game.xiaomi.com
 loginhood.io
 logrocket.com
 logs.amap.com
 logs.datadoghq.com
 logs.datadoghq.eu
+logs.eu-west-1.amazonaws.com
 logsss.com
 lomadee.com
 look.com
@@ -2400,7 +2399,6 @@ lp.babbel.com
 lps.innogames.com
 lps.innogamescdn.com
 lptag.liveperson.net
-ltc.cryptopia.co.nz
 luckyorange.com
 luckysearch123.com
 lulz.com
@@ -2630,6 +2628,7 @@ myao.adocean.pl
 myapp.com
 mybannermaker.com
 mybbc-analytics.files.bbci.co.uk
+mycingular.net
 mycouponizemac.com
 mysearch.com
 mystats.com
@@ -2977,6 +2976,7 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 preferences.truste.com
+premium57.web-hosting.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com
@@ -4095,18 +4095,12 @@ xlmc.sandai.net
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xmpush.xiaomi.com
-xmr.to
 xmrpool.eu
 xn--methrwallt-26ar0z.com
 xp.apple.com
 xrea.com
 xtgem.com
 xtra.co.nz
-xtra.gpsonextra.net
-xtra1.gpsonextra.net
-xtra2.gpsonextra.net
-xtra3.gpsonextra.net
-xtra4.gpsonextra.net
 y8.com
 yabs.yandex.ru
 yac.mx
