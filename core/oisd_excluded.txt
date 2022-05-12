@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 May 2022 08:07:08 UTC
+# Last modified: 12 May 2022 16:07:32 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -1496,6 +1496,7 @@ eu.criteo.com
 eu.spgo.io
 eu.vortex.data.microsoft.com
 eu01.nr-data.net
+eu2.cleverreach.com
 eulerian.brandalley.fr
 eulerian.net
 eulerian.officiel-des-vacances.com
@@ -2884,6 +2885,7 @@ perf.mmstat.com
 perfalytics.com
 perfdrive.com
 performgroup.com
+perimeterx.net
 perr.h-cdn.com
 pf.intuit.com
 phaetus.com
@@ -3370,6 +3372,7 @@ shortpixel.ai
 shrink.pe
 siamzone.com
 sickrage.ca
+sift.com
 siftscience.com
 silktide.com
 simba.taobao.com
