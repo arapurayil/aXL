@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 May 2022 08:08:44 UTC
+# Last modified: 13 May 2022 16:07:19 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -487,6 +487,7 @@ alitems.com
 alitems.site
 alluremedia.com.au
 alpari.ru
+alpha-t.net
 alphadomus.co.nz
 amauthprd.samsungcloudsolution.com
 amazon-adsystem.amazon.com
@@ -1175,7 +1176,6 @@ crt.comodoca.com
 crunchyroll.adtrackers.net
 crunchyroll.bannertrack.net
 cryptolabpro.com
-cryptonator.com
 cs.money
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
@@ -1470,6 +1470,7 @@ epsilon.com
 eq.10jqka.com.cn
 er.search.naver.com
 ereg.adobe.com
+ergo.flypool.org
 error.fc2.com
 es.statcounter.com
 es.wowhead.com
@@ -1617,6 +1618,7 @@ fls-na.amazon.com.br
 fls-na.amazon.com.mx
 flurry.com
 flx1.com
+flypool.org
 fmcurling.org
 fonecta.fi
 fontanka.ru
@@ -2732,6 +2734,7 @@ o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
+objectstorage.eu-milan-1.oraclecloud.com
 ocsp.apple.com
 ocsp.comodoca.com
 ocsp.int-x3.letsencrypt.org
