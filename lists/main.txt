@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.12
-# Last modified: 12 May 2022 16:07:32 UTC
+# Version: 3.05.13
+# Last modified: 13 May 2022 00:36:33 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9119,6 +9119,7 @@ eu01.nr-data.net
 eu1.documents.adobe.com
 eu1.gigya.com
 eu1.p2.documentsawsperf.adobe.com
+eu2.cleverreach.com
 eubank.kz
 eudora.qualcomm.com
 eulerian.brandalley.fr
@@ -18768,6 +18769,7 @@ performance.gov
 performfeeds.com
 performgroup.com
 perfspot.com
+perimeterx.net
 peripherals.engadget.com
 perksatwork.com
 perolasdoorkut.com.br
