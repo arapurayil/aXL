@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.13
-# Last modified: 13 May 2022 16:07:19 UTC
+# Version: 3.05.14
+# Last modified: 14 May 2022 00:35:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9010,6 +9010,7 @@ ereg.wip3.adobe.com
 eren.chia-anime.tv
 erewash.gov.uk
 erfurter-bank.de
+ergo.flypool.org
 ergobank.ru
 erky.de
 erlabrunn.de
@@ -9951,6 +9952,7 @@ flurry.com
 flushingsavings.com
 flux.com
 flx1.com
+flypool.org
 fm-p.jp
 fm.tuba.pl
 fmb-ebank.com
@@ -17687,6 +17689,7 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
+objectstorage.eu-milan-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
 oboom.com

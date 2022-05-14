@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 May 2022 16:07:19 UTC
+# Last modified: 14 May 2022 00:35:56 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -436,7 +436,6 @@ adswizz.com
 adtechus.com
 adtrackers.net
 adtraction.com
-adultempire.com
 adultswim.com
 adups.com
 adv.li
@@ -449,7 +448,6 @@ advertising.com
 adwords.google.com
 adzerk.com
 adzerk.net
-aeon.co
 affex.org
 affiliate.dmm.com
 affiliatefuture.com
@@ -494,7 +492,6 @@ amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazonbusiness.com
 amdc.m.taobao.com
-amgload.net
 amospalla.es
 ampcid.google.com
 amplitude.com
@@ -1064,7 +1061,6 @@ cloud.internetstores.com
 cloud.rovio.com
 cloud.unity3d.com
 cloudflareinsights.com
-cloudinary.com
 cloudservices.roku.com
 cm.miaozhen.atm.youku.com
 cmcm.com
@@ -1327,7 +1323,6 @@ digitalriver.com
 digitalsmiths.net
 digits.com
 display.ugc.bazaarvoice.com
-disqus.com
 disquscdn.com
 ditto.com
 djtflbt20bdde.cloudfront.net
@@ -1806,7 +1801,6 @@ goto-capitalone-com.ct.impactradius.com
 goto-seavees-com.ct.impactradius.com
 goto-target-com.customtraffic.impactradius.com
 gotraffic.net
-gounlimited.to
 goupdate.3g.cn
 gpm.samsungqbe.com
 gr8.com
@@ -1817,7 +1811,6 @@ graph.accountkit.com
 graph.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
-gravatar.com
 gravityrd-services.com
 gremimedia.pl
 group-ib.ru
@@ -1928,7 +1921,6 @@ hsoub.com
 hspx.hotstar.com
 hsx.com
 html5zombo.com
-htmlcommentbox.com
 http-test1.luminatinet.com
 huangye.miui.com
 hubblecontent.osi.office.net
@@ -2150,6 +2142,7 @@ infospace.com
 ingest.sentry.io
 ink1001.com
 inquisition.goguardian.com
+ins-2ybret5v.ias.tencent-cloud.net
 inside-graph.com
 insight.rapid7.com
 insightexpress.com
@@ -2708,7 +2701,6 @@ notice.samsungcloudsolution.com
 notice.sp-prod.net
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
-notifications.google.com
 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 nova.collect.igodigital.com
 now.eloqua.com
@@ -2804,7 +2796,6 @@ open.oneplus.net
 opencandy.com
 opencre.fr
 openmarket.com
-opinary.com
 opinionlab.com
 opinionstage.com
 ops.bpost.be
@@ -2899,7 +2890,6 @@ phs.tanx.com
 pi.pardot.com
 piano.io
 pidorg.ru
-piguiqproxy.com
 pila.pl
 ping-admin.ru
 ping.cloud.tencent.com
@@ -2947,7 +2937,6 @@ playhydrax.com
 playwire.com
 plex.direct
 pltraffic8.com
-plus.google.com
 plus500.com
 plusgrade.com
 pnapi.invoca.net
@@ -3475,7 +3464,6 @@ ssp.rambler.ru
 sspapi-prd.samsungrs.com
 sstats.adobe.com
 sstats.economist.com
-stackpathdns.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
 staging.ai.api.xiaomi.com
@@ -3553,7 +3541,6 @@ streaming.adswizz.com
 streamplay.me
 streamplay.to
 stressthem.to
-stripe.com
 stripe.network
 stroeerdigitalgroup.de
 sts.eccmp.com
@@ -3681,7 +3668,6 @@ ti.domainforlite.com
 tiara.daum.net
 tidaltv.com
 tidd.ly
-tidio.co
 tie.247-inc.net
 tigase.net
 tile-service.weather.microsoft.com
@@ -3785,6 +3771,7 @@ truste.com
 try.abtasty.com
 trytechnical.com
 ts.my
+ts.qq.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tube8.com
 tudasfaja.com
@@ -3961,7 +3948,6 @@ vortex.hulu.com
 vpic.video.qq.com
 vr-banking-app.de
 vsevjednom.cz
-vuukle.com
 vxcash.net
 w2xg.com
 w88.espn.com
@@ -4150,7 +4136,6 @@ zh-cn.shenyun.com
 ziffdavis.com
 zipansion.com
 zmctrack.net
-zoho.com
 zombo.com
 zoo.sandiegozoo.org
 zopim.com
