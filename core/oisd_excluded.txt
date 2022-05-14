@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 May 2022 08:07:28 UTC
+# Last modified: 14 May 2022 16:05:32 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -430,7 +430,6 @@ adservicemedia.dk
 adshell.net
 adsnative123.com
 adsp.xunlei.com
-adsrvmedia.adk2.net
 adssyscom.com
 adswizz.com
 adtechus.com
@@ -438,7 +437,6 @@ adtrackers.net
 adtraction.com
 adultswim.com
 adups.com
-adv.li
 adv.sec.miui.com
 advcash.com
 adverigo.com
@@ -1907,7 +1905,6 @@ hotdeals.com
 hotdogsandads.com
 hotelscombined.com.au
 hotjar.com
-hotspotshield.com
 howsmyssl.com
 howtofix.guide
 hpg.com.br
@@ -2242,7 +2239,6 @@ js.driftt.com
 js.gleam.io
 js.hs-scripts.com
 js.indexww.com
-js.maxmind.com
 js.monitor.azure.com
 js.pusher.com
 js.stripe.com
@@ -2804,7 +2800,6 @@ optimizely.com
 optimizely.com.edgekey.net
 optinmonster.com
 oracle.112.2o7.net
-orientaltrading.com
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
@@ -2984,7 +2979,6 @@ privacy-center.org
 privacy-mgmt.com
 privacy-policy.truste.com
 pro.hit.gemius.pl
-pro.ip-api.com
 prod-adops-proxy.dnitv.net
 prod-nginz-https.wire.com
 prod-nginz-ssl.wire.com
@@ -3179,7 +3173,6 @@ s.youtube.com
 s.zkcdn.net
 s0-2mdn-net.l.google.com
 s0.2mdn.net
-s1.trrsf.com
 s1325.t.eloqua.com
 s2s.singular.net
 s3-1-w.amazonaws.com
@@ -3187,7 +3180,6 @@ s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3.us-east-1.wasabisys.com
 s7.addthis.com
-s7.orientaltrading.com
 s8.addthis.com
 sa.api.intl.miui.com
 sa.bbc.co.uk
@@ -3497,7 +3489,6 @@ static.klaviyo.com
 static.locallogic.co
 static.mailchimp.com
 static.parsely.com
-static.pochta.ru
 static.quantcast.mgr.consensu.org
 static.rocketreach.co
 static.scroll.com
@@ -3592,7 +3583,6 @@ t1.g.mi.com
 t11.baidu.com
 t12.baidu.com
 t2.hulu.com
-t23.intelliad.de
 t35.com
 tabac-info-service.fr
 taboola.com
@@ -3690,7 +3680,6 @@ toolbar.google.com
 tools.ranker.com
 toots-a.akamaihd.net
 top.mail.ru
-top1.ro
 top8844.com
 topbuzz-applog-alisg.l.byteoversea.net
 toptracker.ru
@@ -3785,7 +3774,6 @@ tvn.adocean.pl
 tvpapi-as.ott.kaltura.com
 tw.cx
 tweakbit.com
-txxx.com
 typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
