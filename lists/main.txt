@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.14
-# Last modified: 14 May 2022 00:35:56 UTC
+# Last modified: 14 May 2022 08:07:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1145,7 +1145,6 @@ adtechus.com
 adtidy.org
 adtrackers.net
 adtraction.com
-adultempire.com
 adultswim.com
 adups.com
 adv.li
@@ -1178,7 +1177,6 @@ aebanca.es
 aec.nu
 aeis.alicdn.com
 aemmobile.adobe.com
-aeon.co
 aerocivil.gov.co
 aeroconnect.net
 aeropress.com
@@ -2125,7 +2123,6 @@ amerimed-hospitals.com
 ameriservfinancial.com
 ameslab.gov
 amexbank.de
-amgload.net
 amiclubwear.com
 amiez.org
 amigoseninternet.com
@@ -13258,6 +13255,7 @@ input.mozilla.org
 inputdirector.com
 inq.com
 inquisition.goguardian.com
+ins-2ybret5v.ias.tencent-cloud.net
 ins.jr.mi.com
 inscname.net
 inselklinik-fehmarn.de
@@ -18155,7 +18153,6 @@ opera-proxy.net
 opera.com
 operbank.hu
 ophan.theguardian.com
-opinary.com
 opinion.latimes.com
 opinionlab.com
 opinionstage.com
@@ -24146,7 +24143,6 @@ tid.canon.com
 tidal.com
 tidaltv.com
 tidd.ly
-tidio.co
 tie.247-inc.net
 tier1net.com
 tier2.ios.skypeassets.com
@@ -24537,6 +24533,7 @@ trustpilot.com
 try.abtasty.com
 trytechnical.com
 ts.my
+ts.qq.com
 ts.seb.se
 tsa.gov
 tsb.co.nz
