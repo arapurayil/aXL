@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 May 2022 16:05:32 UTC
+# Last modified: 15 May 2022 00:39:39 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -22,6 +22,7 @@
 2-spyware.com
 207.net
 2222mb.com
+2345.com
 24.hu
 247-inc.net
 24chasa.bg
@@ -427,6 +428,7 @@ adservice.google.vg
 adservice.google.vu
 adservice.google.ws
 adservicemedia.dk
+adsh.wagbridge.taobao.alimama.com
 adshell.net
 adsnative123.com
 adsp.xunlei.com
@@ -459,6 +461,7 @@ agkn.com
 ahd.ruten.com.tw
 ahinsashoes.cz
 ai.yimg.jp
+aic-ngfts.lge.com
 aii.sh
 aimatch.com
 airbrake.io
@@ -483,13 +486,14 @@ alitems.com
 alitems.site
 alluremedia.com.au
 alpari.ru
-alpha-t.net
 alphadomus.co.nz
 amauthprd.samsungcloudsolution.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazonbusiness.com
+amdc.alipay.com
 amdc.m.taobao.com
+amos.alicdn.com
 amospalla.es
 ampcid.google.com
 amplitude.com
@@ -547,6 +551,7 @@ api.demandbase.com
 api.device.xiaomi.net
 api.elasticemail.com
 api.engager.ecbsn.com
+api.euro.hismarttv.com
 api.facebook.com
 api.foursquare.com
 api.hostip.info
@@ -563,6 +568,7 @@ api.metrics.heroku.com
 api.micloud.xiaomi.net
 api.miui.security.xiaomi.com
 api.mixpanel.com
+api.msn.com
 api.newrelic.com
 api.nextgen.guardianapps.co.uk
 api.opinary.com
@@ -580,6 +586,7 @@ api.toptenreviews.com
 api.traq.li
 api.tw06.xlmc.sec.miui.com
 api.uca.cloud.unity3d.com
+api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
 api.viafoura.co
@@ -1059,6 +1066,7 @@ cloud.internetstores.com
 cloud.rovio.com
 cloud.unity3d.com
 cloudflareinsights.com
+cloudns.asia
 cloudservices.roku.com
 cm.miaozhen.atm.youku.com
 cmcm.com
@@ -1463,7 +1471,6 @@ epsilon.com
 eq.10jqka.com.cn
 er.search.naver.com
 ereg.adobe.com
-ergo.flypool.org
 error.fc2.com
 es.statcounter.com
 es.wowhead.com
@@ -1474,7 +1481,6 @@ estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
 etahub.com
-ethhex.com
 ethn.io
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -1611,7 +1617,6 @@ fls-na.amazon.com.br
 fls-na.amazon.com.mx
 flurry.com
 flx1.com
-flypool.org
 fmcurling.org
 fonecta.fi
 fontanka.ru
@@ -1790,6 +1795,7 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
+googletraveladservices.com
 googlezip.net
 gopjn.com
 gorebrasil.com
@@ -1821,6 +1827,10 @@ gsdk.proximabeta.com
 gsp0.baidu.com
 gstatic.com
 gstaticadssl.l.google.com
+gtms01.alicdn.com
+gtms02.alicdn.com
+gtms03.alicdn.com
+gtms04.alicdn.com
 gtop100.com
 gtssl2-ocsp.geotrust.com
 guanjia.qq.com
@@ -1849,6 +1859,7 @@ hawaiisurf.com
 hawk.pcgamer.com
 haymarket.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
+hbbtv.3sat.de
 hbbtv.kabeleins.de
 hbbtv.mediaset.net
 hbbtv.prosieben.de
@@ -1857,6 +1868,7 @@ hbbtv.redbutton.de
 hbbtv.rtl2.de
 hbbtv.sat1.de
 hbbtv.sixx.de
+hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
@@ -1921,6 +1933,7 @@ html5zombo.com
 http-test1.luminatinet.com
 huangye.miui.com
 hubblecontent.osi.office.net
+hubs.ly
 hubspot.com
 hugedomains.com
 humanpresence.app
@@ -1952,6 +1965,7 @@ ib.anycast.adnxs.com
 ib.snssdk.com
 ib.snssdk.com.edgekey.net
 ibryte.com
+ibs.lgappstv.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icmarkets.com
@@ -2230,6 +2244,7 @@ jiathis.com
 jiit.ac.in
 jimdo.com
 jivox.com
+jonasschnelli.ch
 joyreactor.cc
 jqueryscript.net
 js-agent.newrelic.com
@@ -2336,6 +2351,7 @@ lidl.media01.eu
 liftoff.io
 lihi.cc
 likera.com
+limasky.com
 limetorrents.cc
 limneos.net
 lindy.co.id
@@ -2374,7 +2390,6 @@ log.ys7.com
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.game.xiaomi.com
 loginhood.io
 logrocket.com
@@ -2458,6 +2473,7 @@ markitondemand.com
 markmonitor.com
 maropost.com
 marsflag.com
+mas-ext.amazon.com
 mas-ssr-ad.amazon.com
 matchinguu.com
 matomo.org
@@ -2594,6 +2610,7 @@ mparticle.com
 mparticle.map.fastly.net
 mplxtms.com
 mpsnare.iesnare.com
+mradx.net
 mrzikj.com
 msdk.qq.com
 msedge.net
@@ -2602,6 +2619,7 @@ msftncsi.com
 msg2.client.xunlei.com
 msgfocus.com
 msgs.jp
+msh.amazon.co.uk
 msh.amazon.com
 mssl.fwmrm.net
 mstdn.social
@@ -2622,11 +2640,13 @@ mybannermaker.com
 mybbc-analytics.files.bbci.co.uk
 mycingular.net
 mycouponizemac.com
+myhomescreen.tv
 mysearch.com
 mystats.com
 myvisualiq.net
 myway.com
 mywebsearch.com
+mywire.org
 myxns.cn
 na1r.services.adobe.com
 na2m-pr.licenses.adobe.com
@@ -2710,6 +2730,7 @@ ns11.whois.co.kr
 nsimg.net
 nsupdate.info
 ntdtv.com
+ntp.msn.com
 ntv.io
 nudatasecurity.com
 nulled.to
@@ -2722,7 +2743,6 @@ o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
-objectstorage.eu-milan-1.oraclecloud.com
 ocsp.apple.com
 ocsp.comodoca.com
 ocsp.int-x3.letsencrypt.org
@@ -2819,6 +2839,7 @@ owensoundhub.org
 owlcarousel2.github.io
 ox.ac.uk
 ozy.com
+p-hbbtv.superrtl.de
 p.d.0emn.com
 p.d.0fmm.com
 p.d.0mme.com
@@ -2836,6 +2857,7 @@ pagefair.com
 pages.info.exclusive-networks.com
 pages03.net
 pandapush-iad-prod.inscloudgate.net
+pandora.xiaomi.com
 pangle.io
 pangle.io.edgekey.net
 panther.goguardian.com
@@ -2965,7 +2987,6 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 preferences.truste.com
-premium57.web-hosting.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com
@@ -3837,7 +3858,9 @@ us-v20.events.data.microsoft.com
 us.ad.lgsmartad.com
 us.find.api.micloud.xiaomi.net
 us.i1.yimg.com
+us.ibs.lgappstv.com
 us.info.lgsmartad.com
+us.rdx2.lgtvsdp.com
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
@@ -3977,6 +4000,7 @@ webpayment-promo.internet.apps.samsung.com
 webpower.eu
 webpushr.com
 webredir.vip.gandi.net
+webredirect.org
 websecurity.norton.com
 websecurityguard.com
 webspaceconfig.de
@@ -4128,5 +4152,6 @@ zombo.com
 zoo.sandiegozoo.org
 zopim.com
 zugo.com
+zynga.com
 zyngawithfriends.com
 zzb.bz

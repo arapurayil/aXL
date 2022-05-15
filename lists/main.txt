@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.14
-# Last modified: 14 May 2022 16:05:32 UTC
+# Version: 3.05.15
+# Last modified: 15 May 2022 00:39:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -364,12 +364,10 @@
 9apps.com
 9gag.com
 9to5google.com
-Bbancobmg.com.br
 L9.fr
 Lvvk.com
 OneDrive-Collection.device.mobileengagement.windows.net
 To8.cc
-Wealthfront.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -661,6 +659,7 @@ acenar.com
 acer.com
 aciforex.com
 acikdeniz.denizbank.com
+acikdenizv2.denizbank.com
 acledabank-internetbanking.com
 acledabank.com.kh
 acmedctr.org
@@ -1138,7 +1137,6 @@ adsl-service-providers.net
 adsl4home.co.uk
 adsnative123.com
 adsp.xunlei.com
-adsrvmedia.adk2.net
 adssyscom.com
 adswizz.com
 adtechus.com
@@ -1241,6 +1239,7 @@ ahcdn.com
 ahcpr.gov
 ahd.ruten.com.tw
 ahepahosp.gr
+ahesube.anadoluhayat.com.tr
 ahhospital.com
 ahiba.hn
 ahinsashoes.cz
@@ -4009,6 +4008,7 @@ bb.com.br
 bb.com.mx
 bba.org.uk
 bbacbank.com
+bbancobmg.com.br
 bbandt.com
 bbank.ru
 bbb.org
@@ -4403,6 +4403,7 @@ bipop.it
 bir.net.tr
 birdislandbank.com
 bireysel-zîraat.com
+bireysel.turkishbank.com
 biri.com.tr
 birlaglobal.com
 birminghampost.net
@@ -9065,12 +9066,16 @@ estaticos.tvn.cl
 estore.sonymobile.com
 estream.to
 esube.abank.com.tr
-esube.albarakaturk.com.tr
+esube.albaraka.com.tr
 esube.bankasya.com.tr
 esube.burgan.com.tr
 esube.eximbank.gov.tr
+esube.teb.com.tr
 esube.turkishbank.com
 esube.turkishcards.com
+esube.turkiyehayatemeklilik.com.tr
+esube.ziraatkatilim.com.tr
+esube1.ziraatyatirim.com.tr
 esunbank.com.tw
 esurvey.stdd.kerala.gov.in
 et.tidal.com
@@ -11516,6 +11521,8 @@ hainberg-klinik.de
 halifax-online.co.uk
 halifax.co.uk
 halkbank.com.tr
+halkbank.mk
+halkbank.rs
 halkbankgayrimenkul.com.tr
 hallertauer-volksbank.de
 hallo-eltern.de
@@ -13353,12 +13360,14 @@ internet-banking.dbsbank.in
 internet-banking.hk.dbs.com
 internet.1mbank.ru
 internet.apps.samsung.com
+internet.hsbc.com.tr
 internet.ocbc.com
 internet.sony.tv
 internetbank.armbusinessbank.am
 internetbank.nsb.lk
 internetbank.swedbank.se
 internetbanka.cz
+internetbankaciligi.fibabanka.com.tr
 internetbanken.privat.nordea.se
 internetbanking.btn.co.id
 internetbanking.caixa.gov.br
@@ -13371,8 +13380,13 @@ internetdownloadmanager.com
 internetofthings.ibmcloud.com
 internetpanin.com
 internetsube.turkiyefinans.com.tr
+internetsube.yapikredi.com.tr
+internetsubesi.akbank.com
+internetsubesi.emirvarlik.com
 internetsubesi.fibabanka.com.tr
 internetsubesi.finansbank.enpara.com
+internetsubesi.ing.com.tr
+internetsubesi.qnbfinansbank.com
 internetzwerk.net
 internode.on.net
 interpark.com
@@ -13386,6 +13400,7 @@ intl.taobao.com
 intranet.xiaomi.com
 intrustbank.com
 intuit.com
+intvrg.gib.gov.tr
 inu.me
 invasivespeciesinfo.gov
 inventory.dealersocket.com
@@ -13559,8 +13574,13 @@ istartsurf.com
 istockphoto.com
 isu-odc.samsungapps.com
 isube.anadolubank.com.tr
+isube.emlakkatilim.com.tr
+isube.goldenglobalbank.com.tr
 isube.kuveytturk.com.tr
+isube.param.com.tr
 isube.tbank.com.tr
+isube.turkishyatirim.com
+isube.vakifkatilim.com.tr
 it-go.kelkoogroup.net
 it-it.about.flipboard.com
 it-it.staging-about.flipboard.com
@@ -13610,6 +13630,7 @@ iubenda.it
 iurisbank.com
 iurl.cn
 iutoic-dhaka.edu
+ivd.gib.gov.tr
 ivinsonhospital.org
 ivrmc-rsmc.com
 ivybank.ru
@@ -14491,6 +14512,10 @@ kudtkoekiewet.nl
 kuleuven.eu.qualtrics.com
 kunden-mkb-bank.de
 kurskprombank.ru
+kurumsal.aktifbank.com.tr
+kurumsal.param.com.tr
+kurumsal.turkishbank.com
+kurumsalinternetsubesi.ing.com.tr
 kutt.it
 kuveytturk.com.tr
 kuzbank.ru
@@ -17988,6 +18013,7 @@ online.mkb.ru
 online.ocbcnisp.com
 online.odeabank.com.tr
 online.oschadbank.ua
+online.osmanlimenkul.com.tr
 online.pabcbank.com
 online.pchrb.ru
 online.piraeusbank.ua
@@ -18204,7 +18230,6 @@ org.downloadcenter.samsung.com
 org.uk
 orgaplan.de
 orgresbank.com
-orientaltrading.com
 orig.sc.g.mi.com
 origin-a.akamaihd.net
 origin-a.akamaihd.net.edgesuite.net
@@ -18532,6 +18557,7 @@ partypoker.com
 partyshooters.de
 pasche.li
 pashabank.az
+pashaonline.pashabank.com.tr
 pasientsky.no
 pass.1688.com
 passado.com
@@ -19298,6 +19324,7 @@ pricelist.skype.com
 primbank.ru
 prime-bank.com
 prime.coinbase.com
+prime.tebyatirim.com.tr
 primenetwork.net
 primetime-a.akamaihd.net
 primewire.ag
@@ -19356,7 +19383,7 @@ pro.coinbase.com
 pro.coinmarketcap.com
 pro.fontawesome.com
 pro.hit.gemius.pl
-pro.ip-api.com
+pro.ziraatyatirim.com.tr
 processon.com
 prochan.com
 procreditbank.bg
@@ -19542,6 +19569,7 @@ ptm.ro
 ptmi.gitv.pandora.xiaomi.com
 ptsbank.com
 ptt.viber.com
+pttbank.ptt.gov.tr
 pu.sh
 pubads.g.doubleclick.net
 pubapi.bithumb.com
@@ -20798,7 +20826,6 @@ s1.lemde.fr
 s1.mi.com
 s1.mylife.com
 s1.symcb.com
-s1.trrsf.com
 s1.vuukle.com
 s1.wp.com
 s1325.t.eloqua.com
@@ -20854,7 +20881,6 @@ s3.wp.com
 s4.symcb.com
 s5.symcb.com
 s7.addthis.com
-s7.orientaltrading.com
 s8.addthis.com
 s9.picofile.com
 sa-blacklist.stearns.org
@@ -21379,6 +21405,7 @@ secure.breitbart.com
 secure.brightcove.com
 secure.cdn.us.playstation.com
 secure.commercegate.com
+secure.creditwestbank.com
 secure.crunchyroll.com
 secure.diigo.com
 secure.download.dm.origin.com
@@ -21435,6 +21462,7 @@ secure.viber.com
 secure.vimeo.com
 secure.winred.com
 secure.ya.no
+secure.yakindogubank.com
 secure3.nsandi.com
 secure4.segpay.com
 secure5.arcot.com
@@ -23106,7 +23134,6 @@ static.ow.ly
 static.parastorage.com
 static.parsely.com
 static.pd.biv.sony.tv
-static.pochta.ru
 static.quantcast.mgr.consensu.org
 static.returnpath.net
 static.rocketreach.co
@@ -23406,8 +23433,11 @@ styles.redditmedia.com
 su.pr
 suarankri.me
 subang.go.id
+sube.garantibbva.com.tr
 sube.halkbank.com.tr
+sube.halkyatirim.com.tr
 sube.iktisatbank.com
+sube.oyakyatirim.com.tr
 sube.sekerbank.com.tr
 subesizbankacilik.vakifbank.com.tr
 subhd.com
@@ -24134,6 +24164,7 @@ tiara.daum.net
 tiasdk.app.wechat.com
 tibbank.com
 tibsite.com
+ticari.yapikredi.com.tr
 ticcity.de
 ticino.com
 ticket.rakuten.co.jp
@@ -24290,7 +24321,6 @@ tools.tracemyip.org
 toots-a.akamaihd.net
 top.cafe.daum.net
 top.mail.ru
-top1.ro
 top8844.com
 topbuzz-applog-alisg.l.byteoversea.net
 topface.com
@@ -24661,7 +24691,6 @@ twurl.nl
 twven.com
 txbank.com
 txloanstar.com
-txxx.com
 tycotelecom.com
 typeface.nyt.com
 typeform.com
@@ -25267,8 +25296,10 @@ vaccines.gov
 vadianbank.ch
 vaeye.com
 vai5.com
+vakif-bank.de
 vakifbank.at
 vakifbank.com.tr
+vakifbankusa.com
 valartis.li
 valeofglamorgan.gov.uk
 valiant.ch
@@ -26313,6 +26344,7 @@ we.bs
 weak.tk
 wealden.gov.uk
 wealthbar.com
+wealthfront.com
 wealthsimple.com
 wearables.engadget.com
 weareanimalhospital.com
@@ -27412,8 +27444,16 @@ zippyshare.com
 ziprecruiter.com
 ziraat.com.tr
 ziraatbank.az
+ziraatbank.ba
+ziraatbank.bg
+ziraatbank.co.uk
+ziraatbank.com.gr
 ziraatbank.com.tr
 ziraatbank.de
+ziraatbank.me
+ziraatbank.ru
+ziraatbank.uz
+ziraatyatirim.matrikswebtrader.com
 zjcbank.com
 zka.de
 zkb.ch
