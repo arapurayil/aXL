@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.15
-# Last modified: 15 May 2022 08:07:34 UTC
+# Last modified: 15 May 2022 16:06:31 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5317,6 +5317,7 @@ capi-cn.ssl-images-amazon.com
 capi-eu.ssl-images-amazon.com
 capi-fe.ssl-images-amazon.com
 capi-na.ssl-images-amazon.com
+capi.connatix.com
 capitalbank-nc.com
 capitalbank.at
 capitalcrossing.com
@@ -5568,6 +5569,7 @@ ccservicing.com
 ccso.fr
 cctv.com
 cd.800wen.com
+cd.connatix.com
 cd6.digitaltrends.com
 cda.pl
 cdad.bg
@@ -5842,6 +5844,7 @@ cdnstatic.detik.com
 cdntip.com
 cdp.aliexpress.com
 cdp.cloud.unity3d.com
+cds.connatix.com
 cds.csx.sony.com
 cds.d2s7q6s2.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
@@ -11814,7 +11817,6 @@ hisense.com
 hispanito.com
 history.com
 history.paypal.com
-hit.bg
 hit.gemius.pl
 hit.interia.pl
 hit.me
@@ -13031,6 +13033,7 @@ img.breitbart.com
 img.brightcove.com
 img.buzzfeed.com
 img.cdn.mvideo.xiaomi.com
+img.connatix.com
 img.daisuki.net
 img.digitaltrends.com
 img.dnaindia.com
@@ -16939,6 +16942,7 @@ namecheap.com
 namechk.com
 namecoin.info
 namejet.com
+nametests.com
 namus.gov
 nanaija.com
 nanigans.com
@@ -25603,6 +25607,7 @@ vice-web-statics-cdn.vice.com
 vice.com
 vicsuper.com.au
 victoriasecret.com
+vid.connatix.com
 vid.pr0gramm.com
 vidaextra.com
 vidaxl.pl
@@ -27184,7 +27189,6 @@ xmrpool.eu
 xn--80aae3af7av6a7a.xn--p1ai
 xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
-xn--methrwallt-26ar0z.com
 xnet.co.nz
 xnxx.com
 xoe.cz
