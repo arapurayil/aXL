@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 May 2022 00:39:39 UTC
+# Last modified: 15 May 2022 08:07:34 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -879,6 +879,7 @@ campaign.abb.com
 campaign.adobe.com
 campaignmonitor.com
 canadapharmacy.com
+capi.connatix.com
 carbonads.net
 casalemedia.com.edgekey.net
 casino.com
@@ -897,6 +898,7 @@ ccbill.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 ccmbg.com
+cd.connatix.com
 cdex.mu
 cdn-3.convertexperiments.com
 cdn-gl.imrworldwide.com
@@ -907,6 +909,7 @@ cdn.adf.ly
 cdn.akubebas.com
 cdn.anypoint.mulesoft.com
 cdn.appdynamics.com
+cdn.ark.qq.com
 cdn.betrad.com
 cdn.bluebillywig.com
 cdn.branch.io
@@ -978,6 +981,7 @@ cdngarenanow-a.akamaihd.net
 cdns.gigya.com
 cdns.us1.gigya.com
 cdnstatic.detik.com
+cds.connatix.com
 cdurable.info
 cec.ro
 cedexis.com
@@ -1888,7 +1892,6 @@ heyue.xiaomi.com
 hide.me
 highcharts.com
 highwebmedia.com
-hit.bg
 hit.gemius.pl
 hit.interia.pl
 hit.stat24.com
@@ -2115,6 +2118,7 @@ ime.sogou.com
 img-fotki.yandex.ru
 img.alibaba.com
 img.beeg.com
+img.connatix.com
 img.en25.com
 img.netwrix.com
 img.onesignal.com
@@ -2305,7 +2309,6 @@ kqzyfj.com
 kredytbank.com.ua
 krxd.net
 kryptoslogic.com
-kuaiche.com
 l-0014.l-msedge.net
 l-stat.livejournal.net
 l.betrad.com
@@ -2418,6 +2421,7 @@ m.cnbeta.com
 m.exactag.com
 m.hotmail.com
 m.pr0gramm.com
+m.qpic.cn
 m.qq.com
 m.yap.yahoo.com
 m1.fwmrm.net
@@ -2654,6 +2658,7 @@ na61-na62.wagbridge.advertisement.tanx.com
 na61-na62.wagbridge.alibaba.tanx.com
 naiadsystems.com
 naifei.shop
+nametests.com
 narrativ.com
 narwhal.mobidia.com
 natcom.co.nz
@@ -2892,7 +2897,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perf.mmstat.com
 perfalytics.com
 perfdrive.com
 performgroup.com
@@ -3926,6 +3930,7 @@ via.batch.com
 via.placeholder.com
 viarnd.112.2o7.net
 vibetronic.id
+vid.connatix.com
 vidaxl.pl
 vidazoo.com
 video-fa.scdn.co
@@ -4100,7 +4105,6 @@ xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xmpush.xiaomi.com
 xmrpool.eu
-xn--methrwallt-26ar0z.com
 xp.apple.com
 xrea.com
 xtgem.com

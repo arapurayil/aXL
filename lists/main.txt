@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.15
-# Last modified: 15 May 2022 00:39:39 UTC
+# Last modified: 15 May 2022 08:07:34 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -205,6 +205,7 @@
 21hospital.co.kr
 21stcenturywire.com
 2222mb.com
+2345.com
 24.comertbank.md
 24.hu
 247-inc.net
@@ -1131,6 +1132,7 @@ adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
 adservicemedia.dk
+adsh.wagbridge.taobao.alimama.com
 adshell.net
 adshostnet.com
 adsl-service-providers.net
@@ -1249,6 +1251,7 @@ ahwatukeecommonsveterinaryhospital.vetsuite.com
 ai.ly
 ai.yimg.jp
 aib.ie
+aic-ngfts.lge.com
 aicdn.com
 aicp-rom.com
 aids.gov
@@ -2091,6 +2094,7 @@ amco-bank.com
 amcore.com
 amd.cdn.turner.com
 amd.com
+amdc.alipay.com
 amdc.m.taobao.com
 ameblo.jp
 amedigital.com
@@ -2447,6 +2451,7 @@ api.engager.ecbsn.com
 api.entrance.sonymobile.com
 api.erabu.sony.tv
 api.erabu.sonymobile.com
+api.euro.hismarttv.com
 api.exchange.coinbase.com
 api.facebook.com
 api.fast.com
@@ -2519,6 +2524,7 @@ api.miui.security.xiaomi.com
 api.miwifi.com
 api.mixpanel.com
 api.monitor.azure.com
+api.msn.com
 api.naver.com
 api.netflix.com
 api.newrelic.com
@@ -2613,6 +2619,7 @@ api.uaq.xiaomi.net
 api.uca.cloud.unity3d.com
 api.unsplash.com
 api.urbandictionary.com
+api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
 api.vc.bilibili.com
@@ -6495,6 +6502,7 @@ cloudfront-app-cdn.spot.im
 cloudfront.net
 cloudinary.com
 cloudmail17.netcore.co.in
+cloudns.asia
 cloudns.cl
 cloudopenlabs.huawei.com
 cloudresourcemanager.googleapis.com
@@ -9008,7 +9016,6 @@ ereg.wip3.adobe.com
 eren.chia-anime.tv
 erewash.gov.uk
 erfurter-bank.de
-ergo.flypool.org
 ergobank.ru
 erky.de
 erlabrunn.de
@@ -9086,7 +9093,6 @@ eteba.ro
 etebac.com
 etf.com
 ethermine.org
-ethhex.com
 ethias-banque.be
 ethikbank-onlinebanking.de
 ethikbank.de
@@ -9954,7 +9960,6 @@ flurry.com
 flushingsavings.com
 flux.com
 flx1.com
-flypool.org
 fm-p.jp
 fm.tuba.pl
 fmb-ebank.com
@@ -11230,6 +11235,7 @@ googlesource.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
+googletraveladservices.com
 googleusercontent.com
 googlevideo.com
 googleweblight.com
@@ -12101,6 +12107,7 @@ hub5pn.sandai.net
 hubank.com
 hubblecontent.osi.office.net
 hubciddata.sandai.net
+hubs.ly
 hubspot.com
 hubspot.net
 hubspotemail.net
@@ -12589,6 +12596,7 @@ ibna.an
 ibo.es
 iboc.com
 ibryte.com
+ibs.lgappstv.com
 ibs.spurtbank.ru
 ibsc.org
 ibtco.com
@@ -13777,6 +13785,7 @@ joindiaspora.com
 joint.reg2t.sandai.net
 jok-gi.de
 joker.com
+jonasschnelli.ch
 joomla.org
 jordan-kuwait-bank.com
 jordanislamicbank.com
@@ -14842,6 +14851,7 @@ likes.com
 lilavatihospital.com
 lilo.org
 limao.com.br
+limasky.com
 lime-zaim.ru
 limetorrents.cc
 limited-prod.giphy.map.fastly.net
@@ -15116,7 +15126,6 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
-login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -16587,6 +16596,7 @@ mqtt.facebook.com
 mqtt.gotinder.com
 mqtt.pushy.me
 mr.da.netease.com
+mradx.net
 mrbank.com.pl
 mrhospital.com
 mrodevicemgr.officeapps.live.com
@@ -16614,6 +16624,7 @@ msg.yahoo.com
 msg2.client.xunlei.com
 msgfocus.com
 msgs.jp
+msh.amazon.co.uk
 msh.amazon.com
 msha.gov
 msit.powerbi.com
@@ -16826,6 +16837,7 @@ myhalyk.kz
 myhighlandvet.com
 myhome.naver.com
 myhomefed.com
+myhomescreen.tv
 myhosting247.com
 myindependence.com
 myinvestorsbank.com
@@ -16870,6 +16882,7 @@ myway.com
 mywebanywhere.com
 mywebsearch.com
 mywifiext.com
+mywire.org
 mywot.com
 myxns.cn
 myxperia.sonymobile.com
@@ -17590,6 +17603,7 @@ nt.me
 nt3.ggpht.com
 ntco.nl
 ntdtv.com
+ntp.msn.com
 ntp.org
 ntr.nl
 ntrs.com
@@ -17712,7 +17726,6 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
-objectstorage.eu-milan-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
 oboom.com
@@ -18478,6 +18491,7 @@ pandemicflu.gov
 pando.com
 pandora.com
 pandora.mi.com
+pandora.xiaomi.com
 panduoduo.net
 pangaliit.ee
 pangle.io
@@ -19290,7 +19304,6 @@ premierbnk.com
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
-premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
@@ -25122,6 +25135,7 @@ us.hide.me
 us.hsbc.com
 us.i.mi.com
 us.i1.yimg.com
+us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.kaspersky.com
 us.lgtvsdp.com
@@ -25138,6 +25152,7 @@ us.phonecallapi.micloud.xiaomi.net
 us.pipe.aria.microsoft.com
 us.playstation.com
 us.pool.ntp.org
+us.rdx2.lgtvsdp.com
 us.sfsapi.micloud.xiaomi.net
 us.smsapi.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
@@ -26456,6 +26471,7 @@ webprecision.com
 webprosnetwork.com
 webpushr.com
 webredir.vip.gandi.net
+webredirect.org
 webring.com
 webs.com
 websearch.rakuten.co.jp
@@ -27499,6 +27515,7 @@ zwift.com
 zwigge.de
 zxq.net
 zymic.com
+zynga.com
 zyngawithfriends.com
 zytpirwai.net
 zyva.org
