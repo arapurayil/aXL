@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.16
-# Last modified: 16 May 2022 00:31:05 UTC
+# Last modified: 16 May 2022 08:08:28 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -903,6 +903,7 @@ ads345.com
 adsafeprotected.com
 adsafety.net
 adschemist.com
+adsdelivery1.com
 adserver.snapads.com
 adservice.google.ac
 adservice.google.ad
@@ -2224,6 +2225,7 @@ android.com
 android.intouch.sonymobile.com
 android.l.google.com
 android.pool.ntp.org
+android.revmob.com
 androidadvices.com
 androidapi.mxplay.com
 androidauthority.com
@@ -2244,6 +2246,7 @@ angelfire.com
 angloirishbank.com
 angolotesti.it
 angryip.org
+angsrvr.com
 angus.gov.uk
 ani.sh
 anidb.net
@@ -2952,6 +2955,7 @@ articles.chicagotribune.com
 articles.latimes.com
 artisansbank.com
 aruba.it
+aruljohn.com
 arv.us
 arvest.com
 arvetellefsen.no
@@ -6755,6 +6759,7 @@ comfedbank.com
 comic.naver.com
 comic.nil.naver.com
 comingsoon.namebright.com
+commandcenteral.info
 commander1.com
 commbank-wge.com
 commbank.com.au
@@ -9446,6 +9451,7 @@ factoring.mb.seb.se
 factoring.seb.de
 factorio.com
 factory.blog.naver.com
+factorygood.net
 factorypoint.com
 faheybank.com
 fairfieldanimalhospital.com
@@ -10910,6 +10916,7 @@ gitlab.com
 gitlab.io
 gitter.im
 giveawayoftheday.com
+givemefilesnow.info
 gizbot.com
 gizchina.com
 gizmodo.com
@@ -12075,7 +12082,6 @@ hosts.herndl.org
 hostsfile.mine.nu
 hostsfile.org
 hostwindsor.com
-hotbar.com
 hotdeals.com
 hotdoc.com.au
 hotdogsandads.com
@@ -13872,7 +13878,6 @@ joindiaspora.com
 joint.reg2t.sandai.net
 jok-gi.de
 joker.com
-jonasschnelli.ch
 joomla.org
 jordan-kuwait-bank.com
 jordanislamicbank.com
@@ -14723,6 +14728,7 @@ larrainvial.com
 larsjung.de
 lasallebank.com
 lasenza.com
+lasersteam178.ru
 lastfm-img2.akamaized.net
 lastpass.com
 lasvegas.cbslocal.com
@@ -16377,6 +16383,7 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -16539,6 +16546,7 @@ mod.gov.az
 modalmais.com.br
 modapkdown.com
 moddb.com
+modelshared.xyz
 moderation.spot.im
 modern-banking.at
 modern-banking.de
@@ -17034,6 +17042,7 @@ namebright.com
 namecheap.com
 namechk.com
 namecoin.info
+namehelper.xyz
 namejet.com
 nametests.com
 namus.gov
@@ -17042,6 +17051,7 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
+nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -18467,6 +18477,7 @@ ovb-zweisimmen.ch
 ovbc.com
 ovbk.be
 ovc2-ustokyyneikyfasnm.stackpathdns.com
+over-blog.com
 over.com
 overlakehospital.org
 overloaded.crunchyroll.com
@@ -18646,6 +18657,7 @@ parmahospital.org
 parool.nl
 parse.ly
 parsely.com
+parserword.xyz
 part.xbox.com
 partner-ads.com
 partner-bank.at
@@ -19084,6 +19096,7 @@ pixhost.to
 pixinvent.com
 pixiu.shangshufang.ksosoft.com
 pixiv.net
+pizzaandads.com
 pjatr.com
 pjtra.com
 pkb24.ru
@@ -19608,6 +19621,7 @@ providentbanking.com
 providentbankmd.com
 providentnj.com
 providerstore.xyz
+providerzip.xyz
 providian.com
 provincial.com
 proxad.net
@@ -20070,6 +20084,7 @@ ranking.com
 ranking.rakuten.co.jp
 ransomwaretracker.abuse.ch
 raphaelsklinik.de
+rapidapi.com
 rapidgator.net
 rapidshare.com
 rapidssl-aia.geotrust.com
@@ -20973,6 +20988,7 @@ s2b.standardchartered.com
 s2k7tnzlhrpw.statuspage.io
 s2p.mpay.samsung.com
 s2p.stg.mpay.samsung.com
+s2s.rafotech.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -21022,6 +21038,7 @@ sa-in-f26.1e100.net
 sa-in-f27.1e100.net
 sa.api.intl.miui.com
 sa.bbc.co.uk
+sa.bbc.com
 sa.nexon.game.naver.com
 sa.symcb.com
 sa1-urlp.secure.skypeassets.com
@@ -23023,6 +23040,7 @@ ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
+ssl4anyone2.com
 sslbl.abuse.ch
 sslshare.gshifen.com
 ssm.pd.biv.sony.tv
@@ -23576,6 +23594,7 @@ stvhs.com
 stvincenthospital.com
 stvincenthospital.org
 style.sndcdn.com
+stylefun.info
 stylehive.com
 stylem.com
 styles.redditmedia.com
@@ -23969,6 +23988,7 @@ taraleighcobble.com
 target.com
 target.georiot.com
 target.scene7.com
+targetedinfo.com
 targobank.de
 taringa.net
 tarjetacencosud.cl
@@ -24051,6 +24071,7 @@ tech2-cdn.com
 techcommunity.microsoft.com
 techcrunch.com
 techguy.org
+techine.info
 techine.net
 techmeme.com
 technical-service.net
@@ -24292,8 +24313,10 @@ thinair.net.nz
 thinkroadsafety.gov.uk
 thirdparty.bnc.lt
 thirdqq.qlogo.cn
+thisisacoolthing.com
 thisissand.com
 thisisyourbank.com
+thismode.xyz
 thm.market.xiaomi.com
 thomashospital.com
 threatcrowd.org
@@ -25311,6 +25334,7 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
@@ -25448,6 +25472,7 @@ v3cdn.net
 v4.download.windowsupdate.com
 v4.ident.me
 v5.gd
+v6.ident.me
 v7.stats.avast.com
 v7event.stats.avast.com
 v9.com
@@ -25710,6 +25735,7 @@ vermontmba.com
 vermontnationalbank.com
 version.bind
 version.hybrid.api.here.com
+versionwind.xyz
 verwandt.de
 very.co.uk
 veryweird.com
@@ -25830,6 +25856,7 @@ vimeo.com
 vimeocdn.com
 vincentius-kliniken.de
 vincenz.de
+vincula.ru
 vine.co
 vineyardbank.com
 vintagebank.com
@@ -27332,6 +27359,7 @@ xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xl8.eu
 xlmc.sandai.net
+xlmc.sec.miui.com
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xmccb.com
@@ -27677,6 +27705,7 @@ zulily.com
 zvezabank.at
 zwift.com
 zwigge.de
+zxcfdsa.hopto.org
 zxq.net
 zymic.com
 zynga.com
