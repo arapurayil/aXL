@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 May 2022 08:08:28 UTC
+# Last modified: 16 May 2022 16:07:08 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -534,7 +534,6 @@ androidtvwatsonfe-pa.googleapis.com
 androidweblog.com
 anexia-it.com
 angolotesti.it
-angsrvr.com
 anrdoezrs.net
 answerhub.com
 antionline.com
@@ -824,6 +823,7 @@ bk01.hh.xiaomi.com
 bkrtx.com
 blankrefer.com
 blekko.com
+blobcollector.events.data.trafficmanager.net
 blockadblock.com
 blockthrough.com
 blog.disqus.com
@@ -904,11 +904,9 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
-c.microsoft.com
 c.msn.com
 c.paypal.com
 c.sayhi.360.cn
-c.t-online.de
 c.tadst.com
 c.woopic.com
 c.xkcd.com
@@ -979,7 +977,6 @@ cdn.flurry.com
 cdn.gigya.com
 cdn.gladly.com
 cdn.gotraffic.net
-cdn.hbbtv.smartclip.net
 cdn.heapanalytics.com
 cdn.hockeyapp.net
 cdn.iubenda.com
@@ -1110,7 +1107,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clientconfig.passport.net
 clients.l.google.com
 clients1.google.com
@@ -1652,6 +1648,7 @@ fast.appcues.com
 fast.wistia.com
 fast.wistia.net
 fastly-analytics.com
+faucethub.io
 faygoluvers.net
 fb38099g.bget.ru
 fc-lc.com
@@ -1838,7 +1835,6 @@ georiot.com
 geover-prod.do.dsp.mp.microsoft.com
 gestyy.com
 get-express-vpn.com
-get.untangle.com
 get.x-link.pl
 getadmiral.com
 getalinkandshare.com
@@ -1856,6 +1852,7 @@ giqepofa.com
 givemefilesnow.info
 gj.mmstat.com
 glam.com
+glbdns2.microsoft.com
 gleam.io
 glimmer.hearstapps.com
 global-wildcard.insightexpressai.com.edgekey.net
@@ -1879,7 +1876,6 @@ go.leanplum.com
 go.madmimi.com
 go.mybusinessacademy.ph
 go.neverware.com
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
@@ -2283,6 +2279,7 @@ ink1001.com
 inquisition.goguardian.com
 ins-2ybret5v.ias.tencent-cloud.net
 inside-graph.com
+insideruser.trafficmanager.net
 insight.rapid7.com
 insightexpress.com
 insightexpressai.com
@@ -2692,7 +2689,6 @@ mis.migc.xiaomi.com
 miscopy.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
-mistat.xiaomi.com
 mitunes.game.xiaomi.com
 mixi.media
 mixpanel.com
@@ -2746,7 +2742,6 @@ mopub.com
 mouseflow.com
 movable-ink-2183.com
 movable-ink-397.com
-mp.huangye.miui.com
 mp.twitch.tv
 mp3clan.com
 mparticle.com
@@ -2801,7 +2796,6 @@ naiadsystems.com
 naifei.shop
 namehelper.xyz
 nametests.com
-nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -2892,6 +2886,8 @@ nutaku.com
 nv-sdk.jumio.com
 nv.veta.naver.com
 nv.vi-serve.com
+nw-umwatson.events.data.microsoft.com
+o.auspost.com.au
 o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
@@ -3201,6 +3197,7 @@ ptmi.gitv.pandora.xiaomi.com
 public-family.api.account.microsoft.com
 public-ws-ubiservices.ubi.com
 publicidees.com
+publicvm.com
 publisher-assets.spot.im
 pubmatic.com
 pubster.twitch.tv
@@ -3314,7 +3311,6 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -3379,7 +3375,6 @@ s.zkcdn.net
 s0-2mdn-net.l.google.com
 s0.2mdn.net
 s1325.t.eloqua.com
-s2s.rafotech.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -3391,7 +3386,6 @@ s7.addthis.com
 s8.addthis.com
 sa.api.intl.miui.com
 sa.bbc.co.uk
-sa.bbc.com
 saa.cbsi.com
 sabre.com
 sadmin.brightcove.com
@@ -3473,7 +3467,6 @@ seal.godaddy.com
 seal.networksolutions.com
 seal.ranking.com
 seal.validatedsite.com
-seal.verisign.com
 sealserver.trustwave.com
 search.us.com
 search2000s.com
@@ -3535,6 +3528,7 @@ servebeer.com
 servedby.o2.co.uk
 servepics.com
 server.iad.liveperson.net
+service.cz.nl
 service.game-mode.net
 services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
@@ -3543,6 +3537,7 @@ serving-sys.com
 sessioncam.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
+settingsfd-geo.trafficmanager.net
 sf1-ttcdn-tos.pstatp.com
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
@@ -3561,7 +3556,6 @@ shareaholic.com
 shareasale.com
 sharethis.com
 sharewood.org
-shenghuo.xiaomi.com
 shenyun.com
 shinobi.jp
 shodanhq.com
@@ -3611,7 +3605,6 @@ smallseotools.com
 smart.link
 smartadserver.com
 smartasset.com
-smartclip.net
 smartlook.com
 smartplugin.youbora.com
 smartredirect.de
@@ -3791,7 +3784,6 @@ sweet.tv
 sweetim.com
 swift.com
 swrve.com
-sxp.smartclip.net
 sy.ameblo.jp
 symcd.com
 syncplusconfig.s3.amazonaws.com
@@ -3811,7 +3803,6 @@ t.myvisualiq.net
 t.paydirekt.de
 t.paypal.com
 t.purch.com
-t.vimeo.com
 t.wayfair.ca
 t.wayfair.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -4051,6 +4042,7 @@ ulmwp.org
 ultimedia.com
 umdc.aliapp.org
 umeng.com
+umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 unagi.amazon.com
 unbi.ba
@@ -4095,7 +4087,6 @@ us.i1.yimg.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.rdx2.lgtvsdp.com
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
@@ -4326,7 +4317,6 @@ www3.webhostingtalk.com
 www4.cbox.ws
 www4.orangecyberdefense.com
 www5.2giga.link
-www5.untangle.com
 www6.2giga.link
 www6.cbox.ws
 www7.2giga.link
@@ -4347,7 +4337,6 @@ xiazai.xiaomi.com
 xirvik.com
 xiti.com
 xlmc.sandai.net
-xlmc.sec.miui.com
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xml.opera.com
@@ -4408,6 +4397,7 @@ zmctrack.net
 zombo.com
 zoo.sandiegozoo.org
 zopim.com
+ztd.dds.microsoft.com
 zugo.com
 zxcfdsa.hopto.org
 zynga.com
