@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 May 2022 08:08:13 UTC
+# Last modified: 17 May 2022 16:11:32 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -218,6 +218,7 @@ adperfect.com
 adpushup.com
 adregain.com
 adrelayer.com
+adrequest.net
 adrise.tv
 ads-cdn.grab.com
 ads-e-darwin.hulustream.com
@@ -540,6 +541,7 @@ antionline.com
 antiphishing.cliqz.com
 anubisnetworks.com
 anura.io
+anvir.com
 any.gs
 anycast.adnxs.com
 apac1.notify.windows.com.akadns.net
@@ -768,6 +770,7 @@ bam-x.com
 bam.eu01.nr-data.net
 bam.nr-data.net
 banki.onet.pl
+banner.dafapunter.com
 banner.play-asia.com
 bannerbank.com
 bannertrack.net
@@ -816,6 +819,7 @@ bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
 bitcheese.net
 bitly.com
+bits.avcdn.net
 bittersweetparis.com
 bizrate.com
 bj.bcebos.com
@@ -1407,7 +1411,9 @@ ditto.com
 djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.installiq.com
+dl.packetstormsecurity.net
 dl.twitchdl.com
+dl.xetapp.us
 dldir1.qq.com
 dldir2.qq.com
 dlied6.qq.com
@@ -1648,7 +1654,6 @@ fast.appcues.com
 fast.wistia.com
 fast.wistia.net
 fastly-analytics.com
-faucethub.io
 faygoluvers.net
 fb38099g.bget.ru
 fc-lc.com
@@ -1663,7 +1668,6 @@ feedblitz.com
 fembed.com
 femto.pw
 ffdns.net
-fiil.com
 file.market.xiaomi.com
 file.xmpush.xiaomi.com
 filehorse.com
@@ -2046,7 +2050,6 @@ html5zombo.com
 http-test1.luminatinet.com
 huangye.miui.com
 hubblecontent.osi.office.net
-hubs.ly
 hubspot.com
 hugedomains.com
 humanpresence.app
@@ -2450,6 +2453,7 @@ lapauseyogachaud.com
 larati.net
 lasersteam178.ru
 launches.appsflyer.com
+launchpadlibrarian.net
 laureus.com
 lb.production-public.tubi.io
 lbs.pandora.xiaomi.com
@@ -2614,6 +2618,7 @@ matomo.org
 maxcdn.bootstrapcdn.com
 maxcdn.com
 maxwebsearch.com
+maysoon.biz
 mazu.sec.miui.com
 mb-cdn.stocard.de
 mbga.jp
@@ -2634,6 +2639,7 @@ media.sailthru.com
 media01.eu
 mediabrix.com
 mediacorp.112.2o7.net
+mediafire.com
 mediafiretrend.com
 mediametrics.ru
 mediaplayercodecpack.com
@@ -2808,6 +2814,7 @@ nebula-collector.huawei.com
 neemu.com
 neobux.com
 net-s.pl
+net.geo.opera.com
 netc.sfr.fr
 netcore.co.in
 netcoresmartech.com
@@ -2892,6 +2899,7 @@ o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
+objectstorage.us-ashburn-1.oraclecloud.com
 ocsp.apple.com
 ocsp.comodoca.com
 ocsp.int-x3.letsencrypt.org
@@ -2979,7 +2987,6 @@ osb-ussvc.samsungqbe.com
 osb.samsungqbe.com
 osimg.nbcuni.com
 ospserver.net
-otf.msn.com
 otn.samsungcloudcdn.com
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
@@ -3153,6 +3160,7 @@ preferences.truste.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com
+prevelo.com
 prf.hn
 pricelist.skype.com
 primenetwork.net
@@ -3197,7 +3205,6 @@ ptmi.gitv.pandora.xiaomi.com
 public-family.api.account.microsoft.com
 public-ws-ubiservices.ubi.com
 publicidees.com
-publicvm.com
 publisher-assets.spot.im
 pubmatic.com
 pubster.twitch.tv
@@ -3261,6 +3268,7 @@ rapidapi.com
 rapidvideo.com
 rarbg.to
 rat.rakuten.co.jp
+rb.gy
 rbx.gg
 rchase.com
 rd.rakuten.co.jp
@@ -3302,6 +3310,7 @@ reimageplus.com
 relevant-digital.com
 remind.me
 remote-data.urbanairship.com
+rentry.co
 report-uri.cloudflare.com
 reports.cliqz.com
 repository.cliqz.com
@@ -3380,6 +3389,7 @@ s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3.ap-south-1.amazonaws.com
 s3.ll.videorolls.row.aiv-cdn.net
 s3.us-east-1.wasabisys.com
 s7.addthis.com
@@ -3411,6 +3421,7 @@ samsungotn.net
 samsungqbe.com
 samsungrm.net
 sanalytics.disneyplus.com
+sanantonionamechange.com
 sandai.net
 sandbox.xmpush.xiaomi.com
 sandhyapi.online
@@ -3475,6 +3486,7 @@ searchads.apple.com
 searchdimension.com
 searchdiscovered.com
 searchencrypt.com
+searchesinteractive.com
 searchignited.com
 searchmagnified.com
 searchprivacyplus.com
@@ -3516,6 +3528,7 @@ sematext.com
 semawur.com
 semnaniau.ac.ir
 semrush.com
+send.firefox.com
 sendfwd.com
 sensic.net
 sentitlement2.mobile.att.net
@@ -3546,6 +3559,7 @@ sg.a.stat.mi.com
 sgiz.mobi
 sgizmo.com
 sgp.o2o.api.xiaomi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -3572,6 +3586,7 @@ shortpixel.ai
 shots.snap.com
 shrink.pe
 siamzone.com
+siasky.net
 sickrage.ca
 sidecar.gitter.im
 sift.com
@@ -3589,6 +3604,7 @@ sinlix.lk
 site5.com
 siteplug.com
 sitetracker.com
+situacaocadastral.info
 skidrow-games.com
 skimlinks.com
 skimresources.com
@@ -3671,7 +3687,6 @@ ssl.kaptcha.com
 ssl.msdk.qq.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
-ssl4anyone2.com
 ssm1.internet.sony.tv
 sso.internetat.tv
 ssor.tribdss.com
@@ -3743,6 +3758,7 @@ stbimg.echostarcdn.com.c.footprint.net
 stc.za.zaloapp.com
 steamanalyst.com
 stereomag.ro
+stereomanuals.com
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
@@ -3803,6 +3819,7 @@ t.myvisualiq.net
 t.paydirekt.de
 t.paypal.com
 t.purch.com
+t.umblr.com
 t.wayfair.ca
 t.wayfair.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -3975,6 +3992,7 @@ traffic.spot.im
 trafficguard.ai
 trafficrouter.io
 transfer.sh
+transitapp.com
 traq.li
 trbas.com
 trbna.com
@@ -4019,6 +4037,7 @@ typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
 typepad.com
+u.nu
 uamobile.net
 uarating.com
 ub.edu.ph
