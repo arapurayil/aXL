@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 May 2022 16:11:32 UTC
+# Last modified: 18 May 2022 00:26:33 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -128,6 +128,7 @@ aax.amazon-adsystem.com
 aboluowang.com
 about.com
 aboutads.info
+above.com
 abroad.apilocate.amap.com
 abtasty.com
 abtest.mistat.xiaomi.com
@@ -3854,7 +3855,6 @@ tapad.com
 taplytics.com
 tapresearch.com
 taraleighcobble.com
-targetedinfo.com
 tblog-8sodn459.kgslb.com
 tbskip.taobao.com
 tc.tradetracker.net

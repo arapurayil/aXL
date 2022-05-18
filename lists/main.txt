@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.17
-# Last modified: 17 May 2022 16:11:32 UTC
+# Version: 3.05.18
+# Last modified: 18 May 2022 00:26:33 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -882,6 +882,7 @@ adperfect.com
 adpushup.com
 adregain.com
 adrelayer.com
+adrequest.net
 adrianstatebank.com
 adrise.tv
 ads-cdn.grab.com
@@ -2304,6 +2305,7 @@ anubisnetworks.com
 anura.io
 anurl.com
 anvil.opentok.com
+anvir.com
 anwb.nl
 any-in-2015.1e100.net
 any.gs
@@ -3909,6 +3911,7 @@ bankwestnevada.com
 bankwi.com
 bankwindhoek.com.na
 bankwithpsb.com
+banner.dafapunter.com
 banner.play-asia.com
 bannera.kingsoft-office-service.com
 bannerbank.com
@@ -4472,6 +4475,7 @@ bitly.ws
 bitmovin.com
 bitpanda.com
 bitpay.com
+bits.avcdn.net
 bits.twitch.tv
 bitstamp.net
 bittersweetparis.com
@@ -8091,9 +8095,11 @@ dl.l.google.com
 dl.notepad-plus-plus.org
 dl.op.wpscdn.cn
 dl.opensubtitles.org
+dl.packetstormsecurity.net
 dl.twitchdl.com
 dl.update.micloud.xiaomi.net
 dl.xda-developers.com
+dl.xetapp.us
 dl.xposed.info
 dl2.files.xiaomi.net
 dl2.soft98.ir
@@ -9729,7 +9735,6 @@ fig.bbc.co.uk
 figma.app
 figshare.com
 fih.dk
-fiil.com
 fiiwarsaw.com
 filament.io
 file-extensions.org
@@ -12189,7 +12194,6 @@ hub5pn.sandai.net
 hubank.com
 hubblecontent.osi.office.net
 hubciddata.sandai.net
-hubs.ly
 hubspot.com
 hubspot.net
 hubspotemail.net
@@ -15745,6 +15749,7 @@ maybank2u.com.ph
 mayitek.com
 mayoclinic.org
 mayohospital.com
+maysoon.biz
 mazobank.com
 mazonstatebank.com
 mazu.sec.miui.com
@@ -17210,6 +17215,7 @@ nest.com
 net-s.pl
 net.au
 net.edgekey.net
+net.geo.opera.com
 net.kentbank.hr
 net.ms
 net.pnb.com
@@ -17839,6 +17845,7 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
+objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
 oboom.com
@@ -19440,6 +19447,7 @@ pressly.com
 prestashop.com
 prestigecu.org
 pretoriapethospital.com
+prevelo.com
 preview-community.xbox.com
 preview-group.diigo.com
 preview-secure-www.xbox.com
@@ -19726,7 +19734,6 @@ public.vilynx.com
 publicbank.com.my
 publicidees.com
 publicsuffix.org
-publicvm.com
 publish.adobe.com
 publisher-assets.spot.im
 publishers.flipboard.com
@@ -20254,6 +20261,7 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
+rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -21496,6 +21504,7 @@ searchdimension.com
 searchdiscovered.com
 searchencrypt.com
 searchenginejournal.com
+searchesinteractive.com
 searchignited.com
 searchmagnified.com
 searchprivacyplus.com
@@ -21832,6 +21841,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21962,6 +21972,7 @@ si.playstation.com
 siab.ru
 siamzone.com
 siasat.pk
+siasky.net
 siatka.org
 sib.ci
 sibank.ru
@@ -22071,6 +22082,7 @@ sitestandart.ru
 sitestat.com
 sitetalk.com
 sitetracker.com
+situacaocadastral.info
 sixrivers.com
 sj1gtm003.adobe.com
 sj1gtm004.adobe.com
@@ -23040,7 +23052,6 @@ ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
-ssl4anyone2.com
 sslbl.abuse.ch
 sslshare.gshifen.com
 ssm.pd.biv.sony.tv
@@ -23423,6 +23434,7 @@ steinonline.it
 stej.se
 stelisabethhospital.com
 stereomag.ro
+stereomanuals.com
 sterlingbank.com
 sterlingbank.ws
 sterlingbankasia.com
@@ -24641,6 +24653,7 @@ transbank.ru
 transcredit.ru
 transfer.go.com
 transfer.sh
+transitapp.com
 translate.google.com
 translate.googleapis.com
 translate.wechat.com
