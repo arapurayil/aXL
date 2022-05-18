@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 May 2022 08:08:03 UTC
+# Last modified: 18 May 2022 16:07:19 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -536,6 +536,7 @@ androidtvwatsonfe-pa.googleapis.com
 androidweblog.com
 anexia-it.com
 angolotesti.it
+angsrvr.com
 anrdoezrs.net
 answerhub.com
 antionline.com
@@ -755,6 +756,7 @@ b.scorecardresearch.com
 b.stats.paypal.com
 b.vimeocdn.com
 b.wishabi.com
+b02.black.ndmdhs.com
 b13.com
 b23.ru
 b2b.angieslist.com
@@ -909,9 +911,11 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
+c.microsoft.com
 c.msn.com
 c.paypal.com
 c.sayhi.360.cn
+c.t-online.de
 c.tadst.com
 c.woopic.com
 c.xkcd.com
@@ -1112,6 +1116,7 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
+client-event-reporter.twitch.tv
 clientconfig.passport.net
 clients.l.google.com
 clients1.google.com
@@ -1375,6 +1380,7 @@ decknetwork.net
 dedecms.com
 deliveroo.com.sg
 delivery.acm.org
+delivery.tacticalrepublic.com
 delivery.vidible.tv
 delivery04.dhe.ibm.com
 delta-search.com
@@ -1788,6 +1794,7 @@ g.ezoic.net
 g.ign.com
 g.msn.com
 g17media.com
+gala.spiceworks.com
 gall.dcinside.com
 gallery.cdn.pandora.xiaomi.com
 gallery.pandora.xiaomi.com
@@ -1849,6 +1856,7 @@ getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
 gh.ffshrine.org
+ghostery-collector.ghostery.com
 ghosthis.review
 gia.jd.com
 gigazine.asia
@@ -1958,6 +1966,7 @@ guitarforge.it
 gumtree.com
 gunosy.com
 gvt2.com
+gwx.windows.com
 h-sdk.online-metrix.net
 h-tdcanada.online-metrix.net
 h.imguol.com
@@ -2282,6 +2291,7 @@ ingest.sentry.io
 ink1001.com
 inquisition.goguardian.com
 ins-2ybret5v.ias.tencent-cloud.net
+inscname.net
 inside-graph.com
 insideruser.trafficmanager.net
 insight.rapid7.com
@@ -2696,6 +2706,7 @@ mis.migc.xiaomi.com
 miscopy.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
+mistat.xiaomi.com
 mitunes.game.xiaomi.com
 mixi.media
 mixpanel.com
@@ -2749,6 +2760,7 @@ mopub.com
 mouseflow.com
 movable-ink-2183.com
 movable-ink-397.com
+mp.huangye.miui.com
 mp.twitch.tv
 mp3clan.com
 mparticle.com
@@ -2803,6 +2815,7 @@ naiadsystems.com
 naifei.shop
 namehelper.xyz
 nametests.com
+nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -2827,6 +2840,7 @@ netzathleten.de
 neustar.biz
 newre-conversions.clickmeter.com
 newrelic.com
+news-easy.org
 news.ebc.net.tw
 news.smi2.ru
 newsbreak.com
@@ -3321,6 +3335,7 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -3385,6 +3400,7 @@ s.zkcdn.net
 s0-2mdn-net.l.google.com
 s0.2mdn.net
 s1325.t.eloqua.com
+s2s.rafotech.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -3397,6 +3413,7 @@ s7.addthis.com
 s8.addthis.com
 sa.api.intl.miui.com
 sa.bbc.co.uk
+sa.bbc.com
 saa.cbsi.com
 sabre.com
 sadmin.brightcove.com
@@ -3479,6 +3496,7 @@ seal.godaddy.com
 seal.networksolutions.com
 seal.ranking.com
 seal.validatedsite.com
+seal.verisign.com
 sealserver.trustwave.com
 search.us.com
 search2000s.com
@@ -3571,6 +3589,7 @@ shareaholic.com
 shareasale.com
 sharethis.com
 sharewood.org
+shenghuo.xiaomi.com
 shenyun.com
 shinobi.jp
 shodanhq.com
@@ -3821,6 +3840,7 @@ t.paydirekt.de
 t.paypal.com
 t.purch.com
 t.umblr.com
+t.vimeo.com
 t.wayfair.ca
 t.wayfair.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -4106,6 +4126,7 @@ us.i1.yimg.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.rdx2.lgtvsdp.com
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
@@ -4356,11 +4377,13 @@ xiazai.xiaomi.com
 xirvik.com
 xiti.com
 xlmc.sandai.net
+xlmc.sec.miui.com
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xml.opera.com
 xmpush.xiaomi.com
 xmrpool.eu
+xn--methrwallt-26ar0z.com
 xp.apple.com
 xrea.com
 xtgem.com

@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.18
-# Last modified: 18 May 2022 08:08:03 UTC
+# Last modified: 18 May 2022 16:07:19 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -17717,6 +17717,7 @@ nsx.np.dl.playstation.net
 nsx.np.grs.playstation.net
 nsx.sec.np.dl.playstation.net
 nt.me
+nt2.ele.me
 nt3.ggpht.com
 ntco.nl
 ntdtv.com
@@ -23909,6 +23910,7 @@ t.ow.ly
 t.paydirekt.de
 t.paypal.com
 t.purch.com
+t.uc.cn
 t.umblr.com
 t.urs.microsoft.com
 t.vimeo.com
