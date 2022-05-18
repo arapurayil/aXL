@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.18
-# Last modified: 18 May 2022 00:26:33 UTC
+# Last modified: 18 May 2022 08:08:03 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -557,6 +557,7 @@ about.medium.com
 about.pinterest.com
 aboutads.info
 aboutcookies.org
+above.com
 abpr.com
 abr.ru
 abroad.apilocate.amap.com
@@ -23999,7 +24000,6 @@ taraleighcobble.com
 target.com
 target.georiot.com
 target.scene7.com
-targetedinfo.com
 targobank.de
 taringa.net
 tarjetacencosud.cl
