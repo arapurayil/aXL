@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.19
-# Last modified: 19 May 2022 00:34:47 UTC
+# Last modified: 19 May 2022 08:08:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2248,7 +2248,6 @@ angelfire.com
 angloirishbank.com
 angolotesti.it
 angryip.org
-angsrvr.com
 angus.gov.uk
 ani.sh
 anidb.net
@@ -8357,6 +8356,7 @@ drive.google.com
 drive.mobisystems.com
 driveapi.micloud.xiaomi.net
 drivereasy.com
+driverfix.com
 driverrestore.com
 drivetech.net
 drivethelife.com
@@ -9167,6 +9167,7 @@ eteba.ro
 etebac.com
 etf.com
 ethermine.org
+ethhex.com
 ethias-banque.be
 ethikbank-onlinebanking.de
 ethikbank.de
@@ -15294,7 +15295,6 @@ logrocket.com
 logs.amap.com
 logs.datadoghq.com
 logs.datadoghq.eu
-logs.eu-west-1.amazonaws.com
 logs.heroku.com
 logsss.com
 logw306.ati-host.net
@@ -16395,7 +16395,6 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -17063,7 +17062,6 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
-nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -17328,7 +17326,6 @@ newocr.com
 newportanimalhospital.com
 newre-conversions.clickmeter.com
 newrelic.com
-news-easy.org
 news-p.ru
 news-tst.qualcomm.com
 news.com
@@ -19442,6 +19439,7 @@ premierbnk.com
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
+premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
@@ -20271,7 +20269,6 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
-rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -21008,7 +21005,6 @@ s2b.standardchartered.com
 s2k7tnzlhrpw.statuspage.io
 s2p.mpay.samsung.com
 s2p.stg.mpay.samsung.com
-s2s.rafotech.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -21058,7 +21054,6 @@ sa-in-f26.1e100.net
 sa-in-f27.1e100.net
 sa.api.intl.miui.com
 sa.bbc.co.uk
-sa.bbc.com
 sa.nexon.game.naver.com
 sa.symcb.com
 sa1-urlp.secure.skypeassets.com
@@ -21853,7 +21848,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -21984,7 +21978,6 @@ si.playstation.com
 siab.ru
 siamzone.com
 siasat.pk
-siasky.net
 siatka.org
 sib.ci
 sibank.ru
@@ -24665,7 +24658,6 @@ transbank.ru
 transcredit.ru
 transfer.go.com
 transfer.sh
-transitapp.com
 translate.google.com
 translate.googleapis.com
 translate.wechat.com
@@ -25359,7 +25351,6 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
@@ -27384,7 +27375,6 @@ xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xl8.eu
 xlmc.sandai.net
-xlmc.sec.miui.com
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xmccb.com
