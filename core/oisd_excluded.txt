@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 May 2022 08:08:01 UTC
+# Last modified: 19 May 2022 16:24:01 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -1298,6 +1298,7 @@ d.toutiao.com
 d.xiaomi.com
 d.yimg.com
 d11eq81k50lwgi.cloudfront.net
+d15r06k2ko210l.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d1af033869koo7.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
@@ -1807,6 +1808,7 @@ gamehouse.com
 gametame.com
 gan.doubleclick.net
 gardenstatehelicopters.com
+gardenstatescouting.org
 gateway.reddit.com
 gc.zgo.at
 gcp-prod-md.apptimize.com
@@ -2496,6 +2498,7 @@ licensing.blinkreceipt.com
 licensingphone.mp.microsoft.com
 lidl.media01.eu
 liftoff.io
+lightboxcdn.com
 lihi.cc
 likera.com
 limasky.com
