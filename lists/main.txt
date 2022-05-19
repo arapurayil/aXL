@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.18
-# Last modified: 18 May 2022 16:07:19 UTC
+# Version: 3.05.19
+# Last modified: 19 May 2022 00:34:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2248,6 +2248,7 @@ angelfire.com
 angloirishbank.com
 angolotesti.it
 angryip.org
+angsrvr.com
 angus.gov.uk
 ani.sh
 anidb.net
@@ -7766,6 +7767,7 @@ deliver.vkcdnservice.com
 deliveroo.com.sg
 delivery.acm.org
 delivery.rakuten.co.jp
+delivery.tacticalrepublic.com
 delivery.vidible.tv
 delivery04.dhe.ibm.com
 dell.com
@@ -10596,6 +10598,7 @@ gacollector.l.google.com
 gadesh.com
 gadsdenregional.com
 gaiaonline.com
+gala.spiceworks.com
 galandsmc.org
 galaxy99.net
 gall.dcinside.com
@@ -10869,6 +10872,7 @@ ghash.io
 ghb.co.th
 ghbtns.com
 ghostbin.com
+ghostery-collector.ghostery.com
 ghostery.com
 ghosthis.review
 ghs.googlehosted.com
@@ -11566,6 +11570,7 @@ gwapi.zee5.com-v2.edgekey.net
 gwhospital.com
 gwk.nl
 gws.sauberbank.com
+gwx.windows.com
 gwynedd.gov.uk
 gwyneddvethospital.com
 gyazo.com
@@ -16390,6 +16395,7 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -17057,6 +17063,7 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
+nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -17321,6 +17328,7 @@ newocr.com
 newportanimalhospital.com
 newre-conversions.clickmeter.com
 newrelic.com
+news-easy.org
 news-p.ru
 news-tst.qualcomm.com
 news.com
@@ -21000,6 +21008,7 @@ s2b.standardchartered.com
 s2k7tnzlhrpw.statuspage.io
 s2p.mpay.samsung.com
 s2p.stg.mpay.samsung.com
+s2s.rafotech.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -21049,6 +21058,7 @@ sa-in-f26.1e100.net
 sa-in-f27.1e100.net
 sa.api.intl.miui.com
 sa.bbc.co.uk
+sa.bbc.com
 sa.nexon.game.naver.com
 sa.symcb.com
 sa1-urlp.secure.skypeassets.com
@@ -25349,6 +25359,7 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
@@ -27373,6 +27384,7 @@ xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xl8.eu
 xlmc.sandai.net
+xlmc.sec.miui.com
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xmccb.com
@@ -27386,6 +27398,7 @@ xmrpool.eu
 xn--80aae3af7av6a7a.xn--p1ai
 xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
+xn--methrwallt-26ar0z.com
 xnet.co.nz
 xnxx.com
 xoe.cz

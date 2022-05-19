@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 May 2022 16:07:19 UTC
+# Last modified: 19 May 2022 00:34:47 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -536,7 +536,6 @@ androidtvwatsonfe-pa.googleapis.com
 androidweblog.com
 anexia-it.com
 angolotesti.it
-angsrvr.com
 anrdoezrs.net
 answerhub.com
 antionline.com
@@ -747,6 +746,7 @@ awsusor0-cdn.fds-ssl.api.xiaomi.com
 az416426.vo.msecnd.net
 azabu-u.ac.jp
 azadify.com
+azurewebsites.net
 b.dlsite.net
 b.engadget.com
 b.hatena.ne.jp
@@ -911,11 +911,9 @@ c.cintnetworks.com
 c.evidon.com
 c.id.mi.com
 c.live.com
-c.microsoft.com
 c.msn.com
 c.paypal.com
 c.sayhi.360.cn
-c.t-online.de
 c.tadst.com
 c.woopic.com
 c.xkcd.com
@@ -1116,7 +1114,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clientconfig.passport.net
 clients.l.google.com
 clients1.google.com
@@ -1406,6 +1403,7 @@ diagnostics.meethue.com
 diagnostics.support.microsoft.com
 diary.ru
 dicks-sporting-goods.pxf.io
+dicordapp.com
 digidip.net
 diginetica.net
 digitaladvisor.dk
@@ -1467,6 +1465,7 @@ dpu.samsungelectronics.com
 drfdisvc.walmart.com
 drift.com
 driftt.com
+driverfix.com
 driverrestore.com
 drivethelife.com
 drp.su
@@ -1581,6 +1580,7 @@ estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
 etahub.com
+ethhex.com
 ethn.io
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
@@ -1855,6 +1855,7 @@ getdrip.com
 getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
+gg.gg
 gh.ffshrine.org
 ghostery-collector.ghostery.com
 ghosthis.review
@@ -1905,6 +1906,7 @@ godly.website
 gokano.com
 goldbach.com
 goliath.bi.miniclippt.com
+goo-gl.me
 gooddata.com
 goodolddownloads.com
 google-analytics.com
@@ -2291,7 +2293,6 @@ ingest.sentry.io
 ink1001.com
 inquisition.goguardian.com
 ins-2ybret5v.ias.tencent-cloud.net
-inscname.net
 inside-graph.com
 insideruser.trafficmanager.net
 insight.rapid7.com
@@ -2505,6 +2506,7 @@ link.email.dynect.net
 link.p0.com
 linkbucks.com
 linkev.com
+linkshrink.net
 linksredirect.com
 linksynergy.com
 linkwi.se
@@ -2543,7 +2545,6 @@ logrocket.com
 logs.amap.com
 logs.datadoghq.com
 logs.datadoghq.eu
-logs.eu-west-1.amazonaws.com
 logsss.com
 lomadee.com
 look.com
@@ -2706,7 +2707,6 @@ mis.migc.xiaomi.com
 miscopy.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
-mistat.xiaomi.com
 mitunes.game.xiaomi.com
 mixi.media
 mixpanel.com
@@ -2760,7 +2760,6 @@ mopub.com
 mouseflow.com
 movable-ink-2183.com
 movable-ink-397.com
-mp.huangye.miui.com
 mp.twitch.tv
 mp3clan.com
 mparticle.com
@@ -2815,7 +2814,6 @@ naiadsystems.com
 naifei.shop
 namehelper.xyz
 nametests.com
-nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -2840,7 +2838,6 @@ netzathleten.de
 neustar.biz
 newre-conversions.clickmeter.com
 newrelic.com
-news-easy.org
 news.ebc.net.tw
 news.smi2.ru
 newsbreak.com
@@ -3172,6 +3169,7 @@ prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
 preferences.truste.com
+premium57.web-hosting.com
 presence-grpc-noneu.truecaller.com
 president.gov.by
 pressly.com
@@ -3283,7 +3281,6 @@ rapidapi.com
 rapidvideo.com
 rarbg.to
 rat.rakuten.co.jp
-rb.gy
 rbx.gg
 rchase.com
 rd.rakuten.co.jp
@@ -3335,7 +3332,6 @@ researchintel.com
 researchnow.co.uk
 researchnow.com
 resellerclub.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -3400,7 +3396,6 @@ s.zkcdn.net
 s0-2mdn-net.l.google.com
 s0.2mdn.net
 s1325.t.eloqua.com
-s2s.rafotech.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -3413,7 +3408,6 @@ s7.addthis.com
 s8.addthis.com
 sa.api.intl.miui.com
 sa.bbc.co.uk
-sa.bbc.com
 saa.cbsi.com
 sabre.com
 sadmin.brightcove.com
@@ -3496,7 +3490,6 @@ seal.godaddy.com
 seal.networksolutions.com
 seal.ranking.com
 seal.validatedsite.com
-seal.verisign.com
 sealserver.trustwave.com
 search.us.com
 search2000s.com
@@ -3578,7 +3571,6 @@ sg.a.stat.mi.com
 sgiz.mobi
 sgizmo.com
 sgp.o2o.api.xiaomi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
@@ -3589,7 +3581,6 @@ shareaholic.com
 shareasale.com
 sharethis.com
 sharewood.org
-shenghuo.xiaomi.com
 shenyun.com
 shinobi.jp
 shodanhq.com
@@ -3606,7 +3597,6 @@ shortpixel.ai
 shots.snap.com
 shrink.pe
 siamzone.com
-siasky.net
 sickrage.ca
 sidecar.gitter.im
 sift.com
@@ -3715,6 +3705,7 @@ ssp.rambler.ru
 sspapi-prd.samsungrs.com
 sstats.adobe.com
 sstats.economist.com
+stackpathcdn.com
 staging-collab-us.cloud.unity3d.com
 staging-collab.cloud.unity3d.com
 staging.admin.e.mi.com
@@ -3840,7 +3831,6 @@ t.paydirekt.de
 t.paypal.com
 t.purch.com
 t.umblr.com
-t.vimeo.com
 t.wayfair.ca
 t.wayfair.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -4012,7 +4002,6 @@ traffic.spot.im
 trafficguard.ai
 trafficrouter.io
 transfer.sh
-transitapp.com
 traq.li
 trbas.com
 trbna.com
@@ -4126,7 +4115,6 @@ us.i1.yimg.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.rdx2.lgtvsdp.com
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
@@ -4318,6 +4306,7 @@ wl.jd.com
 wmflabs.org
 wmsu.edu.ph
 wn.com
+wn.nr
 woodpecker.uc.cn
 woopra.com
 wootric.com
@@ -4377,7 +4366,6 @@ xiazai.xiaomi.com
 xirvik.com
 xiti.com
 xlmc.sandai.net
-xlmc.sec.miui.com
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xml.opera.com
