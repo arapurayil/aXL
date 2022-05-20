@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 May 2022 16:24:01 UTC
+# Last modified: 20 May 2022 00:27:56 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -1745,6 +1745,7 @@ forexprostools.com
 form.jotform.com
 formcrafts.com
 forter.com
+fosscord.com
 fota5.adups.com
 fota5db.adups.com
 fota5p.adups.com
@@ -3518,6 +3519,7 @@ secret.xn--oogle-3fa01c.com
 secure-cdn.mplxtms.com
 secure-us.imrworldwide.com
 secure.adnxs.com
+secure.applian.com
 secure.avangate.com
 secure.eloqua.com
 secure.footprint.net
@@ -3806,6 +3808,7 @@ support.2giga.link
 survey.foreseeresults.com
 surveyrouter.com
 surveys.insightexpressai.com
+suzihaza.com
 svonm.com
 sw88.go.com
 swa.bol.com
@@ -4011,6 +4014,7 @@ trbna.com
 trbo.com
 treasuredata.com
 treehousei.com
+treg.hearstnp.com
 trial.api.huangye.miui.com
 trialpay.com
 trib.al

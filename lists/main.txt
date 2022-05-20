@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.19
-# Last modified: 19 May 2022 16:24:02 UTC
+# Version: 3.05.20
+# Last modified: 20 May 2022 00:27:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7470,6 +7470,7 @@ d.yimg.com
 d0m.us
 d11eq81k50lwgi.cloudfront.net
 d13itkw33a7sus.cloudfront.net
+d15r06k2ko210l.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
 d1a62freaxhn7x.cloudfront.net
 d1af033869koo7.cloudfront.net
@@ -10654,6 +10655,7 @@ garantibank.nl
 garantiedesdepots.fr
 garcia-dihinx.com
 gardenstatehelicopters.com
+gardenstatescouting.org
 garena.com
 gasp.co.nz
 gate.ariuspay.ru
@@ -14949,6 +14951,7 @@ lifestream.aol.com
 liftoff.io
 ligabank.de
 light.ifmo.ru
+lightboxcdn.com
 lightinthebox.com
 lightroom.adobe.com
 lihi.cc
