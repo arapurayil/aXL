@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.20
-# Last modified: 20 May 2022 00:27:56 UTC
+# Last modified: 20 May 2022 08:08:45 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10268,6 +10268,7 @@ forums.xda-developers.com
 forums.ytmnd.com
 fosalud.gob.sv
 fossbytes.com
+fosscord.com
 fosterswiss.com
 fota-cloud-dn.ospserver.net
 fota-dn.ospserver.net
@@ -21567,6 +21568,7 @@ secure.aadcdn.microsoftonline-p.com
 secure.acquiropay.com
 secure.adnxs.com
 secure.anedot.com
+secure.applian.com
 secure.authority.ru
 secure.avangate.com
 secure.bam-forms.com
@@ -23783,6 +23785,7 @@ sutterhealth.org
 sutton.gov.uk
 suupohjanosuuspankki.fi
 sux.cz
+suzihaza.com
 sv-bank.com
 sv.gravatar.com
 sv.symcd.com
@@ -24686,6 +24689,7 @@ treasurydirect.gov
 treehousei.com
 treexml.baofeng.net
 treezip.baofeng.net
+treg.hearstnp.com
 trello.com
 tremor.com
 trezor.io
