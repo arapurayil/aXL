@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 May 2022 08:08:45 UTC
+# Last modified: 20 May 2022 16:12:03 UTC
 000webhostapp.com
 0catch.com
 0emn.com
@@ -690,6 +690,7 @@ aruljohn.com
 arvetellefsen.no
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
+asobanca.com.ve
 assets-secure.applicaster.com
 assets.adobedtm.com
 assets.dwell.com
@@ -1056,6 +1057,7 @@ cgi.connect.qq.com
 ch0p.darty.com
 channeladvisor.com
 channelwebsdks.azureedge.net
+charterbankwa.com
 chat-assets.frontapp.com
 chatango.com
 check.ddos-guard.net
@@ -1495,6 +1497,7 @@ dynamicyield.com
 dynatrace.com
 dynu.com
 dzc-metrics.mzstatic.com
+e-0009.e-msedge.net
 e.imguol.com
 e.reddit.com
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
@@ -1781,7 +1784,6 @@ ftpcontent.worldnow.com
 ftr2.external.xerox.com
 fuckbookdating.com
 fullstory.com
-funcats.info
 funcionapage.com
 fund.10jqka.com.cn
 fundingchoicesmessages.google.com
@@ -1848,7 +1850,6 @@ geolocation.daznservices.com
 geolocation.onetrust.com
 georiot.com
 geover-prod.do.dsp.mp.microsoft.com
-gestyy.com
 get-express-vpn.com
 get.x-link.pl
 getadmiral.com
@@ -2489,7 +2490,6 @@ levelstate.xyz
 lever-analytics.com
 lexatrade.com
 lg-bgp.pandora.xiaomi.com
-lgappstv.com
 lgsmartad.com
 li.dailycaller.com
 lib.rus.ec
@@ -2543,6 +2543,7 @@ log.ys7.com
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.game.xiaomi.com
 loginhood.io
 logrocket.com
@@ -2564,6 +2565,7 @@ lulz.com
 lvbet.pl
 lxcdn.dl.files.xiaomi.net
 lycos.com
+lynk.id
 m.blackberry.com
 m.bss.pandora.xiaomi.com
 m.cnbeta.com
@@ -2835,7 +2837,6 @@ netc.sfr.fr
 netcore.co.in
 netcoresmartech.com
 netiq.com
-nettvservices.com
 netupdater.info
 network.bazaarvoice.com
 netzathleten.de
@@ -3407,7 +3408,6 @@ s3-directional-w.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.ap-south-1.amazonaws.com
 s3.ll.videorolls.row.aiv-cdn.net
-s3.us-east-1.wasabisys.com
 s7.addthis.com
 s8.addthis.com
 sa.api.intl.miui.com
@@ -3687,7 +3687,6 @@ spamhaus.net
 spankwire.com
 spclient.wg.spotify.com
 speeddials.opera.com
-sphdigital.com
 spl.hit.gemius.pl
 split.to
 spot.im
