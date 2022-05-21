@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.20
-# Last modified: 20 May 2022 16:12:03 UTC
+# Version: 3.05.21
+# Last modified: 21 May 2022 00:29:09 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3665,6 +3665,7 @@ bankbb.com
 bankbiz.ch
 bankboston.com.br
 bankbps.pl
+bankbsi.co.id
 bankcalumet.com
 bankcaroline.com
 bankcb.com
@@ -5000,6 +5001,7 @@ bsi.si
 bsibank.com
 bsinet.net
 bsm-party.de
+bsm.co.id
 bsmparty.de
 bsn.com.my
 bsnb.com
@@ -7551,6 +7553,7 @@ damengxiang.me
 damoh.schneevonmorgen.com
 damoh.spiegel.de
 dampfer.net
+dana.id
 danamon.co.id
 danamonline.com
 danbooru.donmai.us
@@ -8485,6 +8488,7 @@ dzb-bank.de
 dzbank.de
 dzc-metrics.mzstatic.com
 dzi.lu
+e-0009.e-msedge.net
 e-bankofbaku.com
 e-bcr.bcr.ro
 e-bdv.banvenez.com
@@ -9993,6 +9997,7 @@ flickr.com.br
 flickr.de
 flinders.sa.gov.au
 flingo.tv
+flip.id
 flipboard.com
 flipkart.com
 flipp.com
@@ -10529,7 +10534,6 @@ fult.com
 fultonbank.com
 fun.to
 funatsu-animal-hospital.com
-funcats.info
 funcionapage.com
 fund.10jqka.com.cn
 fund.jr.mi.com
@@ -15239,6 +15243,7 @@ logbuch-netzpolitik.de
 logentries.com
 logfiles.zoom.us
 loggly.com
+login-live.com-s02.net
 login.aliexpress.com
 login.aliorbank.pl
 login.banknetpower.net
@@ -15409,6 +15414,7 @@ lycos.com
 lyndonbank.com
 lyneanimalhospitals.com
 lyngbydyrehospital.dk
+lynk.id
 lynx.co.nz
 lyonsreg.com
 lzbank.com
@@ -17287,7 +17293,6 @@ nettbanken.nordea.no
 nettbedriften.evry.com
 nettby.no
 netteller.com
-nettvservices.com
 netuno.net
 netupdater.info
 netwizards.com
@@ -21041,7 +21046,6 @@ s3.me-south-1.amazonaws.com
 s3.sa-east-1.amazonaws.com
 s3.symcb.com
 s3.us-east-1.amazonaws.com
-s3.us-east-1.wasabisys.com
 s3.us-east-2.amazonaws.com
 s3.us-west-1.amazonaws.com
 s3.us-west-2.amazonaws.com
@@ -22859,7 +22863,6 @@ spencersavingsloans.com
 spencersonline.com
 sperrer.de
 sph.is
-sphdigital.com
 sphosp.com
 spiceworks.com
 spickmich.de
