@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 May 2022 16:06:41 UTC
+# Last modified: 22 May 2022 00:31:07 UTC
 0catch.com
 0emn.com
 0fmm.com
@@ -793,7 +793,6 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
-bestgore.fun
 bestvpnrating.com
 betclic.com
 betrad.com
