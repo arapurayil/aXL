@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 May 2022 08:08:16 UTC
+# Last modified: 23 May 2022 16:07:12 UTC
 0catch.com
 0emn.com
 0fmm.com
@@ -217,6 +217,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adobe-dns.adobe.com
 adobeaemcloud.com
+adobeconnect.com
 adobedtm.com
 adobemsbasic.com
 adobeprimetime.com
