@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.22
-# Last modified: 22 May 2022 16:06:34 UTC
+# Version: 3.05.23
+# Last modified: 23 May 2022 00:31:32 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8322,7 +8322,6 @@ drive.google.com
 drive.mobisystems.com
 driveapi.micloud.xiaomi.net
 drivereasy.com
-driverfix.com
 drivetech.net
 drivethelife.com
 drk-chemnitz.de
@@ -10224,7 +10223,6 @@ forums.xda-developers.com
 forums.ytmnd.com
 fosalud.gob.sv
 fossbytes.com
-fosscord.com
 fosterswiss.com
 fota-cloud-dn.ospserver.net
 fota-dn.ospserver.net
