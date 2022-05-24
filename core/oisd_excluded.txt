@@ -2,8 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 May 2022 16:07:12 UTC
-0catch.com
+# Last modified: 24 May 2022 00:33:17 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -95,11 +94,9 @@ a.union.mi.com
 a.wishabi.com
 a1.api.bbc.co.uk
 a1.mzstatic.com
-a1168.g.akamai.net
 a1294.w20.akamai.net
 a1843.g.akamai.net
 a2.xinhuanet.com
-a23.g.akamai.net
 a247c.playfabapi.com
 a248.e.akamai.net
 a2z.com
@@ -145,7 +142,6 @@ accengage.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
-accounts.pkr.com.invalid
 acdn.adnxs.com
 ace.naver.com
 acenar.com
@@ -229,8 +225,6 @@ adrelayer.com
 adrequest.net
 adrise.tv
 ads-cdn.grab.com
-ads-e-darwin.hulustream.com
-ads-serve.brave.com
 ads.aws.fwmrm.net
 ads.google.com
 ads.harvard.edu
@@ -291,7 +285,6 @@ adservice.google.co.uk
 adservice.google.co.uz
 adservice.google.co.ve
 adservice.google.co.vi
-adservice.google.co.za
 adservice.google.co.zm
 adservice.google.co.zw
 adservice.google.com
@@ -754,7 +747,6 @@ b.wishabi.com
 b02.black.ndmdhs.com
 b13.com
 b23.ru
-b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
@@ -797,7 +789,6 @@ betrad.com
 bfast.com
 bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
-bi.gazeta.pl
 bi.medscape.com
 bigairusa.com
 bigdata.ssp.samsung.com
@@ -1070,7 +1061,6 @@ clara.net
 classmates.com
 clck.ru
 clck.yandex.ru
-cldup.com
 cleverpush.com
 cli.gs
 click.accesstrade.co.id
@@ -1387,7 +1377,6 @@ dldir1.qq.com
 dldir2.qq.com
 dlied6.qq.com
 dlink.com.br
-dls.di.atlas.samsung.com
 dlvr.t-online.de
 dmm.co.jp
 dmp.adform.net
@@ -1509,7 +1498,6 @@ emkei.cz
 emsecure.net
 en25.com
 energizect.com
-engage.com
 engage.windows.com
 enigmasoftware.com
 enrichmentservices.fccinteractive.com
@@ -1741,6 +1729,7 @@ g.alicdn.com
 g.ezoic.net
 g.ign.com
 g.msn.com
+g11v.prd.ads.aws.fwmrm.net
 g17media.com
 gala.spiceworks.com
 gall.dcinside.com
@@ -1782,6 +1771,7 @@ geo2.adobe.com
 geo3.ggpht.com
 geocities.jp
 geofence.sys.miui.com
+geoim.bloomberght.com
 geoip-db.com
 geoip.hmageo.com
 geoip.nekudo.com
@@ -1796,6 +1786,7 @@ georiot.com
 geotrust.com
 geover-prod.do.dsp.mp.microsoft.com
 get-express-vpn.com
+get.untangle.com
 get.x-link.pl
 getadmiral.com
 getalinkandshare.com
@@ -1836,10 +1827,10 @@ go.leanplum.com
 go.madmimi.com
 go.mybusinessacademy.ph
 go.neverware.com
+go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
-go.slalom.com
 go.theregister.com
 go.trouter.skype.com
 go.updates.iata.org
@@ -2074,7 +2065,6 @@ id.google.co.nz
 id.google.co.th
 id.google.co.tz
 id.google.co.uk
-id.google.co.za
 id.google.co.zm
 id.google.com
 id.google.com.au
@@ -2441,6 +2431,7 @@ linksynergy.com
 linkwi.se
 litix.io
 live.primis.tech
+live.simcitybuildit.com
 livefyre.com
 liveintent.com
 liveinternet.ru
@@ -2492,7 +2483,6 @@ lvbet.pl
 lxcdn.dl.files.xiaomi.net
 lycos.com
 lynk.id
-m.blackberry.com
 m.bss.pandora.xiaomi.com
 m.cnbeta.com
 m.exactag.com
@@ -2666,7 +2656,6 @@ mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.com
 mobile.qzone.qq.com
 mobileandroidapi.punchh.com
-mobilecrashreporting.googleapis.com
 mobileiosapi.punchh.com
 mobilepartner.avcdn.net.edgekey.net
 mobilesdk-us.kampyle.com
@@ -2792,7 +2781,6 @@ nmetrics.samsung.com
 noc.social
 nocdnrlly.xyz
 nonstoppartner.net
-nordvpn.hasoffers.com
 norstatsurveys.com
 noscript.net
 notice.game.xiaomi.com
@@ -2828,7 +2816,6 @@ nv-sdk.jumio.com
 nv.veta.naver.com
 nv.vi-serve.com
 nw-umwatson.events.data.microsoft.com
-o.auspost.com.au
 o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
@@ -3262,7 +3249,6 @@ rm.api.weibo.com
 rmp.rakuten.com
 rmscomponents.com.au
 rnet.plus
-rocketreach.co
 rollbar.com
 romsmania.com
 router.bittorrent.com
@@ -3293,7 +3279,6 @@ s.click.tmall.com
 s.dolphincdn.xyz
 s.gateway.messenger.live.com
 s.go-mpulse.net
-s.marketwatch.com
 s.media-imdb.com
 s.ndemiccreations.com
 s.shopify.com
@@ -3489,7 +3474,6 @@ shopzilla.com
 shorte.st
 shortpixel.ai
 shots.snap.com
-shrink.pe
 siamzone.com
 sickrage.ca
 sidecar.gitter.im
@@ -3583,6 +3567,7 @@ srvcs.tumblr.com
 srvtrck.com
 ss.phncdn.com
 ssl-cdn.static.browser.mi-img.com
+ssl-nl.persgroep.edgekey.net
 ssl.clickbank.net
 ssl.google-analytics.com
 ssl.kaptcha.com
@@ -3629,14 +3614,12 @@ static.mailchimp.com
 static.mibi.xiaomi.com
 static.parsely.com
 static.quantcast.mgr.consensu.org
-static.rocketreach.co
 static.scroll.com
 static.shorte.st
 static.tidiochat.com
 static.ts.360.com
 static.vrv.co
 static.ws.126.net
-statics-marketingsites-eus-ms-com.akamaized.net
 staticxx.facebook.com
 stats.adobe.com
 stats.appsflyer.com
@@ -3690,7 +3673,6 @@ support.2giga.link
 survey.foreseeresults.com
 surveyrouter.com
 surveys.insightexpressai.com
-suzihaza.com
 svonm.com
 sw88.go.com
 swa.bol.com
@@ -3832,7 +3814,6 @@ totalav.com
 townnews.com
 tp-emea.exactag.com
 tr.info.mango-mobilites.fr
-tr.netsalesmedia.pl
 tr.snapchat.com
 tracemyip.org
 track.adform.net
@@ -3881,6 +3862,7 @@ traq.li
 trbas.com
 trbna.com
 trbo.com
+trck.at
 treasuredata.com
 treehousei.com
 treg.hearstnp.com
@@ -3890,8 +3872,6 @@ trib.al
 tritondigital.com
 trk.email.dynect.net
 trk.klclick.com
-trk.klclick2.com
-trk.klclick3.com
 trk.pinterest.com
 trojan-killer.net
 trowel.twitch.tv
@@ -3990,7 +3970,6 @@ us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
 usage.trackjs.com
-use-app03.hasoffers.com
 use-application-dns.net
 use.adserver.snapads.com
 use.typekit.net
@@ -4208,6 +4187,7 @@ www3.webhostingtalk.com
 www4.cbox.ws
 www4.orangecyberdefense.com
 www5.2giga.link
+www5.untangle.com
 www6.2giga.link
 www6.cbox.ws
 www7.2giga.link
