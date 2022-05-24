@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.24
-# Last modified: 24 May 2022 00:33:17 UTC
+# Last modified: 24 May 2022 08:08:43 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -44,7 +44,6 @@
 0.wikipedia.com
 000webhostapp.com
 01.org
-0catch.com
 0daydown.com
 0dc7915f74cf0fac6.gs.ea.com
 0emn.com
@@ -369,12 +368,10 @@ a1.mzstatic.com
 a1.sndcdn.com
 a1.soundcloud.com
 a1014.g.akamai.net
-a1168.g.akamai.net
 a1294.w20.akamai.net
 a1843.g.akamai.net
 a1856.da1.akamai.net
 a2.xinhuanet.com
-a23.g.akamai.net
 a247c.playfabapi.com
 a248.e.akamai.net
 a24m.a-bank.com.ua
@@ -733,8 +730,6 @@ adrelayer.com
 adrequest.net
 adrise.tv
 ads-cdn.grab.com
-ads-e-darwin.hulustream.com
-ads-serve.brave.com
 ads.aws.fwmrm.net
 ads.dh.duba.com
 ads.exoclick.com
@@ -2815,7 +2810,6 @@ b02.black.ndmdhs.com
 b13.com
 b2.ndb24.ru
 b23.ru
-b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -3191,7 +3185,6 @@ bhf-bank.ch
 bhf-bank.com
 bhphotovideo.com
 bhw.de
-bi.gazeta.pl
 bi.medscape.com
 bia2vip.site
 bialystok.tvp.pl
@@ -4507,7 +4500,6 @@ clbank.investcapitalbank.ru
 clc.stackoverflow.com
 clck.ru
 clck.yandex.ru
-cldup.com
 cleancss.com
 cleaner.daum.net
 clear.com.br
@@ -5782,7 +5774,6 @@ dlied1.qq.com
 dlied6.qq.com
 dlink.com.br
 dll.xposed.info
-dls.di.atlas.samsung.com
 dlvr.it
 dlvr.t-online.de
 dlxda.xposed.info
@@ -6439,7 +6430,6 @@ enews.techrepublic.com
 enforcement.spro.xbox.com
 enforcement.xbox.com
 engadget.com
-engage.com
 engage.windows.com
 engineering.coinbase.com
 engineering.flipboard.com
@@ -7382,6 +7372,7 @@ g.whatsapp.net
 g00.me
 g00.msn.com
 g1.symcb.com
+g11v.prd.ads.aws.fwmrm.net
 g17media.com
 g2.symcb.com
 g2a.com
@@ -7527,6 +7518,7 @@ geofence.sys.miui.com
 geofilters-api.snapchat.com
 geofilters-community-api.snapchat.com
 geofilters.snapchat.com
+geoim.bloomberght.com
 geoip-db.com
 geoip.hmageo.com
 geoip.nekudo.com
@@ -7728,12 +7720,12 @@ go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
+go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
-go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -9044,7 +9036,6 @@ id.google.co.nz
 id.google.co.th
 id.google.co.tz
 id.google.co.uk
-id.google.co.za
 id.google.co.zm
 id.google.com
 id.google.com.au
@@ -11614,7 +11605,6 @@ mobileandroidapi.punchh.com
 mobileapi.nutaku.com
 mobilecns.alipay.com
 mobilecodec.alipay.com
-mobilecrashreporting.googleapis.com
 mobiledl.adobe.com
 mobilegw.alipay.cn
 mobilegw.alipay.com
@@ -12300,7 +12290,6 @@ nordichardware.se
 nordpass.com
 nordthueringer-volksbank.de
 nordvpn.com
-nordvpn.hasoffers.com
 nordvpn.net
 norisbank.de
 norstatsurveys.com
@@ -12490,7 +12479,6 @@ o-bank.com
 o-x.fr
 o.9nl.com
 o.aolcdn.com
-o.auspost.com.au
 o.breitbart.com
 o.co.za
 o.dailycaller.com
@@ -14758,7 +14746,6 @@ roboform.com
 robokassa.ru
 rochester.edu
 rocketbank.ru
-rocketreach.co
 rockstargames.com
 rockstarwarehouse.com
 rod.gs
@@ -15692,7 +15679,6 @@ showbox-tr.dropbox.com
 shownieuws.nl
 shpd.motivtelecom.ru
 shrd.fncstatic.com
-shrink.pe
 shropshire-cc.gov.uk
 shrt.in
 shuc-android.ksord.com
@@ -16660,7 +16646,6 @@ static.parsely.com
 static.pd.biv.sony.tv
 static.quantcast.mgr.consensu.org
 static.returnpath.net
-static.rocketreach.co
 static.rtl.nl
 static.scroll.com
 static.sh.st
@@ -16697,7 +16682,6 @@ static2.animeseason.com
 static2cdn.hubspot.com
 staticflickr.com
 staticlive.douyucdn.cn
-statics-marketingsites-eus-ms-com.akamaized.net
 statics-storeexp-eus-ms-com.akamaized.net
 statics-www-ssl.gingersoftware.com
 statics.streamable.com
@@ -17008,7 +16992,6 @@ sutorbank.de
 sutterhealth.org
 sutton.gov.uk
 sux.cz
-suzihaza.com
 sv.gravatar.com
 sv.symcd.com
 sv.twitch.tv
@@ -17564,7 +17547,6 @@ tr.ign.com
 tr.im
 tr.info.mango-mobilites.fr
 tr.net
-tr.netsalesmedia.pl
 tr.snapchat.com
 tr.statcounter.com
 tr.twitch.tv
@@ -17660,6 +17642,7 @@ trbas.com
 trbinance.com
 trbna.com
 trbo.com
+trck.at
 trck.me
 treas.gov
 treasuredata.com
@@ -17695,8 +17678,6 @@ trk.cp20.com
 trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
-trk.klclick2.com
-trk.klclick3.com
 trk.pinterest.com
 trkr.ws
 trojan-killer.net
@@ -18171,7 +18152,6 @@ uscc.korem.com
 uscg.gov
 usconsulate.gov
 usda.gov
-use-app03.hasoffers.com
 use-application-dns.net
 use.adserver.snapads.com
 use.fontawesome.com
