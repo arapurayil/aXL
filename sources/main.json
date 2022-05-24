@@ -279,7 +279,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 0
+            "num_unblock_rules": 5012
         },
         {
             "name": "shallalist hospitals",
@@ -288,7 +288,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 0
+            "num_unblock_rules": 1634
         },
         {
             "name": "shallalist isp",
@@ -297,7 +297,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 0
+            "num_unblock_rules": 853
         },
         {
             "name": "shallalist socialnet",
@@ -306,7 +306,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 0
+            "num_unblock_rules": 852
         },
         {
             "name": "Ultimate Hosts whitelist",
