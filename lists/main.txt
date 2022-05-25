@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.25
-# Last modified: 25 May 2022 00:32:49 UTC
+# Last modified: 25 May 2022 08:08:19 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8717,6 +8717,7 @@ edition.cnn.com
 editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
+edje.com
 edm03.huawei.com
 ednaonline.com
 ednetz.de
@@ -16301,6 +16302,7 @@ mintic.gov.co
 mintos.com
 minu.me
 minutemediacdn.com
+minutemediaservices.com
 mip.api.mcafeewebadvisor.com
 mir-s3-cdn-cf.behance.net
 mir.namba.kg
@@ -16858,7 +16860,6 @@ mycantos.com
 mycdn.me
 mycgb.com
 mychurch.org
-mycingular.net
 mycorners.com
 mycred.io
 mycredit.platinumbank.com.ua
