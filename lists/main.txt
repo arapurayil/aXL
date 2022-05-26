@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.26
-# Last modified: 26 May 2022 00:30:09 UTC
+# Last modified: 26 May 2022 08:08:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2180,6 +2180,7 @@ ams03-usadmm-ds.dotomi.com
 amsouth.com
 amtrust.com
 amundi-tc.com
+amway.com
 amzn.com
 amzn.to
 amznadsi.hs.llnwd.net
@@ -2590,6 +2591,7 @@ api.samsungknowledge.com
 api.samsungmembers.com
 api.samsungosp.com
 api.samsungpositioning.com
+api.savemedia.website
 api.sbs.com.au
 api.scribd.com
 api.sec.intl.miui.com
@@ -3221,6 +3223,7 @@ auth.factorio.com
 auth.flipboard.com
 auth.gfx.ms
 auth.hitbtc.com
+auth.omoplanet.com
 auth.samsungosp.com
 auth.simperium.com
 auth.snapchat.com
@@ -5184,6 +5187,7 @@ c.woopic.com
 c.xkcd.com
 c.yes.youku.com
 c.youtube.com
+c.ypcdn.com
 c0.wp.com
 c00.adobe.com
 c1.g.mi.com
@@ -5427,6 +5431,7 @@ cart.mi.com
 cart.tmall.com
 cartm.gearbest.com
 cartoonland.de
+carvertical.com
 casagrandehospital.com
 casalemedia.com.edgekey.net
 casapropia.com
@@ -5819,6 +5824,7 @@ cdn.wetest.qq.com
 cdn.whatsapp.net
 cdn.wololo.net
 cdn.wootric.com
+cdn.ziffstatic.com
 cdn01.dailycaller.com
 cdn1.digitaltrends.com
 cdn1.ettoday.net
@@ -8281,6 +8287,7 @@ dpbolvw.net
 dpimg.ospserver.net
 dplwebmarketing.com
 dpm.demdex.net
+dpstatic.com
 dpu.samsungelectronics.com
 dr-bromba.de
 dr-john-consult.de
@@ -11834,6 +11841,7 @@ highland.gov.uk
 highlandbanks.com
 highlandfederal.com
 highlandridgehospital.com
+highonandroid.com
 highpointbank.com
 highwaycode.gov.uk
 highwebmedia.com
@@ -12735,6 +12743,7 @@ id.google.co.nz
 id.google.co.th
 id.google.co.tz
 id.google.co.uk
+id.google.co.za
 id.google.co.zm
 id.google.com
 id.google.com.au
@@ -15152,6 +15161,7 @@ lodihealth.org
 lodz.tvp.pl
 loebbecke-bank.de
 loekkensparekasse.dk
+lofter.com
 log-tb.sgsnssdk.com
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
@@ -16648,6 +16658,7 @@ mr.da.netease.com
 mradx.net
 mrbank.com.pl
 mrex.exs.pl
+mrgugu.com
 mrhospital.com
 mrodevicemgr.officeapps.live.com
 mrthumb.nabstudio.com
@@ -18082,6 +18093,7 @@ online.pabcbank.com
 online.pchrb.ru
 online.piraeusbank.ua
 online.pocztowy.pl
+online.pro
 online.procreditbank.am
 online.procreditbank.ge
 online.ptclick.com.ua
@@ -18526,6 +18538,7 @@ paimgcdn.baidu.com
 painolympics.info
 painolympics.org
 painthegame.playstation.com
+pair.com
 pakbankers.com
 pallas-olten.ch
 palmeranimalhospital.net
@@ -19695,9 +19708,11 @@ pusanbank.co.kr
 push.buy.mi.com
 push.chocolatey.org
 push.notifica.re
+push.rollout.io
 push.services.mozilla.com
 push.wps.cn
 push2.eastmoney.com
+pushbullet.com
 pushcrew.com
 pusher.com
 pusherapp.com
@@ -21628,6 +21643,8 @@ send.firefox.com
 sendai-kousei-hospital.jp
 sendgrid.net
 sendinblue.hitbtc.com
+sendpulse.com
+sendsay.ru
 sendspace.com
 sendwyre.com
 senecafederal.com
@@ -21880,6 +21897,7 @@ sibank.ru
 sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
+sibforms.com
 sibs.pt
 sicax.net
 sickrage.ca
@@ -22319,6 +22337,7 @@ sonymobile.com
 sonynetworkentertain.tt.omtrdc.net
 sonyselect-api.sonymobile.com
 soo.gd
+soo.sg
 sophienklinik.de
 sophos.com
 soporte.latam.playstation.com
