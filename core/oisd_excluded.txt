@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 May 2022 08:08:52 UTC
+# Last modified: 26 May 2022 16:11:09 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1203,6 +1203,7 @@ countere.com
 countvoncount.goguardian.com
 coupondunia.go2cloud.org
 couponxoo.com
+cp.us.na.cloud.im
 cpm.wargaming.net
 cpt.itv.com
 cptrack.de
@@ -1853,7 +1854,6 @@ goatse.bz
 goatse.ru
 goatsegirl.org
 gocarrot.com
-godly.website
 gokano.com
 goldbach.com
 goliath.bi.miniclippt.com
@@ -4092,7 +4092,6 @@ vr-banking-app.de
 vserv.bc.cdn.bitgravity.com
 vsevjednom.cz
 vxcash.net
-w2xg.com
 w88.espn.com
 wagbridge.advertisement.tanx.com
 wagbridge.alibaba.tanx.com
