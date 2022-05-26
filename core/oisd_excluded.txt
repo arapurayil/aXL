@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 May 2022 16:07:11 UTC
+# Last modified: 26 May 2022 00:30:09 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -142,6 +142,7 @@ accengage.com
 accessfreevpn.com
 accesstrade.co.id
 account.wire.com
+accounts.pkr.com.invalid
 acdn.adnxs.com
 ace.naver.com
 acenar.com
@@ -285,6 +286,7 @@ adservice.google.co.uk
 adservice.google.co.uz
 adservice.google.co.ve
 adservice.google.co.vi
+adservice.google.co.za
 adservice.google.co.zm
 adservice.google.co.zw
 adservice.google.com
@@ -515,6 +517,7 @@ ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
+amway.com
 amznadsi.hs.llnwd.net
 analytics.console.aws.a2z.com
 analytics.edgekey.net
@@ -597,6 +600,7 @@ api.parse.com
 api.parsely.com
 api.ra2.xlmc.sec.miui.com
 api.rollbar.com
+api.savemedia.website
 api.sec.intl.miui.com
 api.sec.miui.com
 api.segment.io
@@ -717,6 +721,7 @@ auditude.com
 auscanforum.com
 auslogics.com
 auth.be.sec.miui.com
+auth.omoplanet.com
 auth.samsungosp.com
 auth.split.io
 authbe.sec.intl.miui.com
@@ -897,6 +902,7 @@ c.tadst.com
 c.woopic.com
 c.xkcd.com
 c.yes.youku.com
+c.ypcdn.com
 c00.adobe.com
 c1.microsoft.com
 c212.net
@@ -912,6 +918,7 @@ campaignmonitor.com
 canadapharmacy.com
 capi.connatix.com
 carbonads.net
+carvertical.com
 casalemedia.com.edgekey.net
 casmp.adperfect.com
 cat.nl.eu.criteo.com
@@ -1001,6 +1008,7 @@ cdn.viafoura.net
 cdn.vidible.tv
 cdn.voscast.com
 cdn.wootric.com
+cdn.ziffstatic.com
 cdn1.ettoday.net
 cdn1.smartadserver.com
 cdn2.cache.vn
@@ -1411,6 +1419,7 @@ dp-discovery-na-ext.amazon.com
 dp.im.weibo.cn
 dpbolvw.net
 dpm.demdex.net
+dpstatic.com
 dpu.samsungelectronics.com
 drfdisvc.walmart.com
 drift.com
@@ -1797,6 +1806,7 @@ getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
 gh.ffshrine.org
+ghbtns.com
 ghostery-collector.ghostery.com
 ghosthis.review
 gia.jd.com
@@ -1951,10 +1961,12 @@ hello.heroku.com
 hello.myfonts.net
 helpshift.com
 heraldm.com
+herbeauty.co
 here.com
 heymistr.com
 heyue.xiaomi.com
 highcharts.com
+highonandroid.com
 highwebmedia.com
 hit.gemius.pl
 hit.interia.pl
@@ -2066,6 +2078,7 @@ id.google.co.nz
 id.google.co.th
 id.google.co.tz
 id.google.co.uk
+id.google.co.za
 id.google.co.zm
 id.google.com
 id.google.com.au
@@ -2448,6 +2461,7 @@ lnks.gd
 loadercdn.com
 local.adguard.org
 locuslabs.com
+lofter.com
 log-tb.sgsnssdk.com
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
@@ -2689,6 +2703,7 @@ mplxtms.com
 mpsnare.iesnare.com
 mradx.net
 mrex.exs.pl
+mrgugu.com
 mrzikj.com
 msdk.qq.com
 msedge.net
@@ -2881,6 +2896,7 @@ onetrust.com
 oniongames.jp
 online-metrix.net
 online.adservicemedia.dk
+online.pro
 onlinepbx.ru
 onthe.io
 ookla.com
@@ -2937,6 +2953,7 @@ pages.info.exclusive-networks.com
 pages03.net
 painolympics.info
 painolympics.org
+pair.com
 pandapush-iad-prod.inscloudgate.net
 pandora.xiaomi.com
 pangle.io
@@ -3135,6 +3152,8 @@ pumppazh.com
 punishtube.com
 purch.com
 push.notifica.re
+push.rollout.io
+pushbullet.com
 pushcrew.com
 pusherapp.com
 pushwelcome.com
@@ -3423,6 +3442,8 @@ semawur.com
 semnaniau.ac.ir
 semrush.com
 send.firefox.com
+sendpulse.com
+sendsay.ru
 sensic.net
 sentitlement2.mobile.att.net
 seo.spot.im
@@ -3476,6 +3497,7 @@ shorte.st
 shortpixel.ai
 shots.snap.com
 siamzone.com
+sibforms.com
 sickrage.ca
 sidecar.gitter.im
 sift.com
@@ -3547,6 +3569,7 @@ solutions.tradedoubler.com
 som.aeroplan.com
 someonewhocares.com
 somni.huk.de
+soo.sg
 soundofhope.org
 sourcepoint.mgr.consensu.org
 sourmath.com
