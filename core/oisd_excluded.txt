@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 May 2022 00:31:18 UTC
+# Last modified: 27 May 2022 08:08:39 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -769,6 +769,7 @@ bannerbank.com
 bannertrack.net
 barclaybanking.com
 baremetrics.com
+bark.us
 bat.bing.com
 batch.com
 bbin.ru

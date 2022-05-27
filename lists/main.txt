@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.27
-# Last modified: 27 May 2022 00:31:19 UTC
+# Last modified: 27 May 2022 08:08:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2764,6 +2764,7 @@ app.getresponse.com
 app.huawei.com
 app.hubspot.com
 app.hulu.com
+app.icontact.com
 app.intercom.io
 app.intuit.launchdarkly.com
 app.knights.mi.com
@@ -8448,7 +8449,6 @@ dzb-bank.de
 dzbank.de
 dzc-metrics.mzstatic.com
 dzi.lu
-e-0009.e-msedge.net
 e-bankofbaku.com
 e-bcr.bcr.ro
 e-bdv.banvenez.com
@@ -10993,6 +10993,7 @@ go.energized.pro
 go.icq.com
 go.ign.com
 go.infoblox.com
+go.kid-control.com
 go.leanplum.com
 go.madmimi.com
 go.microsoft.com
@@ -14703,6 +14704,7 @@ launcher.nirsoft.net
 launcher.spot.im
 launcher.twitch.tv
 launches.appsflyer.com
+launchpad.binance.com
 launchpad.net
 launchpadlibrarian.net
 laurelsb.com
@@ -15352,7 +15354,6 @@ lycos.com
 lyndonbank.com
 lyneanimalhospitals.com
 lyngbydyrehospital.dk
-lynk.id
 lynx.co.nz
 lyonsreg.com
 lzbank.com
@@ -16701,7 +16702,6 @@ msport.gov.pl
 mss-offermgmt.modpim.com
 mss.handmark.com
 mssl.fwmrm.net
-mstdn.social
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -17446,7 +17446,6 @@ noahshospitals.com
 nobacon.de
 nobaeg.de
 nobook.com
-noc.social
 nocache.support.sonymobile.com
 nocdnrlly.xyz
 node.plexapp.com
