@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 May 2022 16:11:09 UTC
+# Last modified: 27 May 2022 00:31:18 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -645,6 +645,7 @@ app.bronto.com
 app.chat.xiaomi.net
 app.getresponse.com
 app.hubspot.com
+app.icontact.com
 app.launchdarkly.com
 app.link
 app.market.xiaomi.com
@@ -685,7 +686,6 @@ aruljohn.com
 arvetellefsen.no
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
-asobanca.com.ve
 assets-secure.applicaster.com
 assets.adobedtm.com
 assets.dwell.com
@@ -1451,7 +1451,6 @@ dynamicyield.com
 dynatrace.com
 dynu.com
 dzc-metrics.mzstatic.com
-e-0009.e-msedge.net
 e.imguol.com
 e.reddit.com
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
@@ -1586,7 +1585,6 @@ exacttarget.com.edgekey.net
 exchange4media.com
 exct.net
 exe.io
-eximbankindia.com
 exosrv.com
 expbl2ro.xbox.com
 experience.jcu.edu.au
@@ -1835,6 +1833,7 @@ gnar.grammarly.com
 go-mpulse.net
 go-mpulse.net.edgekey.net
 go.cerner.com
+go.kid-control.com
 go.leanplum.com
 go.madmimi.com
 go.mybusinessacademy.ph
@@ -2382,7 +2381,6 @@ kodu.neti.ee
 kolabsys.com
 koszykrd.wp.pl
 kount.com
-koyu.space
 kqzyfj.com
 kredytbank.com.ua
 krxd.net
@@ -2402,6 +2400,7 @@ lads.myspacecdn.com
 lapauseyogachaud.com
 larati.net
 launches.appsflyer.com
+launchpad.binance.com
 launchpadlibrarian.net
 laureus.com
 lb.production-public.tubi.io
@@ -2497,7 +2496,6 @@ lulz.com
 lvbet.pl
 lxcdn.dl.files.xiaomi.net
 lycos.com
-lynk.id
 m.bss.pandora.xiaomi.com
 m.cnbeta.com
 m.exactag.com
@@ -2716,7 +2714,6 @@ msh.amazon.co.uk
 msh.amazon.com
 mss.handmark.com
 mssl.fwmrm.net
-mstdn.social
 mudmonster.org
 multiscreen.samsung.com
 multiscreensite.com
@@ -2794,7 +2791,6 @@ njih.net
 nl.eu.criteo.com
 nlrb.gov
 nmetrics.samsung.com
-noc.social
 nocdnrlly.xyz
 nonstoppartner.net
 norstatsurveys.com
@@ -3881,7 +3877,6 @@ traffic.alexa.com
 traffic.spot.im
 trafficguard.ai
 trafficrouter.io
-transfer.sh
 traq.li
 trbas.com
 trbna.com

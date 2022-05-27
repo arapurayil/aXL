@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.26
-# Last modified: 26 May 2022 16:11:09 UTC
+# Version: 3.05.27
+# Last modified: 27 May 2022 00:31:19 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7111,6 +7111,7 @@ cox.com
 cp.bluesnap.com
 cp.mi.com
 cp.pushwoosh.com
+cp.us.na.cloud.im
 cp101-prod.do.dsp.mp.microsoft.com
 cp701-prod.do.dsp.mp.microsoft.com.edgekey.net
 cp76677.edgefcs.net
@@ -11027,7 +11028,6 @@ gobank-online.de
 gocarrot.com
 godaddy.com
 godlikeproductions.com
-godly.website
 godofwar.playstation.com
 goes-r.gov
 gofile.io
@@ -26307,7 +26307,6 @@ w1.web.whatsapp.com
 w1p.fr
 w2.outlook.com
 w2.web.whatsapp.com
-w2xg.com
 w3.cdn.anvato.net
 w3.org
 w3.sc2000.net
