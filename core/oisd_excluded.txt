@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 May 2022 08:08:39 UTC
+# Last modified: 27 May 2022 16:07:33 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -759,7 +759,6 @@ back4.2giga.link
 backstage.taboola.com
 backtrack-linux.org
 badge.stumbleupon.com
-badoink.com
 bam-x.com
 bam.eu01.nr-data.net
 bam.nr-data.net
@@ -1081,7 +1080,6 @@ click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.mlsend.com
-click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
@@ -1265,7 +1263,6 @@ cy2.settings.data.microsoft.com.akadns.net
 cyber-hub.net
 cyberinc.nl
 cydia.saurik.com.cdngc.net
-cyonix.to
 d-h.st
 d.agkn.com
 d.g.mi.com
@@ -2313,7 +2310,6 @@ jackpot.com
 jacksonemc.com
 jalbum.net
 jango.com
-japantv.club
 japscat.org
 javdict.disqus.com
 jcloudcdn.com
@@ -2421,7 +2417,6 @@ lever-analytics.com
 lexatrade.com
 lg-bgp.pandora.xiaomi.com
 lgsmartad.com
-li.dailycaller.com
 lib.rus.ec
 libs.coremetrics.com
 license.unity3d.com
@@ -2518,7 +2513,6 @@ macromill.com
 madmimi.com
 mads.amazon-adsystem.com
 mads.amazon.com
-madthumbs.com
 magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
@@ -3061,7 +3055,6 @@ pntra.com
 pntrac.com
 pntrs.com
 po.st
-pof.com
 pokerstrategy.com
 polldaddy.com
 polling.bbc.co.uk
@@ -4100,6 +4093,7 @@ wallpapers.com
 wangbase.com
 wap.game.xiaomi.com
 waptrick.com
+watch-jav.com
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 wayin.com

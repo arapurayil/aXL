@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.27
-# Last modified: 27 May 2022 08:08:39 UTC
+# Last modified: 27 May 2022 16:07:34 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3986,6 +3986,7 @@ barebones.com
 baremetrics.com
 barenecessities.com
 barings-guernsey.com
+bark.us
 barlow2000.org
 barmherzige-brueder.at
 barmherzige-schwestern-muenchen.de
