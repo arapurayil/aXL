@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 May 2022 08:07:45 UTC
+# Last modified: 28 May 2022 16:06:33 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -39,6 +39,7 @@
 2guys1stump.org
 2ip.ua
 2mdn.net
+2miners.com
 2o7.net
 31.media.tumblr.com
 3cinteractive.com
@@ -131,6 +132,7 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+ablink.o.sofi.org
 aboluowang.com
 aboutads.info
 above.com
@@ -577,6 +579,7 @@ api.elasticemail.com
 api.engager.ecbsn.com
 api.euro.hismarttv.com
 api.facebook.com
+api.flexpool.io
 api.foursquare.com
 api.hostip.info
 api.icmobile.singlewire.com
@@ -686,6 +689,7 @@ aruljohn.com
 arvetellefsen.no
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
+asobanca.com.ve
 assets-secure.applicaster.com
 assets.adobedtm.com
 assets.dwell.com
@@ -805,9 +809,11 @@ bit.ly
 bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
 bitcheese.net
+bitit.io
 bitly.com
 bits.avcdn.net
 bittersweetparis.com
+bittrex.com
 bizrate.com
 bj.bcebos.com
 bk01.hh.xiaomi.com
@@ -1014,6 +1020,7 @@ cdn2.cache.vn
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn4.wibbitz.com
+cdn7.bigcommerce.com
 cdna.clicktale.net
 cdngarenanow-a.akamaihd.net
 cdns.gigya.com
@@ -1338,6 +1345,7 @@ dd-cdn.multiscreensite.com
 dd.myapp.com
 de.ioam.de
 de.pandora.xiaomi.com
+de9a11s35xj3d.cloudfront.net
 deals.macupdate.com
 decibelinsight.net
 decknetwork.net
@@ -1547,6 +1555,7 @@ eu.criteo.com
 eu.spgo.io
 eu.vortex.data.microsoft.com
 eu01.nr-data.net
+eu1-zcash.flypool.org
 eu2.cleverreach.com
 eulerian.brandalley.fr
 eulerian.net
@@ -1625,6 +1634,7 @@ femto.pw
 ffdns.net
 file.market.xiaomi.com
 file.xmpush.xiaomi.com
+file170.gofile.io
 filehorse.com
 files.constantcontact.com
 files.im
@@ -1690,6 +1700,7 @@ forexprostools.com
 form.jotform.com
 formcrafts.com
 forter.com
+forum.hiveos.farm
 fota5.adups.com
 fota5db.adups.com
 fota5p.adups.com
@@ -2202,6 +2213,7 @@ img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
 img30.360buyimg.com
+imgshare.info
 imgssl.constantcontact.com
 imp.appledaily.com
 impact-ad.jp
@@ -2396,7 +2408,6 @@ lads.myspacecdn.com
 lapauseyogachaud.com
 larati.net
 launches.appsflyer.com
-launchpad.binance.com
 launchpadlibrarian.net
 laureus.com
 lb.production-public.tubi.io
@@ -2525,6 +2536,7 @@ mailtrack.io
 mairdumont.com
 malaya.com.ph
 mallgroup.com
+manage.devcenter.microsoft.com
 management.azure.com
 manga-news.com
 mangler3.generals.ea.com
@@ -3492,11 +3504,13 @@ sickrage.ca
 sidecar.gitter.im
 sift.com
 siftscience.com
+signal-collector.gemaltodigitalbankingidcloud.com
 silktide.com
 simba.taobao.com
 simp.ly
 simply.com
 simplyhired.com
+sina.com.tw
 sinajs.cn
 sinematurk.com
 singular.net
@@ -3958,6 +3972,7 @@ update.miui.com
 update.pan.baidu.com
 update.unisdk.easebar.com
 upgrade.mishop.pandora.xiaomi.com
+upgrade.scdn.co
 upgrade.xl9.xunlei.com
 upload.cc
 ups.ksmobile.net
