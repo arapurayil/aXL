@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.27
-# Last modified: 27 May 2022 16:07:34 UTC
+# Version: 3.05.28
+# Last modified: 28 May 2022 00:30:51 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3392,7 +3392,6 @@ badbitcoin.org
 badge.stumbleupon.com
 badges.linkedin.com
 badges.twitch.tv
-badoink.com
 badoo.com
 badoo.minijuegos.com
 badoocdn.com
@@ -13744,7 +13743,6 @@ jango.com
 japan.techrepublic.com
 japanese.engadget.com
 japantimes.co.jp
-japantv.club
 jappy.at
 jappy.de
 jappy.mobi
@@ -15414,7 +15412,6 @@ madriverhospital.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
 mads.amazon.com
-madthumbs.com
 maerkische-bank.de
 maerkische-kliniken.de
 mafbancorp.com
@@ -26390,6 +26387,7 @@ washingtontimes.com
 washoeschools.net
 washsavbk.com
 washtrust.com
+watch-jav.com
 watch.twitch.tv
 watchdog-basic.energized.pro
 watchdog-blu.energized.pro

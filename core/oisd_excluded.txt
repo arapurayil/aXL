@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 May 2022 16:07:33 UTC
+# Last modified: 28 May 2022 00:30:50 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -768,7 +768,6 @@ bannerbank.com
 bannertrack.net
 barclaybanking.com
 baremetrics.com
-bark.us
 bat.bing.com
 batch.com
 bbin.ru
@@ -1080,6 +1079,7 @@ click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.mlsend.com
+click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
@@ -1831,7 +1831,6 @@ gnar.grammarly.com
 go-mpulse.net
 go-mpulse.net.edgekey.net
 go.cerner.com
-go.kid-control.com
 go.leanplum.com
 go.madmimi.com
 go.mybusinessacademy.ph
@@ -2417,6 +2416,7 @@ lever-analytics.com
 lexatrade.com
 lg-bgp.pandora.xiaomi.com
 lgsmartad.com
+li.dailycaller.com
 lib.rus.ec
 libs.coremetrics.com
 license.unity3d.com
