@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.28
-# Last modified: 28 May 2022 16:06:33 UTC
+# Version: 3.05.29
+# Last modified: 29 May 2022 00:29:42 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -545,6 +545,7 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
+ablink.o.sofi.org
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -5852,6 +5853,7 @@ cdn5.bigcommerce.com
 cdn5.digitaltrends.com
 cdn6.bigcommerce.com
 cdn6.digitaltrends.com
+cdn7.bigcommerce.com
 cdn7.digitaltrends.com
 cdn7.es.digitaltrends.com
 cdn77.org
@@ -7696,6 +7698,7 @@ de.pool.ntp.org
 de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
+de9a11s35xj3d.cloudfront.net
 dealersocket.com
 deals.breitbart.com
 deals.macupdate.com
@@ -9160,6 +9163,7 @@ eu.vortex.data.microsoft.com
 eu.vortex.data.microsoft.com.akadns.net
 eu.wikipedia.com
 eu01.nr-data.net
+eu1-zcash.flypool.org
 eu1.documents.adobe.com
 eu1.gigya.com
 eu1.p2.documentsawsperf.adobe.com
@@ -9708,6 +9712,7 @@ file.market.xiaomi.com
 file.wechat.com
 file.xmpush.xiaomi.com
 file1.wechat.com
+file170.gofile.io
 file2.wechat.com
 fileapi.micloud.xiaomi.net
 filebin.net
@@ -10188,6 +10193,7 @@ forum.doom9.org
 forum.fr.playstation.com
 forum.gamevn.com
 forum.hitbtc.com
+forum.hiveos.farm
 forum.huawei.com
 forum.kaspersky.com
 forum.kissanime.com
@@ -13148,6 +13154,7 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
+imgshare.info
 imgsmail.ru
 imgssl.constantcontact.com
 imgstock.naver.com
@@ -14701,7 +14708,6 @@ launcher.nirsoft.net
 launcher.spot.im
 launcher.twitch.tv
 launches.appsflyer.com
-launchpad.binance.com
 launchpad.net
 launchpadlibrarian.net
 laurelsb.com
@@ -21906,6 +21912,7 @@ sierravistaregional.com
 sift.com
 siftscience.com
 sign-in.soundcloud.com
+signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
