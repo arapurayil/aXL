@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 May 2022 08:07:48 UTC
+# Last modified: 29 May 2022 16:06:29 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -38,7 +38,6 @@
 2guys1stump.org
 2ip.ua
 2mdn.net
-2miners.com
 2o7.net
 31.media.tumblr.com
 3cinteractive.com
@@ -99,6 +98,7 @@ a2.xinhuanet.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a2z.com
+a43601.actonservice.com
 a8onlineshop.trendmicro.co.jp
 aan.amazon.com
 aatkit.com
@@ -130,7 +130,7 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
-ablink.o.sofi.org
+ablinksuni.a.grubhub.com
 aboluowang.com
 aboutads.info
 above.com
@@ -569,7 +569,6 @@ api.elasticemail.com
 api.engager.ecbsn.com
 api.euro.hismarttv.com
 api.facebook.com
-api.flexpool.io
 api.hostip.info
 api.icmobile.singlewire.com
 api.io.mi.com
@@ -674,7 +673,6 @@ aruljohn.com
 arvetellefsen.no
 asadcdn.com
 asimov-win.settings.data.microsoft.com.akadns.net
-asobanca.com.ve
 assets-secure.applicaster.com
 assets.adobedtm.com
 assets.dwell.com
@@ -760,6 +758,7 @@ baremetrics.com
 bat.bing.com
 batch.com
 bbin.ru
+bblck.me
 bbs.game.xiaomi.com
 bc.marfeel.com
 bc.marfeelcache.com
@@ -791,11 +790,9 @@ bit.ly
 bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
 bitcheese.net
-bitit.io
 bitly.com
 bits.avcdn.net
 bittersweetparis.com
-bittrex.com
 bizrate.com
 bj.bcebos.com
 bk01.hh.xiaomi.com
@@ -997,8 +994,8 @@ cdn1.smartadserver.com
 cdn2.cache.vn
 cdn2.optimizely.com
 cdn3.optimizely.com
+cdn4.bigcommerce.com
 cdn4.wibbitz.com
-cdn7.bigcommerce.com
 cdna.clicktale.net
 cdngarenanow-a.akamaihd.net
 cdns.gigya.com
@@ -1019,6 +1016,7 @@ cf1.vuze.com
 cf2.me
 cfemedia.com
 cftrack.com
+cgames.de
 cgi.connect.qq.com
 ch0p.darty.com
 channeladvisor.com
@@ -1145,6 +1143,7 @@ connect.facebook.net
 connect.ok.ru
 connect.rom.miui.com
 connect.scroll.com
+connect.zebra.com
 connectbot.org
 consensu.org
 consent-manager-events.ogury.io
@@ -1312,7 +1311,6 @@ dd-cdn.multiscreensite.com
 dd.myapp.com
 de.ioam.de
 de.pandora.xiaomi.com
-de9a11s35xj3d.cloudfront.net
 deals.macupdate.com
 decibelinsight.net
 decknetwork.net
@@ -1471,6 +1469,7 @@ embed.mystream.to
 embed.spotify.com
 embed.windy.com
 embed.wistia.com
+emercoin.com
 emjcd.com
 emkei.cz
 emsecure.net
@@ -1517,7 +1516,6 @@ eu.criteo.com
 eu.spgo.io
 eu.vortex.data.microsoft.com
 eu01.nr-data.net
-eu1-zcash.flypool.org
 eulerian.brandalley.fr
 eulerian.net
 eulerian.officiel-des-vacances.com
@@ -1555,7 +1553,6 @@ exct.net
 exe.io
 exosrv.com
 expbl2ro.xbox.com
-experience.jcu.edu.au
 experience.tinypass.com
 exploit.in
 exponea.com
@@ -1659,7 +1656,6 @@ forexprostools.com
 form.jotform.com
 formcrafts.com
 forter.com
-forum.hiveos.farm
 fota5.adups.com
 fota5db.adups.com
 fota5p.adups.com
@@ -1820,10 +1816,6 @@ goliath.bi.miniclippt.com
 gooddata.com
 goodolddownloads.com
 google-analytics.com
-google.cf
-google.ga
-google.ml
-google.tk
 googleadapis.l.google.com
 googleadservices.com
 googlesyndication.com
@@ -2159,7 +2151,6 @@ img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
 img30.360buyimg.com
-imgshare.info
 imp.appledaily.com
 impact-ad.jp
 impactradius.com
@@ -2303,6 +2294,7 @@ kake.images.worldnow.com
 kaltura.com.edgekey.net
 kaltura.perf.akadns.net
 kampyle.com
+kano.is
 kaotic.com
 kaptcha.com
 katcr.co
@@ -2331,6 +2323,7 @@ klclick1.com
 ko.wowhead.com
 kodu.neti.ee
 kolabsys.com
+komachi.yomiuri.co.jp
 koszykrd.wp.pl
 kount.com
 kqzyfj.com
@@ -2340,6 +2333,7 @@ l-0014.l-msedge.net
 l-stat.livejournal.net
 l.betrad.com
 l.doubleclick.net
+l.engage.canva.com
 l.franceculture.fr
 l.qq.com
 l2.io
@@ -2478,7 +2472,6 @@ mailtrack.io
 mairdumont.com
 malaya.com.ph
 mallgroup.com
-manage.devcenter.microsoft.com
 management.azure.com
 manga-news.com
 mangler3.generals.ea.com
@@ -2715,6 +2708,7 @@ news.ebc.net.tw
 news.smi2.ru
 newsbreak.com
 newsletter.bdnews24.com
+newsletters.bancsabadell.com
 newsletters.nationalgeographic.com
 newslink.reuters.com
 newtonpaiva.br
@@ -3428,13 +3422,11 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
-signal-collector.gemaltodigitalbankingidcloud.com
 silktide.com
 simba.taobao.com
 simp.ly
 simply.com
 simplyhired.com
-sina.com.tw
 sinajs.cn
 sinematurk.com
 singular.net
@@ -3887,7 +3879,6 @@ update.avlyun.sec.miui.com
 update.miui.com
 update.pan.baidu.com
 upgrade.mishop.pandora.xiaomi.com
-upgrade.scdn.co
 upgrade.xl9.xunlei.com
 upload.cc
 ups.ksmobile.net
