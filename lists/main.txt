@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.29
-# Last modified: 29 May 2022 00:29:42 UTC
+# Last modified: 29 May 2022 08:07:48 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -219,7 +219,6 @@
 247ihost.com
 24banking.md
 24banking.ro
-24chasa.bg
 24ruhost.com
 24spoilers.com
 250m.com
@@ -1325,7 +1324,6 @@ ak-publisher-assets.spot.im
 ak.c.ooyala.com
 ak.imgfarm.com
 ak.sail-horizon.com
-aka-apiservices.boostmobile.com
 aka.gr
 aka.ms
 akadns.net
@@ -1333,7 +1331,6 @@ akadns6.net
 akam.net
 akamai.com
 akamai.net
-akamai.poxo.com
 akamaiedge.net
 akamaihd.net
 akamaistream.net
@@ -2096,7 +2093,6 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
-amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -2539,7 +2535,6 @@ api.medium.com
 api.meetme.com
 api.mega.co.nz
 api.meta.ndmdhs.com
-api.metrics.heroku.com
 api.micloud.xiaomi.net
 api.mihome.xiaomi.net
 api.mina.mi.com
@@ -2617,7 +2612,6 @@ api.stumbleupon.com
 api.suggest.search.rakuten.co.jp
 api.surfeasy.com
 api.syndicaster.tv
-api.tapas.io
 api.target.com
 api.tastyworks.com
 api.teams.skype.com
@@ -2656,7 +2650,6 @@ api.videos.oovvuu.com
 api.vimeo.com
 api.vip.miui.com
 api.vk.com
-api.vsee.com
 api.vudu.com
 api.vuukle.com
 api.waptest.taobao.com
@@ -2706,7 +2699,6 @@ apis.justwatch.com
 apis.live.net
 apis.mail.yahoo.com
 apis.naver.com
-apis.playstove.com.edgekey.net
 apis.snapchat.com
 apis.vk.vom
 apiservices.krxd.net
@@ -4175,7 +4167,6 @@ beacon-v2.helpscout.net
 beacon.geo.netflix.com
 beacon.netflix.com
 beacon.schneidercorp.com
-beaconapi.helpscout.net
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -5310,7 +5301,6 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
-campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -5655,7 +5645,6 @@ cdn.amazon.de
 cdn.amazon.es
 cdn.amazon.it
 cdn.ampproject.org
-cdn.anypoint.mulesoft.com
 cdn.appdynamics.com
 cdn.apple-mapkit.com
 cdn.ark.qq.com
@@ -5687,7 +5676,6 @@ cdn.convertkit.com
 cdn.cookielaw.org
 cdn.cpnscdn.com
 cdn.cquotient.com
-cdn.curalate.com
 cdn.cxense.com
 cdn.cxense.com.edgekey.net
 cdn.dailycaller.com
@@ -5733,7 +5721,6 @@ cdn.judge.me
 cdn.jwplayer.com
 cdn.keycdn.com
 cdn.krxd.net
-cdn.kuaidi100.com
 cdn.livechatinc.com
 cdn.livefyre.com
 cdn.livestream.com
@@ -6042,7 +6029,6 @@ channel.kakao.com
 channel9.msdn.com
 channeladvisor.com
 channelusa.samsung.com
-channelwebsdks.azureedge.net
 chaoxing.com
 chariot.net.au
 charlottemommies.com
@@ -6223,7 +6209,6 @@ choopa.com
 christhospital.org
 christliches-klinikum-melle.de
 christliches-krankenhaus-ev.de
-chrome-devtools-frontend.appspot.com
 chrome-extension-downloader.com
 chrome.adtidy.org
 chrome.google.com
@@ -6706,7 +6691,6 @@ collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
 collector-main.trafficmanager.net
-collector.lightstep.com
 collector.wallapop.com
 collegedrinkingprevention.gov
 collegehumor.com
@@ -6891,7 +6875,6 @@ confraternitaet.at
 conn.skype.akadns.net
 connatix.com
 connect.auone.jp
-connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6904,7 +6887,6 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
-connect.zebra.com
 connect2.lenovo.com
 connectbot.org
 connected.sonymusic.com
@@ -6950,11 +6932,9 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
-content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
-content.eaton.com
 content.erabu.sonymobile.com
 content.force.com
 content.googleapis.com
@@ -7359,8 +7339,6 @@ culturarecreacionydeporte.gov.co
 cumberlandhospital.com
 cuponclub.net
 cur.lv
-curalate-api-prod.us-east-1.elasticbeanstalk.com
-curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 curalate.com
 curiosity.com
 curl.im
@@ -7492,7 +7470,6 @@ d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
 da.gravatar.com
-da.tapas.io
 da.victoriabank.md
 da1.akamai.net
 daa.pl
@@ -7741,7 +7718,6 @@ dekhvhai.com
 delawarenational.com
 delicious.com
 deliver.vkcdnservice.com
-deliveroo.com.sg
 delivery.acm.org
 delivery.rakuten.co.jp
 delivery.tacticalrepublic.com
@@ -8153,7 +8129,6 @@ doctor.ndtv.com
 doctorpk.mywibes.com
 doctorshospitaldallas.com
 docusign.net
-dodge-forum.eu
 dodgersdigest.com
 doe.gov
 dog.bin
@@ -8710,7 +8685,6 @@ edge.activity.windows.com
 edge.api.brightcove.com
 edge.pantheon.io
 edge.skype.com
-edge1.certona.net
 edgecast-vod.yahoo.net
 edgecastcdn.net
 edgekey.net
@@ -8832,7 +8806,6 @@ elevationsbanking.com
 elevationscu.com
 elginfc.com
 elhospital.com
-elinkeu.clickdimensions.com
 elion.ee
 elisabeth-krankenhaus-ge.de
 elisabeth-krankenhaus-kassel.de
@@ -8859,7 +8832,6 @@ elmirasavingsbank.com
 elmundo.es
 elo.com.br
 eloqua.com
-eloqua.pearsonvue.com
 elpais.com
 elpais.es
 elpis.gr
@@ -9167,7 +9139,6 @@ eu1-zcash.flypool.org
 eu1.documents.adobe.com
 eu1.gigya.com
 eu1.p2.documentsawsperf.adobe.com
-eu2.cleverreach.com
 eubank.kz
 eudora.qualcomm.com
 eulerian.brandalley.fr
@@ -9728,7 +9699,6 @@ files.brightcove.com
 files.catbox.moe
 files.cloud.naver.com
 files.coinmarketcap.com
-files.constantcontact.com
 files.dcinside.com
 files.fm
 files.gumroad.com
@@ -10989,7 +10959,6 @@ go-mpulse.net.edgekey.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
-go.cerner.com
 go.co
 go.com
 go.daum.net
@@ -11002,11 +10971,9 @@ go.leanplum.com
 go.madmimi.com
 go.microsoft.com
 go.mybusinessacademy.ph
-go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
-go.opendoors.nl
 go.pardot.com
 go.redirectingat.com
 go.ro
@@ -11019,7 +10986,6 @@ go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
-go.updates.iata.org
 go.usa.gov
 go.wechat.com
 go2cloud.org
@@ -11741,7 +11707,6 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
-hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -13123,7 +13088,6 @@ img.zuoyebang.cc
 img0.dditscdn.com
 img02.taobaocdn.com
 img03.taobaocdn.com
-img04.en25.com
 img1.blogblog.com
 img1.dirtywarez.com
 img1.gtimg.com
@@ -13156,7 +13120,6 @@ imgnode.gtimg.cn
 imgs.xkcd.com
 imgshare.info
 imgsmail.ru
-imgssl.constantcontact.com
 imgstock.naver.com
 imgur.com
 immeon.com
@@ -14755,7 +14718,6 @@ lds.org.edgekey.net
 leadpages.co
 leadpages.net
 leanplum.com
-learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -16497,7 +16459,6 @@ mobilenetworkscoring-pa.googleapis.com
 mobilepartner.avcdn.net.edgekey.net
 mobilesdk-us.kampyle.com
 mobilityware.com
-mobilityware.helpshift.com
 mobisystems.com
 mobisystems.mobisystems.com
 mobivity.com
@@ -18263,7 +18224,6 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
-ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -18473,7 +18433,6 @@ p.d.rpts.org
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
-p.kuaidi100.com
 p.marktplaats.net
 p.pw
 p.typekit.net
@@ -18525,7 +18484,6 @@ pagefair.com
 pages.ebay.com
 pages.em.funimation.com
 pages.engage.xbox.com
-pages.info.exclusive-networks.com
 pages.soundcloud.com
 pages.status.xbox.com
 pages.typekit.com
@@ -18993,7 +18951,6 @@ ping-admin.ru
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.pdst.fm
-ping.tapas.io
 ping.taplytics.com
 ping.ui.com
 pingdom.com
@@ -19070,7 +19027,6 @@ placehold.it
 placeholder.com
 placeholdit.imgix.net
 places-manager-api.snapchat.com
-plagscan.com
 planet.net
 planeta.ru
 planetlivenow.com
@@ -19573,7 +19529,6 @@ providentnj.com
 providian.com
 provincial.com
 proxad.net
-proximity-a.wbx2.com
 proxsee.pscp.tv
 proxy-de.hide.me
 proxy-nl.hide.me
@@ -20700,7 +20655,6 @@ rottentomatoes.com
 round.ru
 roundrocktexas.gov
 router.bittorrent.com
-router.cint.com
 rover.ebay.co.uk
 rover.ebay.com
 rover.ebay.de
@@ -20847,7 +20801,6 @@ s-url.fr
 s-usc1c-nss-223.firebaseio.com
 s-usc1c-nss-233.firebaseio.com
 s-usc1c-nss-249.firebaseio.com
-s-usc1c-nss-262.firebaseio.com
 s.4pda.to
 s.adrise.tv
 s.amazon-adsystem.com
@@ -21677,7 +21630,6 @@ serverfault.com
 serverorigin.com
 servetown.com
 service.biv.sony.tv
-service.cz.nl
 service.fuib.com
 service.game-mode.net
 service.gov.uk
@@ -21905,7 +21857,6 @@ sickrage.ca
 sicoob.com.br
 sicredi.com.br
 sidbi.com
-sidecar.gitter.im
 sie.com
 sierratucson.com
 sierravistaregional.com
@@ -22044,7 +21995,6 @@ skidrow-games.com
 skills.samsung.com
 skimlinks.com
 skimresources.com
-skin.mobilesentrix.com
 skinflint.co.uk
 skipper.indevice.sonymobile.com
 skittles.com
@@ -22213,7 +22163,6 @@ snbenid.com
 snbonline.com
 sndcdn.com
 sndi.net
-sneakerfreaker.com
 snerpa.is
 snet.de
 snet.gob.sv
@@ -22963,7 +22912,6 @@ ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.hwcdn.net
-ssl.kaptcha.com
 ssl.marfeelcdn.com
 ssl.msdk.qq.com
 ssl.o.auspost.com.au
@@ -23285,7 +23233,6 @@ stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
 stats.lt
-stats.nba.com.edgekey.net
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
@@ -23719,7 +23666,6 @@ sweclockers.com
 swedbank.ee
 swedbank.se
 sweenyhospital.org
-sweet.tv
 swexpertacademy.samsung.com
 swf.soundcloud.com
 swift.com
@@ -27130,7 +27076,6 @@ www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
 www2.pardot.com
-www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
@@ -27140,7 +27085,6 @@ www4.cbox.ws
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
-www4.orangecyberdefense.com
 www5.2giga.link
 www5.untangle.com
 www6.2giga.link
