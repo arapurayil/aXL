@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.30
-# Last modified: 30 May 2022 00:35:42 UTC
+# Last modified: 30 May 2022 08:08:15 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -21643,6 +21643,7 @@ service.weather.microsoft.com
 serviceapi.rmcnmv.naver.com
 servicenetwork.sonymobile.com
 services.addons.mozilla.org
+services.brightline.tv
 services.fandom.com
 services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
