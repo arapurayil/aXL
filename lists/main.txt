@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.30
-# Last modified: 30 May 2022 08:08:15 UTC
+# Last modified: 30 May 2022 16:07:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -796,6 +796,7 @@ adcbindia.com
 adcbuae.com
 adcell.com
 adclichosting.com
+adclick.g.doubleclick.net
 adcolo.com
 adcr.naver.com
 addedfriends.com

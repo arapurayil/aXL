@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 May 2022 08:08:15 UTC
+# Last modified: 30 May 2022 16:07:23 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -98,7 +98,6 @@ a2.xinhuanet.com
 a247c.playfabapi.com
 a248.e.akamai.net
 a2z.com
-a43601.actonservice.com
 a8onlineshop.trendmicro.co.jp
 aan.amazon.com
 aatkit.com
@@ -130,7 +129,6 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
-ablinksuni.a.grubhub.com
 aboluowang.com
 aboutads.info
 above.com
@@ -181,6 +179,7 @@ adblockplus.org
 adbrix.io
 adc.api.nine.com.au
 adcell.com
+adclick.g.doubleclick.net
 adcolo.com
 adcr.naver.com
 addshoppers.com
@@ -758,7 +757,6 @@ baremetrics.com
 bat.bing.com
 batch.com
 bbin.ru
-bblck.me
 bbs.game.xiaomi.com
 bc.marfeel.com
 bc.marfeelcache.com
@@ -994,7 +992,6 @@ cdn1.smartadserver.com
 cdn2.cache.vn
 cdn2.optimizely.com
 cdn3.optimizely.com
-cdn4.bigcommerce.com
 cdn4.wibbitz.com
 cdna.clicktale.net
 cdngarenanow-a.akamaihd.net
@@ -1002,6 +999,7 @@ cdns.gigya.com
 cdns.us1.gigya.com
 cdnstatic.detik.com
 cds.connatix.com
+cds.h5z9g8y6.hwcdn.net
 cdurable.info
 cec.ro
 cedexis.com
@@ -1016,7 +1014,6 @@ cf1.vuze.com
 cf2.me
 cfemedia.com
 cftrack.com
-cgames.de
 cgi.connect.qq.com
 ch0p.darty.com
 channeladvisor.com
@@ -1143,7 +1140,6 @@ connect.facebook.net
 connect.ok.ru
 connect.rom.miui.com
 connect.scroll.com
-connect.zebra.com
 connectbot.org
 consensu.org
 consent-manager-events.ogury.io
@@ -1469,7 +1465,6 @@ embed.mystream.to
 embed.spotify.com
 embed.windy.com
 embed.wistia.com
-emercoin.com
 emjcd.com
 emkei.cz
 emsecure.net
@@ -1667,6 +1662,7 @@ fpt.microsoft.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
 fra-01.braze.eu
+fra1.digitaloceanspaces.com
 frameip.com
 frankfurt1.perfect-privacy.com
 frankfurt2.perfect-privacy.com
@@ -1699,6 +1695,7 @@ fwmrm.net
 fy.v.vrv.co
 g-ecx.images-amazon.com
 g.alicdn.com
+g.doubleclick.net
 g.ezoic.net
 g.ign.com
 g.msn.com
@@ -2294,7 +2291,6 @@ kake.images.worldnow.com
 kaltura.com.edgekey.net
 kaltura.perf.akadns.net
 kampyle.com
-kano.is
 kaotic.com
 kaptcha.com
 katcr.co
@@ -2323,7 +2319,6 @@ klclick1.com
 ko.wowhead.com
 kodu.neti.ee
 kolabsys.com
-komachi.yomiuri.co.jp
 koszykrd.wp.pl
 kount.com
 kqzyfj.com
@@ -2333,7 +2328,6 @@ l-0014.l-msedge.net
 l-stat.livejournal.net
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.franceculture.fr
 l.qq.com
 l2.io
@@ -2658,6 +2652,7 @@ mudmonster.org
 multiscreen.samsung.com
 multiscreensite.com
 multiview.com
+mx.namecoin.info
 mx.technolutions.net
 mx.yandex.ru
 mxmcdn.net
@@ -2708,7 +2703,6 @@ news.ebc.net.tw
 news.smi2.ru
 newsbreak.com
 newsletter.bdnews24.com
-newsletters.bancsabadell.com
 newsletters.nationalgeographic.com
 newslink.reuters.com
 newtonpaiva.br
@@ -2911,7 +2905,6 @@ passport.baidu.com
 pastie.org
 patatap.com
 pavv.co.kr
-paypal-carregamento.pt
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
