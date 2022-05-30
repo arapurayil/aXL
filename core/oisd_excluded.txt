@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 May 2022 16:06:29 UTC
+# Last modified: 30 May 2022 00:35:42 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -3379,6 +3379,7 @@ servedby.o2.co.uk
 servepics.com
 server.iad.liveperson.net
 service.game-mode.net
+services.brightline.tv
 services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
 services.zam.com
