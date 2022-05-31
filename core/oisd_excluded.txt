@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 31 May 2022 08:10:11 UTC
+# Last modified: 31 May 2022 16:07:57 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -665,7 +665,6 @@ appstore.pandora.xiaomi.com
 apptimize.com
 arc.epoq.de
 arc.msn.com
-archive.palemoon.org
 arstechnica.com
 art19.com
 aruljohn.com
@@ -909,6 +908,7 @@ cbox.ws
 cbs.wondershare.com
 cbsi.com
 cbsinteractive.com
+cc-api-data.adobe.io
 cc-dt.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
@@ -1662,7 +1662,6 @@ fpt.microsoft.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
 fra-01.braze.eu
-fra1.digitaloceanspaces.com
 frameip.com
 frankfurt1.perfect-privacy.com
 frankfurt2.perfect-privacy.com
@@ -2650,7 +2649,6 @@ mudmonster.org
 multiscreen.samsung.com
 multiscreensite.com
 multiview.com
-mx.namecoin.info
 mx.technolutions.net
 mx.yandex.ru
 mxmcdn.net
@@ -2903,6 +2901,7 @@ passport.baidu.com
 pastie.org
 patatap.com
 pavv.co.kr
+paypal-carregamento.pt
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
@@ -3052,6 +3051,7 @@ psicologia-online.com
 pstmrk.it
 pt.friendbuy.com
 ptmi.gitv.pandora.xiaomi.com
+pubapi.bithumb.com
 public-family.api.account.microsoft.com
 public-ws-ubiservices.ubi.com
 publicidees.com
