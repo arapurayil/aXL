@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.05.31
-# Last modified: 31 May 2022 00:30:34 UTC
+# Last modified: 31 May 2022 08:10:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6386,6 +6386,7 @@ click.mail.macmillan.com
 click.member.americanexpress.com
 click.mlsend.com
 click.myctm.canadiantire.ca
+click.mz.simba.taobao.com
 click.policy.farmers.com
 click.pstmrk.it
 click.redditmail.com
@@ -6393,6 +6394,7 @@ click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
 click.txn-email.playstation.com
+click.tz.simba.taobao.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
 click.virt.s12.exacttarget.com
@@ -6665,7 +6667,6 @@ codeorigin.jquery.com
 codepen.io
 codeplex.com
 codeproject.com
-codepush.azurewebsites.net
 codepushupdates.azureedge.net
 codesandbox.io
 codetel.com.do
@@ -13527,7 +13528,6 @@ ipredictive.com
 iprl.com
 ipstack.com
 ipsw.me
-ipv4.tracker.harry.lu
 ipv4only.arpa
 ipv6.he.net
 ipv6.msftconnecttest.com
@@ -16132,7 +16132,6 @@ mfire.com
 mfsbank.com
 mgas.prod.public.atl-paas.net
 mgr.consensu.org
-mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
 mhc-xpana-eu.myhomescreen.tv
 mhos.de
