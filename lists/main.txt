@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.30
-# Last modified: 30 May 2022 16:07:23 UTC
+# Version: 3.05.31
+# Last modified: 31 May 2022 00:30:34 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -448,7 +448,6 @@ a24m.a-bank.com.ua
 a2z.com
 a2zapk.com
 a4.mzstatic.com
-a43601.actonservice.com
 a463.w10.akamai.net
 a5.behance.net
 a57.foxnews.com
@@ -545,7 +544,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablinksuni.a.grubhub.com
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -4051,7 +4049,6 @@ bbi.co.im
 bbin.ru
 bbl.be
 bbl.co.th
-bblck.me
 bblinz.at
 bbobank.ch
 bbr.ru
@@ -5836,7 +5833,6 @@ cdn2.xda-developers.com
 cdn3.digitaltrends.com
 cdn3.optimizely.com
 cdn3.xda-developers.com
-cdn4.bigcommerce.com
 cdn4.digitaltrends.com
 cdn4.wibbitz.com
 cdn4.xda-developers.com
@@ -5870,6 +5866,7 @@ cdp.cloud.unity3d.com
 cds.connatix.com
 cds.csx.sony.com
 cds.d2s7q6s2.hwcdn.net
+cds.h5z9g8y6.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
 cdurable.info
@@ -6003,7 +6000,6 @@ cfsbancorp.com
 cftrack.com
 cfu.net
 cfvod.kaltura.com
-cgames.de
 cgd.pt
 cgi.adobe.com
 cgi.connect.qq.com
@@ -6891,7 +6887,6 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
-connect.zebra.com
 connect2.lenovo.com
 connectbot.org
 connected.sonymusic.com
@@ -8902,7 +8897,6 @@ emco-klinik.at
 emdl.ws.microsoft.com
 emea01.safelinks.protection.outlook.com
 emeap.org
-emercoin.com
 emiratesbank.com
 emiratesnbd.com
 emiratesnbd.com.eg
@@ -10271,6 +10265,7 @@ fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
 fra-01.braze.eu
+fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -10505,6 +10500,7 @@ g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.cn
 g.co
+g.doubleclick.net
 g.download.windowsupdate.com.c.footprint.net
 g.ezoic.net
 g.ign.com
@@ -14299,7 +14295,6 @@ kohls.com
 kokobank.com
 kokomopostofficecu.com
 kolabsys.com
-komachi.yomiuri.co.jp
 kombank.com
 kommunalkredit.at
 komputerswiat.pl
@@ -14572,7 +14567,6 @@ l-stat.livejournal.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.facebook.com
 l.franceculture.fr
 l.google.com
@@ -18703,7 +18697,6 @@ paymo.ru
 paymybills.com
 payonlinesystem.com
 payouts.payoneer.com
-paypal-carregamento.pt
 paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com

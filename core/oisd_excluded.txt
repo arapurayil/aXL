@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 May 2022 16:07:23 UTC
+# Last modified: 31 May 2022 00:30:34 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -953,7 +953,6 @@ cdn.iubenda.com
 cdn.judge.me
 cdn.krxd.net
 cdn.livechatinc.com
-cdn.livefyre.com
 cdn.membershipworks.com
 cdn.mobsocmedia.com
 cdn.mplxtms.com
@@ -1057,10 +1056,12 @@ click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
 click.mlsend.com
+click.mz.simba.taobao.com
 click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
 click.simba.taobao.com
+click.tz.simba.taobao.com
 clickbank.com
 clickbank.net
 clickcease.com
@@ -1106,7 +1107,6 @@ cnnic.cn
 cnzz.com
 code.createjs.com
 code.ionicframework.com
-codepush.azurewebsites.net
 cognito-identity.us-east-1.amazonaws.com
 cohesionapps.com
 coinurl.com
@@ -2226,7 +2226,6 @@ ipoker.com
 ipqualityscore.com
 ipredictive.com
 ipstack.com
-ipv4.tracker.harry.lu
 iqoption.com
 iqtest.com
 iraiser.eu
@@ -2544,7 +2543,6 @@ metrics.mzstatic.com
 metrics.plex.tv
 mewkid.net
 mgr.consensu.org
-mgtracker.org
 mhc-ajax-eu.myhomescreen.tv
 mhc-xpana-eu.myhomescreen.tv
 mhtr.be
@@ -3496,7 +3494,6 @@ speeddials.opera.com
 spl.hit.gemius.pl
 split.to
 spot.im
-spotops.spot.im
 sqimg.qq.com
 srvcs.tumblr.com
 srvtrck.com
