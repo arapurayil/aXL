@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.05.31
-# Last modified: 31 May 2022 16:07:57 UTC
+# Version: 3.06.01
+# Last modified: 01 Jun 2022 00:33:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2897,7 +2897,6 @@ archeranimalhospital.com
 archerbank.com
 archive.icann.org
 archive.org
-archive.palemoon.org
 archive.to
 archives.gov
 archlinux.org
@@ -5554,6 +5553,7 @@ cbuae.gov.ae
 cbug.cc
 cbvs.sr
 cbwc.com
+cc-api-data.adobe.io
 cc-dt.com
 cc.cc
 cc.naver.com
@@ -10266,7 +10266,6 @@ fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
 fra-01.braze.eu
-fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -18696,6 +18695,7 @@ paymo.ru
 paymybills.com
 payonlinesystem.com
 payouts.payoneer.com
+paypal-carregamento.pt
 paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
