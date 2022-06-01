@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Jun 2022 08:09:49 UTC
+# Last modified: 01 Jun 2022 16:07:29 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1055,7 +1055,6 @@ click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com
 click.linksynergy.com
-click.mlsend.com
 click.mz.simba.taobao.com
 click.redditmail.com
 click.revue.email
@@ -2284,7 +2283,6 @@ jwpltx.com
 k.cocooncenter.com
 k.sinaimg.cn
 k1.midasplayer.com
-kajabi.com
 kake.images.worldnow.com
 kaltura.com.edgekey.net
 kaltura.perf.akadns.net
@@ -2563,7 +2561,6 @@ milkfountain.com
 mimage.opentext.com
 mimgnews.pstatic.net
 mindtake.com
-mindvalley.com
 minergate.com
 minexmr.com
 miningpoolhub.com
@@ -2858,7 +2855,6 @@ overture.com
 owensoundhub.org
 owlcarousel2.github.io
 ox.ac.uk
-ozy.com
 p-hbbtv.superrtl.de
 p.d.0emn.com
 p.d.0fmm.com
@@ -3335,7 +3331,6 @@ secure.eloqua.com
 secure.footprint.net
 secure.gooddata.com
 secure.insightexpressai.com
-secured-login.net
 securemetrics.apple.com
 securemvt.apple.com
 security.browser.miui.com
@@ -3913,7 +3908,6 @@ utility.rogersmedia.com
 utopia-suites.com
 uzreklam.com
 v.fwmrm.net
-v.ht
 v.shopify.com
 v.w-x.co
 v10-win.vortex.data.microsoft.com.akadns.net
