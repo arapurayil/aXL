@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.01
-# Last modified: 01 Jun 2022 16:07:30 UTC
+# Version: 3.06.02
+# Last modified: 02 Jun 2022 00:36:41 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6384,7 +6384,6 @@ click.linksynergy.com
 click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.member.americanexpress.com
-click.mlsend.com
 click.myctm.canadiantire.ca
 click.mz.simba.taobao.com
 click.policy.farmers.com
@@ -13918,7 +13917,6 @@ kagin.co.jp
 kaioo.com
 kaiserswerther-diakonie.de
 kaixin001.com
-kajabi.com
 kakaotv.daum.net
 kake.images.worldnow.com
 kaltenkirchener-bank.de
@@ -16235,7 +16233,6 @@ minclinic.ru
 mindenexchange.com
 mindnmagick.com
 mindtake.com
-mindvalley.com
 mine.nu
 minecraft.cryptopia.co.nz
 minecraftprod.rtep.msgamestudios.com
@@ -18417,7 +18414,6 @@ ozerki.net
 ozkmtnbank.com
 ozon.ru
 ozon.travel
-ozy.com
 p-hbbtv.superrtl.de
 p-store.rakuten.co.jp
 p.d.0emn.com
@@ -21502,7 +21498,6 @@ secure4.segpay.com
 secure5.arcot.com
 secureacceptance.cybersource.com
 securechemicalbankmi.com
-secured-login.net
 secured.netflix.com
 securehomes.esat.kuleuven.be
 secureinternetbank.com
