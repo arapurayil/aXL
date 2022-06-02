@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.02
-# Last modified: 02 Jun 2022 00:36:41 UTC
+# Last modified: 02 Jun 2022 08:15:46 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2174,6 +2174,7 @@ amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
+ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -4300,6 +4301,7 @@ bexi.co.id
 beyondweb.com
 bezirkssparkasse-dillenburg.de
 bezpecnost.csas.cz
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfa.ru
 bfast.com
 bfc.com.ve
@@ -5821,6 +5823,7 @@ cdn1.smartadserver.com
 cdn1.xda-developers.com
 cdn13.com
 cdn2.airfind.com
+cdn2.bigcommerce.com
 cdn2.cache.vn
 cdn2.chia-anime.tv
 cdn2.dailycaller.com
@@ -6868,6 +6871,7 @@ config.viber.com
 config5.update.baofeng.com
 configprd.samsungcloudsolution.net
 configs.nabstudio.com
+configserver-dra.platform.hicloud.com
 configuration.apple.com.akadns.net
 confirmit.com
 conforama.ugc.bazaarvoice.com
@@ -6887,6 +6891,7 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
+connect.zebra.com
 connect2.lenovo.com
 connectbot.org
 connected.sonymusic.com
@@ -6935,6 +6940,7 @@ content-storage-upload.googleapis.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
+content.eaton.com
 content.erabu.sonymobile.com
 content.force.com
 content.googleapis.com
@@ -8831,6 +8837,7 @@ elmirasavingsbank.com
 elmundo.es
 elo.com.br
 eloqua.com
+eloqua.pearsonvue.com
 elpais.com
 elpais.es
 elpis.gr
@@ -8856,6 +8863,7 @@ email-assets.soundcloud.com
 email-clk.adguard.com
 email-connect.spot.im
 email-ee.co.uk
+email-sendgrid-deep-linking.chewy.com
 email-tracking.infobip.com
 email.163.com
 email.appsumo.com
@@ -9680,7 +9688,6 @@ file.market.xiaomi.com
 file.wechat.com
 file.xmpush.xiaomi.com
 file1.wechat.com
-file170.gofile.io
 file2.wechat.com
 fileapi.micloud.xiaomi.net
 filebin.net
@@ -21707,6 +21714,7 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
+sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -26328,7 +26336,6 @@ washingtontimes.com
 washoeschools.net
 washsavbk.com
 washtrust.com
-watch-jav.com
 watch.twitch.tv
 watchdog-basic.energized.pro
 watchdog-blu.energized.pro
@@ -27203,7 +27210,6 @@ xmrpool.eu
 xn--80aae3af7av6a7a.xn--p1ai
 xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
-xn--methrwallt-26ar0z.com
 xnet.co.nz
 xnxx.com
 xoe.cz
