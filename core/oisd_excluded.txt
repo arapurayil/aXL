@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Jun 2022 08:15:46 UTC
+# Last modified: 02 Jun 2022 16:07:24 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -54,6 +54,7 @@
 4ix.com
 4shared.com
 51.la
+51yes.com
 56.com
 5z8.info
 7.ly
@@ -108,6 +109,7 @@ aax-eu-retail-direct.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-fe-pek.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -171,6 +173,7 @@ ad.lgsmartad.com
 ad.mediaplex.com
 ad.samsungadhub.com
 ad.vu
+ad.xiaomi.com
 ad2.media01.eu
 adage.com
 adash.man.aliyuncs.com
@@ -752,6 +755,7 @@ bam.nr-data.net
 banki.onet.pl
 banner.play-asia.com
 bannerbank.com
+banners.spiceworks.com
 bannertrack.net
 barclaybanking.com
 baremetrics.com
@@ -1079,6 +1083,7 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
+client-event-reporter.twitch.tv
 clientconfig.passport.net
 clients.l.google.com
 clients1.google.com
@@ -1101,6 +1106,7 @@ cm.miaozhen.atm.youku.com
 cmcm.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
+cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmpnet.com
 cmstool.youku.com
@@ -1115,6 +1121,7 @@ cohesionapps.com
 coinurl.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
+collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-main.trafficmanager.net
@@ -1168,6 +1175,7 @@ conversions.appsflyer.com
 convertexperiments.com
 converti.se
 conviva.com
+cookie.monster.com
 cookie.vrt.be
 cookiebot.com
 cookielaw.org
@@ -1214,6 +1222,7 @@ csi.gstatic.com
 csr.onet.pl
 cst.cstwpush.com
 cstwpush.com
+ct.impactradius.com
 ct.pinterest.com
 cta-redirect.hubspot.com
 ctc.fe01.c3.xiaomi.com
@@ -1580,6 +1589,7 @@ fast.wistia.com
 fast.wistia.net
 fastly-analytics.com
 faygoluvers.net
+fbcdn-creative-a.akamaihd.net
 fc-lc.com
 fc.vodafone.de
 fccinteractive.com
@@ -2183,6 +2193,7 @@ ingest.sentry.io
 ink1001.com
 inquisition.goguardian.com
 ins-2ybret5v.ias.tencent-cloud.net
+inscname.net
 inside-graph.com
 insideruser.trafficmanager.net
 insight.rapid7.com
@@ -2191,6 +2202,7 @@ insightexpressai.com
 insightexpressai.com.edgekey.net
 insights.dice.com
 insights.samsung.com
+insnw.net
 inspectlet.com
 instana.io
 instant.page
@@ -2329,6 +2341,7 @@ kount.com
 kqzyfj.com
 krxd.net
 kryptoslogic.com
+kuaiche.com
 l-0014.l-msedge.net
 l-stat.livejournal.net
 l.betrad.com
@@ -2474,6 +2487,7 @@ malaya.com.ph
 mallgroup.com
 management.azure.com
 manga-news.com
+mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 map.baidu.com
@@ -2582,6 +2596,7 @@ mis.migc.xiaomi.com
 miscopy.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
+mistat.xiaomi.com
 mitunes.game.xiaomi.com
 mixi.media
 mixpanel.com
@@ -2609,6 +2624,7 @@ mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.com
 mobile.qzone.qq.com
 mobileandroidapi.punchh.com
+mobiledl.adobe.com
 mobileiosapi.punchh.com
 mobilepartner.avcdn.net.edgekey.net
 mobilesdk-us.kampyle.com
@@ -2768,6 +2784,7 @@ nw-umwatson.events.data.microsoft.com
 o.xbox.com
 o0bc.com
 o2o.api.xiaomi.com
+oas.monster.com
 oasjs.kataweb.it
 objectstorage.us-ashburn-1.oraclecloud.com
 ocsp.apple.com
@@ -2852,6 +2869,7 @@ osb-ussvc.samsungqbe.com
 osb.samsungqbe.com
 osimg.nbcuni.com
 ospserver.net
+otf.msn.com
 otn.samsungcloudcdn.com
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
@@ -2860,6 +2878,7 @@ otnprd9.samsungcloudsolution.net
 ouo.io
 outbrain.com
 outbrain.com.edgekey.net
+ovc2-ustokyyneikyfasnm.stackpathdns.com
 over-blog.com
 overture.com
 owensoundhub.org
@@ -3048,6 +3067,7 @@ prolapseman.com
 promo.mobile.de
 promo.webpayments.closeby.internet.apps.samsung.com
 promoted.soundcloud.com
+proton.flurry.com
 prov.samsungcloudsolution.com
 proxad.net
 proxy.novafusion.ea.com
@@ -3059,6 +3079,7 @@ pt.friendbuy.com
 ptmi.gitv.pandora.xiaomi.com
 public-family.api.account.microsoft.com
 public-ws-ubiservices.ubi.com
+public.vilynx.com
 publicidees.com
 publisher-assets.spot.im
 pubster.twitch.tv
@@ -3126,6 +3147,7 @@ rat.rakuten.co.jp
 rbx.gg
 rchase.com
 rd.rakuten.co.jp
+rd.samsungadhub.com
 rd.yahoo.com
 rdrtr.com
 rdstation.com
@@ -3173,6 +3195,7 @@ res-x.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
@@ -3242,6 +3265,7 @@ s7.addthis.com
 s8.addthis.com
 sa.api.intl.miui.com
 sa.bbc.co.uk
+sa.bbc.com
 saa.cbsi.com
 sabre.com
 sadmin.brightcove.com
@@ -3379,6 +3403,7 @@ services.gfe.nvidia.com
 services.gfe.nvidia.com.global.ogslb.com
 services.zam.com
 serving-sys.com
+servserv.generals.ea.com
 sessioncam.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
@@ -3402,8 +3427,10 @@ shareaholic.com
 shareasale.com
 sharethis.com
 sharewood.org
+shenghuo.xiaomi.com
 shenyun.com
 shinobi.jp
+shockgore.com
 shodanhq.com
 shoes.app-xae.xiaomi.com
 shop.spreadshirt.com
@@ -3419,6 +3446,7 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
+signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 silktide.com
 simba.taobao.com
 simp.ly
@@ -3483,6 +3511,7 @@ solutions.tradedoubler.com
 som.aeroplan.com
 someonewhocares.com
 somni.huk.de
+soo.gd
 soo.sg
 soundofhope.org
 sourcepoint.mgr.consensu.org
@@ -3510,6 +3539,7 @@ ssl.google-analytics.com
 ssl.msdk.qq.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
+ssl4anyone2.com
 ssm1.internet.sony.tv
 sso.internetat.tv
 ssor.tribdss.com
@@ -3531,6 +3561,7 @@ startup.mobile.yandex.net
 stat.download.xunlei.com
 stat.ethz.ch
 stat.pandora.xiaomi.com
+stat.xiaomi.com
 stat24.com
 statcounter.com
 static.3001.net
@@ -3554,6 +3585,7 @@ static.scroll.com
 static.shorte.st
 static.tidiochat.com
 static.ts.360.com
+static.vilynx.com
 static.vrv.co
 static.ws.126.net
 staticxx.facebook.com
@@ -3633,6 +3665,7 @@ t.paydirekt.de
 t.paypal.com
 t.purch.com
 t.umblr.com
+t.vimeo.com
 t.wayfair.ca
 t.wayfair.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -3712,6 +3745,7 @@ thepiratebay.org
 theraleighregister.com
 thirdparty.bnc.lt
 thisisacoolthing.com
+thunderhead.com
 tiara.daum.net
 tickcounter.com
 tidd.ly
@@ -3868,6 +3902,7 @@ uniregistry.com
 unitedbike.com
 unity.com
 unity3d.com
+unk.vver.kiae.rr
 untd.com
 up.cm.ksmobile.com
 update.360safe.com
@@ -3895,6 +3930,7 @@ us.i1.yimg.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.rdx2.lgtvsdp.com
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
@@ -3949,6 +3985,7 @@ verification-va.byteoversea.com.edgesuite.net
 verify.authorize.net
 verizon.demdex.net
 verizonmedia.com
+version.bind
 version.hybrid.api.here.com
 veta.naver.com
 vgwort.de
@@ -4007,6 +4044,7 @@ wallpapers.com
 wangbase.com
 wap.game.xiaomi.com
 waptrick.com
+watch-jav.com
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 wayin.com
@@ -4133,6 +4171,8 @@ xlog-va.musical.ly.edgesuite.net
 xml.opera.com
 xmpush.xiaomi.com
 xmrpool.eu
+xn--mytherwllet-r8a0c.com
+xn--turkishirlines-1p8g.com
 xp.apple.com
 xrea.com
 xtgem.com
@@ -4175,6 +4215,7 @@ zdbb.net
 zee.cws.conviva.com
 zenaps.com
 zeptolab.com
+zesdak-mounde.tk
 zh-cn.shenyun.com
 ziffdavis.com
 zipansion.com
