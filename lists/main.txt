@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.03
-# Last modified: 03 Jun 2022 00:25:01 UTC
+# Last modified: 03 Jun 2022 08:08:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -324,7 +324,6 @@
 50webs.com
 51.com
 51.la
-51yes.com
 5231.xg4ken.com
 53.com
 55.ru
@@ -479,7 +478,6 @@ aax-eu-retail-direct.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
-aax-fe-pek.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -763,7 +761,6 @@ ad.mediaplex.com
 ad.nl
 ad.samsungadhub.com
 ad.vu
-ad.xiaomi.com
 ad2.media01.eu
 ad2.netshelter.net
 ad5.eu
@@ -4534,7 +4531,6 @@ blizzard.com
 blkb.ch
 blo.gs
 blob.weather.microsoft.com
-blobcollector.events.data.trafficmanager.net
 blockadblock.com
 blockads.fivefilters.org
 blockchain.info
@@ -6577,7 +6573,6 @@ cmicapui.ce.gov.br
 cml.org.uk
 cmla.com
 cmp-cdn.ghostery.com
-cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmpnet.com
 cmr.cl
@@ -6694,7 +6689,6 @@ colgate.com.br
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collateral.medium.com
-collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
@@ -8461,6 +8455,7 @@ e-tjanster.1177.se
 e-verify.gov
 e-words.jp
 e-xacbank.com
+e.189.cn
 e.breitbart.com
 e.clhs.com.ua
 e.customeriomail.com
@@ -10887,7 +10882,6 @@ glassdoor.com
 glb.paypal.com
 glbank.com
 glbdns.microsoft.com
-glbdns2.microsoft.com
 gleam.io
 glendaleadventist.com
 glendalememorialhospital.org
@@ -11340,6 +11334,7 @@ grandbk.com
 granitbank.hu
 granitebank.com
 graph.accountkit.com
+graph.facebook-hardware.com
 graph.facebook.com
 graph.facebook.net
 graph.fbpigeon.com
@@ -13315,7 +13310,6 @@ insider.sonymobile.com
 insiderdownloads.ign.com
 insiderservice.microsoft.com
 insideruser.microsoft.com
-insideruser.trafficmanager.net
 insight.rapid7.com
 insightexpress.com
 insightexpressai.com
@@ -15489,7 +15483,6 @@ manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
 mange-news.com
-mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mangomoney.ru
@@ -16314,7 +16307,6 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
-mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -16447,6 +16439,7 @@ mobile.nytimes.com
 mobile.ok.ru
 mobile.paypal.com
 mobile.pipe.aria.microsoft.com
+mobile.pool.space
 mobile.qzone.qq.com
 mobile.rakuten.co.jp
 mobile.scribd.com
@@ -17671,7 +17664,6 @@ nvebank.com
 nvhosp.org
 nvidia.com
 nvsl.com
-nw-umwatson.events.data.microsoft.com
 nwanimalhospital.vetsuite.com
 nwb.nl
 nwdealer.megafon.ru
@@ -20939,7 +20931,6 @@ sa-in-f26.1e100.net
 sa-in-f27.1e100.net
 sa.api.intl.miui.com
 sa.bbc.co.uk
-sa.bbc.com
 sa.nexon.game.naver.com
 sa.symcb.com
 sa1-urlp.secure.skypeassets.com
@@ -21662,7 +21653,6 @@ servint.com
 servint.net
 servis24.cz
 servizioelettriconazionale.it
-servserv.generals.ea.com
 sesiahs.health.nsw.gov.au
 sessioncam.com
 settings-sandbox.data.microsoft.com
@@ -21791,7 +21781,6 @@ shinobi.jp
 shinseibank.com
 shkb.ch
 shminorshort.weixin.qq.com
-shockgore.com
 shockplay.com
 shockwave.com
 shodanhq.com
@@ -22928,7 +22917,6 @@ ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
 ssl0.ovh.net
-ssl4anyone2.com
 sslbl.abuse.ch
 sslshare.gshifen.com
 ssm.pd.biv.sony.tv
@@ -23081,7 +23069,6 @@ stat.gov.az
 stat.livejournal.com
 stat.moneycontrol.co.in
 stat.pandora.xiaomi.com
-stat.xiaomi.com
 stat1.moneycontrol.com
 stat2.moneycontrol.com
 stat24.com
@@ -23207,7 +23194,6 @@ static.union.mi.com
 static.viabtc.com
 static.viber.com
 static.videoder.net
-static.vilynx.com
 static.vrv.co
 static.vtwonen.nl
 static.whatsapp.net
@@ -24900,7 +24886,6 @@ umich.edu
 umla.org
 umn.edu
 umpquabank.com
-umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 umweltbank.de
 un.org
@@ -25200,7 +25185,6 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
@@ -26351,7 +26335,6 @@ washingtontimes.com
 washoeschools.net
 washsavbk.com
 washtrust.com
-watch-jav.com
 watch.twitch.tv
 watchdog-basic.energized.pro
 watchdog-blu.energized.pro
@@ -27546,7 +27529,6 @@ zpag.es
 zpdee.net
 zrk.imgur.com
 zscaler.com
-ztd.dds.microsoft.com
 zti.me
 ztm.waw.pl
 zuboo.net
