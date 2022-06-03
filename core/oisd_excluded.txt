@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Jun 2022 08:08:12 UTC
+# Last modified: 03 Jun 2022 16:06:40 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -2611,7 +2611,6 @@ mobile.cmtelematics.com
 mobile.events.data.microsoft.com
 mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.com
-mobile.pool.space
 mobile.qzone.qq.com
 mobileandroidapi.punchh.com
 mobileiosapi.punchh.com
@@ -2864,7 +2863,6 @@ otnprd9.samsungcloudsolution.net
 ouo.io
 outbrain.com
 outbrain.com.edgekey.net
-ovc2-ustokyyneikyfasnm.stackpathdns.com
 over-blog.com
 overture.com
 owensoundhub.org
@@ -4145,6 +4143,7 @@ xp.apple.com
 xrea.com
 xtgem.com
 xtra.co.nz
+xurl.es
 y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com
