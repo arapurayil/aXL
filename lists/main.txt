@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.03
-# Last modified: 03 Jun 2022 16:06:40 UTC
+# Version: 3.06.04
+# Last modified: 04 Jun 2022 00:30:33 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -16440,7 +16440,6 @@ mobile.nytimes.com
 mobile.ok.ru
 mobile.paypal.com
 mobile.pipe.aria.microsoft.com
-mobile.pool.space
 mobile.qzone.qq.com
 mobile.rakuten.co.jp
 mobile.scribd.com

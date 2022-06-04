@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Jun 2022 16:06:40 UTC
+# Last modified: 04 Jun 2022 00:30:33 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -451,6 +451,7 @@ adtechus.com
 adtidy.net
 adtrackers.net
 adtraction.com
+adultfriendfinder.com
 adultswim.com
 adups.com
 adv.sec.miui.com
@@ -2469,6 +2470,7 @@ magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magiskmanager.com
 magnetmail1.net
+mail.hallym.ac.kr
 mailchimp.com
 mailerlite.com
 mailfoogae.appspot.com
