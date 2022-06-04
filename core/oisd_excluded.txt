@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Jun 2022 00:30:33 UTC
+# Last modified: 04 Jun 2022 08:06:28 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -641,7 +641,6 @@ app.market.xiaomi.com
 app.meltwater.com
 app.migc.xiaomi.com
 app.optimizely.com
-app.pr0gramm.com
 app.qq.com
 app.usercentrics.eu
 app.wootric.com
@@ -743,7 +742,6 @@ b23.ru
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
-back4.2giga.link
 backstage.taboola.com
 backtrack-linux.org
 badge.stumbleupon.com
@@ -1438,7 +1436,6 @@ easyspace.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 ebates.com
-ebd.cda.pl
 eboundservices.com
 ec2eu.adswizz.com
 ecn.dev.virtualearth.net
@@ -1602,7 +1599,6 @@ file.xmpush.xiaomi.com
 filehorse.com
 files.im
 files.viva64.com
-fili.cc
 fili.tv
 filmha.top
 financial.org
@@ -1679,7 +1675,6 @@ frankfurt1.perfect-privacy.com
 frankfurt2.perfect-privacy.com
 frantic.com
 free.fr
-freebitco.in
 freegeoip.app
 freegeoip.net
 freeroms.com
@@ -2368,7 +2363,6 @@ lexatrade.com
 lg-bgp.pandora.xiaomi.com
 lgsmartad.com
 li.dailycaller.com
-lib.rus.ec
 libs.coremetrics.com
 license.unity3d.com
 licensing.blinkreceipt.com
@@ -2448,7 +2442,6 @@ m.bss.pandora.xiaomi.com
 m.cnbeta.com
 m.exactag.com
 m.hotmail.com
-m.pr0gramm.com
 m.qpic.cn
 m.qq.com
 m.yap.yahoo.com
@@ -2577,7 +2570,6 @@ milkfountain.com
 mimage.opentext.com
 mimgnews.pstatic.net
 mindtake.com
-minergate.com
 minexmr.com
 miningpoolhub.com
 mintos.com
@@ -2981,7 +2973,6 @@ player.anyclip.com
 player.cnevids.com
 player.daznservices.com
 player.glomex.com
-player.h-cdn.com
 player.ooyala.com
 playhydrax.com
 playwire.com
@@ -3594,7 +3585,6 @@ stradeanas.it
 streamate.com
 streaming.adswizz.com
 streamplay.me
-streamplay.to
 stressthem.to
 stripe.network
 stroeerdigitalgroup.de
@@ -3941,7 +3931,6 @@ validatedsite.com
 valuedopinions.co.uk
 vbsedit.com
 vcdn.biz
-vcrypt.net
 vcs.vdspf.com
 vd.l.qq.com
 vdterms.samsungcloudsolution.com
@@ -4107,17 +4096,11 @@ wt-eu02.net
 wurfl.io
 wwis-dubc1-vip60.adobe.com
 www-googletagmanager.l.google.com
-www1.2giga.link
-www2.2giga.link
 www2.pardot.com
-www3.2giga.link
 www3.bloomingdales.com
 www3.webhostingtalk.com
 www4.cbox.ws
-www5.2giga.link
-www6.2giga.link
 www6.cbox.ws
-www7.2giga.link
 wwwimg.roku.com
 wywy.com
 wzrkt.com
