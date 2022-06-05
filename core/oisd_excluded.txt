@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Jun 2022 16:04:07 UTC
+# Last modified: 05 Jun 2022 00:34:50 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -38,7 +38,6 @@
 2guys1stump.org
 2ip.ua
 2mdn.net
-2miners.com
 2o7.net
 31.media.tumblr.com
 3cinteractive.com
@@ -130,6 +129,7 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+ablink.o.sofi.org
 aboluowang.com
 aboutads.info
 above.com
@@ -153,6 +153,7 @@ action.metaffiliation.com
 activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.adobe.com
+activate.maurices.com
 activate.wip3.adobe.com
 activation.dolphin-browser.com
 activation.unity3d.com
@@ -775,7 +776,6 @@ best.aliexpress.com
 bestgore.com
 betclic.com
 betrad.com
-bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfast.com
 bfp.capitalone.com
 bgp.fe01.c3.xiaomi.com
@@ -990,7 +990,6 @@ cdn.wootric.com
 cdn.ziffstatic.com
 cdn1.ettoday.net
 cdn1.smartadserver.com
-cdn2.bigcommerce.com
 cdn2.cache.vn
 cdn2.optimizely.com
 cdn3.optimizely.com
@@ -1144,7 +1143,6 @@ connect.facebook.net
 connect.ok.ru
 connect.rom.miui.com
 connect.scroll.com
-connect.zebra.com
 connectbot.org
 consensu.org
 consent-manager-events.ogury.io
@@ -1156,7 +1154,6 @@ consentmanager.mgr.consensu.org
 consentmanager.net
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
-content.eaton.com
 content.jwplatform.com
 content.swrve.com
 content.worldnow.com
@@ -1460,13 +1457,11 @@ elastx.net
 elblogdelnarco.com
 ellation.map.fastly.net
 eloqua.com
-eloqua.pearsonvue.com
 elpais.es
 elvenar.com
 em.bm23.com
 em.dynamicyield.com
 email-clk.adguard.com
-email-sendgrid-deep-linking.chewy.com
 emarketer.com
 emarsys.net
 embed.comicbook.com
@@ -1839,7 +1834,6 @@ grab.com
 grabify.link
 grabo.bg
 graph.accountkit.com
-graph.facebook-hardware.com
 graph.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
@@ -2155,6 +2149,7 @@ img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
 img30.360buyimg.com
+imgshare.info
 imp.appledaily.com
 impact-ad.jp
 impactradius.com
@@ -2679,6 +2674,7 @@ na61-na62.wagbridge.alibaba.tanx.com
 naiadsystems.com
 naifei.shop
 nametests.com
+nanopool.org
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -3190,6 +3186,7 @@ rm.api.weibo.com
 rmp.rakuten.com
 rmscomponents.com.au
 rnet.plus
+roem.ru
 rollbar.com
 romsmania.com
 router.bittorrent.com
@@ -3380,6 +3377,7 @@ serving-sys.com
 sessioncam.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
+settingsfd-geo.trafficmanager.net
 sf1-ttcdn-tos.pstatp.com
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
@@ -3416,6 +3414,7 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
+signal-collector.gemaltodigitalbankingidcloud.com
 silktide.com
 simba.taobao.com
 simp.ly
@@ -4129,7 +4128,6 @@ xp.apple.com
 xrea.com
 xtgem.com
 xtra.co.nz
-xurl.es
 y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com
