@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.05
-# Last modified: 05 Jun 2022 00:34:50 UTC
+# Last modified: 05 Jun 2022 08:07:44 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -544,6 +544,7 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
+ablink.o.sofi.org
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -717,6 +718,7 @@ activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.adobe.com
 activate.cdn.viber.com
+activate.maurices.com
 activate.wip3.adobe.com
 activation-v2.kaspersky.com
 activation.acronis.com
@@ -4301,7 +4303,6 @@ bexi.co.id
 beyondweb.com
 bezirkssparkasse-dillenburg.de
 bezpecnost.csas.cz
-bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bfa.ru
 bfast.com
 bfc.com.ve
@@ -5822,7 +5823,6 @@ cdn1.smartadserver.com
 cdn1.xda-developers.com
 cdn13.com
 cdn2.airfind.com
-cdn2.bigcommerce.com
 cdn2.cache.vn
 cdn2.chia-anime.tv
 cdn2.dailycaller.com
@@ -6890,7 +6890,6 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
-connect.zebra.com
 connect2.lenovo.com
 connectbot.org
 connected.sonymusic.com
@@ -6939,7 +6938,6 @@ content-storage-upload.googleapis.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
-content.eaton.com
 content.erabu.sonymobile.com
 content.force.com
 content.googleapis.com
@@ -8838,7 +8836,6 @@ elmirasavingsbank.com
 elmundo.es
 elo.com.br
 eloqua.com
-eloqua.pearsonvue.com
 elpais.com
 elpais.es
 elpis.gr
@@ -8864,7 +8861,6 @@ email-assets.soundcloud.com
 email-clk.adguard.com
 email-connect.spot.im
 email-ee.co.uk
-email-sendgrid-deep-linking.chewy.com
 email-tracking.infobip.com
 email.163.com
 email.appsumo.com
@@ -11335,7 +11331,6 @@ grandbk.com
 granitbank.hu
 granitebank.com
 graph.accountkit.com
-graph.facebook-hardware.com
 graph.facebook.com
 graph.facebook.net
 graph.fbpigeon.com
@@ -13123,6 +13118,7 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
+imgshare.info
 imgsmail.ru
 imgstock.naver.com
 imgur.com
@@ -20616,6 +20612,7 @@ rockstarwarehouse.com
 rod.gs
 rodnayasvyaz.ru
 rodovidbank.com
+roem.ru
 roendespar.dk
 roflc.at
 rogers.com
@@ -21862,6 +21859,7 @@ sierravistaregional.com
 sift.com
 siftscience.com
 sign-in.soundcloud.com
+signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
