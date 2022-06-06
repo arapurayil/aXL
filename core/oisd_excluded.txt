@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Jun 2022 08:08:00 UTC
+# Last modified: 06 Jun 2022 16:06:24 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1650,8 +1650,6 @@ glam.com
 gleam.io
 glimmer.hearstapps.com
 global-wildcard.insightexpressai.com.edgekey.net
-global.in.ai.monitor.azure.com
-global.in.ai.privatelink.monitor.azure.com
 global.search.xiaomi.net
 global.telemetry.insights.video.a2z.com
 glomex.com
@@ -2116,7 +2114,6 @@ js-sec.indexww.com
 js.driftt.com
 js.gleam.io
 js.hs-scripts.com
-js.monitor.azure.com
 js.pusher.com
 js.stripe.com
 js.taplytics.com
@@ -2992,6 +2989,7 @@ s3-directional-w.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.ap-south-1.amazonaws.com
 s3.ll.videorolls.row.aiv-cdn.net
+s3s-main.net
 s7.addthis.com
 s8.addthis.com
 sa.bbc.co.uk
@@ -3586,6 +3584,7 @@ usage.trackjs.com
 use.typekit.net
 usebutton.com
 useinsider.com
+user.fm
 user.gini.net
 usercentrics.com
 usercentrics.eu
