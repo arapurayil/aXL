@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.06
-# Last modified: 06 Jun 2022 00:27:10 UTC
+# Last modified: 06 Jun 2022 08:08:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10607,6 +10607,7 @@ gamestore.ign.com
 gametame.com
 gamevn.com
 gaming.engadget.com
+gamulator.com
 gan.doubleclick.net
 gangirc.org
 gap.com
@@ -15679,6 +15680,7 @@ massbank.com
 massbankers.org
 massmba.com
 master-capital.org
+master.cz
 masterpass.ch
 masterpass.com
 mat1.gtimg.com
@@ -15981,6 +15983,7 @@ medium.com
 medium.freecodecamp.org
 medizinplus.com
 medrx.telstra.com.au
+medyanetads.com
 medynet.com
 meebo.com
 meel.fr
@@ -16714,6 +16717,7 @@ msport.gov.pl
 mss-offermgmt.modpim.com
 mss.handmark.com
 mssl.fwmrm.net
+msuac.edu.mn
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -17154,6 +17158,7 @@ ne-derbyshire.gov.uk
 nea.gov
 nebankers.org
 nebula-collector.huawei.com
+necror.de
 nedbank.co.za
 neemu.com
 nejmqianyan.cn
@@ -20572,6 +20577,7 @@ richart.tw
 richlandbank.com
 richlandhospital.com
 richmond.gov.uk
+richplanet.net
 richrelevance.com
 rico.com.vc
 ridefox.com
