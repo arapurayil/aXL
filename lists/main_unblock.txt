@@ -3,11 +3,10 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2022-06-05T16:07:05.537Z
+! Last modified: 2022-06-06T00:27:16.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
-@@||adserver.snapads.com^
 @@||advertisement.tanx.com^
 @@||advertising-module.api.dpgmedia.cloud^
 @@||advertising.com^
@@ -22,7 +21,6 @@
 @@||analytics.edgekey.net^
 @@||analytics.edgesuite.net^
 @@||analytics.google.com^
-@@||analytics.openapi.naver.com^
 @@||analytics.query.yahoo.com^
 @@||analytics.robinhood.com^
 @@||analytics.twitter.com^
@@ -52,5 +50,6 @@
 @@||telemetry.microsoft.com^
 @@||telemetry.mozilla.org^
 @@||telemetry.soundcloud.com^
+@@||use.adserver.snapads.com^
 @@/beacons?[0-9]?.*((gvt|gcp)[0-9].(com))$/
 @@/^(captive\.|adservice\.).*(google\.(co\.|com\.|xn--)?[a-zA-Z0-9_]{2,24})$/

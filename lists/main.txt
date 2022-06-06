@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.05
-# Last modified: 05 Jun 2022 16:06:56 UTC
+# Version: 3.06.06
+# Last modified: 06 Jun 2022 00:27:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -914,7 +914,6 @@ ads280dummy2.com
 adsafeprotected.com
 adsafety.net
 adschemist.com
-adserver.snapads.com
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -2202,7 +2201,6 @@ analytics.dev.azure.com
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics.google.com
-analytics.openapi.naver.com
 analytics.query.yahoo.com
 analytics.robinhood.com
 analytics.twitter.com
@@ -2818,7 +2816,6 @@ appalachianbank.com
 appauth.naver.com
 appboot.netflix.com
 appboy-images.com
-appboy.com
 appbrain.com
 appc.baidu.com
 appcast.io
@@ -4518,7 +4515,6 @@ bkbank.com
 bkc-paderborn.de
 bkcp.be
 bkme.com
-bkrtx.com
 bks.at
 bksbank.it
 black.game.naver.com
@@ -4659,7 +4655,6 @@ bluecore.com
 bluecrosspethospital.onsmartpages.com
 bluehornet.com
 bluehost.com
-bluekai.com
 bluestarindia.com
 bluetoad.com
 bluewaffle.biz
@@ -6995,7 +6990,6 @@ conversation-read.spot.im
 conversehospital.com
 conversions.appsflyer.com
 convertertogenerator.com
-convertexperiments.com
 converti.se
 convertkit.com
 conviva.com
@@ -7237,7 +7231,6 @@ crickee.com
 cricketapi-icc.pulselive.com
 criptointercambio.com
 crisp.chat
-criteo.com
 critic.api.playstation.com
 crl-ds.ws.symantec.com.edgekey.net
 crl.adobe.com
@@ -7591,7 +7584,6 @@ data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 data.origin.com
 data.over-blog-kiwi.com
-data.qq.com
 data.sec.intl.miui.com
 data.sec.miui.com
 data.ubi.com
@@ -9167,7 +9159,6 @@ eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu.cdn.survey.medallia.com
 eu.community.samsung.com
-eu.criteo.com
 eu.pipe.aria.microsoft.com
 eu.playstation.com
 eu.spgo.io
@@ -15957,7 +15948,6 @@ media.wired.com
 media.xda-developers.com
 media01.eu
 media4.steampowered.com
-mediabrix.com
 mediacorp.112.2o7.net
 mediafile.dcinside.com
 mediafire.com
@@ -17443,7 +17433,6 @@ nkl.irlink.ru
 nl-1.hide.me
 nl-go.kelkoogroup.net
 nl-nl.about.flipboard.com
-nl.eu.criteo.com
 nl.gravatar.com
 nl.hide.me
 nl.ign.com
@@ -18891,8 +18880,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfalytics.com
-perfdrive.com
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -19825,7 +19812,6 @@ qualtrics.com
 quantaprevidencia.com.br
 quantcast.com
 quantcast.mgr.consensu.org
-quantserve.com
 quantummetric.com
 quarterlife.com
 quartic.pl
@@ -20050,7 +20036,6 @@ randalloaksanimalhospital.com
 rank.spot.im
 ranker.com
 rankia.com
-ranking.com
 ranking.rakuten.co.jp
 ransomwaretracker.abuse.ch
 raphaelsklinik.de
@@ -20541,11 +20526,9 @@ retreathospital.com
 retro-bit.com
 return.to
 returnpath.com
-returnpath.net
 reunion.com
 reut.rs
 reuters.com
-revcontent.com
 revdl.com
 revenue.ie
 revenuecat.com
@@ -21105,7 +21088,6 @@ samsung.pagelyhosting.com
 samsung.se
 samsung.stories.bazaarvoice.com
 samsung.ugc.bazaarvoice.com
-samsungadhub.com
 samsungcanadaparts.com
 samsungcloudsolution.com
 samsungcloudsolution.net
@@ -21483,7 +21465,6 @@ secondfederal.com
 secondlife.com
 secondstreetapp.com
 secret.ly
-secret.xn--oogle-3fa01c.com
 secret.É¢oogle.com
 secret.ɢoogle.com
 secretservice.gov
@@ -22219,7 +22200,6 @@ sn.io
 snap.com
 snap.licdn.com
 snap.net.nz
-snapads.com
 snapchat-payments-gateway.snapchat.com
 snapchat.com
 snapdeal.com
@@ -22949,7 +22929,6 @@ sro.ch
 srs.gov
 srv1.xbext.com
 srv2.xbext.com
-srvcs.tumblr.com
 srvtrck.com
 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ss.phncdn.com
@@ -23302,7 +23281,6 @@ statistics.laerd.com
 stats.adobe.com
 stats.api.xiaomi.net
 stats.appsflyer.com
-stats.avast.com
 stats.channel4.com
 stats.distributed.net
 stats.espncricinfo.com
@@ -23763,7 +23741,6 @@ swissregiobank.ch
 swkbank.de
 swna.wdpr.disney.com
 swpinger.wip4.adobe.com
-swrve.com
 swsahs.nsw.gov.au
 swupmf.adobe.com
 sy.ameblo.jp
@@ -25141,6 +25118,7 @@ upgrade.scdn.co
 upgrade.scdn.com
 upgrade.xl9.xunlei.com
 uphold.com
+upload-4ever.com
 upload.blog.naver.com
 upload.cc
 upload.dcinside.com
@@ -27215,7 +27193,6 @@ wyomingbankers.com
 wyspagier.pl
 wywy.com
 wzcb.com.cn
-wzrkt.com
 x.co
 x.dpstatic.com
 x.kinja-static.com
@@ -27313,8 +27290,6 @@ xmrpool.eu
 xn--80aae3af7av6a7a.xn--p1ai
 xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
-xn--mytherwllet-r8a0c.com
-xn--turkishirlines-1p8g.com
 xnet.co.nz
 xnxx.com
 xoe.cz

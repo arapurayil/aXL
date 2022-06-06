@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Jun 2022 16:06:55 UTC
+# Last modified: 06 Jun 2022 00:27:10 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1442,6 +1442,7 @@ exacttarget.com.edgekey.net
 exchange4media.com
 exct.net
 exe.io
+eximbankindia.com
 exosrv.com
 experience.tinypass.com
 exploit.in
@@ -1592,6 +1593,7 @@ game.xiaomi.com
 gamehouse.com
 gameone.com
 gametame.com
+gamulator.com
 gan.doubleclick.net
 gardenstatehelicopters.com
 gardenstatescouting.org
@@ -2317,6 +2319,7 @@ maropost.com
 marsflag.com
 mas-ext.amazon.com
 mas-ssr-ad.amazon.com
+master.cz
 matomo.org
 maxcdn.bootstrapcdn.com
 maxcdn.com
@@ -2348,6 +2351,7 @@ mediametrics.ru
 mediaplex.com
 mediatriple.net
 medrx.telstra.com.au
+medyanetads.com
 meipian7.cn
 meltwater.com
 members.iinet.net.au
@@ -2454,6 +2458,7 @@ msh.amazon.co.uk
 msh.amazon.com
 mss.handmark.com
 mssl.fwmrm.net
+msuac.edu.mn
 mudmonster.org
 multiscreen.samsung.com
 multiscreensite.com
@@ -2490,6 +2495,7 @@ natcom.co.nz
 nationalisacs.org
 navitime.co.jp
 naytev.com
+necror.de
 neemu.com
 nejmqianyan.cn
 neobux.com
@@ -2929,6 +2935,7 @@ return.to
 rewardsprod.trafficmanager.net
 rezync.com
 rfk.biglots.com
+richplanet.net
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
