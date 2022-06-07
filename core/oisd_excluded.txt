@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Jun 2022 08:07:39 UTC
+# Last modified: 07 Jun 2022 16:06:32 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -102,6 +102,7 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-opf-us-east.amazon-adsystem.com
 aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-east-retail-direct.amazon.com
 aax-us-east-rtb-adx.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -118,7 +119,6 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
-ablink.o.sofi.org
 aboluowang.com
 aboutads.info
 above.com
@@ -140,7 +140,6 @@ action.metaffiliation.com
 activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.adobe.com
-activate.maurices.com
 activate.wip3.adobe.com
 activation.unity3d.com
 activity.windows.com
@@ -488,6 +487,7 @@ alpari.ru
 alphadomus.co.nz
 amazon-adsystem.amazon.com
 amazon-adsystem.com
+amazonbusiness.com
 amdc.alipay.com
 amdc.m.taobao.com
 amos.alicdn.com
@@ -694,6 +694,7 @@ b.wishabi.com
 b02.black.ndmdhs.com
 b13.com
 b23.ru
+b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
@@ -740,6 +741,7 @@ bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
 bitcheese.net
 bitly.com
+bitrix.info
 bits.avcdn.net
 bitsumactivationserver.com
 bittersweetparis.com
@@ -837,6 +839,7 @@ cafe24.com
 cafeomai.com.au
 calendar.fontanka.ru
 calltrk.com
+campaign.abb.com
 campaign.adobe.com
 campaignmonitor.com
 canadapharmacy.com
@@ -1061,6 +1064,7 @@ configserver-dra.platform.hicloud.com
 confirmit.com
 conforama.ugc.bazaarvoice.com
 connatix.com
+connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.ok.ru
@@ -1077,6 +1081,7 @@ consentmanager.mgr.consensu.org
 consentmanager.net
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.awaze.com
 content.jwplatform.com
 content.worldnow.com
 contents.fc2.com
@@ -1347,6 +1352,7 @@ edgekey.net
 edgesuite.net
 edigitalsurvey.com
 edje.com
+edm.crikey.com.au
 edrone.me
 eelsoup.net
 effiliation.com
@@ -1446,6 +1452,7 @@ eximbankindia.com
 exosrv.com
 experience.tinypass.com
 exploit.in
+explore.amd.com
 exponea.com
 ext.goguardian.com
 extern.prisjakt.nu
@@ -1535,7 +1542,6 @@ fool.com
 footprints-pa.googleapis.com
 forcepoint.com
 forexprostools.com
-form.jotform.com
 formcrafts.com
 forter.com
 fota5.adups.com
@@ -1632,6 +1638,7 @@ geolocation.onetrust.com
 georiot.com
 geotrust.com
 get-express-vpn.com
+get.untangle.com
 get.x-link.pl
 getadmiral.com
 getblueshift.com
@@ -1661,12 +1668,17 @@ gm99.com
 gmx.ch
 go-mpulse.net
 go-mpulse.net.edgekey.net
+go.cerner.com
+go.dlink.com
 go.madmimi.com
+go.neverware.com
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
+go.slalom.com
 go.theregister.com
 go.trouter.skype.com
+go.updates.iata.org
 go.usa.gov
 go2cloud.org
 go2jump.org
@@ -1765,6 +1777,7 @@ healthwarehouse.com
 heank.nl
 hearstnp.com
 hechenblaikner.at
+hello.heroku.com
 hello.myfonts.net
 helpshift.com
 heraldm.com
@@ -1996,7 +2009,6 @@ img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
 img30.360buyimg.com
-imgshare.info
 imop.com
 imp.appledaily.com
 impact-ad.jp
@@ -2050,6 +2062,7 @@ ip-adress.com
 ip-api.com
 ip-info.ff.avast.com
 ip-tracker.org
+ip-trap.com
 ip.anysrc.net
 ip.goguardian.com
 ip02.gntl.co.uk
@@ -2184,6 +2197,7 @@ lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
 leadpages.net
 leanplum.com
+learn.cisecurity.org
 legalterms.cbsinteractive.com
 lelibrair.fr
 lemonparty.biz
@@ -2248,6 +2262,7 @@ logrocket.com
 logs.amap.com
 logs.datadoghq.com
 logs.datadoghq.eu
+logs.eu-west-1.amazonaws.com
 lolhello.com
 lolshock.com
 loltrain.com
@@ -2484,7 +2499,6 @@ na61-na62.wagbridge.alibaba.tanx.com
 naiadsystems.com
 naifei.shop
 nametests.com
-nanopool.org
 narrativ.com
 narwhal.mobidia.com
 nasapaul.com
@@ -2492,7 +2506,6 @@ natcom.co.nz
 nationalisacs.org
 navitime.co.jp
 naytev.com
-necror.de
 neemu.com
 nejmqianyan.cn
 neobux.com
@@ -2934,7 +2947,6 @@ return.to
 rewardsprod.trafficmanager.net
 rezync.com
 rfk.biglots.com
-richplanet.net
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
@@ -2943,7 +2955,6 @@ rm.api.weibo.com
 rmp.rakuten.com
 rmscomponents.com.au
 rnet.plus
-roem.ru
 rollbar.com
 romsmania.com
 router.bittorrent.com
@@ -3112,7 +3123,6 @@ services.zam.com
 serving-sys.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
-settingsfd-geo.trafficmanager.net
 sf1-ttcdn-tos.pstatp.com
 sf3-ttcdn-tos.pstatp.com
 sf6-ttcdn-tos.pstatp.com
@@ -3147,7 +3157,6 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
-signal-collector.gemaltodigitalbankingidcloud.com
 silktide.com
 simba.taobao.com
 simp.ly
@@ -3422,7 +3431,6 @@ tinypic.com
 tiqcdn.com
 tkn.fux.com
 tkqlhce.com
-tkx.mp.lura.live
 tm.tradetracker.net
 tmearn.com
 tms-st.cdn.ngenix.net
@@ -3495,6 +3503,7 @@ trib.al
 tritondigital.com
 trk.email.dynect.net
 trk.klclick.com
+trk.klclick3.com
 trk.pinterest.com
 trojan-killer.net
 trowel.twitch.tv
@@ -3546,7 +3555,6 @@ umiwi.com
 umwatsonc.events.data.microsoft.com
 unagi.amazon.com
 unbi.ba
-unbounce.com
 uni-rostock.de
 unid.go.com
 unikrn.com
@@ -3766,10 +3774,13 @@ wup.imtt.qq.com
 wurfl.io
 wwis-dubc1-vip60.adobe.com
 www-googletagmanager.l.google.com
+www1.amnhealthcare.com
 www2.pardot.com
+www2.primecreative.com.au
 www3.bloomingdales.com
 www3.webhostingtalk.com
 www4.cbox.ws
+www5.untangle.com
 www6.cbox.ws
 wwwimg.roku.com
 wxapp.lvyadx.cn
@@ -3820,6 +3831,7 @@ youtube-ui.l.google.com
 youvisit.com
 yp.com
 ypu.edu.tw
+ythingy.com
 yui.yahooapis.com
 yunjiasu.com
 yunta.org.pe
