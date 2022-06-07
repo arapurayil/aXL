@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Jun 2022 16:06:24 UTC
+# Last modified: 07 Jun 2022 00:23:36 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1676,6 +1676,7 @@ goatse.ru
 goatsegirl.org
 gocarrot.com
 goldbach.com
+goldenmark.com
 goliath.bi.miniclippt.com
 gooddata.com
 google-analytics.com
@@ -2455,7 +2456,6 @@ msh.amazon.co.uk
 msh.amazon.com
 mss.handmark.com
 mssl.fwmrm.net
-msuac.edu.mn
 mudmonster.org
 multiscreen.samsung.com
 multiscreensite.com
@@ -2757,6 +2757,7 @@ player.cnevids.com
 player.daznservices.com
 player.glomex.com
 player.ooyala.com
+player.zype.com
 playhydrax.com
 playwire.com
 plex.direct
@@ -2918,6 +2919,7 @@ remind.me
 rentry.co
 reports.cliqz.com
 repository.cliqz.com
+requestmetrics.com
 res-x.com
 researchintel.com
 researchnow.co.uk
@@ -2998,6 +3000,7 @@ sabre.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 safelinking.net
+safetoopen.com
 sail-horizon.com
 sailthru.com
 sajari.com

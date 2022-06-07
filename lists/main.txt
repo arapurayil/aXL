@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.06
-# Last modified: 06 Jun 2022 16:06:24 UTC
+# Version: 3.06.07
+# Last modified: 07 Jun 2022 00:23:36 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10930,8 +10930,6 @@ global.apis.naver.com
 global.developer.xiaomi.com
 global.fncstatic.com
 global.gemoney.com
-global.in.ai.monitor.azure.com
-global.in.ai.privatelink.monitor.azure.com
 global.market.xiaomi.com
 global.mi.com
 global.moneygram.com
@@ -13900,7 +13898,6 @@ js.intercomcdn.com
 js.iplsc.com
 js.maxmind.com
 js.media-lab.ai
-js.monitor.azure.com
 js.passport.qihucdn.com
 js.pulseinsights.com
 js.pusher.com
@@ -20982,6 +20979,7 @@ s3.us-west-1.amazonaws.com
 s3.us-west-2.amazonaws.com
 s3.vuukle.com
 s3.wp.com
+s3s-main.net
 s4.symcb.com
 s5.symcb.com
 s7.addthis.com
@@ -25304,6 +25302,7 @@ usebutton.com
 useinsider.com
 usenix.org
 user.binance.com
+user.fm
 user.gini.net
 useraction.zee5.com-v2.edgekey.net
 userapi.com
