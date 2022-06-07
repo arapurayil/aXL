@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.07
-# Last modified: 07 Jun 2022 00:23:36 UTC
+# Last modified: 07 Jun 2022 08:07:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -11044,6 +11044,7 @@ goldbach.com
 goldbanc.com
 goldenes-kreuz.at
 goldenline.pl
+goldenmark.com
 goldenpay.az
 goldfixing.com
 goldinstitute.org
@@ -16714,7 +16715,6 @@ msport.gov.pl
 mss-offermgmt.modpim.com
 mss.handmark.com
 mssl.fwmrm.net
-msuac.edu.mn
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -19144,6 +19144,7 @@ player.soundcloud.com
 player.twitch.tv
 player.vimeo.com
 player.vzaar.com
+player.zype.com
 player2.h-cdn.com
 players.brightcove.com
 players.brightcove.net
@@ -20468,6 +20469,7 @@ republicbank.com
 republicbankfl.com
 republiccountyhospital.org
 republika.onet.pl
+requestmetrics.com
 res-x.com
 res.apk.vidmate.net
 res.cloudinary.com
@@ -21029,6 +21031,7 @@ safelinking.net
 safelinks.protection.outlook.com
 safercar.gov
 saferpay.com
+safetoopen.com
 safewayselectbank.com
 safra.com.br
 safraempresas.com.br
