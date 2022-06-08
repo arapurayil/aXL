@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Jun 2022 08:10:02 UTC
+# Last modified: 08 Jun 2022 16:06:34 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -119,6 +119,7 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+ablink.o.sofi.org
 aboluowang.com
 aboutads.info
 above.com
@@ -128,7 +129,6 @@ ac.duckduckgo.com
 accengage.com
 accessfreevpn.com
 accesstrade.co.id
-account.wire.com
 accounts.pkr.com.invalid
 acdn.adnxs.com
 acenar.com
@@ -671,7 +671,6 @@ auth.samsungosp.com
 auth.split.io
 authbe.sec.intl.miui.com
 autoappassionati.it
-autopilothq.com
 avantlink.com
 avatarservices.xboxlive.com
 aviasales.ru
@@ -703,6 +702,7 @@ baixing.com
 bam-x.com
 bam.eu01.nr-data.net
 bannerbank.com
+bannerconnect.com
 banners.spiceworks.com
 bannertrack.net
 barclaybanking.com
@@ -1448,7 +1448,6 @@ exacttarget.com.edgekey.net
 exchange4media.com
 exct.net
 exe.io
-eximbankindia.com
 exosrv.com
 experience.tinypass.com
 exploit.in
@@ -1599,7 +1598,6 @@ game.xiaomi.com
 gamehouse.com
 gameone.com
 gametame.com
-gamulator.com
 gan.doubleclick.net
 gardenstatehelicopters.com
 gardenstatescouting.org
@@ -2306,6 +2304,7 @@ mailfoogae.appspot.com
 mairdumont.com
 malaya.com.ph
 mallgroup.com
+manage.devcenter.microsoft.com
 management.azure.com
 manga-news.com
 mangler3.generals.ea.com
@@ -2639,6 +2638,7 @@ ooyala.com
 opencre.fr
 openmarket.com
 opinionstage.com
+ops.bpost.be
 optanon.blob.core.windows.net
 optimizely.com
 optimizely.com.edgekey.net
@@ -2788,6 +2788,7 @@ polldaddy.com
 polyfill.io
 poneytelecom.eu
 pool.supportxmr.com
+poolhost.com
 pop-iad-2.cf.dash.row.aiv-cdn.net
 popin.cc
 pornerbros.com
@@ -2823,8 +2824,6 @@ privacy-mgmt.com
 privacy-policy.truste.com
 pro.hit.gemius.pl
 prod-adops-proxy.dnitv.net
-prod-nginz-https.wire.com
-prod-nginz-ssl.wire.com
 prod-rotation-v2.guce.aws.oath.cloud
 prod.leanplum.com
 prod.mobile.roku.com
@@ -3011,7 +3010,6 @@ sabre.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
 safelinking.net
-safetoopen.com
 sail-horizon.com
 sailthru.com
 sajari.com
@@ -3387,7 +3385,6 @@ tce.alicdn.com
 td.demdex.net
 tdn.r42tag.com
 tealium.com
-teams.wire.com
 teamsinsight.myanalytics.cdn.office.net
 technical-service.net
 techorfy.com
@@ -3503,7 +3500,6 @@ trib.al
 tritondigital.com
 trk.email.dynect.net
 trk.klclick.com
-trk.klclick3.com
 trk.pinterest.com
 trojan-killer.net
 trowel.twitch.tv
@@ -3552,6 +3548,7 @@ ulmwp.org
 ultimedia.com
 ultraiso.net
 umiwi.com
+umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 unagi.amazon.com
 unbi.ba
@@ -3563,6 +3560,7 @@ uniregistry.com
 unitedbike.com
 unity.com
 unity3d.com
+unpkg.com
 untd.com
 up.cm.ksmobile.com
 update.360safe.com
