@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.07
-# Last modified: 07 Jun 2022 16:06:32 UTC
+# Version: 3.06.08
+# Last modified: 08 Jun 2022 00:29:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -487,6 +487,7 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-opf-us-east.amazon-adsystem.com
 aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-east-retail-direct.amazon.com
 aax-us-east-rtb-adx.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -547,7 +548,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablink.o.sofi.org
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -721,7 +721,6 @@ activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.adobe.com
 activate.cdn.viber.com
-activate.maurices.com
 activate.wip3.adobe.com
 activation-v2.kaspersky.com
 activation.acronis.com
@@ -2101,6 +2100,7 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
+amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -3371,6 +3371,7 @@ b02.black.ndmdhs.com
 b13.com
 b2.ndb24.ru
 b23.ru
+b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -4471,6 +4472,7 @@ bitly.ws
 bitmovin.com
 bitpanda.com
 bitpay.com
+bitrix.info
 bits.avcdn.net
 bits.twitch.tv
 bitstamp.net
@@ -5315,6 +5317,7 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
+campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -6896,6 +6899,7 @@ confraternitaet.at
 conn.skype.akadns.net
 connatix.com
 connect.auone.jp
+connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6953,6 +6957,7 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
+content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -8734,6 +8739,7 @@ editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
 edje.com
+edm.crikey.com.au
 edm03.huawei.com
 ednaonline.com
 ednetz.de
@@ -10992,10 +10998,12 @@ go-mpulse.net.edgekey.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
+go.cerner.com
 go.co
 go.com
 go.daum.net
 go.digitalocean.com
+go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -11004,6 +11012,7 @@ go.leanplum.com
 go.madmimi.com
 go.microsoft.com
 go.mybusinessacademy.ph
+go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -11012,6 +11021,7 @@ go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
+go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.theregister.com
@@ -11019,6 +11029,7 @@ go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
+go.updates.iata.org
 go.usa.gov
 go.wechat.com
 go2cloud.org
@@ -11742,6 +11753,7 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
+hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -13155,7 +13167,6 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
-imgshare.info
 imgsmail.ru
 imgstock.naver.com
 imgur.com
@@ -13520,6 +13531,7 @@ ip-api.com
 ip-info.ff.avast.com
 ip-only.se
 ip-tracker.org
+ip-trap.com
 ip.anysrc.net
 ip.breitbart.com
 ip.cms.sohu.com
@@ -14759,6 +14771,7 @@ lds.org.edgekey.net
 leadpages.co
 leadpages.net
 leanplum.com
+learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -15252,6 +15265,7 @@ logrocket.com
 logs.amap.com
 logs.datadoghq.com
 logs.datadoghq.eu
+logs.eu-west-1.amazonaws.com
 logs.heroku.com
 logsss.com
 logw306.ati-host.net
@@ -17155,7 +17169,6 @@ ne-derbyshire.gov.uk
 nea.gov
 nebankers.org
 nebula-collector.huawei.com
-necror.de
 nedbank.co.za
 neemu.com
 nejmqianyan.cn
@@ -20576,7 +20589,6 @@ richart.tw
 richlandbank.com
 richlandhospital.com
 richmond.gov.uk
-richplanet.net
 richrelevance.com
 rico.com.vc
 ridefox.com
@@ -20674,7 +20686,6 @@ rockstarwarehouse.com
 rod.gs
 rodnayasvyaz.ru
 rodovidbank.com
-roem.ru
 roendespar.dk
 roflc.at
 rogers.com
@@ -21924,7 +21935,6 @@ sierravistaregional.com
 sift.com
 siftscience.com
 sign-in.soundcloud.com
-signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
@@ -24351,7 +24361,6 @@ tkn.fux.com
 tknauth.spmode.ne.jp
 tkqlhce.com
 tkx.apis.anvato.net
-tkx.mp.lura.live
 tl.statcounter.com
 tl88.net
 tlc.com
@@ -24640,6 +24649,7 @@ trk.cp20.com
 trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
+trk.klclick3.com
 trk.pinterest.com
 trkr.ws
 trlibor.org
@@ -24972,7 +24982,6 @@ unagi.amazon.com
 unb.co.ae
 unbank.com
 unbi.ba
-unbounce.com
 unbouncepages.com
 unc.edu
 und.weg.ist.sie.com
@@ -27158,6 +27167,7 @@ www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
 www2.pardot.com
+www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
@@ -27456,6 +27466,7 @@ ysear.ch
 yt.facebook.com
 yt.vu
 yt3.ggpht.com
+ythingy.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytimg.l.google.com
