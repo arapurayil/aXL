@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.08
-# Last modified: 08 Jun 2022 16:06:35 UTC
+# Version: 3.06.09
+# Last modified: 09 Jun 2022 00:33:11 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -548,6 +548,7 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
+ablink.o.sofi.org
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -642,7 +643,6 @@ account.snap.com
 account.sonymobile.com
 account.ubank.ru
 account.viber.com
-account.wire.com
 account.xbox.com
 account.xiaomi.com
 accountkit.com
@@ -3254,7 +3254,6 @@ autocomplete.kaspersky.com
 autodiscover.funimation.com
 autohome.com.cn
 autopays.ru
-autopilothq.com
 autos.plus.google.com
 autoscout24.com
 autoupdate.geo.opera.com
@@ -3918,6 +3917,7 @@ bankwithpsb.com
 banner.play-asia.com
 bannera.kingsoft-office-service.com
 bannerbank.com
+bannerconnect.com
 banners.funimation.com
 banners.spiceworks.com
 bannertrack.net
@@ -10613,7 +10613,6 @@ gamestore.ign.com
 gametame.com
 gamevn.com
 gaming.engadget.com
-gamulator.com
 gan.doubleclick.net
 gangirc.org
 gap.com
@@ -18287,6 +18286,7 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
+ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -19265,6 +19265,7 @@ pool.next.exchange
 pool.ntp.org
 pool.supportxmr.com
 poolhb.com
+poolhost.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 pop-iad-2.cf.dash.row.aiv-cdn.net
@@ -19501,8 +19502,6 @@ prod-adops-proxy.dnitv.net
 prod-collection.acompli.net
 prod-helpapp.sonymobile.com
 prod-native.actionbutton.co
-prod-nginz-https.wire.com
-prod-nginz-ssl.wire.com
 prod-rotation-v2.guce.aws.oath.cloud
 prod-upload-service.getmore.sonymobile.com
 prod.api.bka.sh
@@ -21042,7 +21041,6 @@ safelinking.net
 safelinks.protection.outlook.com
 safercar.gov
 saferpay.com
-safetoopen.com
 safewayselectbank.com
 safra.com.br
 safraempresas.com.br
@@ -24004,7 +24002,6 @@ team.stumbleupon.com
 teams.cdn.office.net
 teams.events.data.microsoft.com
 teams.microsoft.com
-teams.wire.com
 teamsinsight.myanalytics.cdn.office.net
 teamviewer.com
 teaparty.org
@@ -24649,7 +24646,6 @@ trk.cp20.com
 trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
-trk.klclick3.com
 trk.pinterest.com
 trkr.ws
 trlibor.org
@@ -24973,6 +24969,7 @@ umiwi.com
 umla.org
 umn.edu
 umpquabank.com
+umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 umweltbank.de
 un.org
