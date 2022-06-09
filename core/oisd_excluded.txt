@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jun 2022 08:08:31 UTC
+# Last modified: 09 Jun 2022 16:06:34 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -60,6 +60,7 @@
 79423.analytics.edgekey.net
 7b935.v.fwmrm.net
 7eer.net
+7lbd4.armandthiery.fr
 801.tianya.cn
 888poker.com
 91mobiles.com
@@ -3165,6 +3166,7 @@ sinematurk.com
 singular.net
 sinlix.lk
 siteplug.com
+sitereview.zscaler.com
 sitetracker.com
 situacaocadastral.info
 skidrow-games.com
