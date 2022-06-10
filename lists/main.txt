@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.10
-# Last modified: 10 Jun 2022 00:32:40 UTC
+# Last modified: 10 Jun 2022 08:09:12 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -549,7 +549,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablink.o.sofi.org
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -561,7 +560,6 @@ abnamroindia.com
 abnamromalaysia.com
 abnamroprivatebanking.com
 aboc.com
-aboluowang.com
 aboo.se
 about.com
 about.diigo.com
@@ -722,6 +720,8 @@ activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.adobe.com
 activate.cdn.viber.com
+activate.courant.com
+activate.latimes.com
 activate.wip3.adobe.com
 activation-v2.kaspersky.com
 activation.acronis.com
@@ -2164,6 +2164,7 @@ amoory.com
 amos.alicdn.com
 amospalla.es
 amp-reddit-com.cdn.ampproject.org
+amp.akamaized.net
 amp.azure.net
 amp.businessinsider.com
 amp.com.au
@@ -2849,7 +2850,6 @@ apps-dn2.ospserver.net
 apps-pub.samsungcloudcdn.com
 apps.cybonline.co.uk
 apps.daum.net
-apps.elfsight.com
 apps.entrance.sonymobile.com
 apps.facebook.com
 apps.foxnews.com
@@ -5738,7 +5738,6 @@ cdn.iubenda.com
 cdn.jscloudflare.com
 cdn.jsdelivr.net
 cdn.jsdelivr.net.cdn.cloudflare.net
-cdn.judge.me
 cdn.jwplayer.com
 cdn.keycdn.com
 cdn.krxd.net
@@ -5842,6 +5841,7 @@ cdn1.smartadserver.com
 cdn1.xda-developers.com
 cdn13.com
 cdn2.airfind.com
+cdn2.bigcommerce.com
 cdn2.cache.vn
 cdn2.chia-anime.tv
 cdn2.dailycaller.com
@@ -6155,6 +6155,7 @@ check.ptlogin2.wechat.com
 check4.facebook.com
 check6.facebook.com
 checkappexec.microsoft.com
+checkealos.com
 checkfree.com
 checkip.amazonaws.com
 checkout.bambora.com
@@ -6913,6 +6914,7 @@ connect.scroll.com
 connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
+connect.zebra.com
 connect2.lenovo.com
 connectbot.org
 connected.sonymusic.com
@@ -6962,6 +6964,7 @@ content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
+content.eaton.com
 content.erabu.sonymobile.com
 content.force.com
 content.googleapis.com
@@ -8168,6 +8171,7 @@ dog.bin
 dogado.de
 dogwoodanimalhospital.com
 doh.centraleu.pi-dns.com
+doh.dns.sb
 doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
@@ -8451,6 +8455,7 @@ dynamicyield.com
 dynatrace.com
 dynmsg.modpim.com
 dynu.com
+dynu.net
 dynupdate.no-ip.com
 dynx.net
 dyo.gs
@@ -10165,6 +10170,7 @@ forms.breitbart.com
 forms.convertkit.com
 forms.gle
 forms.office.com
+formspree.io
 formspring.me
 formstack.com
 formy.upriver.ru
@@ -13167,6 +13173,7 @@ imgix.net
 imgix.ranker.com
 imgnode.gtimg.cn
 imgs.xkcd.com
+imgshare.info
 imgsmail.ru
 imgstock.naver.com
 imgur.com
@@ -13264,6 +13271,7 @@ inetpayonline.com
 inference.location.live.net
 infinas.com
 info-msk.rusfinance.ru
+info.affirm.com
 info.baikalinvestbank.ru
 info.binance.com
 info.cyberplat.ru
@@ -15491,7 +15499,6 @@ mail2.support.snapchat.com
 mailasail.com
 mailchimp.com
 mailclub.fr
-mailerlite.com
 mailfoogae.appspot.com
 mailing.cryptopia.co.nz
 mailtag.com
@@ -15516,7 +15523,6 @@ malc0de.com
 malekal.com
 mall.dcinside.com
 mall.mi.com
-mallgroup.com
 mallige.com
 malteser-krankenhaus-berlin.de
 malteser-krankenhaus-stjohannes.de
@@ -16322,6 +16328,7 @@ mini.eastday.com
 mini.engadget.com
 miningpoolhub.com
 minion.typekit.com
+minisforum.de
 minivds.com
 minixperiment.twitch.tv
 minmyndighetspost.se
@@ -18287,7 +18294,6 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
-ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -19251,7 +19257,6 @@ poliklinika.kremenki.su
 politico.com
 polka-staging.typekit.com
 polka.typekit.com
-polldaddy.com
 polling.bbc.co.uk
 polling.finance.naver.com
 poloniex.com
@@ -19266,7 +19271,6 @@ pool.next.exchange
 pool.ntp.org
 pool.supportxmr.com
 poolhb.com
-poolhost.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 pop-iad-2.cf.dash.row.aiv-cdn.net
@@ -21697,6 +21701,7 @@ serverfault.com
 serverorigin.com
 servetown.com
 service.biv.sony.tv
+service.cz.nl
 service.fuib.com
 service.game-mode.net
 service.gov.uk
@@ -22370,7 +22375,6 @@ soundcaptcha.naver.com
 soundcheck.soundcloud.com
 soundcloud.com
 soundfed.com
-soundofhope.org
 soup.io
 soup.v.qq.com
 source.codeaurora.org
@@ -22408,7 +22412,6 @@ soycostarricense.com
 sozialbank.de
 sp-campaign.line.me
 sp-mms.weather.com
-sp-seller.webkul.com
 sp.auth.adobe.com
 sp.naver.com
 sp0.baidu.com
@@ -23178,6 +23181,7 @@ statenb.com
 statesavingsbank.com
 static-asm.secure.skypeassets.com
 static-fonts.adobe.com
+static-mon.yandex.net
 static-pepper.dealabs.com
 static-resource.np.community.playstation.net
 static-xl9-ssl.xunlei.com
@@ -23712,6 +23716,7 @@ sutterhealth.org
 sutton.gov.uk
 suupohjanosuuspankki.fi
 sux.cz
+suzihaza.com
 sv-bank.com
 sv.gravatar.com
 sv.symcd.com
@@ -24164,6 +24169,7 @@ the1st.com
 thealtening.com
 theandroidsoul.com
 theanimalmedicalhospital.com
+theannoyingsite.com
 theasianbank.com
 theatlantic.com
 thebancorp.com
@@ -24971,7 +24977,6 @@ umiwi.com
 umla.org
 umn.edu
 umpquabank.com
-umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 umweltbank.de
 un.org
@@ -26448,7 +26453,6 @@ wave.sndcdn.com
 waveii.com
 wayerless.com
 wayforpay.com
-wayin.com
 wayn.com
 waypointbank.com
 waysideanimalhospital.com
