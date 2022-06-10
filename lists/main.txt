@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.09
-# Last modified: 09 Jun 2022 16:06:34 UTC
+# Version: 3.06.10
+# Last modified: 10 Jun 2022 00:32:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -362,6 +362,7 @@
 7chan.org
 7eer.net
 7fth.cc
+7lbd4.armandthiery.fr
 7li.in
 7vd.cn
 7zap.com
@@ -22009,6 +22010,7 @@ sitefinder-idn.verisign.com
 sitefinder.verisign.com
 siteplug.com
 sitepoint.com
+sitereview.zscaler.com
 sites.engadget.com
 sites.google.com
 sites.hscoscdn10.net

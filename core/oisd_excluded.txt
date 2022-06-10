@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jun 2022 16:06:34 UTC
+# Last modified: 10 Jun 2022 00:32:40 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -120,8 +120,6 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
-ablink.o.sofi.org
-aboluowang.com
 aboutads.info
 above.com
 abroad.apilocate.amap.com
@@ -141,6 +139,8 @@ action.metaffiliation.com
 activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.adobe.com
+activate.courant.com
+activate.latimes.com
 activate.wip3.adobe.com
 activation.unity3d.com
 activity.windows.com
@@ -493,6 +493,7 @@ amdc.alipay.com
 amdc.m.taobao.com
 amos.alicdn.com
 amospalla.es
+amp.akamaized.net
 ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
@@ -625,7 +626,6 @@ appletoolbox.com
 appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
-apps.elfsight.com
 apps.game.qq.com
 apps.nexus.bazaarvoice.com
 apps.skype.com
@@ -889,7 +889,6 @@ cdn.gladly.com
 cdn.gotraffic.net
 cdn.hockeyapp.net
 cdn.iubenda.com
-cdn.judge.me
 cdn.krxd.net
 cdn.livechatinc.com
 cdn.membershipworks.com
@@ -924,6 +923,7 @@ cdn.wootric.com
 cdn.ziffstatic.com
 cdn1.ettoday.net
 cdn1.smartadserver.com
+cdn2.bigcommerce.com
 cdn2.cache.vn
 cdn2.optimizely.com
 cdn3.optimizely.com
@@ -955,6 +955,7 @@ charterbankwa.com
 chat-assets.frontapp.com
 chatango.com
 check.ddos-guard.net
+checkealos.com
 checkip.amazonaws.com
 cheriefm.fr
 chicago2.vip.townnews.com
@@ -1071,6 +1072,7 @@ connect.facebook.net
 connect.ok.ru
 connect.rom.miui.com
 connect.scroll.com
+connect.zebra.com
 connectbot.org
 consensu.org
 consent-manager-events.ogury.io
@@ -1083,6 +1085,7 @@ consentmanager.net
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.awaze.com
+content.eaton.com
 content.jwplatform.com
 content.worldnow.com
 contents.fc2.com
@@ -2008,6 +2011,7 @@ img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
 img30.360buyimg.com
+imgshare.info
 imop.com
 imp.appledaily.com
 impact-ad.jp
@@ -2024,6 +2028,7 @@ indystar.com
 inedo.com
 inetinteractive.com
 inference.location.live.net
+info.affirm.com
 info.lgsmartad.com
 info.seek.com
 infolink.pavv.co.kr
@@ -2300,12 +2305,9 @@ magiskmanager.com
 magnetmail1.net
 mail.hallym.ac.kr
 mailchimp.com
-mailerlite.com
 mailfoogae.appspot.com
 mairdumont.com
 malaya.com.ph
-mallgroup.com
-manage.devcenter.microsoft.com
 management.azure.com
 manga-news.com
 mangler3.generals.ea.com
@@ -2639,7 +2641,6 @@ ooyala.com
 opencre.fr
 openmarket.com
 opinionstage.com
-ops.bpost.be
 optanon.blob.core.windows.net
 optimizely.com
 optimizely.com.edgekey.net
@@ -2785,11 +2786,9 @@ pntrac.com
 pntrs.com
 po.st
 pokerstrategy.com
-polldaddy.com
 polyfill.io
 poneytelecom.eu
 pool.supportxmr.com
-poolhost.com
 pop-iad-2.cf.dash.row.aiv-cdn.net
 popin.cc
 pornerbros.com
@@ -2859,7 +2858,6 @@ pulsar.ebay.es
 pulsar.ebay.fr
 pulsar.ebay.it
 pumppazh.com
-purch.com
 push.notifica.re
 push.rollout.io
 pushbullet.com
@@ -3114,6 +3112,7 @@ serials.ws
 serve.adtrackers.net
 servedby.o2.co.uk
 server.iad.liveperson.net
+service.cz.nl
 service.game-mode.net
 services.brightline.tv
 services.gfe.nvidia.com
@@ -3122,6 +3121,7 @@ services.zam.com
 serving-sys.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
+settingsfd-geo.trafficmanager.net
 sf1-ttcdn-tos.pstatp.com
 sf3-ttcdn-tos.pstatp.com
 sf6-ttcdn-tos.pstatp.com
@@ -3218,12 +3218,10 @@ someonewhocares.com
 somni.huk.de
 soo.gd
 soo.sg
-soundofhope.org
 soup.v.qq.com
 sourcepoint.mgr.consensu.org
 sourmath.com
 sp-mms.weather.com
-sp-seller.webkul.com
 sp0.baidu.com
 sp1.baidu.com
 spade.twitch.tv
@@ -3259,6 +3257,7 @@ stat.download.xunlei.com
 stat.ethz.ch
 stat24.com
 statcounter.com
+static-mon.yandex.net
 static.3001.net
 static.360buyimg.com
 static.adsafeprotected.com
@@ -3325,6 +3324,7 @@ supplyframe.com
 supportxmr.com
 surveyrouter.com
 surveys.insightexpressai.com
+suzihaza.com
 svonm.com
 sw88.go.com
 swa.bol.com
@@ -3406,6 +3406,7 @@ test.quantcast.mgr.consensu.org
 texashomebase.com
 thaiticketmajor.com
 thealtening.com
+theannoyingsite.com
 thebrighttag.com
 thecounter.com
 thefilter.com
@@ -3550,7 +3551,6 @@ ulmwp.org
 ultimedia.com
 ultraiso.net
 umiwi.com
-umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 unagi.amazon.com
 unbi.ba
@@ -3562,13 +3562,13 @@ uniregistry.com
 unitedbike.com
 unity.com
 unity3d.com
-unpkg.com
 untd.com
 up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
 update.miui.com
 update.pan.baidu.com
+upgrade.scdn.co
 upgrade.xl9.xunlei.com
 upload-4ever.com
 upload.cc
@@ -3686,7 +3686,6 @@ wallpapers.com
 wanproxy.127.net
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
-wayin.com
 we-stats.com
 web.vortex.data.microsoft.com
 webadvisorc.rest.gti.mcafee.com
