@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Jun 2022 08:09:11 UTC
+# Last modified: 10 Jun 2022 16:07:15 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -37,6 +37,7 @@
 2ip.ua
 2mdn.net
 2o7.net
+300hu.com
 31.media.tumblr.com
 3975.com
 3cinteractive.com
@@ -63,7 +64,6 @@
 7lbd4.armandthiery.fr
 801.tianya.cn
 888poker.com
-91mobiles.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -1158,6 +1158,7 @@ cxense.com.edgekey.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cy2.settings.data.microsoft.com.akadns.net
 cyber-hub.net
+cybergordon.com
 cyberinc.nl
 cydia.saurik.com.cdngc.net
 d.agkn.com
@@ -1192,7 +1193,6 @@ d36eyd5j1kt1m6.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
-d3tsytm1wtjqo2.cloudfront.net
 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 d5nxst8fruw4z.cloudfront.net
 da.mmarket.com
@@ -1468,7 +1468,6 @@ f-log-at.grammarly.io
 f-p-va.isnssdk.com
 f1.g.mi.com
 f10.baidu.com
-f11.baidu.com
 fairyseason.com
 faktor.io
 faktor.mgr.consensu.org
@@ -1494,6 +1493,7 @@ files.im
 files.viva64.com
 filmha.top
 findglocal.com
+findicons.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 fireflyengagement.com
@@ -1504,7 +1504,6 @@ flbag.net
 flexlinkspro.com
 flingo.tv
 flipboard.com
-flipp.com
 flirt.com
 flix360.com
 flixcar.com
@@ -3577,7 +3576,6 @@ uralweb.ru
 urbanairship.com
 urbantoronto.ca
 url.dnspod.com
-url.rw
 urlz.fr
 us-1.gladly.com
 us-v10.events.data.microsoft.com
@@ -3832,7 +3830,6 @@ yp.com
 ypu.edu.tw
 ythingy.com
 yui.yahooapis.com
-yunjiasu.com
 yunta.org.pe
 yximgs.com
 z-ecx.images-amazon.com
