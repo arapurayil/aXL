@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.10
-# Last modified: 10 Jun 2022 16:07:16 UTC
+# Version: 3.06.11
+# Last modified: 11 Jun 2022 00:30:57 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -269,6 +269,7 @@
 3.tw.pool.ntp.org
 3.ubuntu.pool.ntp.org
 3.us.pool.ntp.org
+300hu.com
 31.media.tumblr.com
 356bank.com
 360.cn
@@ -7425,6 +7426,7 @@ cyber.rostbank.ru
 cybercon.com
 cybercrime-tracker.net
 cybercrime.gov
+cybergordon.com
 cyberinc.nl
 cybermap.kaspersky.com
 cybermind-usa.net
@@ -7494,7 +7496,6 @@ d3dy5gmtp8yhk7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
-d3tsytm1wtjqo2.cloudfront.net
 d4.me
 d4f.de
 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
@@ -9406,7 +9407,6 @@ f002.backblazeb2.com
 f1.g.mi.com
 f1.media.brightcove.com
 f10.baidu.com
-f11.baidu.com
 f2.g.mi.com
 fa.gravatar.com
 fa.wikipedia.com
@@ -9793,6 +9793,7 @@ fincombank.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 findglocal.com
+findicons.com
 findmymobile.samsung.com
 findyourfriends.de
 fineco.it
@@ -25191,7 +25192,6 @@ url.dnspod.com
 url.it
 url.me
 url.org
-url.rw
 url2.fr
 url5.org
 url8807.global.passport.xiaomi.com
@@ -27483,7 +27483,6 @@ yui.yahooapis.com
 yumaregional.org
 yunfile.com
 yunjiasu-cdn.net
-yunjiasu.com
 yunta.org.pe
 yuque.com
 yurl.in
