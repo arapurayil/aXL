@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.11
-# Last modified: 11 Jun 2022 08:06:59 UTC
+# Last modified: 11 Jun 2022 16:04:38 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2667,7 +2667,6 @@ api.winred.com
 api.wunderground.com
 api.x.sndcdn.com
 api.xda-developers.com
-api.xiaomi.com
 api.ximalaya.com
 api.xk.miui.com
 api.xmpush.xiaomi.com
@@ -6510,6 +6509,7 @@ clk.tradedoubler.com
 clkmg.com
 clkuk.tradedoubler.com
 cloakhost.com
+clocklink.com
 clog-aggregator.kakao.com
 cloob.com
 cloom.com
@@ -8770,6 +8770,7 @@ eindhovensdagblad.nl
 einsundeins.de
 eio-feed.exchange.coinbase.com
 eip-ntt.pinimg.com.akapinimg.net
+eisys-bcs.jp
 ejob.gov.tw
 ejquo23388.i.lithium.com
 ek21.com
