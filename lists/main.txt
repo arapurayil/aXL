@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.12
-# Last modified: 12 Jun 2022 00:30:42 UTC
+# Last modified: 12 Jun 2022 08:06:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6911,6 +6911,7 @@ connectionone.net
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 connectmozilla.cloudflare-dns.com
+connects.ch
 connectsvcs.net
 connectto.net
 connectunet.com
@@ -10599,6 +10600,7 @@ gamestore.ign.com
 gametame.com
 gamevn.com
 gaming.engadget.com
+gamulator.com
 gan.doubleclick.net
 gangirc.org
 gap.com
@@ -20560,7 +20562,6 @@ richart.tw
 richlandbank.com
 richlandhospital.com
 richmond.gov.uk
-richplanet.net
 richrelevance.com
 rico.com.vc
 ridefox.com
