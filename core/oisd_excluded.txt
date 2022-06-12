@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Jun 2022 16:04:38 UTC
+# Last modified: 12 Jun 2022 00:30:42 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1055,6 +1055,7 @@ connect.ok.ru
 connect.rom.miui.com
 connect.scroll.com
 connectbot.org
+connects.ch
 consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
@@ -1574,6 +1575,7 @@ game.xiaomi.com
 gamehouse.com
 gameone.com
 gametame.com
+gamulator.com
 gan.doubleclick.net
 gardenstatehelicopters.com
 gardenstatescouting.org
@@ -2231,7 +2233,6 @@ logs.amap.com
 logs.datadoghq.com
 logs.datadoghq.eu
 logs.eu-west-1.amazonaws.com
-loki.network
 lolhello.com
 lolshock.com
 loltrain.com
@@ -2901,7 +2902,6 @@ return.to
 rewardsprod.trafficmanager.net
 rezync.com
 rfk.biglots.com
-richplanet.net
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
