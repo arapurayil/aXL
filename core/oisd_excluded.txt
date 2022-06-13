@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Jun 2022 08:07:41 UTC
+# Last modified: 13 Jun 2022 16:06:23 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -2669,7 +2669,6 @@ passport.baidu.com
 pastie.org
 patatap.com
 pavv.co.kr
-paypal-carregamento.pt
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
