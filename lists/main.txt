@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.13
-# Last modified: 13 Jun 2022 00:34:02 UTC
+# Last modified: 13 Jun 2022 08:07:41 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6391,6 +6391,7 @@ click.e.change.org
 click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com
+click.justwatch.com
 click.linksynergy.com
 click.mail.jp.playstation.com
 click.mail.macmillan.com
