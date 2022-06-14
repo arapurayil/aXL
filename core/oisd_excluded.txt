@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Jun 2022 16:06:23 UTC
+# Last modified: 14 Jun 2022 00:36:44 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -155,6 +155,7 @@ ad.lgsmartad.com
 ad.mediaplex.com
 ad2.media01.eu
 adage.com
+adamantsys.com
 adash.man.aliyuncs.com
 adashx.m.taobao.com
 adaware.com
@@ -3185,6 +3186,7 @@ spl.hit.gemius.pl
 split.to
 spot.im
 sqimg.qq.com
+srbizasrbe.org
 srvtrck.com
 ss.phncdn.com
 ssl-cdn.static.browser.mi-img.com
