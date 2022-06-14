@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.14
-# Last modified: 14 Jun 2022 00:36:45 UTC
+# Last modified: 14 Jun 2022 08:08:13 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -772,6 +772,7 @@ ada.gov
 ada.support
 adage.com
 adam.com.au
+adamantsys.com
 adameve.com
 adamsbank.com
 adamshospital.com
@@ -22911,6 +22912,7 @@ sr.gravatar.com
 sr2.liveperson.net
 sravni.ru
 srbank.ru
+srbizasrbe.org
 srft.ch
 sro.ch
 srs.gov
