@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Jun 2022 08:08:13 UTC
+# Last modified: 14 Jun 2022 16:06:48 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -968,6 +968,7 @@ click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
 click.dtiserv2.com
+click.e.progressive.com
 click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com
