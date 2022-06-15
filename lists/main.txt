@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.14
-# Last modified: 14 Jun 2022 16:06:49 UTC
+# Version: 3.06.15
+# Last modified: 15 Jun 2022 00:33:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6389,6 +6389,7 @@ click.aliexpress.com
 click.cptrack.de
 click.dtiserv2.com
 click.e.change.org
+click.e.progressive.com
 click.email.sonos.com
 click.engage.xbox.com
 click.icptrack.com

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Jun 2022 16:06:48 UTC
+# Last modified: 15 Jun 2022 00:33:23 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -134,6 +134,7 @@ acompli.helpshift.com
 acpbdf.com.br
 acquia.com
 acr0.samsungcloudsolution.com
+acs.m.taobao.com
 action.metaffiliation.com
 activate-sea.adobe.com
 activate-sjc0.adobe.com
@@ -494,7 +495,6 @@ ampcid.google.com
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
-ams3.digitaloceanspaces.com
 amway.com
 amznadsi.hs.llnwd.net
 analytics.console.aws.a2z.com
@@ -694,6 +694,7 @@ bannerbank.com
 bannerconnect.com
 banners.spiceworks.com
 bannertrack.net
+barbadostoday.bb
 barclaybanking.com
 baremetrics.com
 bat.bing.com
@@ -1335,7 +1336,6 @@ edgekey.net
 edgesuite.net
 edigitalsurvey.com
 edje.com
-edm.crikey.com.au
 edrone.me
 eelsoup.net
 effiliation.com
@@ -1484,6 +1484,7 @@ flipboard.com
 flirt.com
 flix360.com
 flixcar.com
+flowcode.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -1649,6 +1650,7 @@ go-mpulse.net.edgekey.net
 go.cerner.com
 go.dlink.com
 go.madmimi.com
+go.mybusinessacademy.ph
 go.neverware.com
 go.pardot.com
 go.redirectingat.com
@@ -1978,6 +1980,7 @@ img.alibaba.com
 img.beeg.com
 img.connatix.com
 img.en25.com
+img.like.video
 img.netwrix.com
 img.particlenews.com
 img.shouji.sogou.com
@@ -2061,7 +2064,6 @@ iqtest.com
 iraiser.eu
 irchan.com
 ironbeast.io
-is.gd
 is.snssdk.com
 isao.org
 isgprivacy.cbsi.com
@@ -2103,7 +2105,6 @@ js-sec.indexww.com
 js.driftt.com
 js.gleam.io
 js.hs-scripts.com
-js.media-lab.ai
 js.pusher.com
 js.stripe.com
 js.taplytics.com
@@ -2197,7 +2198,6 @@ link.email.dynect.net
 linkev.com
 linksredirect.com
 linksynergy.com
-linktr.ee
 litix.io
 live.primis.tech
 livefyre.com
@@ -3084,7 +3084,6 @@ sfdict.com
 sfsapi.micloud.xiaomi.net
 sgiz.mobi
 sgizmo.com
-sgp1.digitaloceanspaces.com
 sgqcvfjvr.onet.pl
 sgsnssdk.com
 sgsnssdk.com.edgekey.net
@@ -3564,6 +3563,7 @@ v4.ident.me
 v6.ident.me
 va.tawk.to
 valf.atm.cp31.ott.cibntv.net
+vapi.apk.v-mate.mobi
 vbsedit.com
 vcdn.biz
 vcs.vdspf.com
@@ -3576,6 +3576,7 @@ vendorlist.consensu.org
 vendorlist.dmcdn.net
 verification-va.byteoversea.com
 verification-va.byteoversea.com.edgesuite.net
+verify-sg.byteoversea.com
 verify.authorize.net
 verizon.demdex.net
 verizonmedia.com
@@ -3717,6 +3718,7 @@ www2.primecreative.com.au
 www3.bloomingdales.com
 www3.webhostingtalk.com
 www4.cbox.ws
+www4.orangecyberdefense.com
 www5.untangle.com
 www6.cbox.ws
 wwwimg.roku.com
