@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.15
-# Last modified: 15 Jun 2022 00:33:23 UTC
+# Last modified: 15 Jun 2022 08:07:44 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2181,7 +2181,6 @@ amrahbank.az
 ams.cdn.arkadiumhosted.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
-ams3.digitaloceanspaces.com
 amsouth.com
 amtrust.com
 amundi-tc.com
@@ -3969,6 +3968,7 @@ baptist-health.com
 baptistfirst.org
 baptistmedical.org
 baratikor.com
+barbadostoday.bb
 barbertonhospital.com
 barclaybanking.com
 barclaycard.co.uk
@@ -8730,7 +8730,6 @@ editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
 edje.com
-edm.crikey.com.au
 edm03.huawei.com
 ednaonline.com
 ednetz.de
@@ -9971,6 +9970,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flowcode.com
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
@@ -13099,6 +13099,7 @@ img.gou.wpscdn.cn
 img.huffingtonpost.com
 img.hulu.com
 img.investorwords.com
+img.like.video
 img.mediaset.it
 img.netwrix.com
 img.onesignal.com
@@ -21759,7 +21760,6 @@ sgkb.ch
 sgkb.de
 sgp.o2o.api.xiaomi.com
 sgp01.tp.hd.mi.com
-sgp1.digitaloceanspaces.com
 sgpac.account.xiaomi.com
 sgqcvfjvr.onet.pl
 sgsg.samsung.com
@@ -25277,6 +25277,7 @@ use.typekit.com
 use.typekit.net
 use.typekit.net.edgekey.net
 usebutton.com
+usefathom.com
 useinsider.com
 usenix.org
 user.binance.com
@@ -25417,6 +25418,7 @@ vandelaydesign.com
 vanguard.com
 vanilla.futurecdn.net
 vanlanschot.nl
+vapi.apk.v-mate.mobi
 varengold.de
 variety.com
 vas.samsungapps.com
@@ -25620,6 +25622,7 @@ verficlinic.ru
 verhospi.gr
 verification-va.byteoversea.com
 verification-va.byteoversea.com.edgesuite.net
+verify-sg.byteoversea.com
 verify.authorize.net
 verio.com
 verisign.com
@@ -27139,6 +27142,7 @@ www4.cbox.ws
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
+www4.orangecyberdefense.com
 www5.2giga.link
 www5.untangle.com
 www6.2giga.link
