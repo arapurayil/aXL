@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Jun 2022 16:06:43 UTC
+# Last modified: 16 Jun 2022 00:30:00 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -692,7 +692,6 @@ bam-x.com
 bam.eu01.nr-data.net
 bannerbank.com
 bannerconnect.com
-banners.spiceworks.com
 bannertrack.net
 barbadostoday.bb
 barclaybanking.com
@@ -994,7 +993,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clientconfig.passport.net
 clients.l.google.com
 clients1.google.com
@@ -1484,7 +1482,6 @@ flipboard.com
 flirt.com
 flix360.com
 flixcar.com
-flowcode.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -2244,6 +2241,7 @@ lp.babbel.com
 lps.innogames.com
 lps.innogamescdn.com
 lptag.liveperson.net
+lt27.de
 luckyorange.com
 lulz.com
 lvbet.pl
@@ -2501,6 +2499,7 @@ nexusrules.officeapps.live.com
 nfscars.net
 ngfts.lge.com
 ngrok.io
+niab.org.pk
 nibis.de
 nicequest.com
 nimiq.com
@@ -2671,6 +2670,7 @@ passport.baidu.com
 pastie.org
 patatap.com
 pavv.co.kr
+paypal-carregamento.pt
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
@@ -3731,6 +3731,7 @@ xapi.ozon.ru
 xg4ken.com
 xhcom.edu.cn
 xhost.ro
+xinjiangpolicefiles.org
 xirvik.com
 xiti.com
 xlmc.sandai.net

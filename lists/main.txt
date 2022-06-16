@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.15
-# Last modified: 15 Jun 2022 16:06:43 UTC
+# Version: 3.06.16
+# Last modified: 16 Jun 2022 00:30:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -22291,7 +22291,6 @@ solbankspain.com
 solicitudestarjetas.banesco.net
 solidbank.com.ph
 solidfiles.com
-solo1.nordea.fi
 solonstatebank.com
 solotodo.com
 solutionpartners.adobe.com
