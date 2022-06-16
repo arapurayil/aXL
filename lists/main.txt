@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.16
-# Last modified: 16 Jun 2022 00:30:00 UTC
+# Last modified: 16 Jun 2022 08:08:15 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -9970,7 +9970,6 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
-flowcode.com
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
@@ -15321,6 +15320,7 @@ lt-in-f26.1e100.net
 lt-in-f27.1e100.net
 lt.cryptopia.co.nz
 lt.gravatar.com
+lt27.de
 ltc.cryptopia.co.nz
 ltgbank.co.ba
 lu.api.mega.co.nz
@@ -17372,6 +17372,7 @@ nhl.com
 nhs.uk
 nhtsa.gov
 ni.net.nf
+niab.org.pk
 nib.ie
 nibcdirect.de
 nibis.de
@@ -18750,6 +18751,7 @@ paymo.ru
 paymybills.com
 payonlinesystem.com
 payouts.payoneer.com
+paypal-carregamento.pt
 paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
@@ -27243,6 +27245,7 @@ xing.co.uk
 xing.com
 xing.de
 xinhuanet.com
+xinjiangpolicefiles.org
 xioshosp.gr
 xirvik.com
 xite-media.de
