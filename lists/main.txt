@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.16
-# Last modified: 16 Jun 2022 16:07:15 UTC
+# Version: 3.06.17
+# Last modified: 17 Jun 2022 00:25:48 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -54,7 +54,6 @@
 07x.net
 0catch.com
 0daydown.com
-0dc7915f74cf0fac6.gs.ea.com
 0emn.com
 0fmm.com
 0p.de
@@ -1312,6 +1311,7 @@ airtable.com
 airtel.in
 airzip.net
 ais.snbank.ru
+aiseet.atianqi.com
 aist-bank.ru
 aitaccess.com
 aixenprovence.bnp.fr
@@ -2564,7 +2564,6 @@ api.opentok.com
 api.opinary.com
 api.oplata.com
 api.or.at
-api.origin.com
 api.ow.ly
 api.parse.com
 api.parsely.com
@@ -2638,7 +2637,6 @@ api.tw.weibo.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.twitch.tv
-api.twitch.tv.edgekey.net
 api.twitter.com
 api.typekit.com
 api.uaq.xiaomi.net
@@ -2675,22 +2673,16 @@ api.yotpo.com
 api.zaloapp.com
 api.zhuashouji.com
 api.zhuti.intl.xiaomi.com
-api0.origin.com
-api1.origin.com
 api1.weather.com
 api16-access-sg.pangle.io
 api2.bitfinex.com
 api2.branch.io
 api2.diigo.com
 api2.flipboard.com
-api2.origin.com
 api2.poloniex.com
 api2.weather.com
-api3.origin.com
 api3.siftscience.com
 api3.weather.com
-api4.origin.com
-api5.origin.com
 apicache.vudu.com
 apidq.punchh.com
 apihub.daum.net
@@ -3140,6 +3132,7 @@ atlasbank.com
 atlassbx.com
 atlassian.com
 atlassian.net
+atm.cp31.ott.cibntv.net
 atmos.ucla.edu
 atomz.com
 atshop.io
@@ -3347,7 +3340,6 @@ b.dlsite.net
 b.engadget.com
 b.hatena.ne.jp
 b.huffingtonpost.com.au
-b.koodomobile.com
 b.marfeelcache.com
 b.netcheck.gallery.pandora.xiaomi.com
 b.scorecardresearch.com
@@ -4190,7 +4182,6 @@ becu.org
 bedbathandbeyond.com
 bedfordanimalhospital.com
 bee4.biz
-beeg.com
 beeline.kz
 beeline.ru
 beelinebroadband.co.uk
@@ -5698,7 +5689,6 @@ cdn.digitaltrends.com
 cdn.discordapp.com
 cdn.dnaindia.com
 cdn.dynamicyield.com
-cdn.ea.com
 cdn.edgesuite.net
 cdn.embed.ly
 cdn.embedly.com
@@ -6120,7 +6110,6 @@ chat-gateway397-prod.chat.snapchat.com
 chat-n-fun.de
 chat.cdn.whatsapp.net
 chat.de
-chat.dm.origin.com
 chat.facebook.com
 chat.minergate.com
 chatango.com
@@ -6602,8 +6591,6 @@ cn.engadget.com
 cn.gravatar.com
 cn.pool.ntp.org
 cn86.org
-cname.api.origin.com
-cname.data.origin.com
 cname.landingi.com
 cname.tradepub.com
 cnb-brownwood.com
@@ -7564,6 +7551,7 @@ dashbox.sndcdn.com
 dashbox.soundcloud.com
 dashlane.com
 dasumo.com
+data.adobedc.net
 data.agkn.com
 data.bilibili.com
 data.cnn.com
@@ -7580,17 +7568,10 @@ data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
-data.origin.com
 data.over-blog-kiwi.com
 data.sec.intl.miui.com
 data.sec.miui.com
 data.ubi.com
-data0.origin.com
-data1.origin.com
-data2.origin.com
-data3.origin.com
-data4.origin.com
-data5.origin.com
 datacaciques.com
 datacloud-us-east-1.tealiumiq.com
 datacloud.tealiumiq.com
@@ -7622,6 +7603,8 @@ db-privatebanking.at
 db.com
 db.local.clamav.net
 db.tt
+db5-eap.settings-win.data.microsoft.com.akadns.net
+db5.settings-win.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
 dbas.org
 dbknb.de
@@ -7666,7 +7649,6 @@ dcinside.com
 dcp.dc1.philips.com
 dcrypt.it
 dcs-vod.apis.anvato.net
-dcs.audi.com
 dctrawler.dailycaller.com
 dcu-online.org
 dcu.org
@@ -7997,7 +7979,6 @@ directvapplications.hb.omtrdc.net
 directvnow.com
 direktbank.at
 direktbank.nl
-dirtybits.api.origin.com
 dirtyunicorns.com
 dirtywarez.com
 disability.gov
@@ -8088,7 +8069,6 @@ dls.net
 dlvr.it
 dlvr.t-online.de
 dlxda.xposed.info
-dm.origin.com
 dmaps.daum.net
 dmc-modesto.com
 dmca.gripe
@@ -8529,19 +8509,9 @@ e8318.dsca.akamaiedge.net
 e9.whatsapp.net
 ea.co
 ea.com
-ea.com.edgekey.net
 ea.galerieslafayette.com
 ea.twimg.com
-ea0.com.edgekey.net
 ea1-urlp.secure.skypeassets.com
-ea1.com.edgekey.net
-ea2.com.edgekey.net
-ea3.com.edgekey.net
-ea4.com.edgekey.net
-ea5.com.edgekey.net
-ea6.com.edgekey.net
-ea7.com.edgekey.net
-eaassets-a.akamaihd.net
 eab-online.com
 eab.com
 eagle-bank.com
@@ -8874,9 +8844,7 @@ elurl.com
 elvenar.com
 ely.re
 em.bm23.com
-em.data.ea.com
 em.dynamicyield.com
-em.eadpdata.ddns.ea.com
 em.funimation.com
 em1.typekit.com
 em3technologies.com
@@ -10744,6 +10712,7 @@ geo.nbcsports.com
 geo.ngtv.io
 geo.opera.com
 geo.paypalobjects.com.akadns.net
+geo.settings-win.data.microsoft.com.akadns.net
 geo.settings.data.microsoft.com.akadns.net
 geo.vortex.data.microsoft.com.akadns.net
 geo0.ggpht.com
@@ -11428,9 +11397,7 @@ groupon.hk
 groupon.it
 groupon.pl
 groups.diigo.com
-groups.gameservices.ea.com
 groups.google.com
-groups.tnt-ea.com
 growingio.com
 growingup.de
 growth.pusher.com
@@ -11443,7 +11410,6 @@ gruppopopolarevicenza.it
 gs-loc.apple.com
 gs-sec.ww.np.dl.playstation.net
 gs.apple.com
-gs.ea.com
 gs.statcounter.com
 gs.wixapps.net
 gs2.ww.prod.dl.playstation.net
@@ -12139,7 +12105,6 @@ hsoub.com
 hspx.hotstar.com
 hsx.com
 ht.ly
-ht.youporn.com
 htm.huawei.com
 html5zombo.com
 htmlcommentbox.com
@@ -13265,7 +13230,6 @@ info.ms
 info.recode.net
 info.sec.miui.com
 info.seek.com
-info.social.ea.com
 info.techcrunch.com
 info.viber.com
 info.wps.cn
@@ -13278,7 +13242,6 @@ infoq.com
 informer.com
 informer.yandex.ru
 informz.net
-infos.telstra.com.au
 infospace.com
 infowars.com
 infusionsoft.com
@@ -14004,7 +13967,6 @@ katharinen-hospital.de
 kathrein.at
 katowice.tvp.pl
 kaupthing.lu
-kauth.kakao.com
 kautionen.aareal-bank.com
 kav-krankenhaus.de
 kavalahospital.gr
@@ -15352,7 +15314,6 @@ luzerner-regiobank.ch
 lv.wikipedia.com
 lvbank.com
 lvbet.pl
-lvlt.cdn.ea.com
 lwn.net
 lxcdn.app.chat.xiaomi.net
 lxcdn.dl.files.xiaomi.net
@@ -15529,6 +15490,7 @@ mange-news.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mangomoney.ru
+manhuachi.com
 manifest.auditude.com
 manifest.googlevideo.com
 manifest.prod.boltdns.net
@@ -17988,7 +17950,6 @@ omn.sonypictures.com
 omni-grok.amazon.com
 omnihost.pl
 omnirom.org
-omniture-ssl.walmart.com
 oms.expedia.com
 oms.symantec.com
 omtrdc.net
@@ -18316,8 +18277,6 @@ org.uk
 orgaplan.de
 orgresbank.com
 orig.sc.g.mi.com
-origin-a.akamaihd.net
-origin-a.akamaihd.net.edgesuite.net
 origin-assets.vimeo.com
 origin-blog.hulu.com
 origin-lb.typekit.com
@@ -18832,6 +18791,7 @@ peacearchhospital.com
 peacehealth.org
 peacehills.com
 peachfordhospital.com
+peachtreenorml.org
 pecl.php.net
 pedr.com
 peeksoft.co
@@ -18989,8 +18949,6 @@ pila.pl
 pilkanozna.pl
 pillpack.com
 pimg1.126.net
-pin-em.data.ea.com
-pin-river.data.ea.com
 pin.st
 pinecitybank.com
 pineislandbank.com
@@ -20592,8 +20550,6 @@ riotgames.com
 riotpixels.com
 ripb.parsian-bank.ir
 ris.api.iris.microsoft.com
-river.data.ea.com
-river.eadpdata.ddns.ea.com
 riverisland.com
 riveroakshospital.com
 riverparisheshospital.com
@@ -21170,7 +21126,6 @@ savingsinstitute.com
 savingsloans.com.au
 savvis.net
 savvyspace.com
-sawap.equifax.com
 saythanks.io
 sb-ssl.google.com
 sb.hitbtc.com
@@ -21288,7 +21243,6 @@ schulthess-klinik.ch
 schwab.com
 schwaebisch-hall.de
 schwaebische-bank.de
-sci.intuit.ca
 sci.intuit.com
 scib.co.th
 scibank.com
@@ -21492,7 +21446,6 @@ secure.commercegate.com
 secure.creditwestbank.com
 secure.crunchyroll.com
 secure.diigo.com
-secure.download.dm.origin.com
 secure.dshield.org
 secure.ecopayz.com
 secure.eloqua.com
@@ -21914,7 +21867,6 @@ signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
 signicat.com
-signin.ea.com
 signin.ebay.ca
 signin.ebay.co.uk
 signin.ebay.com
@@ -22143,12 +22095,7 @@ smclinic.ru
 smedia.webcollage.net
 smeet.com
 smetrics.aem.playstation.com
-smetrics.costco.com
-smetrics.dhl.de
 smetrics.discover.com
-smetrics.frontier.com
-smetrics.latitudefinancial.com
-smetrics.santander.co.uk
 smetrics.us.playstation.com
 smfg.co.jp
 smh-online.de
@@ -22163,7 +22110,6 @@ smithsdownunder.com
 smithvethospital.com
 smljmp.com
 smll.co
-smodus.nike.com
 smokefree.gov
 smokingwheels.github.io
 smolbank.ru
@@ -22179,7 +22125,6 @@ smsapi.micloud.xiaomi.net
 smsfun.com.au
 smtp.mail.yahoo.com
 smtp.ospserver.net
-smtp.outlook.office365.com
 smtp.vimeo.com
 smtp21t.mail.mylife.com
 smudoo.com
@@ -22305,7 +22250,6 @@ somalibuzz.com
 someonewhocares.com
 someonewhocares.org
 somersetsavings.com
-somni.huk.de
 sonic.net
 sonico.com
 sonicocnt.com
@@ -22921,6 +22865,7 @@ srs.gov
 srv1.xbext.com
 srv2.xbext.com
 srvtrck.com
+ss.cnnic.cn
 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ss.phncdn.com
 ss0.baidu.com
@@ -22960,8 +22905,6 @@ ssl.gstatic.com
 ssl.hwcdn.net
 ssl.marfeelcdn.com
 ssl.msdk.qq.com
-ssl.o.auspost.com.au
-ssl.o.webmd.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
@@ -23042,7 +22985,6 @@ staffordbc.gov.uk
 stage.digitalpublishing.adobe.com
 stage.login.engadget.com
 stage.m.blog.naver.com
-stage.secure.download.dm.origin.com
 stage02.aemmobile.adobe.com
 stage02.publish.adobe.com
 staging-about.flipboard.com
@@ -23324,12 +23266,8 @@ steam-chat.com
 steamanalyst.com
 steamcdn-a.akamaihd.net
 steamcommunity.com
-steamcontent.com
-steamgames.com
 steampowered.com
-steamstatic.com
 steamstore-a.akamaihd.net
-steamusercontent.com
 stearns-bank.com
 stedmundsbury.gov.uk
 stedwardmercy.com
@@ -23540,7 +23478,6 @@ suburbanhospital.org
 suche.t-online.de
 suckdude.com
 suckerpunch.playstation.com
-sucmetrics.unicredit.it
 sudu8.com
 suffolkcc.gov.uk
 sug.search.daum.net
@@ -27253,7 +27190,6 @@ xiti.com
 xitnow.com
 xk.me
 xkcd.com
-xkms.xbolive.co
 xkms.xbolive.com
 xkms.xboxlive.com
 xl7xml.client.xunlei.com
@@ -27264,7 +27200,6 @@ xlog-va.musical.ly.edgesuite.net
 xmccb.com
 xmcs.mi.com
 xml.opera.com
-xmpp-redirector-prod.tnt-ea.com
 xmpp-server.l.google.com
 xmpush.xiaomi.com
 xmr.to
@@ -27273,7 +27208,6 @@ xn--80aae3af7av6a7a.xn--p1ai
 xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
 xnet.co.nz
-xnxx.com
 xoe.cz
 xp.apple.com
 xpdll.nirsoft.net
@@ -27283,7 +27217,6 @@ xpg.uol.com.br
 xpi.com.br
 xplornet.com
 xposed.info
-xpu.samsungelectronics.com
 xqqyu.mjt.lu
 xrea.com
 xrl.us
@@ -27293,7 +27226,6 @@ xt3.me
 xtgem.com
 xtra.co.nz
 xtreme.net.nz
-xtube.com
 xua.me
 xub.me
 xueqiu.com
