@@ -180,7 +180,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 0
+            "num_unblock_rules": 116
         },
         {
             "name": "neodevpro neodevhost - whitelist",
@@ -234,7 +234,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 855
+            "num_unblock_rules": 856
         },
         {
             "name": "PracticalChip RawWhitelist",
