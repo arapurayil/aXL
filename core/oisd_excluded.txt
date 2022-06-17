@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 Jun 2022 08:09:00 UTC
+# Last modified: 17 Jun 2022 16:06:07 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1796,7 +1796,6 @@ howtofix.guide
 hs-scripts.com
 hs-sites.com
 hs.eloqua.com
-hscoscdn20.net
 hsdn.org
 hsoub.com
 hspx.hotstar.com
@@ -3388,6 +3387,7 @@ townnews.com
 tp-emea.exactag.com
 tr.info.mango-mobilites.fr
 tracemyip.org
+track-eu.adformnet.akadns.net
 track.adform.net
 track.adtraction.com
 track.customer.io
