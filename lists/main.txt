@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.18
-# Last modified: 18 Jun 2022 08:07:21 UTC
+# Last modified: 18 Jun 2022 16:03:49 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2668,6 +2668,7 @@ api.winred.com
 api.wunderground.com
 api.x.sndcdn.com
 api.xda-developers.com
+api.xiaomi.com
 api.ximalaya.com
 api.xk.miui.com
 api.xmpush.xiaomi.com
@@ -15483,6 +15484,7 @@ mailing.cryptopia.co.nz
 mailtag.com
 mailto.space
 mailtrack.io
+maimai.cn
 main-ding.de
 main.iam.ad.ext.azure.com
 maine.gov
