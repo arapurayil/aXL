@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.06.18
-# Last modified: 18 Jun 2022 16:03:49 UTC
+# Version: 3.06.19
+# Last modified: 19 Jun 2022 00:30:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6705,6 +6705,7 @@ colgate.com.br
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collateral.medium.com
+collect.igodigital.com
 collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
@@ -11877,6 +11878,7 @@ hisense.com
 hispanito.com
 history.com
 history.paypal.com
+hit.bg
 hit.gemius.pl
 hit.interia.pl
 hit.me
@@ -16358,6 +16360,7 @@ miss34.com
 mission4health.com
 missionhospitals.org
 missionoaksbank.com
+mistat.xiaomi.com
 mistrzowie.org
 mit.edu
 mitfcu.org
@@ -17019,6 +17022,7 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
+nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -20986,6 +20990,7 @@ sa-in-f26.1e100.net
 sa-in-f27.1e100.net
 sa.api.intl.miui.com
 sa.bbc.co.uk
+sa.bbc.com
 sa.nexon.game.naver.com
 sa.symcb.com
 sa1-urlp.secure.skypeassets.com
@@ -25233,6 +25238,7 @@ us.wifiapi.micloud.xiaomi.net
 us.xmss.mws.xiaomi.net
 us.xmssmc.mws.xiaomi.net
 us.ynuf.aliapp.org
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us1.locationiq.com
 us2.sumologic.com
