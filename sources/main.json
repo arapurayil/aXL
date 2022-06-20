@@ -189,7 +189,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 59
+            "num_unblock_rules": 60
         },
         {
             "name": "nextdns affiliate-tracking",
