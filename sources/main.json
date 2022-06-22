@@ -234,7 +234,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 856
+            "num_unblock_rules": 857
         },
         {
             "name": "PracticalChip RawWhitelist",
