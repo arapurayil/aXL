@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.24
-# Last modified: 24 Jun 2022 00:30:47 UTC
+# Last modified: 24 Jun 2022 08:08:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -16893,6 +16893,7 @@ p.pw
 p.typekit.net
 p.typekit.net-v2.edgekey.net
 p0.ipstatp.com
+p04e.t.en25.com
 p1.cn
 p1.soundcloud.com
 p20-calendars.icloud.com
@@ -19179,6 +19180,7 @@ s3.vuukle.com
 s3.wp.com
 s4.symcb.com
 s5.symcb.com
+s88570519.t.en25.com
 s9.picofile.com
 sa-blacklist.stearns.org
 sa-in-f14.1e100.net
@@ -21793,6 +21795,7 @@ t.cn
 t.co
 t.dripemail2.com
 t.eloqua.com
+t.en25.com
 t.hulu.com
 t.ly
 t.me
