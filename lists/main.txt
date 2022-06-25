@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.06.25
-# Last modified: 25 Jun 2022 00:31:45 UTC
+# Last modified: 25 Jun 2022 08:07:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1972,6 +1972,8 @@ amnat.com
 amnb.com
 amoory.com
 amos.alicdn.com
+amp-api-edge.apps.apple.com
+amp-api-edge.apps.apple.com.edgekey.net
 amp-reddit-com.cdn.ampproject.org
 amp.azure.net
 amp.businessinsider.com
