@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Jun 2022 16:06:51 UTC
+# Last modified: 25 Jun 2022 00:31:44 UTC
 ?excludedfrom=adaway
 https://adaway.org/hosts.txt
 ?excludedfrom=adguard
