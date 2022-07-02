@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.01
-# Last modified: 01 Jul 2022 16:06:53 UTC
+# Version: 3.07.02
+# Last modified: 02 Jul 2022 00:33:02 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -17412,6 +17412,7 @@ pixel.everesttech.net
 pixel.nymag.com
 pixel.quantserve.com
 pixel.wp.com
+pixeldrain.com
 pixelsdesign.net
 pixhost.to
 pixinvent.com
