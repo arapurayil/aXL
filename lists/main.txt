@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.02
-# Last modified: 02 Jul 2022 00:33:02 UTC
+# Last modified: 02 Jul 2022 08:06:42 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -14139,6 +14139,7 @@ mail.ru
 mail.sailormoon.com
 mail.sitcomsonline.com
 mail.techmeme.com
+mail.tsinghua.edu.cn
 mail.vimeo.com
 mail.xda-developers.com
 mail.yahoo.com
@@ -16714,6 +16715,7 @@ optinmonster.com
 options.skype.com
 optistreams.com
 optitel.com.br
+optmzly.fe.indazn.com
 optumbank.com
 opus.l.soundcloud.com
 opus.soundcloud.com
@@ -19443,6 +19445,7 @@ scbusinessrr.com
 sccden.spot.im
 scdhhs.gov
 scdn.co
+scenarieconomici.it
 scene7.com
 scenekids.com
 sch.edu.au

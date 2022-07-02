@@ -216,7 +216,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 1747
+            "num_unblock_rules": 1750
         },
         {
             "name": "oisd.nl excludes",
