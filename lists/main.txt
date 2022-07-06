@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.06
-# Last modified: 06 Jul 2022 08:17:49 UTC
+# Last modified: 06 Jul 2022 16:06:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -13293,6 +13293,7 @@ inference.location.live.net
 infinas.com
 info-msk.rusfinance.ru
 info.affirm.com
+info.apnic.net
 info.baikalinvestbank.ru
 info.binance.com
 info.cyberplat.ru
