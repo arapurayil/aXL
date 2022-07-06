@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.06
-# Last modified: 06 Jul 2022 00:36:22 UTC
+# Last modified: 06 Jul 2022 08:17:49 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2110,6 +2110,7 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
+amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -3380,6 +3381,7 @@ b02.black.ndmdhs.com
 b13.com
 b2.ndb24.ru
 b23.ru
+b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -5099,6 +5101,7 @@ burnermail.io
 bus.ideabank.ua
 buscape.com.br
 busey.com
+busfor.com
 business.faktura.ru
 business.gov
 business.hide.me
@@ -5325,6 +5328,7 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
+campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -6924,6 +6928,7 @@ confraternitaet.at
 conn.skype.akadns.net
 connatix.com
 connect.auone.jp
+connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6981,6 +6986,7 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
+content.awaze.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -7338,6 +7344,7 @@ csoindia.org
 csosa.gov
 csp.int-x3.letsencrypt.org.edgesuite.net
 csp.medium.com
+csp.withgoogle.com
 cspb.com
 csr.integration.viber.com
 csr.onet.pl
@@ -8757,6 +8764,7 @@ edge.pantheon.io
 edge.skype.com
 edgecast-vod.yahoo.net
 edgecastcdn.net
+edgedl.me.gvt1.com
 edgekey.net
 edgertonhospital.com
 edgesuite.net
@@ -11018,10 +11026,12 @@ go-mpulse.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
+go.cerner.com
 go.co
 go.com
 go.daum.net
 go.digitalocean.com
+go.dlink.com
 go.energized.pro
 go.icq.com
 go.ign.com
@@ -11029,6 +11039,7 @@ go.infoblox.com
 go.leanplum.com
 go.microsoft.com
 go.mybusinessacademy.ph
+go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -11044,6 +11055,7 @@ go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
+go.updates.iata.org
 go.usa.gov
 go.wechat.com
 go2cloud.org
@@ -11764,6 +11776,7 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
+hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -13279,6 +13292,7 @@ inetpayonline.com
 inference.location.live.net
 infinas.com
 info-msk.rusfinance.ru
+info.affirm.com
 info.baikalinvestbank.ru
 info.binance.com
 info.cyberplat.ru
@@ -13480,7 +13494,6 @@ internetzwerk.net
 internode.on.net
 interpark.com
 interserver.net
-interspar.at
 intervestnatbank.com
 intervista.youdao.com
 intesasanpaolo.com
@@ -14361,6 +14374,7 @@ kodu.neti.ee
 koe-klinik.de
 koeln-kh-augustinerinnen.de
 kohls.com
+koisea.com
 koken-voor-baby.nl
 kokobank.com
 kokomopostofficecu.com
@@ -14788,6 +14802,7 @@ leadpages.co
 leadpages.net
 leakix.net
 leanplum.com
+learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -17033,6 +17048,7 @@ nads.gov.ua
 naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
+nahnoji.cz
 naiadsystems.com
 naifei.shop
 nalog.ru
@@ -17411,7 +17427,6 @@ nhl.com
 nhs.uk
 nhtsa.gov
 ni.net.nf
-niab.org.pk
 nib.ie
 nibcdirect.de
 nibis.de
@@ -19085,6 +19100,7 @@ pittsfieldco-op.com
 piu.ac.ke
 pius-hospital.de
 piwik.org
+piwik.secure.payu.com
 pix11.com
 pix2.services.tvn.pl
 pixel.everesttech.net
@@ -24282,6 +24298,7 @@ thestatebank.com
 thetacdn.net
 thetekshop.com
 thetimes.co.uk
+thetradedesk.com
 thetrustpeople.com
 thetvdb.com
 thetvdb.plexapp.com
@@ -27209,6 +27226,8 @@ www2.2giga.link
 www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
+www2.pardot.com
+www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
@@ -27217,6 +27236,7 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
+www4.orangecyberdefense.com
 www5.2giga.link
 www5.untangle.com
 www6.2giga.link
