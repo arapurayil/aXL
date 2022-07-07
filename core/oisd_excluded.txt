@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Jul 2022 16:06:52 UTC
+# Last modified: 07 Jul 2022 00:36:06 UTC
 007sites.com
 0emn.com
 0fmm.com
@@ -1628,7 +1628,6 @@ gamehouse.com
 gameone.com
 gametame.com
 gammatron.com.au
-gamulator.com
 gan.doubleclick.net
 gardenstatehelicopters.com
 gateway.reddit.com
@@ -2110,6 +2109,7 @@ iqtest.com
 iraiser.eu
 irchan.com
 ironbeast.io
+is.gd
 is.snssdk.com
 isao.org
 isgprivacy.cbsi.com
@@ -2187,7 +2187,6 @@ klclick2.com
 klclick3.com
 knet.cn
 ko.wowhead.com
-koisea.com
 koken-voor-baby.nl
 komachi.yomiuri.co.jp
 kount.com
@@ -2513,7 +2512,6 @@ na1r.services.adobe.com
 na2m-pr.licenses.adobe.com
 na61-na62.wagbridge.advertisement.tanx.com
 na61-na62.wagbridge.alibaba.tanx.com
-nahnoji.cz
 naiadsystems.com
 naifei.shop
 nametests.com
@@ -3571,6 +3569,7 @@ twisto.cz
 typeform.com
 typekit.net
 u.huoying666.com
+u.to
 uamobile.net
 uarating.com
 ublock.org

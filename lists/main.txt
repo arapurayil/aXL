@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.06
-# Last modified: 06 Jul 2022 16:06:52 UTC
+# Version: 3.07.07
+# Last modified: 07 Jul 2022 00:36:06 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -339,7 +339,6 @@
 55.ru
 550access.com
 55fast.com
-56.com
 58.com
 58pic.com
 5af10.v.fwmrm.net
@@ -627,7 +626,6 @@ accessbank.az
 accessbanking.com.ar
 accessbankplc.com
 accesscomm.ca
-accessfreevpn.com
 accesshorizon.com
 accesstrade.co.id
 accessus.net
@@ -4278,8 +4276,6 @@ best-hospital.jp
 best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
-bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -14371,7 +14367,6 @@ ko.wowhead.com
 koblenzer-volksbank.de
 kocbank.com.tr
 kocbank.nl
-kodu.neti.ee
 koe-klinik.de
 koeln-kh-augustinerinnen.de
 kohls.com
@@ -15503,7 +15498,6 @@ mail.coinbase.com
 mail.daum.net
 mail.dcinside.com
 mail.google.com
-mail.hallym.ac.kr
 mail.hostmonster.com
 mail.hulu.com
 mail.linkedin.com
@@ -16106,7 +16100,6 @@ mem.gfx.ms
 member.hide.me
 member.stumbleupon.com
 memberdirect.net
-members.iinet.net.au
 members.medium.com
 members.tripod.com
 membersequity.com.au
@@ -18939,7 +18932,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -21467,7 +21459,6 @@ se.wikipedia.com
 sea-friends.com
 sea.battle.net
 sea.ign.com
-sea.net.edu.cn
 sea1.cdn.survey.medallia.com
 seadform.net
 seal.digicert.com
@@ -24349,7 +24340,6 @@ ticket.uz.gov.ua
 ticketland.ru
 tid.canon.com
 tidal.com
-tidebuy.com
 tie.247-inc.net
 tier1net.com
 tier2.ios.skypeassets.com
@@ -24607,7 +24597,6 @@ tracking.nw.de
 tracking.publicidees.com
 tracking.s24.com
 tracking.surveycheck.com
-tracking.truthfinder.com
 trackingthetrackers.com
 trackitonline.ru
 trackjs.com
