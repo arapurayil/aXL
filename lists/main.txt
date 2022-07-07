@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.07
-# Last modified: 07 Jul 2022 00:36:06 UTC
+# Last modified: 07 Jul 2022 08:09:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -10641,7 +10641,6 @@ gametame.com
 gamevn.com
 gaming.engadget.com
 gammatron.com.au
-gamulator.com
 gan.doubleclick.net
 gangirc.org
 gap.com
@@ -14370,7 +14369,6 @@ kocbank.nl
 koe-klinik.de
 koeln-kh-augustinerinnen.de
 kohls.com
-koisea.com
 koken-voor-baby.nl
 kokobank.com
 kokomopostofficecu.com
@@ -17042,7 +17040,6 @@ nads.gov.ua
 naemi-wilke-stift.de
 naffic.org.tw
 nahealth.com
-nahnoji.cz
 naiadsystems.com
 naifei.shop
 nalog.ru
