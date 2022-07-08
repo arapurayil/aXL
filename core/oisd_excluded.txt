@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Jul 2022 08:18:39 UTC
+# Last modified: 08 Jul 2022 16:07:12 UTC
 007sites.com
 0emn.com
 0fmm.com
@@ -66,6 +66,7 @@
 4girlsfingerpaint.org
 4ix.com
 51.la
+56.com
 5af10.v.fwmrm.net
 5z8.info
 7.ly
@@ -93,7 +94,6 @@ a.pomf.cat
 a.pomf.su
 a.pr-cy.ru
 a.realsrv.com
-a.uguu.se
 a.wishabi.com
 a1.api.bbc.co.uk
 a1.mzstatic.com
@@ -140,7 +140,9 @@ above.com
 abtasty.com
 ac.duckduckgo.com
 accengage.com
+accessfreevpn.com
 accesstrade.co.id
+account.herephyshy.info
 accounts.pkr.com.invalid
 acdn.adnxs.com
 acenar.com
@@ -614,6 +616,7 @@ app.appsflyer.com
 app.bronto.com
 app.chat.xiaomi.net
 app.cookieinformation.com
+app.getresponse.com
 app.hubspot.com
 app.launchdarkly.com
 app.link
@@ -648,7 +651,6 @@ arstechnica.com
 art19.com
 arvetellefsen.no
 asadcdn.com
-ashampoo.com
 asimov-win.settings.data.microsoft.com.akadns.net
 asobanca.com.ve
 assets-secure.applicaster.com
@@ -732,6 +734,8 @@ beacon-v2.helpscout.net
 benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
+bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -818,6 +822,7 @@ bugsnag.com
 builder-assets.unbounce.com
 bundles.api.here.com
 busfor.com
+business.adobe.com
 business.opera.com
 buy.tinypass.com
 buyeasy.by
@@ -1006,6 +1011,7 @@ click.icptrack.com
 click.justwatch.com
 click.linksynergy.com
 click.mail.medscape.com
+click.mlsend.com
 click.mz.simba.taobao.com
 click.redditmail.com
 click.revue.email
@@ -1118,6 +1124,7 @@ coralogix.com
 core.cloud.unity3d.com
 coremetrics.com
 corp.sts.microsoft.com
+cotc.net
 countere.com
 countvoncount.goguardian.com
 couponxoo.com
@@ -1158,6 +1165,7 @@ ct.sendgrid.net
 ctrip.com
 cts.businesswire.com
 cts.vresp.com
+cuci.nl
 cur.lv
 curalate.com
 curalate.info
@@ -1307,6 +1315,7 @@ dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 do-not-tracker.org
 docs.bugsnag.com
+docs.google.com
 docsdermgroup.com
 doh.dns.sb
 dolphincdn.xyz
@@ -1322,7 +1331,6 @@ doubleclick.net
 down.360safe.com
 download-free-games.com
 download.wegame.qq.com
-download.winzip.com
 downloadanysong.com
 downloadtime.org
 downmobile.kugou.com
@@ -1441,6 +1449,7 @@ esurvey.stdd.kerala.gov.in
 et.tidal.com
 ethhex.com
 ethn.io
+ethpool.org
 etl.tindersparks.com
 etn.fm
 etoro.com
@@ -1538,6 +1547,7 @@ flipboard.com
 flipp.com
 flirt.com
 flix360.com
+flixaddict.com
 flixcar.com
 flocktory.com
 fls-cn.amazon-adsystem.com
@@ -1579,6 +1589,7 @@ fourier.taobao.com
 fp.tongdun.net
 fpt.microsoft.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
 fra-01.braze.eu
 frameip.com
@@ -1660,6 +1671,7 @@ geolocation.onetrust.com
 georiot.com
 get-express-vpn.com
 get.untangle.com
+get.x-link.pl
 getadmiral.com
 getblueshift.com
 getdrip.com
@@ -1731,6 +1743,7 @@ graph.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
 greenheartmed.org
+gremimedia.pl
 group-ib.ru
 groupon.pl
 growth-pa.googleapis.com
@@ -2011,6 +2024,7 @@ images2.minutemediacdn.com
 imagesak.secureserver.net
 imasdk.googleapis.com
 img-fotki.yandex.ru
+img.alibaba.com
 img.beeg.com
 img.blesk.cz
 img.connatix.com
@@ -2071,7 +2085,6 @@ invoca.net
 involve.asia
 inx.lv
 ioam.de
-iobit.com
 iolam.it
 iotcplatform.com
 iovation.com
@@ -2102,7 +2115,6 @@ iqtest.com
 iraiser.eu
 irchan.com
 ironbeast.io
-is.gd
 is.snssdk.com
 isao.org
 isgprivacy.cbsi.com
@@ -2180,6 +2192,7 @@ klclick2.com
 klclick3.com
 knet.cn
 ko.wowhead.com
+kodu.neti.ee
 koken-voor-baby.nl
 komachi.yomiuri.co.jp
 kount.com
@@ -2203,6 +2216,7 @@ lb.production-public.tubi.io
 lc-cn-n1-shared.com
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
+le.com
 leadpages.net
 leakix.net
 leanplum.com
@@ -2249,7 +2263,6 @@ lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 lnks.gd
 loadercdn.com
-local.adguard.org
 locallogic.co
 lofter.com
 log-tb.sgsnssdk.com
@@ -2292,6 +2305,8 @@ m.qpic.cn
 m.uczzd.cn
 m.yap.yahoo.com
 m1.fwmrm.net
+m1.nsimg.net
+m2.nsimg.net
 m365log.com
 mabaya.com
 mackeeper.com
@@ -2307,6 +2322,8 @@ magicplayer-s.torrentstream.org
 magiskmanager.com
 magnetmail.net
 magnetmail1.net
+mail.hallym.ac.kr
+mail.tsinghua.edu.cn
 mailchimp.com
 mailerlite.com
 mailfoogae.appspot.com
@@ -2369,6 +2386,7 @@ medrx.telstra.com.au
 medyanetads.com
 meipian7.cn
 meltwater.com
+members.iinet.net.au
 merchant.wgiftcard.com
 merryholidays.org
 messagemedia.com
@@ -2725,6 +2743,7 @@ pennynetwork.com
 people-pa.googleapis.com
 pepperjamnetwork.com
 pepsico.com.cn
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2973,6 +2992,7 @@ rmp.rakuten.com
 rmscomponents.com.au
 rnet.plus
 rollbar.com
+roms-download.com
 romsmania.com
 router.bittorrent.com
 rover.ebay.com
@@ -3088,6 +3108,7 @@ sdk.split.io
 sdk.touchcast.com
 sdk.waze.com
 sdkapicdn.applanga.com
+sea.net.edu.cn
 seadform.net
 searchads.apple.com
 sec.resource.xiaomi.net
@@ -3112,7 +3133,6 @@ seed.bitcoinstats.com
 segment.com
 segment.io
 segpay.com
-selcdn.ru
 self.events.data.microsoft.com
 selfpwn.org
 sellix.io
@@ -3267,7 +3287,6 @@ staging-collab.cloud.unity3d.com
 standardmedia.co.ke
 star.c10r.facebook.com
 startup.mobile.yandex.net
-stash.com
 stat.10jqka.com.cn
 stat.download.xunlei.com
 stat.ethz.ch
@@ -3310,7 +3329,6 @@ stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 store-stc.zdn.vn
-store.iobit.com
 stormap.sapo.pt
 stormgain.com
 stptrisakti.ac.id
@@ -3409,6 +3427,7 @@ techtarget.com
 tecnosell.com
 teeth.co.jp
 telecommand.telemetry.microsoft.com
+telegra.ph
 telemetry-console.api.playstation.com
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
@@ -3442,6 +3461,7 @@ thisisacoolthing.com
 thumb.tapecontent.net
 thunderhead.com
 tickcounter.com
+tidebuy.com
 tie.247-inc.net
 tifbs.net
 tile-service.weather.microsoft.com
@@ -3506,6 +3526,7 @@ tracking.magnetmail.net
 tracking.publicidees.com
 tracking.s24.com
 tracking.surveycheck.com
+tracking.truthfinder.com
 trackjs.com
 tradedoubler.com
 tradetracker.net
@@ -3551,7 +3572,6 @@ twisto.cz
 typeform.com
 typekit.net
 u.huoying666.com
-u.to
 uamobile.net
 uarating.com
 ublock.org
@@ -3560,6 +3580,7 @@ ucan.25pp.com
 ucoz.com
 ucoz.net
 ucweb.com
+udec.cl
 udimg.com
 ue.flipboard.com
 ui.skype.com
@@ -3620,6 +3641,7 @@ user.fm
 user.gini.net
 usercentrics.com
 usercentrics.eu
+userimage8.360doc.com
 userleap.com
 userreport.com
 users.atw.hu
@@ -3755,7 +3777,6 @@ win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
 windows.net
-winzip.com
 wip3.adobe.com
 wipe.de
 wistia.com
@@ -3824,7 +3845,6 @@ xmpush.xiaomi.com
 xmrpool.eu
 xp.apple.com
 xrea.com
-xsph.ru
 y8.com
 yabs.yandex.ru
 yahoo.adnetasia.com
