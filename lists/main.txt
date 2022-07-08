@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.08
-# Last modified: 08 Jul 2022 00:37:22 UTC
+# Last modified: 08 Jul 2022 08:18:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -302,6 +302,7 @@
 3gimg.qq.com
 3guys1hammer.ws
 3p.ampproject.net
+3proxy.ru
 3ra.be
 3t.org
 3wishes.com
@@ -703,7 +704,6 @@ acquisition.gov
 acr-search.sonymobile.com
 acr.sonymobile.com
 acr0.samsungcloudsolution.com
-acrcloud.com
 acri.it
 acrobat.adobe.com
 acroipm.adobe.com
@@ -2711,7 +2711,6 @@ apicache.vudu.com
 apidq.punchh.com
 apien.ldmnq.com
 apihub.daum.net
-apilocate.amap.com
 apimobile.lifelog.sonymobile.com
 apis.com.br
 apis.daum.net
@@ -5887,7 +5886,6 @@ cdnjs.cloudflare.com
 cdnjs.tvpage.com
 cdns.eu1.gigya.com
 cdns.gigya.com
-cdns.us1.gigya.com
 cdns1.gigya.com
 cdnsecakmi.kaltura.com
 cdnssl.softpedia.com
@@ -6608,7 +6606,6 @@ cmba.org
 cmbank.ru
 cmbchina.com
 cmca.or.cr
-cmcm.com
 cmhospital.com
 cmhospital.org
 cmicapui.ce.gov.br
@@ -10991,7 +10988,6 @@ gls-bank.de
 gls-online-filiale.de
 gls.de
 glsb.com
-glympse.com
 glyph.medium.com
 gm.gds.mmstat.com
 gm.iotcplatform.com
@@ -11802,7 +11798,6 @@ helpdesk2.bitfinex.com
 helpinghand.net
 helpme.viber.com
 helpscout.net
-helpshift.com
 helpx.adobe.com
 hembanken2.danskebank.se
 hemlockbank.com
@@ -15203,7 +15198,6 @@ locationiq.com
 locatorplus.gov
 loccitane.com
 lockurl.com
-locuslabs.com
 lodh.com
 lodihealth.org
 lodz.tvp.pl
@@ -15432,7 +15426,6 @@ m2mbank.ru
 m2u.maybank.co.id
 m365log.com
 m3mi.com
-m5.amap.com
 ma.hide.me
 ma.techrepublic.com
 maasreusel.nl
@@ -15557,7 +15550,6 @@ mamba.ru
 manage.devcenter.microsoft.com
 manage.smarturl.it
 manage.stripe.com
-management.azure.com
 manasquanbank.com
 mandatum.fi
 mandmbank.com
@@ -15593,7 +15585,6 @@ map-mobile-lbsapp.cdn.bcebos.com
 map.baidu.com
 map.daum.net
 map.naver.com
-map.qq.com
 map.snapchat.com
 map2.ssl.hwcdn.net
 mapbox.com
@@ -15732,7 +15723,6 @@ mathias-stiftung.de
 mathilden-hospital.de
 mathildenhospital-buedingen.de
 matlab.mathworks.com
-matomo.org
 matrix-capital.com
 matrix.com.br
 matsuregional.com
@@ -21305,7 +21295,6 @@ scaleway.com
 scality.com
 scan.kaspersky.com
 scan.snapchat.com
-scandit.com
 scanverify.com
 scb-bc.com
 scb.co.th
@@ -21919,7 +21908,6 @@ shop.zaloapp.com
 shopapi.io.mi.com
 shopcredit.com.br
 shopify.com
-shopkick.com
 shopperapproved.com
 shopping.line.me
 shopping.naver.com
@@ -24643,7 +24631,6 @@ trbinance.com
 trbna.com
 trbo.com
 trbsinc.com
-trck.at
 trck.me
 treas.gov
 treasuredata.com
@@ -26966,7 +26953,6 @@ woopra.com
 wooribank.com
 woosh.com
 wootric.com
-wootric.com.herokudns.com
 word.office.naver.com
 wordcounter.io
 wordle.net
