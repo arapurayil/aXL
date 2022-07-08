@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Jul 2022 16:07:04 UTC
+# Last modified: 08 Jul 2022 00:37:22 UTC
 007sites.com
 0emn.com
 0fmm.com
@@ -59,6 +59,7 @@
 3g.qq.com
 3gimg.qq.com
 3guys1hammer.ws
+3proxy.ru
 3x.ro
 4.bp.blogspot.com
 4girlsfingerpaint.com
@@ -92,7 +93,6 @@ a.pomf.cat
 a.pomf.su
 a.pr-cy.ru
 a.realsrv.com
-a.tiles.mapbox.com
 a.uguu.se
 a.wishabi.com
 a1.api.bbc.co.uk
@@ -137,7 +137,6 @@ aax.amazon-adsystem.com
 abload.de
 aboutads.info
 above.com
-abroad.apilocate.amap.com
 abtasty.com
 ac.duckduckgo.com
 accengage.com
@@ -149,7 +148,6 @@ acompli.helpshift.com
 acpbdf.com.br
 acquia.com
 acr0.samsungcloudsolution.com
-acrcloud.com
 action.metaffiliation.com
 activate-sea.adobe.com
 activate-sjc0.adobe.com
@@ -601,7 +599,6 @@ api2.branch.io
 api3.siftscience.com
 apidq.punchh.com
 apien.ldmnq.com
-apilocate.amap.com
 apis.com.br
 apiservices.krxd.net
 apituner.ecbsn.com
@@ -948,7 +945,6 @@ cdngarenanow-a.akamaihd.net
 cdngc.net
 cdnjs.tvpage.com
 cdns.gigya.com
-cdns.us1.gigya.com
 cdnstatic.detik.com
 cds.connatix.com
 cds.h5z9g8y6.hwcdn.net
@@ -1048,7 +1044,6 @@ clownsong.com
 cm.miaozhen.atm.youku.com
 cmail19.com
 cmail20.com
-cmcm.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
 cmp.nextday.media
@@ -1686,7 +1681,6 @@ global.search.xiaomi.net
 global.telemetry.insights.video.a2z.com
 glomex.com
 gloyah.net
-glympse.com
 gm.gds.mmstat.com
 gm.mmstat.com
 gm99.com
@@ -1795,7 +1789,6 @@ heank.nl
 heartbeat.dm.origin.com
 hechenblaikner.at
 hello.heroku.com
-helpshift.com
 heraldm.com
 here.com
 heymistr.com
@@ -2258,7 +2251,6 @@ lnks.gd
 loadercdn.com
 local.adguard.org
 locallogic.co
-locuslabs.com
 lofter.com
 log-tb.sgsnssdk.com
 log-upload-os.hoyoverse.com
@@ -2301,7 +2293,6 @@ m.uczzd.cn
 m.yap.yahoo.com
 m1.fwmrm.net
 m365log.com
-m5.amap.com
 mabaya.com
 mackeeper.com
 macromedia.com
@@ -2320,7 +2311,6 @@ mailchimp.com
 mailerlite.com
 mailfoogae.appspot.com
 mairdumont.com
-management.azure.com
 mandrillapp.com
 manga-news.com
 mangler3.generals.ea.com
@@ -2328,7 +2318,6 @@ mangler4.generals.ea.com
 manhuachi.com
 manifest.auditude.com
 map.baidu.com
-map.qq.com
 map2.ssl.hwcdn.net
 maps.locuslabs.com
 maps.windows.com
@@ -2350,7 +2339,6 @@ maropost.com
 marsflag.com
 mas-ext.amazon.com
 master.cz
-matomo.org
 maxcdn.bootstrapcdn.com
 maysoon.biz
 mazu.3g.qq.com
@@ -2686,7 +2674,6 @@ p.d.0fmm.com
 p.d.0mme.com
 p.d.1enm.com
 p.d.rpts.org
-p.jwpcdn.com
 p.typekit.net
 p.yotpo.com
 p11.techlab-cdn.com
@@ -2970,7 +2957,6 @@ resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
-restapi.amap.com
 resu8.hjfile.cn
 retcode.taobao.com
 rewardsprod.trafficmanager.net
@@ -3072,12 +3058,10 @@ sascdn.com
 sb.scorecardresearch.com
 sbcglobal.net
 sc-static.net
-scandit.com
 scanverify.com
 scene7.com
 scenefz.me
 sched.tdnsv8.com
-schibsted.com
 schibsted.io
 schneevonmorgen.com
 sci.intuit.com
@@ -3172,7 +3156,6 @@ shifen.com
 shinobi.jp
 shodanhq.com
 shop.spreadshirt.com
-shopkick.com
 shopperapproved.com
 shoppy.gg
 shopzilla.com
@@ -3533,7 +3516,6 @@ trafficrouter.io
 traq.li
 trbna.com
 trbo.com
-trck.at
 treasuredata.com
 treehousei.com
 tria.ge
@@ -3786,7 +3768,6 @@ woniu.com
 woodpecker.uc.cn
 woopic.com
 wootric.com
-wootric.com.herokudns.com
 wordstream.com
 worldnow.com
 worldssl.net
