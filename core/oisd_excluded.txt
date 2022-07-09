@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Jul 2022 08:09:11 UTC
+# Last modified: 09 Jul 2022 16:05:47 UTC
 007sites.com
 0emn.com
 0fmm.com
@@ -1657,6 +1657,7 @@ geo.vortex.data.microsoft.com.akadns.net
 geo2.adobe.com
 geo3.ggpht.com
 geocities.jp
+geocomply.com
 geoim.bloomberght.com
 geoip-db.com
 geoip-js.com
