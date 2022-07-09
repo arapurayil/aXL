@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.08
-# Last modified: 08 Jul 2022 16:07:12 UTC
+# Version: 3.07.09
+# Last modified: 09 Jul 2022 00:26:24 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -340,6 +340,7 @@
 55.ru
 550access.com
 55fast.com
+56.com
 58.com
 58pic.com
 5af10.v.fwmrm.net
@@ -442,7 +443,6 @@ a.stat.xiaomi.com
 a.thumbs.redditmedia.com
 a.tiles.mapbox.com
 a.trellocdn.com
-a.uguu.se
 a.union.mi.com
 a.wishabi.com
 a0.fr
@@ -627,6 +627,7 @@ accessbank.az
 accessbanking.com.ar
 accessbankplc.com
 accesscomm.ca
+accessfreevpn.com
 accesshorizon.com
 accesstrade.co.id
 accessus.net
@@ -637,6 +638,7 @@ account.adobe.com
 account.api.here.com
 account.gotinder.com
 account.here.com
+account.herephyshy.info
 account.mi.com
 account.microsoft.com.edgekey.net
 account.np.ac.playstation.net
@@ -4275,6 +4277,8 @@ best-hospital.jp
 best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
+bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -5097,6 +5101,7 @@ bus.ideabank.ua
 buscape.com.br
 busey.com
 busfor.com
+business.adobe.com
 business.faktura.ru
 business.gov
 business.hide.me
@@ -6425,6 +6430,7 @@ click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.mail.medscape.com
 click.member.americanexpress.com
+click.mlsend.com
 click.myctm.canadiantire.ca
 click.mz.simba.taobao.com
 click.policy.farmers.com
@@ -9183,6 +9189,7 @@ ethias-banque.be
 ethikbank-onlinebanking.de
 ethikbank.de
 ethn.io
+ethpool.org
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
 etn.fm
@@ -10007,6 +10014,7 @@ flirtown.de
 flirtown.net
 flirttown.net
 flix360.com
+flixaddict.com
 flixcar.com
 flixcart.com
 flixster.com
@@ -13531,7 +13539,6 @@ io.playstation.com
 ioam.de
 iob.com
 iob.imgur.com
-iobit.com
 iobnet.co.in
 iobsingapore.com
 ioconto.it
@@ -14361,6 +14368,7 @@ ko.wowhead.com
 koblenzer-volksbank.de
 kocbank.com.tr
 kocbank.nl
+kodu.neti.ee
 koe-klinik.de
 koeln-kh-augustinerinnen.de
 kohls.com
@@ -14787,6 +14795,7 @@ lcs.naver.com
 lcut.in
 lds.org
 lds.org.edgekey.net
+le.com
 leadpages.co
 leadpages.net
 leakix.net
@@ -15183,7 +15192,6 @@ loancorp.com.au
 lobby.igamecj.com
 loc.gov
 local.adguard.com
-local.adguard.org
 local.gosi.go.kr
 localbitcoins.com
 localcontent.huffingtonpost.com
@@ -15489,6 +15497,7 @@ mail.coinbase.com
 mail.daum.net
 mail.dcinside.com
 mail.google.com
+mail.hallym.ac.kr
 mail.hostmonster.com
 mail.hulu.com
 mail.linkedin.com
@@ -16088,6 +16097,7 @@ mem.gfx.ms
 member.hide.me
 member.stumbleupon.com
 memberdirect.net
+members.iinet.net.au
 members.medium.com
 members.tripod.com
 membersequity.com.au
@@ -18919,6 +18929,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -20730,6 +20741,7 @@ rolfestatebank.com
 rollbar.com
 rollingstone.com
 romexterra.ro
+roms-download.com
 romsmania.com
 roosterteeth.com
 ros.gov.uk
@@ -21445,6 +21457,7 @@ se.wikipedia.com
 sea-friends.com
 sea.battle.net
 sea.ign.com
+sea.net.edu.cn
 sea1.cdn.survey.medallia.com
 seadform.net
 seal.digicert.com
@@ -21666,7 +21679,6 @@ segue.se
 sejda.com
 sekkiel.de
 selbygeneralhospital.com
-selcdn.ru
 seldgtm1.sonymobile.com
 select.gotinder.com
 selenium-release.storage.googleapis.com
@@ -23164,7 +23176,6 @@ startmail.com
 startpage.com
 startpagina.nl
 startup.mobile.yandex.net
-stash.com
 stat-dv.mtsbank.ru
 stat.10jqka.com.cn
 stat.download.xunlei.com
@@ -23484,7 +23495,6 @@ store.coinbase.com
 store.crunchyroll.com
 store.gematsu.com
 store.hide.me
-store.iobit.com
 store.kaspersky.com
 store.lg.com
 store.line.me
@@ -24325,6 +24335,7 @@ ticket.uz.gov.ua
 ticketland.ru
 tid.canon.com
 tidal.com
+tidebuy.com
 tie.247-inc.net
 tier1net.com
 tier2.ios.skypeassets.com
@@ -24582,6 +24593,7 @@ tracking.nw.de
 tracking.publicidees.com
 tracking.s24.com
 tracking.surveycheck.com
+tracking.truthfinder.com
 trackingthetrackers.com
 trackitonline.ru
 trackjs.com
@@ -25362,6 +25374,7 @@ userede.com.br
 userguide-files.sonymobile.com
 userguide.sonymobile.com
 userid.xiaomi.com
+userimage8.360doc.com
 userleap.com
 userplane.com
 userreplay.net
@@ -26862,7 +26875,6 @@ winterbacher-bank.de
 winterhillbank.com
 winterlinger-bank.de
 wintrust.com
-winzip.com
 wip3.adobe.com
 wipe.de
 wir.ch
@@ -27355,7 +27367,6 @@ xqqyu.mjt.lu
 xrea.com
 xrl.us
 xseno.nl
-xsph.ru
 xsts.auth.xboxlive.com
 xt3.me
 xtgem.com

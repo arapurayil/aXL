@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Jul 2022 16:07:12 UTC
+# Last modified: 09 Jul 2022 00:26:24 UTC
 007sites.com
 0emn.com
 0fmm.com
@@ -1447,7 +1447,6 @@ estaticos.tvn.cl
 estream.to
 esurvey.stdd.kerala.gov.in
 et.tidal.com
-ethhex.com
 ethn.io
 ethpool.org
 etl.tindersparks.com
@@ -2190,6 +2189,7 @@ klclick.com
 klclick1.com
 klclick2.com
 klclick3.com
+klevu.com
 knet.cn
 ko.wowhead.com
 kodu.neti.ee
@@ -2276,7 +2276,6 @@ log.ys7.com
 log.zoom.us
 logentries.com
 loggly.com
-login-live.com-s02.net
 loginfra.com
 loginradius.com
 logrocket.com
@@ -2836,7 +2835,6 @@ practivate.adobe.com
 prd.ads.aws.fwmrm.net
 prd.jwpltx.com
 prebid.adnxs.com
-premium57.web-hosting.com
 president.gov.by
 prevelo.com
 prf.hn
