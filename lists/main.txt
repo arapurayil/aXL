@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.10
-# Last modified: 10 Jul 2022 00:36:32 UTC
+# Last modified: 10 Jul 2022 08:07:17 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -96,6 +96,7 @@
 100webspace.com
 100webspace.net
 100x100banco.com
+101010.pl
 101internet.co.uk
 102.112.2o7.net
 102.122.2o7.net
@@ -340,7 +341,6 @@
 55.ru
 550access.com
 55fast.com
-56.com
 58.com
 58pic.com
 5af10.v.fwmrm.net
@@ -627,7 +627,6 @@ accessbank.az
 accessbanking.com.ar
 accessbankplc.com
 accesscomm.ca
-accessfreevpn.com
 accesshorizon.com
 accesstrade.co.id
 accessus.net
@@ -638,7 +637,6 @@ account.adobe.com
 account.api.here.com
 account.gotinder.com
 account.here.com
-account.herephyshy.info
 account.mi.com
 account.microsoft.com.edgekey.net
 account.np.ac.playstation.net
@@ -4277,8 +4275,6 @@ best-hospital.jp
 best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
-bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -6430,7 +6426,6 @@ click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.mail.medscape.com
 click.member.americanexpress.com
-click.mlsend.com
 click.myctm.canadiantire.ca
 click.mz.simba.taobao.com
 click.policy.farmers.com
@@ -9184,11 +9179,11 @@ eteba.ro
 etebac.com
 etf.com
 ethermine.org
+ethhex.com
 ethias-banque.be
 ethikbank-onlinebanking.de
 ethikbank.de
 ethn.io
-ethpool.org
 etl.tindersparks.com
 etl.xlmc.sec.miui.com
 etn.fm
@@ -10340,6 +10335,7 @@ fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
 fra-01.braze.eu
+fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -13493,6 +13489,7 @@ internetzwerk.net
 internode.on.net
 interpark.com
 interserver.net
+interspar.at
 intervestnatbank.com
 intervista.youdao.com
 intesasanpaolo.com
@@ -14369,7 +14366,6 @@ ko.wowhead.com
 koblenzer-volksbank.de
 kocbank.com.tr
 kocbank.nl
-kodu.neti.ee
 koe-klinik.de
 koeln-kh-augustinerinnen.de
 kohls.com
@@ -15497,7 +15493,6 @@ mail.coinbase.com
 mail.daum.net
 mail.dcinside.com
 mail.google.com
-mail.hallym.ac.kr
 mail.hostmonster.com
 mail.hulu.com
 mail.linkedin.com
@@ -16097,7 +16092,6 @@ mem.gfx.ms
 member.hide.me
 member.stumbleupon.com
 memberdirect.net
-members.iinet.net.au
 members.medium.com
 members.tripod.com
 membersequity.com.au
@@ -18929,7 +18923,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -19433,6 +19426,7 @@ premierbnk.com
 premierleague.com
 premium.linkedin.com
 premium.soundcloud.com
+premium57.web-hosting.com
 preprod.hitbtc.com
 preprod.vudu.com
 presence-gcp-asia-south1.truecaller.com
@@ -21456,7 +21450,6 @@ se.wikipedia.com
 sea-friends.com
 sea.battle.net
 sea.ign.com
-sea.net.edu.cn
 sea1.cdn.survey.medallia.com
 seadform.net
 seal.digicert.com
@@ -24334,7 +24327,6 @@ ticket.uz.gov.ua
 ticketland.ru
 tid.canon.com
 tidal.com
-tidebuy.com
 tie.247-inc.net
 tier1net.com
 tier2.ios.skypeassets.com
@@ -24592,7 +24584,6 @@ tracking.nw.de
 tracking.publicidees.com
 tracking.s24.com
 tracking.surveycheck.com
-tracking.truthfinder.com
 trackingthetrackers.com
 trackitonline.ru
 trackjs.com
