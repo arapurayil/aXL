@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Jul 2022 08:07:17 UTC
+# Last modified: 10 Jul 2022 16:06:49 UTC
 007sites.com
 0emn.com
 0fmm.com
@@ -3523,6 +3523,7 @@ trib.al
 tritondigital.com
 trk.email.dynect.net
 trk.klclick.com
+trk.klclick1.com
 trk.pinterest.com
 trojan-killer.net
 trowel.twitch.tv
