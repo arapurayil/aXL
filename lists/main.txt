@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.11
-# Last modified: 11 Jul 2022 08:08:54 UTC
+# Last modified: 11 Jul 2022 16:12:49 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -96,7 +96,6 @@
 100webspace.com
 100webspace.net
 100x100banco.com
-101010.pl
 101internet.co.uk
 102.112.2o7.net
 102.122.2o7.net
@@ -275,7 +274,6 @@
 3.tw.pool.ntp.org
 3.ubuntu.pool.ntp.org
 3.us.pool.ntp.org
-300hu.com
 31.media.tumblr.com
 356bank.com
 360.cn
@@ -361,7 +359,6 @@
 7.ly
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 70i.net
-71edge.com
 76.gd
 76.org
 77.ai
@@ -2640,7 +2637,6 @@ api.teams.skype.com
 api.tech26.de
 api.telegram.org
 api.termius.com
-api.themoviedb.org
 api.thetvdb.com
 api.tiles.mapbox.com
 api.today.line.me
@@ -7545,6 +7541,7 @@ dadparty.com
 daegubank.co.kr
 daemon-tools.cc
 daffodilvarsity.edu.bd
+daggerhashimoto.eu.nicehash.com
 dahsing.com.hk
 dai.ly
 dailycaller.com
@@ -10342,7 +10339,6 @@ fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
 fra-01.braze.eu
-fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -13371,7 +13367,6 @@ input.mozilla.org
 inputdirector.com
 inq.com
 inquisition.goguardian.com
-ins-2ybret5v.ias.tencent-cloud.net
 ins.jr.mi.com
 inscname.net
 inselklinik-fehmarn.de
@@ -14648,7 +14643,6 @@ kyffhaeusersparkasse.de
 kykyryza.ru
 kyongnambank.co.kr
 kz.shinhanglobal.com
-l-0014.l-msedge.net
 l-k.be
 l-msedge.net
 l-xda.xposed.info
@@ -22136,7 +22130,6 @@ skynet.be
 skyonline.net
 skype.com
 skypeassets.com
-skypedataprdcolwus06.cloudapp.net
 skyrock.com
 skywebusa.com
 sl-vb.de
@@ -24729,7 +24722,6 @@ trustpilot.com
 try.abtasty.com
 trytechnical.com
 ts.my
-ts.qq.com
 ts.seb.se
 tsa.gov
 tsb.co.nz
