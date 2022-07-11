@@ -2,11 +2,10 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Jul 2022 00:31:18 UTC
+# Last modified: 11 Jul 2022 08:08:54 UTC
 007sites.com
 0emn.com
 0fmm.com
-101010.pl
 102.112.2o7.net
 102.122.2o7.net
 10gbfreehost.com
@@ -49,7 +48,6 @@
 2ip.ua
 2mdn.net
 2o7.net
-300hu.com
 31.media.tumblr.com
 360safe.com
 3975.com
@@ -71,7 +69,6 @@
 5af10.v.fwmrm.net
 5z8.info
 7.ly
-71edge.com
 79423.analytics.edgekey.net
 7b935.v.fwmrm.net
 7eer.net
@@ -585,7 +582,6 @@ api.sec.miui.com
 api.setting.intl.miui.com
 api.solvemedia.com
 api.telegram.org
-api.themoviedb.org
 api.traq.li
 api.tv.sohu.com
 api.tvpage.com
@@ -1226,6 +1222,7 @@ d5nxst8fruw4z.cloudfront.net
 da.mmarket.com
 dadata.ru
 dadparty.com
+daggerhashimoto.eu.nicehash.com
 dailydot.com
 damoh.schneevonmorgen.com
 damoh.spiegel.de
@@ -1590,7 +1587,6 @@ fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
 fra-01.braze.eu
-fra1.digitaloceanspaces.com
 frameip.com
 frankfurt1.perfect-privacy.com
 frankfurt2.perfect-privacy.com
@@ -2061,7 +2057,6 @@ ink1001.com
 inmoment.com
 inq.com
 inquisition.goguardian.com
-ins-2ybret5v.ias.tencent-cloud.net
 inside-graph.com
 insight.rapid7.com
 insightexpress.com
@@ -2202,7 +2197,6 @@ kqzyfj.com
 krxd.net
 kryptoslogic.com
 ksmobile.com
-l-0014.l-msedge.net
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -3205,7 +3199,6 @@ situacaocadastral.info
 skidrow-games.com
 skimlinks.com
 skimresources.com
-skypedataprdcolwus06.cloudapp.net
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
 sleeknotestaticcontent.sleeknote.com
@@ -3556,7 +3549,6 @@ truste.com
 trustedsite.com
 try.abtasty.com
 trytechnical.com
-ts.qq.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 ttgtmedia.com
 tube8.com
@@ -3608,7 +3600,6 @@ up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
 update.pan.baidu.com
-upgrade.xl9.xunlei.com
 upload-4ever.com
 upload.cc
 uplynk.com
@@ -3654,6 +3645,7 @@ utility.rogersmedia.com
 utopia-suites.com
 uzreklam.com
 v.fwmrm.net
+v.ht
 v.shopify.com
 v.w-x.co
 v10-win.vortex.data.microsoft.com.akadns.net
