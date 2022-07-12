@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Jul 2022 16:12:49 UTC
+# Last modified: 12 Jul 2022 00:32:47 UTC
 007sites.com
 0catch.com
 0emn.com
@@ -2967,6 +2967,7 @@ perimeterx.net
 perr.h-cdn.com
 pf.intuit.com
 phaetus.com
+pharma-shop.tn
 phatthalung.go.th
 phicdn.net
 phonearena.com
