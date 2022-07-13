@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Jul 2022 08:07:42 UTC
+# Last modified: 13 Jul 2022 16:07:01 UTC
 007sites.com
 0catch.com
 0emn.com
@@ -457,7 +457,6 @@ adsp.xunlei.com
 adswizz.com
 adtech.redventures.io
 adtechus.com
-adtidy.net
 adtidy.org
 adtrackers.net
 adtraction.com
@@ -666,7 +665,6 @@ appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
 apps.game.qq.com
-apps.nexus.bazaarvoice.com
 apps.skype.com
 appsflyer.com
 appspot-preview.l.google.com
@@ -707,7 +705,6 @@ atspace.com
 attraqt.com
 audev.zeit.de
 audid-api.taobao.com
-audio-fa.spotify.com
 audio4-ak.spotify.com.edgesuite.net
 auditude.com
 auscanforum.com
@@ -739,7 +736,6 @@ b.scorecardresearch.com
 b.stats.paypal.com
 b.vimeocdn.com
 b.wishabi.com
-b02.black.ndmdhs.com
 b13.com
 b23.ru
 b2b.angieslist.com
@@ -775,6 +771,7 @@ bentonow.com
 best.aliexpress.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -876,7 +873,6 @@ buysub.com
 buzzador.com
 buzzmein.com
 bwin.com
-bxczchdxynw.com
 by.uservoice.com
 byet.org
 byside.com
@@ -1354,7 +1350,6 @@ deals.macupdate.com
 dedecms.com
 dedicated.domains
 delivery.acm.org
-delivery.tacticalrepublic.com
 delivery.vidible.tv
 delivery04.dhe.ibm.com
 demdex.net
@@ -1425,7 +1420,6 @@ doubleclick.net
 down.360safe.com
 download-free-games.com
 download.wegame.qq.com
-downloadanysong.com
 downloadtime.org
 downmobile.kugou.com
 dox.abv.bg
@@ -1522,6 +1516,7 @@ emarsys.net
 embed.comicbook.com
 embed.ly
 embed.mystream.to
+embed.spotify.com
 embed.windy.com
 embed.wistia.com
 emjcd.com
@@ -1726,7 +1721,6 @@ formcrafts.com
 forpci42.actonsoftware.com
 forpci61.actonsoftware.com
 forter.com
-forum.hiveos.farm
 fota5.adups.com
 fota5db.adups.com
 fota5p.adups.com
@@ -1774,7 +1768,6 @@ g.msn.com
 g11v.prd.ads.aws.fwmrm.net
 g17media.com
 g3.s.fwmrm.net
-gala.spiceworks.com
 gall.dcinside.com
 game-portal.gameloft.com
 game.baidu.com
@@ -1782,7 +1775,6 @@ game.qq.com
 game.weibo.com
 game.weixin.qq.com
 game.xiaomi.com
-gamefaqs.akamaized.net
 gamehouse.com
 gameone.com
 gametame.com
@@ -1933,7 +1925,6 @@ guitarforge.it
 gulf.moneroocean.stream
 gunosy.com
 gvt2.com
-gwx.windows.com
 gynvael.coldwind.pl
 gzhls.at
 h-citicards.online-metrix.net
@@ -2718,6 +2709,7 @@ msgs.jp
 msh.amazon.co.uk
 mss.handmark.com
 mssl.fwmrm.net
+msuac.edu.mn
 mudmonster.org
 multiscreen.samsung.com
 multiscreensite.com
@@ -2780,7 +2772,6 @@ newsbreak.com
 newsletter.bdnews24.com
 newslink.reuters.com
 newtonpaiva.br
-nextag.com
 nextgen.guardianapps.co.uk
 nextplatform.com
 nexus.ensighten.com
@@ -2976,6 +2967,7 @@ patatap.com
 pavtube.com
 pavv.co.kr
 paydirekt-de01.wt-eu02.net
+paypal-carregamento.pt
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
@@ -2990,6 +2982,7 @@ pennynetwork.com
 people-pa.googleapis.com
 pepperjamnetwork.com
 pepsico.com.cn
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3382,7 +3375,6 @@ scorecardresearch.com.edgekey.net
 scr.wfcdn.de
 screenshots.goguardian.com
 scribol.com
-scrippsnetworks.com
 script.ioam.de
 scripts.kataweb.it
 scroll.com
@@ -3678,7 +3670,6 @@ swift.com
 sy.ameblo.jp
 symcb.com
 symcd.com
-syndicaster.tv
 syndication.exosrv.com
 syndication.realsrv.com
 syndication.twimg.com
@@ -3712,7 +3703,6 @@ t5.baidu.com
 tabac-info-service.fr
 taboola.com
 taboola.map.fastly.net
-tacticalrepublic.com
 tag.aticdn.net
 tag.aticdn.net.edgekey.net
 tag.getdrip.com
@@ -3919,7 +3909,6 @@ ucoz.com
 ucoz.net
 ucweb.com
 udec.cl
-udimg.com
 ue.flipboard.com
 ui.skype.com
 uib.ff.avast.com
@@ -4162,7 +4151,6 @@ wpc.v0cdn.net
 wpdigital.net
 wpengine.com
 ws-adv.ais.co.th
-ws-comments.ign.com
 ws-eu.amazon-adsystem.com
 ws-fe.amazon-adsystem.com
 ws-fe.assoc-amazon.com
@@ -4259,7 +4247,6 @@ zee.cws.conviva.com
 zenaps.com
 zencdn.net
 zeptolab.com
-zesdak-mounde.tk
 zh-cn.shenyun.com
 ziffdavis.com
 ziffdavisinternational.com
