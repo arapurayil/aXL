@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Jul 2022 16:06:56 UTC
+# Last modified: 13 Jul 2022 00:31:55 UTC
 007sites.com
 0catch.com
 0emn.com
@@ -729,7 +729,6 @@ awin.com
 awin1.com
 aws.com
 awstrack.me
-ayumilove.net
 az416426.vo.msecnd.net
 azabu-u.ac.jp
 b.bdstatic.com
@@ -1049,7 +1048,6 @@ ci301.actonsoftware.com
 ci42.actonsoftware.com
 ci61.actonsoftware.com
 cidadehoje.pt
-cinnamonspiceandeverythingnice.com
 cint.com
 cintnetworks.com
 cision.com
@@ -1177,7 +1175,6 @@ connect.scroll.com
 connect.zebra.com
 connectbot.org
 connects.ch
-conrad.fr
 consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
@@ -2274,7 +2271,6 @@ internal.unity3d.com
 internet.apps.samsung.com
 investingapp.net
 investingchannel.com
-invisioncommunity.co.uk
 invoca.net
 involve.asia
 inx.lv
@@ -2427,7 +2423,6 @@ leanplum.com
 ledgernote.com
 legalterms.cbsinteractive.com
 lelibrair.fr
-lemondeinformatique.fr
 lemonparty.biz
 lemonparty.org
 levada.ru
@@ -2695,7 +2690,6 @@ moensstoffering.nl
 mojpieknyogrod.pl
 monero.how
 moneroocean.stream
-money.pl
 moneyplatform.biz
 monitis.com
 monitor.azure.com
@@ -3253,7 +3247,6 @@ rest.iad-03.braze.com
 resu8.hjfile.cn
 retcode.taobao.com
 return.to
-revistaforum.com.br
 rewardsprod.trafficmanager.net
 rezync.com
 rfk.biglots.com
@@ -3395,6 +3388,7 @@ scripts.kataweb.it
 scroll.com
 scrollbelow.com
 sdad.guru
+sdb.amazonaws.com
 sdk-resources.blinkreceipt.com
 sdk.asapp.com
 sdk.fra-01.braze.eu
@@ -3459,7 +3453,6 @@ server.iad.liveperson.net
 service.game-mode.net
 services.brightline.tv
 services.zam.com
-servimg.com
 serving-sys.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
@@ -3774,7 +3767,6 @@ test.com
 test.quantcast.mgr.consensu.org
 texashomebase.com
 thaiticketmajor.com
-the-philosophy.com
 thealtening.com
 theannoyingsite.com
 thebrighttag.com
@@ -4127,7 +4119,6 @@ weus2watcab02.blob.core.windows.net
 wgiftcard.com
 whatfinger.com
 whatismyip.akamai.com
-whatreallyhappened.com
 whipcrack.org
 whisk.com
 whoisprivacyprotect.com
@@ -4198,7 +4189,6 @@ www3.webhostingtalk.com
 www7.cbox.ws
 wwwimg.roku.com
 wxapp.lvyadx.cn
-wykop.pl
 x.co
 x.dpstatic.com
 x0.ifengimg.com
@@ -4279,7 +4269,6 @@ zmctrack.net
 zombo.com
 zopim.com
 ztgame.com
-zupimages.net
 zverokruh-shop.cz
 zwyr157wwiu6eior.com
 zynga.com
