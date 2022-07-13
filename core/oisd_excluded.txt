@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Jul 2022 00:31:55 UTC
+# Last modified: 13 Jul 2022 08:07:42 UTC
 007sites.com
 0catch.com
 0emn.com

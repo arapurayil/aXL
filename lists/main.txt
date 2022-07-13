@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.13
-# Last modified: 13 Jul 2022 00:31:55 UTC
+# Last modified: 13 Jul 2022 08:07:42 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3358,7 +3358,6 @@ axisbank.co.in
 axisbank.com
 axs.com
 ayt.fr
-ayumilove.net
 ayurvedichospital.com
 az.gravatar.com
 az416426.vo.msecnd.net
@@ -6334,7 +6333,6 @@ cimbclicks.com.my
 cimbislamic.com
 cimo.es
 cimoney.com.ky
-cinnamonspiceandeverythingnice.com
 cint.com
 cintnetworks.com
 cio.gov
@@ -7009,7 +7007,6 @@ connectsvcs.net
 connectto.net
 connectunet.com
 connexstar.com
-conrad.fr
 consensu.org
 consent-manager-events.ogury.io
 consent.cmp.oath.com
@@ -13663,7 +13660,6 @@ investorplace.com
 investorwords.com
 investpay.ru
 invisioncic.com
-invisioncommunity.co.uk
 invite.integration.viber.com
 invite.twitch.tv
 invite.viber.com
@@ -14972,7 +14968,6 @@ lelibrair.fr
 lemde.fr
 lemonade.com
 lemonde.fr
-lemondeinformatique.fr
 lemonparty.biz
 lemonparty.org
 lens-storage.storage.googleapis.com
@@ -16754,7 +16749,6 @@ moneta.ru
 money.comepay.ru
 money.idram.am
 money.mail.ru
-money.pl
 money.yandex.ru
 moneymail.ru
 moneyman.kz
@@ -20795,7 +20789,6 @@ reviews.in.samsung.com
 reviews.kaspersky.com
 reviews.pt.samsung.com
 revinate.com
-revistaforum.com.br
 revolut.com
 revue.com
 rewards.xbox.com
@@ -21637,6 +21630,7 @@ scu.org.tw
 sd-ccdc.huawei.com
 sda.dk
 sdad.guru
+sdb.amazonaws.com
 sdba.com
 sdbmobilec.sdb.lk
 sdk-bockum-hoevel.de
@@ -21984,7 +21978,6 @@ services.syndicaster.tv
 services.triton.net
 services.vip.symantec.com
 services.zam.com
-servimg.com
 serving-sys.com
 servint.com
 servint.net
@@ -24437,7 +24430,6 @@ the-fidelity.com
 the-home-depot-ca.pxf.io
 the-housingbank.com
 the-housingbank.com.jo
-the-philosophy.com
 the.earth.li
 the1st.com
 thealtening.com
@@ -27009,7 +27001,6 @@ whatfinger.com
 whatis.snapchat.com
 whatismyip.akamai.com
 whatismyipaddress.com
-whatreallyhappened.com
 whatsapp.com
 whatsapp.net
 whatsmyip.org
@@ -27957,7 +27948,6 @@ zuboo.net
 zuercherlandbank.ch
 zugerkb.ch
 zulily.com
-zupimages.net
 zverokruh-shop.cz
 zvezabank.at
 zwift.com
