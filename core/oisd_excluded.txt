@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Jul 2022 00:37:18 UTC
+# Last modified: 14 Jul 2022 08:09:14 UTC
 007sites.com
 0catch.com
 0emn.com
@@ -2936,6 +2936,7 @@ pagead46.l.doubleclick.net
 pages.info.exclusive-networks.com
 pages02.net
 pages03.net
+pageviewp.icbc.com.cn
 painolympics.info
 painolympics.org
 pair.com
@@ -3138,6 +3139,7 @@ pumppazh.com
 purch.com
 push.notifica.re
 push.rollout.io
+push.yandex.ru
 pushbullet.com
 pusher.com
 pusherapp.com
@@ -4186,6 +4188,7 @@ x3-predictor.goguardian.com
 x6img.com
 xapi.ozon.ru
 xapi.xfinity.com.edgekey.net
+xcr.comcast.net
 xg4ken.com
 xhcom.edu.cn
 xhost.ro
