@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.13
-# Last modified: 13 Jul 2022 16:07:01 UTC
+# Version: 3.07.14
+# Last modified: 14 Jul 2022 00:37:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1177,7 +1177,6 @@ adsp.xunlei.com
 adswizz.com
 adtech.redventures.io
 adtechus.com
-adtidy.net
 adtidy.org
 adtrackers.net
 adtraction.com
@@ -4305,6 +4304,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -5185,7 +5185,6 @@ bwmhosting.huawei.com
 bwp.techrepublic.com
 bws.bitpay.com
 bwts.com.au
-bxczchdxynw.com
 bxl.me
 by.uservoice.com
 byblosbank.com.lb
@@ -7848,7 +7847,6 @@ delicious.com
 deliver.vkcdnservice.com
 delivery.acm.org
 delivery.rakuten.co.jp
-delivery.tacticalrepublic.com
 delivery.vidible.tv
 delivery04.dhe.ibm.com
 dell.com
@@ -8380,7 +8378,6 @@ download1.operacdn.com
 download2.nirsoft.net
 download2.uploadocean.com
 download3.nirsoft.net
-downloadanysong.com
 downloadcenter.samsung.com
 downloadconfiguratorcloud.sonymobile.com
 downloadcrew.com
@@ -10337,7 +10334,6 @@ forum.doom9.org
 forum.fr.playstation.com
 forum.gamevn.com
 forum.hitbtc.com
-forum.hiveos.farm
 forum.huawei.com
 forum.kaspersky.com
 forum.kissanime.com
@@ -10707,7 +10703,6 @@ gacollector.l.google.com
 gadesh.com
 gadsdenregional.com
 gaiaonline.com
-gala.spiceworks.com
 galandsmc.org
 galaxy99.net
 gall.dcinside.com
@@ -10735,7 +10730,6 @@ game.weibo.com
 game.weixin.qq.com
 game.xiaomi.com
 gamecopyworld.click
-gamefaqs.akamaized.net
 gamehouse.com
 gamekult.com
 gamelist.api.playstation.com
@@ -11689,7 +11683,6 @@ gwapi.zee5.com-v2.edgekey.net
 gwhospital.com
 gwk.nl
 gws.sauberbank.com
-gwx.windows.com
 gwynedd.gov.uk
 gwyneddvethospital.com
 gyazo.com
@@ -16913,6 +16906,7 @@ msport.gov.pl
 mss-offermgmt.modpim.com
 mss.handmark.com
 mssl.fwmrm.net
+msuac.edu.mn
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -17541,7 +17535,6 @@ nexo.io
 next.daisuki.net
 next.exchange
 next.me
-nextag.com
 nextbank.com.tw
 nextbank.dk
 nextdns.io
@@ -18974,6 +18967,7 @@ paymo.ru
 paymybills.com
 payonlinesystem.com
 payouts.payoneer.com
+paypal-carregamento.pt
 paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
@@ -19103,6 +19097,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -21613,7 +21608,6 @@ scribe.logs.roku.com
 scribol.com
 scridb.com
 scrippsbank.com
-scrippsnetworks.com
 script.google.com
 script.googleapis.com
 script.ioam.de
@@ -24135,7 +24129,6 @@ taboola.map.fastly.net
 tabunghaji.gov.my
 tabzi.com
 tac.blog.naver.com
-tacticalrepublic.com
 tag.aticdn.net
 tag.aticdn.net.edgekey.net
 tag.blog.naver.com
@@ -27864,7 +27857,6 @@ zero.facebook.com
 zero.wikipedia.com
 zerodot1.gitlab.io
 zerohedge.com
-zesdak-mounde.tk
 zeustracker.abuse.ch
 zh-cn.about.flipboard.com
 zh-cn.shenyun.com
