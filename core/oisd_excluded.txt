@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Jul 2022 16:09:37 UTC
+# Last modified: 15 Jul 2022 00:37:57 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -718,7 +718,6 @@ bentonow.com
 best.aliexpress.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -2736,7 +2735,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
