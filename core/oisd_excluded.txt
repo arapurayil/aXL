@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Jul 2022 00:37:57 UTC
+# Last modified: 15 Jul 2022 08:08:47 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1521,6 +1521,7 @@ firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 fireflyengagement.com
 fitanalytics.com
+fivethirtyeight.com
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 flbag.net
@@ -3820,7 +3821,6 @@ x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
 xapi.ozon.ru
 xapi.xfinity.com.edgekey.net
-xcr.comcast.net
 xg4ken.com
 xhcom.edu.cn
 xinjiangpolicefiles.org
