@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Jul 2022 00:35:07 UTC
+# Last modified: 16 Jul 2022 08:07:10 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -719,7 +719,6 @@ bentonow.com
 best.aliexpress.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1026,6 +1025,7 @@ clickserve.dartsearch.net
 clicktale.net
 clicktale.net.edgekey.net
 clien.net
+client-event-reporter.twitch.tv
 clientconfig.passport.net
 clients.l.google.com
 clients1.google.com
@@ -1615,6 +1615,7 @@ g.alicdn.com
 g.doubleclick.net
 g.ezoic.net
 g.msn.com
+g10.s.fwmrm.net
 g11v.prd.ads.aws.fwmrm.net
 g17media.com
 g3.s.fwmrm.net
@@ -1662,6 +1663,7 @@ geolocation-db.com
 geolocation.daznservices.com
 geolocation.onetrust.com
 georiot.com
+geschenkidee-dk.arc.epoq.de
 get-express-vpn.com
 get.x-link.pl
 getadmiral.com
@@ -2737,7 +2739,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3721,6 +3722,7 @@ wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 wallpapers.com
 warframe.com
+watch-jav.com
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 wayin.com

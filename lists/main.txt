@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.16
-# Last modified: 16 Jul 2022 00:35:07 UTC
+# Last modified: 16 Jul 2022 08:07:10 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4003,6 +4003,7 @@ bartowcountybank.com
 bas-info.ch
 base64decode.org
 basecamp.com
+bashupload.com
 basisbank.dk
 basketbuild.com
 bassandequitable.com.au
@@ -4263,6 +4264,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -5962,6 +5964,7 @@ century-bank.com
 centurybankfl.com
 centurylink.com
 cepteteb.com.tr
+cerberusapp.com
 ceredigion.gov.uk
 ceres.org.au
 ceros.com
@@ -9027,7 +9030,6 @@ entitlement.auth.adobe.com
 entpsz.alipay.com
 entrepreneur.com
 entry-at.line.me
-entrypoint.ops.sparkpool.com
 envirobank.org
 eo.nl
 eo.wikipedia.com
@@ -9991,7 +9993,6 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
-flow.page
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
@@ -11451,7 +11452,6 @@ groups.google.com
 groups.tnt-ea.com
 growingio.com
 growingup.de
-growth-pa.googleapis.com
 growth.pusher.com
 grp02.trc.ashiato.rakuten.co.jp
 grupeer.com
@@ -11555,6 +11555,7 @@ gyazo.com
 gyggs.com
 gynvael.coldwind.pl
 gz-lb1.internet.spanner.alipaydns.com
+gzhls.at
 h-cdn.com
 h-citicards.online-metrix.net
 h-homedepot.online-metrix.net
@@ -15639,7 +15640,6 @@ marketing-stage.adobe.com
 marketing.adobe.com
 marketing.etorostatic.com
 marketing.hostgator.com
-marketing.net.idealo-partner.com
 marketing.tllms.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
@@ -17806,6 +17806,7 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
+objectstorage.eu-marseille-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
@@ -18365,6 +18366,7 @@ oschadnybank.com
 oscp.apple.com
 osgv.de
 osha.gov
+oshi.at
 oshrc.gov
 osint.bambenekconsulting.com
 oskolbank.ru
@@ -18768,7 +18770,6 @@ paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
 paypal-nakit.com
-paypal-opladen.be
 paypal-topup.ee
 paypal.boomkat.com
 paypal.ca
@@ -18892,6 +18893,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
