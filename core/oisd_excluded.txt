@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Jul 2022 16:06:32 UTC
+# Last modified: 16 Jul 2022 00:35:07 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -701,6 +701,7 @@ bannerconnect.com
 bannertrack.net
 barbadostoday.bb
 baremetrics.com
+bashupload.com
 bat.bing.com
 batch.com
 bc.marfeel.com
@@ -718,6 +719,7 @@ bentonow.com
 best.aliexpress.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -941,6 +943,7 @@ cdurable.info
 cedexis.com
 cedexis.net
 cellar-c2.services.clever-cloud.com
+cerberusapp.com
 ceres.org.au
 ceros.com
 certona.net
@@ -1403,7 +1406,6 @@ enova.nl
 ensighten.com
 enter-system.com
 entrepreneur.com
-entrypoint.ops.sparkpool.com
 ep00.epimg.net
 epidm.edgesuite.net
 epizy.com
@@ -1532,7 +1534,6 @@ flirt.com
 flix360.com
 flixaddict.com
 flocktory.com
-flow.page
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -1742,7 +1743,6 @@ greenheartmed.org
 gremimedia.pl
 group-ib.ru
 groupon.pl
-growth-pa.googleapis.com
 grupeer.com
 gs.statcounter.com
 gscounters.us1.gigya.com
@@ -1763,6 +1763,7 @@ guitarforge.it
 gunosy.com
 gvt2.com
 gynvael.coldwind.pl
+gzhls.at
 h-citicards.online-metrix.net
 h-homedepot.online-metrix.net
 h-intuit.online-metrix.net
@@ -2178,7 +2179,6 @@ kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
 kisshentai.net
-kiwifarms.net
 klaviyo.com
 klclick.com
 klclick1.com
@@ -2204,6 +2204,7 @@ l3.evidon.com
 lads.myspacecdn.com
 lapauseyogachaud.com
 launches.appsflyer.com
+launchpadlibrarian.net
 laureus.com
 lb.production-public.tubi.io
 lcprd1.samsungcloudsolution.net
@@ -2340,7 +2341,6 @@ marinsm.com
 mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
-marketing.net.idealo-partner.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
 marketingplatform.google.com
@@ -2589,6 +2589,7 @@ o.ss2.us
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
+objectstorage.eu-marseille-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 ocsp.apple.com
 ocsp.godaddy.com
@@ -2660,6 +2661,7 @@ orientaltrading.com
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
+oshi.at
 ospserver.net
 otn.samsungcloudcdn.com
 otnprd10.samsungcloudsolution.net
@@ -2724,7 +2726,6 @@ pavv.co.kr
 paydirekt-de01.wt-eu02.net
 paypal-carregamento.pt
 paypal-customerfeedback.com
-paypal-opladen.be
 pbsiddhartha.ac.in
 pcekspert.com
 pcrisk.com
@@ -2736,6 +2737,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3020,6 +3022,7 @@ s.shopify.com
 s.thebrighttag.com
 s.toutiao.com
 s.vi-serve.com
+s.w-x.co
 s.w.org
 s.youtube.com
 s.ytimg.com
