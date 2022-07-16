@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Jul 2022 08:07:10 UTC
+# Last modified: 16 Jul 2022 16:05:29 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1155,6 +1155,7 @@ ctrip.com
 cts.businesswire.com
 cts.vresp.com
 cuci.nl
+cumbancha.de
 cur.lv
 curalate.com
 curalate.info
@@ -1488,7 +1489,6 @@ extole.io
 extratorrent.ag
 extratorrent.cc
 extreme-ip-lookup.com
-eye.swfchan.com
 ezoic.net
 f-log-at.grammarly.io
 f.wishabi.net
@@ -1713,6 +1713,7 @@ goatse.ru
 goatsegirl.org
 gocarrot.com
 goldbach.com
+goldenline.pl
 goliath.bi.miniclippt.com
 gooddata.com
 google-analytics.com
@@ -1817,7 +1818,6 @@ hit.gemius.pl
 hit.interia.pl
 hit.stat24.com
 hitmarkerjobs.com
-hkepc.net
 hkg1.aastocks.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
@@ -1832,6 +1832,7 @@ horror-comics.com
 host-tracker.com
 hostg.xyz
 hosting-1a.mijndomein-ws.nl
+hosting24.com
 hostingprod.com
 hostip.info
 hotdeals.com
@@ -2297,6 +2298,7 @@ lt27.de
 luckycrush.live
 luckyorange.com
 lulz.com
+lun.ua
 lvbet.pl
 lynxbroker.de
 m.cnbeta.com
@@ -2473,7 +2475,6 @@ mp.weixin.qq.com
 mparticle.com
 mparticle.map.fastly.net
 mplxtms.com
-mps.nbcuni.com
 mpsnare.iesnare.com
 mradx.net
 mrzikj.com
@@ -2594,7 +2595,6 @@ oasjs.kataweb.it
 objectstorage.eu-marseille-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 ocsp.apple.com
-ocsp.godaddy.com
 octafx.com
 octopusgirl.com
 odindownload.com
@@ -2688,7 +2688,6 @@ p.typekit.net
 p.typekit.net-v3.edgekey.net
 p.yotpo.com
 p11.techlab-cdn.com
-page.amap.com
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -2872,7 +2871,6 @@ public-family.api.account.microsoft.com
 public-ws-ubiservices.ubi.com
 publicidees.com
 publitas.com
-pubnub.com
 pulsar.ebay.co.uk
 pulsar.ebay.com
 pulsar.ebay.de
@@ -3103,7 +3101,6 @@ scripts.kataweb.it
 scroll.com
 scrollbelow.com
 sdad.guru
-sdb.amazonaws.com
 sdk-resources.blinkreceipt.com
 sdk.asapp.com
 sdk.fra-01.braze.eu
@@ -3297,7 +3294,6 @@ stat.download.xunlei.com
 stat.ethz.ch
 stat24.com
 statcounter.com
-static-xl9-ssl.xunlei.com
 static.3001.net
 static.360buyimg.com
 static.adsafeprotected.com
@@ -3370,7 +3366,6 @@ syndication.realsrv.com
 syndication.twimg.com
 syndication.twitter.com
 sypi.gpshopper.com
-sysdig.com
 systweak.com
 sz.eulerian.net
 t.adcell.com

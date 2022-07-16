@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.16
-# Last modified: 16 Jul 2022 08:07:10 UTC
+# Last modified: 16 Jul 2022 16:05:29 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4264,7 +4264,6 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -10565,6 +10564,7 @@ g.whatsapp.net
 g00.me
 g00.msn.com
 g1.symcb.com
+g10.s.fwmrm.net
 g11v.prd.ads.aws.fwmrm.net
 g17media.com
 g2.symcb.com
@@ -10803,6 +10803,7 @@ geover-prod.dodsp.mp.microsoft.com.nsatc.net
 ger.cdn.survey.medallia.com
 german-banks.com
 gesangsunterricht-hh.de
+geschenkidee-dk.arc.epoq.de
 geshopcss.logsss.com
 gesichterparty.de
 gestyy.com
@@ -18893,7 +18894,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -26430,6 +26430,7 @@ washingtontimes.com
 washoeschools.net
 washsavbk.com
 washtrust.com
+watch-jav.com
 watch.twitch.tv
 watchdog-basic.energized.pro
 watchdog-blu.energized.pro
