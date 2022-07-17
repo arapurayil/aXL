@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.16
-# Last modified: 16 Jul 2022 16:05:29 UTC
+# Version: 3.07.17
+# Last modified: 17 Jul 2022 00:34:40 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7371,6 +7371,7 @@ cuci.nl
 cudder.it
 cuidadodesalud.gov
 culturarecreacionydeporte.gov.co
+cumbancha.de
 cumberlandhospital.com
 cuponclub.net
 cur.lv
@@ -9385,7 +9386,6 @@ extratorrent.cc
 extratorrent.com
 extreme-ip-lookup.com
 extrobank.ru
-eye.swfchan.com
 ez-sites.ws
 ezaimo.ru
 ezhospital.com
@@ -11917,7 +11917,6 @@ hkab.org.hk
 hkb.de
 hkbc.com
 hkconfig.gcloud.qq.com
-hkepc.net
 hkexporter.net
 hkg1.aastocks.com
 hkicl.com.hk
@@ -15353,6 +15352,7 @@ lukas-krankenhaus.de
 lukasstiftung-altenburg.de
 lukb.ch
 lulz.com
+lun.ua
 lunarstorm.se
 lunenburgvethospital.com
 lungenklinikamsee.de
@@ -16978,6 +16978,8 @@ n26.com
 n2s.us
 n5vs44tv.lirnet.ru
 n6.net
+na.albtls.t.co
+na.glbtls.t.co
 na1.documents.adobe.com
 na1.p2.documentsawsperf.adobe.com
 na1.p3.documentsawsperf.adobe.com
@@ -18534,7 +18536,6 @@ paddleapi.com
 paessler.com
 pafnet.de
 pagbrasil.com
-page.amap.com
 page.line.me
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
@@ -19706,7 +19707,6 @@ publishers.medium.co
 publishers.medium.com
 publitas.com
 publix.com
-pubnub.com
 pubs.acs.org
 pubster.twitch.tv
 pubsub-edge.twitch.tv
@@ -21392,7 +21392,6 @@ scu.org.tw
 sd-ccdc.huawei.com
 sda.dk
 sdad.guru
-sdb.amazonaws.com
 sdba.com
 sdbmobilec.sdb.lk
 sdk-bockum-hoevel.de
@@ -23793,7 +23792,6 @@ synterra.ru
 synthesisbank.com
 sypi.gpshopper.com
 sysctl.org
-sysdig.com
 system-bank.ru
 system.aliorbank.pl
 systweak.com
