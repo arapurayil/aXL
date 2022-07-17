@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.17
-# Last modified: 17 Jul 2022 00:34:40 UTC
+# Last modified: 17 Jul 2022 08:06:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4264,6 +4264,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -7122,6 +7123,7 @@ covad.com
 covefi.com
 coventry.gov.uk
 coventrybuildingsociety.co.uk
+coveo.com
 covid19.ncdhhs.gov
 cowtransfer.com
 cox-internet.com
@@ -10024,6 +10026,7 @@ flurry.com
 flushingsavings.com
 flux.com
 flx1.com
+flypool.org
 fm-p.jp
 fm.tuba.pl
 fmb-ebank.com
@@ -18895,6 +18898,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
