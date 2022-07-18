@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Jul 2022 08:09:00 UTC
+# Last modified: 18 Jul 2022 16:16:17 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -542,7 +542,6 @@ aotter.net
 apac1.notify.windows.com.akadns.net
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
-api-global.netflix.com
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-v3.tinypass.com
@@ -582,7 +581,6 @@ api.ipinfodb.com
 api.ipstack.com
 api.jr.mi.com
 api.leanplum.com
-api.lever.co
 api.loganalytics.io
 api.map.baidu.com
 api.mapbox.com
@@ -663,7 +661,6 @@ apptimize.com
 arc.epoq.de
 arc.msn.com
 arcpublishing.com
-arms-retcode.aliyuncs.com
 arstechnica.com
 art19.com
 asadcdn.com
@@ -870,7 +867,6 @@ c.live.com
 c.msn.com
 c.paypal.com
 c.tadst.com
-c.trello.com
 c.woopic.com
 c.xkcd.com
 c.yes.youku.com
@@ -921,7 +917,6 @@ cdn.branch.io
 cdn.clerk.io
 cdn.cliqz.com
 cdn.cloud.altbalaji.com
-cdn.cohesionapps.com
 cdn.consentmanager.mgr.consensu.org
 cdn.cookielaw.org
 cdn.cpnscdn.com
@@ -956,7 +951,6 @@ cdn.polyfill.io
 cdn.privacy-mgmt.com
 cdn.ravenjs.com
 cdn.raygun.io
-cdn.refersion.com
 cdn.rlcdn.com
 cdn.rollbar.com
 cdn.samsungcloudsolution.com
@@ -1157,7 +1151,6 @@ consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.cookiebot.com
 consent.faz.net
-consent.trustarc.com
 consent.truste.com
 consentmanager.mgr.consensu.org
 consentmanager.net
@@ -1323,7 +1316,6 @@ dcf.espn.com
 dcms.1688.com
 dcp.dc1.philips.com
 dcs.audi.com
-dditscdn.com
 de.ign.com
 de.ioam.de
 dealabs.digidip.net
@@ -1363,7 +1355,6 @@ ditto.com
 djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.packetstormsecurity.net
-dl.reg.163.com
 dl.twitchdl.com
 dldir1.qq.com
 dldir2.qq.com
@@ -1884,7 +1875,6 @@ guce.huffingtonpost.co.uk
 guce.oath.com
 guiama.is
 guitarforge.it
-gumroad.com
 gumtree.com
 gunosy.com
 gvt2.com
@@ -1989,7 +1979,6 @@ hubapi.com
 hubblecontent.osi.office.net
 hubspot.com
 hubspot.net
-hubt.pornhub.com
 hugedomains.com
 humanpresence.app
 hxtrack.com
@@ -2177,6 +2166,7 @@ img2.autoimg.cn
 img2.user.kanimg.com
 img30.360buyimg.com
 imgclick.net
+imore.com
 imp.appledaily.com
 impact-ad.jp
 impactradius.com
@@ -2198,7 +2188,6 @@ infolink.pavv.co.kr
 informer.com
 informer.yandex.ru
 informz.net
-infos.telstra.com.au
 infospace.com
 ingest.sentry.io
 ingress.com
@@ -2357,11 +2346,9 @@ l2.io
 l3.evidon.com
 lads.myspacecdn.com
 lapauseyogachaud.com
-lasagneandands.com
 launches.appsflyer.com
 launchpadlibrarian.net
 laureus.com
-lazada.com.my
 lb.production-public.tubi.io
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
@@ -2414,7 +2401,6 @@ lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 lnks.gd
 loadercdn.com
-loc.sc-jpl.com
 locallogic.co
 locuslabs.com
 lofter.com
@@ -2587,7 +2573,6 @@ minexmr.com
 miningpoolhub.com
 mintos.com
 mip.api.mcafeewebadvisor.com
-mirror1.malwaredomains.com
 mis.migc.xiaomi.com
 miscopy.com
 mixpanel.com
@@ -2828,7 +2813,6 @@ onetrust.com
 oniongames.jp
 online-metrix.net
 online.adservicemedia.dk
-online.digital-advisor.com
 onlinebanking.standardbank.co.za
 onlinepbx.ru
 onthe.io
@@ -2959,7 +2943,6 @@ pinnaclesports.com
 pinpoint.us-east-1.amazonaws.com
 pinpoll.com
 pipe.aria.microsoft.com
-pitchfork.com
 piu.ac.ke
 piwik.org
 piwik.secure.payu.com
@@ -3067,7 +3050,6 @@ prov.samsungcloudsolution.com
 proxad.net
 prvsz4pe.micpn.com
 psicologia-online.com
-pstatp.com
 pstmrk.it
 public-family.api.account.microsoft.com
 public-ws-ubiservices.ubi.com
@@ -3191,10 +3173,7 @@ rollbar.com
 roms-download.com
 romsmania.com
 router.bittorrent.com
-rover.ebay.at
-rover.ebay.co.uk
 rover.ebay.com
-rover.ebay.de
 row-advil.waze.com
 royalultimate.com
 rpetri.ch
@@ -3355,7 +3334,6 @@ secure2.segpay.com
 securemetrics.apple.com
 securemvt.apple.com
 securitymetrics.com
-sedo.com
 sedoparking.com
 seed.bitcoin.sipa.be
 seed.bitcoinstats.com
@@ -3508,7 +3486,6 @@ spoj.com
 sportsinteraction.com
 spot.im
 sqimg.qq.com
-sqs.us-east-1.amazonaws.com
 srbizasrbe.org
 src.litix.io
 srvtrck.com
@@ -3577,7 +3554,6 @@ static.shorte.st
 static.ts.360.com
 static.vrv.co
 static.ws.126.net
-static.www.turnto.com
 statics-marketingsites-eus-ms-com.akamaized.net
 staticw2.yotpo.com
 staticxx.facebook.com
@@ -3841,7 +3817,6 @@ tudasfaja.com
 tui.taobao.com
 tupperware.ipapercms.dk
 turdgasm.com
-turnto.com
 tv.sohu.com
 tvn.adocean.pl
 tvpage.com
@@ -3880,7 +3855,6 @@ unity3d.com
 up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
-update.code.visualstudio.com
 update.pan.baidu.com
 upgrade.scdn.co
 upgrade.spotify.com
@@ -3895,6 +3869,7 @@ urbanairship.com
 urbantoronto.ca
 url.dnspod.com
 url.rw
+urldefense.com
 urlz.fr
 us-1.gladly.com
 us-eu.brightcove.map.fastly.net
