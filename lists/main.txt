@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.19
-# Last modified: 19 Jul 2022 08:08:03 UTC
+# Last modified: 19 Jul 2022 16:07:35 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2198,6 +2198,7 @@ ampbanking.com.au
 ampcid.google.com
 amped.co.uk
 amplebeauties.com
+amplify-com-mktg.imgix.net
 amplitude.com
 ampproject.net
 ampproject.org
@@ -2881,7 +2882,6 @@ application.axisbank.co.in
 apply.lg.com
 apply.techcrunch.com
 apply.wechat.com
-applytics.zwyr157wwiu6eior.com
 appmetrica.yandex.com
 appmetrica.yandex.ru
 appnee.com
@@ -4315,7 +4315,6 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -7492,6 +7491,7 @@ curalate.org
 curiosity.com
 curl.im
 currency.com
+current.com
 current.sina.com.cn
 currentlydown.com
 curtsingeranimalhospital.com
@@ -15388,8 +15388,6 @@ logansportsavings.com
 logback.qos.ch
 logbuch-netzpolitik.de
 logentries.com
-logfiles-va-6.zoom.us
-logfiles-va.zoom.us
 logfiles.zoom.us
 loggly.com
 login-live.com-s02.net
@@ -19119,7 +19117,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -22673,6 +22670,7 @@ sovereignbank.com
 sovest.ru
 soycostarricense.com
 sozialbank.de
+sp-ao.shortpixel.ai
 sp-campaign.line.me
 sp-prod.net
 sp.auth.adobe.com
@@ -27980,7 +27978,6 @@ zverokruh-shop.cz
 zvezabank.at
 zwift.com
 zwigge.de
-zwyr157wwiu6eior.com
 zxq.net
 zymic.com
 zynga.com
