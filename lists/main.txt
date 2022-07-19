@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.18
-# Last modified: 18 Jul 2022 16:16:18 UTC
+# Version: 3.07.19
+# Last modified: 19 Jul 2022 00:38:46 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2539,7 +2539,6 @@ api.keycdn.com
 api.kinja.com
 api.kryptex.org
 api.leanplum.com
-api.lever.co
 api.line.me
 api.live.bilibili.com
 api.locize.io
@@ -5709,7 +5708,6 @@ cdn.clerk.io
 cdn.cliqz.com
 cdn.cloud.altbalaji.com
 cdn.cloudflare.net
-cdn.cohesionapps.com
 cdn.consentmanager.mgr.consensu.org
 cdn.content.prod.cms.msn.com
 cdn.contentful.com
@@ -7744,7 +7742,6 @@ dcu.org
 dd.ma
 dd.myapp.com
 ddb.dk
-dditscdn.com
 ddos-guard.net
 ddp.net
 ddrk.me
@@ -8141,7 +8138,6 @@ dl.notepad-plus-plus.org
 dl.op.wpscdn.cn
 dl.opensubtitles.org
 dl.packetstormsecurity.net
-dl.reg.163.com
 dl.twitchdl.com
 dl.update.micloud.xiaomi.net
 dl.xda-developers.com
@@ -13264,6 +13260,7 @@ immeon.com
 immobilienscout24.de
 imoneybank.ru
 imonline.nl
+imore.com
 imp.appledaily.com
 impact-ad.jp
 impactradius.com
@@ -13380,7 +13377,6 @@ infoq.com
 informer.com
 informer.yandex.ru
 informz.net
-infos.telstra.com.au
 infospace.com
 infowars.com
 infusionsoft.com
@@ -14793,7 +14789,6 @@ larochebanquiers.ch
 larrainvial.cl
 larrainvial.com
 larsjung.de
-lasagneandands.com
 lasallebank.com
 lasenza.com
 lastfm-img2.akamaized.net
@@ -14820,7 +14815,6 @@ laureus.com
 lavalsabbina.it
 lawrencesavings.com
 lazada.co.id
-lazada.com.my
 lb.gravatar.com
 lb.production-public.tubi.io
 lb.wikipedia.com
@@ -15251,7 +15245,6 @@ loan-market-assoc.com
 loancorp.com.au
 lobby.igamecj.com
 loc.gov
-loc.sc-jpl.com
 local.adguard.com
 local.gosi.go.kr
 localbitcoins.com
@@ -19767,7 +19760,6 @@ psn-rsc.prod.dl.playstation.net
 psp.ign.com
 psp2-e.np.dl.playstation.net
 psp2.updptl.np.community.playstation.net
-pstatp.com
 pstmrk.it
 psu.edu
 psychologytoday.com
@@ -20842,7 +20834,6 @@ rottentomatoes.com
 round.ru
 roundrocktexas.gov
 router.bittorrent.com
-rover.ebay.at
 rover.ebay.co.uk
 rover.ebay.com
 rover.ebay.de
@@ -23430,7 +23421,6 @@ static.wired.com
 static.wixstatic.com
 static.ws.126.net
 static.www.odcdn.com.edgekey.net
-static.www.turnto.com
 static.xiaomi.net
 static.xx.fbcdn.net
 static.zdassets.com
@@ -24894,7 +24884,6 @@ turkishạirlines.com
 turkiye.gov.tr
 turkiyefinans.com.tr
 turner.com
-turnto.com
 turystyka.gov.pl
 tusa.co.il
 tusfiles.net
@@ -25359,6 +25348,7 @@ url2.fr
 url5.org
 url8807.global.passport.xiaomi.com
 urlbd.com
+urldefense.com
 urldefense.proofpoint.com
 urlhaus.abuse.ch
 urlin.it
