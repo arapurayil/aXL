@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Jul 2022 00:38:46 UTC
+# Last modified: 19 Jul 2022 08:08:03 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -536,6 +536,7 @@ amiami.jp
 amos.alicdn.com
 amospalla.es
 ampcid.google.com
+amplify-com-mktg.imgix.net
 amplitude.com
 ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
@@ -665,6 +666,7 @@ app.appsflyer.com
 app.bentonow.com
 app.bronto.com
 app.chat.xiaomi.net
+app.convertkit.com
 app.cookieinformation.com
 app.getresponse.com
 app.hubspot.com
@@ -689,7 +691,6 @@ appier.com
 appletoolbox.com
 applicast.ga.sony.net
 application.axisbank.co.in
-applytics.zwyr157wwiu6eior.com
 appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
@@ -802,7 +803,6 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
-bestgore.fun
 betanews.com
 betclic.com
 betrad.com
@@ -1255,6 +1255,7 @@ continuum.dds.microsoft.com
 controleng.com
 conversions.appsflyer.com
 converti.se
+convertkit.com
 conviva.com
 conviva2017.wpengine.com
 cookie.vrt.be
@@ -1320,6 +1321,7 @@ curalate.com
 curalate.info
 curalate.net
 curalate.org
+current.com
 custhelp.com
 custom-tracking.salesloft.com
 custom.bnc.lt
@@ -2565,8 +2567,6 @@ log.tiktokv.com
 log.ys7.com
 log.zoom.us
 logentries.com
-logfiles-va-6.zoom.us
-logfiles-va.zoom.us
 logfiles.zoom.us
 loggly.com
 login-live.com-s02.net
@@ -3086,7 +3086,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3673,6 +3672,7 @@ soo.sg
 soundofhope.org
 sourcepoint.mgr.consensu.org
 sourmath.com
+sp-ao.shortpixel.ai
 sp-prod.net
 sp.auth.adobe.com
 sp.zalo.me
@@ -4397,7 +4397,6 @@ youronlinechoices.com
 youtube-nocookie.com
 youvisit.com
 yts.mx
-ytstatic.l.google.com
 yui.yahooapis.com
 yumesushi.be
 yunjiasu-cdn.net
@@ -4426,7 +4425,6 @@ zol.com.cn
 zombo.com
 zopim.com
 zverokruh-shop.cz
-zwyr157wwiu6eior.com
 zynga.com
 zyngawithfriends.com
 zzb.bz
