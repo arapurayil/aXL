@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Jul 2022 16:07:35 UTC
+# Last modified: 20 Jul 2022 00:29:14 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -92,7 +92,6 @@ a1294.w20.akamai.net
 a1843.g.akamai.net
 a247c.playfabapi.com
 a248.e.akamai.net
-a4.smi2.ru
 a43601.actonservice.com
 a8onlineshop.trendmicro.co.jp
 aan.amazon.com
@@ -102,7 +101,6 @@ aax-eu-retail-direct.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
-aax-eu.amazon.in
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -175,7 +173,6 @@ adcr.naver.com
 addshoppers.com
 addthis.com
 addthis.com.edgekey.net
-adelphic.com
 adf.ly
 adfinis-sygroup.ch
 adfoc.us
@@ -240,7 +237,6 @@ adservice.google.bf
 adservice.google.bg
 adservice.google.bi
 adservice.google.bj
-adservice.google.bo
 adservice.google.bs
 adservice.google.bt
 adservice.google.by
@@ -345,7 +341,6 @@ adservice.google.dj
 adservice.google.dk
 adservice.google.dm
 adservice.google.dz
-adservice.google.ec
 adservice.google.ee
 adservice.google.es
 adservice.google.eu
@@ -378,7 +373,6 @@ adservice.google.jo
 adservice.google.jp
 adservice.google.kg
 adservice.google.ki
-adservice.google.kr
 adservice.google.kz
 adservice.google.la
 adservice.google.li
@@ -386,7 +380,6 @@ adservice.google.lk
 adservice.google.lt
 adservice.google.lu
 adservice.google.lv
-adservice.google.ma
 adservice.google.md
 adservice.google.me
 adservice.google.mg
@@ -397,27 +390,23 @@ adservice.google.ms
 adservice.google.mu
 adservice.google.mv
 adservice.google.mw
-adservice.google.mx
 adservice.google.ne
 adservice.google.ng
 adservice.google.nl
 adservice.google.no
 adservice.google.nr
 adservice.google.nu
-adservice.google.ph
 adservice.google.pk
 adservice.google.pl
 adservice.google.pn
 adservice.google.ps
 adservice.google.pt
-adservice.google.qa
 adservice.google.ro
 adservice.google.rs
 adservice.google.ru
 adservice.google.rw
 adservice.google.sc
 adservice.google.se
-adservice.google.sg
 adservice.google.sh
 adservice.google.si
 adservice.google.sk
@@ -440,7 +429,6 @@ adservice.google.ua
 adservice.google.us
 adservice.google.uz
 adservice.google.vg
-adservice.google.vn
 adservice.google.vu
 adservice.google.ws
 adservicemedia.dk
@@ -628,7 +616,6 @@ app.adjust.com
 app.adjust.io
 app.adjust.net.in
 app.appsflyer.com
-app.bentonow.com
 app.bronto.com
 app.chat.xiaomi.net
 app.convertkit.com
@@ -654,7 +641,6 @@ appdynamics.com
 appier.com
 appletoolbox.com
 applicast.ga.sony.net
-application.axisbank.co.in
 appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
@@ -761,6 +747,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -873,9 +860,7 @@ c.id.mi.com
 c.live.com
 c.msn.com
 c.paypal.com
-c.singular.net
 c.tadst.com
-c.trello.com
 c.woopic.com
 c.xkcd.com
 c.yes.youku.com
@@ -908,7 +893,6 @@ cbsi.com
 cbsinteractive.com
 cc-api-data.adobe.io
 cc-dt.com
-cc.cdn.civiccomputing.com
 ccmbg.com
 ccmp.eu
 cd.connatix.com
@@ -962,7 +946,6 @@ cdn.polyfill.io
 cdn.privacy-mgmt.com
 cdn.ravenjs.com
 cdn.raygun.io
-cdn.report-uri.com
 cdn.rlcdn.com
 cdn.rollbar.com
 cdn.samsungcloudsolution.com
@@ -1045,7 +1028,6 @@ civiccomputing.com
 cj.com
 cj.dotomi.com
 cj.mplxtms.com
-ck.page
 ckk.ai
 cl.exct.net
 cl.s10.exct.net
@@ -1096,7 +1078,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clientconfig.passport.net
 clients.l.google.com
 clients1.google.com
@@ -1167,13 +1148,10 @@ consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.cookiebot.com
 consent.faz.net
-consent.trustarc.com
 consent.truste.com
-consent.yahoo.com
 consentmanager.mgr.consensu.org
 consentmanager.net
 console.aws.a2z.com
-constellation.mixer.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.canadiantire.ca
@@ -1268,7 +1246,6 @@ d.agkn.com
 d.getpocket.com
 d.ghostery.com
 d.ifengimg.com
-d.joinhoney.com
 d.la1-c2-iad.salesforceliveagent.com
 d.toutiao.com
 d.yimg.com
@@ -1318,7 +1295,6 @@ data.corp.unity3d.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
-data.msn.com
 data.over-blog-kiwi.com
 data.ubi.com
 datacaciques.com
@@ -1341,7 +1317,6 @@ de.ioam.de
 dealabs.digidip.net
 deals.macupdate.com
 dedicated.domains
-defensacentral.com
 delivery.acm.org
 delivery.vidible.tv
 delivery04.dhe.ibm.com
@@ -1465,7 +1440,6 @@ eccmp.com
 ecn.dev.virtualearth.net
 ecology-tech403.ml
 edge-usw2.demdex.net
-edge.curalate.com
 edge1.certona.net
 edgecast-vod.yahoo.net
 edgecastcdn.net
@@ -1500,7 +1474,6 @@ email-clk.adguard.com
 email-links.buffer.com
 email-sendgrid-deep-linking.chewy.com
 email.netlify.com
-email.uber.com
 emarsys.net
 embed.ly
 embed.spotify.com
@@ -1574,7 +1547,6 @@ events.mapbox.com
 events.release.narrativ.com
 events.split.io
 everesttech.net
-everyaction.com
 evidon.com
 evidon.com.edgekey.net
 evt.mxplay.com
@@ -1593,7 +1565,6 @@ exploit.in
 explore.amd.com
 exponea.com
 ext.goguardian.com
-ext.nile.works
 extern.prisjakt.nu
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -1646,8 +1617,6 @@ findicons.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 fireflyengagement.com
-firehose.ap-northeast-1.amazonaws.com
-firehose.us-west-2.amazonaws.com
 fitanalytics.com
 fivethirtyeight.com
 fkp.samsungcloudsolution.com
@@ -1764,8 +1733,6 @@ gb.rdx2.lgtvsdp.com
 gc.zgo.at
 gcp-prod-md.apptimize.com
 gdpr-tcfv2.sp-prod.net
-gdpr-wrapper.privacymanager.io
-gdpr.privacymanager.io
 gds.mmstat.com
 gecko-sg.byteoversea.com
 geller-pa.googleapis.com
@@ -1774,7 +1741,6 @@ gemius.pl
 generals.ea.com
 geni.us
 geo-prod.do.dsp.mp.microsoft.com
-geo.atlassbx.com
 geo.nbcsports.com
 geo.ngtv.io
 geo.vortex.data.microsoft.com.akadns.net
@@ -1829,13 +1795,11 @@ gmx.ch
 go-mpulse.net
 go-mpulse.net.edgekey.net
 go.cerner.com
-go.flx1.com
 go.madmimi.com
 go.neverware.com
 go.nordvpn.net
 go.pardot.com
 go.redirectingat.com
-go.skimlinks.com
 go.skimresources.com
 go.slalom.com
 go.theregister.com
@@ -1942,7 +1906,6 @@ heads-fa.scdn.co
 heads-fab.spotify.com
 healthwarehouse.com
 heank.nl
-hearstnp.com
 heartbeat.dm.origin.com
 hello.heroku.com
 hello.myfonts.net
@@ -1985,7 +1948,6 @@ hotdogsandads.com
 hotelscombined.com
 hotelscombined.com.au
 houndify.com
-house-fastly-signed-eu-west-1-prod.brightcovecdn.com
 howsmyssl.com
 hp.demdex.net
 hs-scripts.com
@@ -2401,7 +2363,6 @@ links.mkt81.net
 links.playon.tv
 linksredirect.com
 linksynergy.com
-linktr.ee
 lithium.com
 litix.io
 live.adyen.com
@@ -2512,6 +2473,7 @@ marinsm.com
 mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
+marketing.net.idealo-partner.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
 marketingcloudapis.com
@@ -2543,6 +2505,7 @@ measurement-lab.org
 meatspin.biz
 meatspin.com
 medallia.com
+media.plista.com
 media.richrelevance.com
 media.sailthru.com
 media01.eu
@@ -2649,7 +2612,6 @@ mparticle.map.fastly.net
 mplxtms.com
 mps.nbcuni.com
 mpsnare.iesnare.com
-mqtt-mini.facebook.com
 mrzikj.com
 msdk.qq.com
 msedge.net
@@ -2706,6 +2668,7 @@ nelo2-col.linecorp.com
 neobux.com
 net-s.pl
 net.geo.opera.com
+net.zooplus.com
 netc.sfr.fr
 netcore.co.in
 netdna.bootstrapcdn.com
@@ -2768,7 +2731,6 @@ nutaku.com
 nv-sdk.jumio.com
 nv.vi-serve.com
 o.ss2.us
-o.webmd.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
@@ -2917,6 +2879,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2979,6 +2942,7 @@ playhydrax.com
 playwire.com
 plex.direct
 plex.r.worldssl.net
+plista.com
 pltraffic8.com
 plus500.com
 plusgrade.com
@@ -3026,8 +2990,6 @@ privacy-center.org
 privacy-mgmt.com
 privacy-policy.truste.com
 privacymanager.io
-privacyportal.cisco.com
-privacyportal.onetrust.com
 privatbank.ua
 pro.hit.gemius.pl
 prod-adops-proxy.dnitv.net
@@ -3057,7 +3019,6 @@ pulsar.ebay.com
 pulsar.ebay.de
 pumppazh.com
 purch.com
-purr.nytimes.com
 push.notifica.re
 push.rollout.io
 push.yandex.ru
@@ -3095,7 +3056,6 @@ r.mail.ru
 r.mradx.net
 r.orange.fr
 r.sg.sec.miui.com
-r.srvtrck.com
 r1.ykimg.com
 r2.computerbild.de
 r2.ea.eulerian.net
@@ -3106,7 +3066,6 @@ rainmaker.production-public.tubi.io
 rapi.mobikwik.com
 rarbg.to
 raxco.com
-raygun.io
 rbx.gg
 rcbs.com
 rchase.com
@@ -3116,7 +3075,6 @@ rdrtr.com
 rdstation.com
 rdstation.com.br
 rdx2.lgtvsdp.com
-read.feedly.com
 readberserk.com
 realsrv.com
 realtime.services.disqus.com
@@ -3147,7 +3105,6 @@ registeridm.com
 relevant-digital.com
 remind.me
 rentry.co
-report-uri.com
 reports.cliqz.com
 repository.cliqz.com
 requestmetrics.com
@@ -3174,9 +3131,7 @@ rmp.rakuten.com
 rmscomponents.com.au
 rollbar.com
 router.bittorrent.com
-rover.ebay.co.uk
 rover.ebay.com
-rover.ebay.de
 row-advil.waze.com
 royalultimate.com
 rpgenerator.net
@@ -3204,7 +3159,6 @@ s.fwmrm.net
 s.gateway.messenger.live.com
 s.go-mpulse.net
 s.gycs.b.yahoodns.net
-s.joinhoney.com
 s.media-imdb.com
 s.ndemiccreations.com
 s.shopify.com
@@ -3389,7 +3343,6 @@ shopkick.com
 shoppy.gg
 shorte.st
 shortpixel.ai
-shutterstock.7eer.net
 siamzone.com
 sibforms.com
 sickrage.ca
@@ -3419,7 +3372,6 @@ sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
 sleeknotestaticcontent.sleeknote.com
 sls.update.microsoft.com.akadns.net
-sm.pcmag.com
 smallseotools.com
 smart.link
 smartadserver.com
@@ -3467,7 +3419,6 @@ sony.net
 soo.gd
 sourcepoint.mgr.consensu.org
 sourmath.com
-sp-prod.net
 sp.auth.adobe.com
 sp.zalo.me
 spade.twitch.tv
@@ -3485,7 +3436,6 @@ sportsinteraction.com
 spot.im
 spotify.map.fastly.net
 sqimg.qq.com
-sqs.us-east-1.amazonaws.com
 srbizasrbe.org
 src.litix.io
 srvtrck.com
@@ -3518,7 +3468,6 @@ ssl.google-analytics.com
 ssl.kaptcha.com
 ssl.msdk.qq.com
 ssl.o.auspost.com.au
-ssl.o.webmd.com
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
@@ -3554,17 +3503,10 @@ static.parsely.com
 static.quantcast.mgr.consensu.org
 static.scroll.com
 static.shorte.st
-static.smi2.net
 static.vrv.co
 static.wired.com
 static.ws.126.net
-static.www.turnto.com
 static.zdassets.com
-static2.smi2.net
-static3.smi2.net
-static4.smi2.net
-static5.smi2.net
-static7.smi2.net
 staticw2.yotpo.com
 staticxx.facebook.com
 stats.appsflyer.com
@@ -3712,11 +3654,9 @@ thirdparty.bnc.lt
 thisisacoolthing.com
 thunderhead.com
 tidd.ly
-tidio.co
 tie.247-inc.net
 tifbs.net
 tile-service.weather.microsoft.com
-time.akamai.com
 time.samsungcloudsolution.com
 tiny.cc
 tinypass.com
@@ -3735,7 +3675,6 @@ tollfreeforwarding.com
 tom.itv.com
 tom.vgwort.de
 toolbar.google.com
-tools.google.com
 toots-a.akamaihd.net
 top-shop.ru
 top1.ro
@@ -3800,19 +3739,16 @@ trbna.com
 trbo.com
 trck.at
 treasuredata.com
-tredir.espn.com
 treehousei.com
 treg.hearstnp.com
 tria.ge
 trial.api.huangye.miui.com
 trialpay.com
 trib.al
-tribpub.com
 tritondigital.com
 trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
-trk.mail.ru
 trk.pinterest.com
 trkpnt.ongage.net
 trowel.twitch.tv
@@ -3831,7 +3767,6 @@ tudasfaja.com
 tui.taobao.com
 tupperware.ipapercms.dk
 turdgasm.com
-turnto.com
 tv.sohu.com
 tvn.adocean.pl
 tvpage.com
@@ -3859,9 +3794,7 @@ uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
 umwatsonc.events.data.microsoft.com
-unagi-fe.amazon.com
 unagi-na.amazon.com
-unagi.amazon.co.jp
 unagi.amazon.com
 unbi.ba
 unikrn.com
@@ -3884,7 +3817,6 @@ urbanairship.com
 urbantoronto.ca
 url.rw
 urldefense.com
-urldefense.proofpoint.com
 urlz.fr
 us-1.gladly.com
 us-east-1.elb.amazonaws.com
@@ -4043,7 +3975,6 @@ whatismyip.akamai.com
 whipcrack.org
 whoisprivacyprotect.com
 widget-cdn.rpxnow.com
-widget-mediator.zopim.com
 widget.intercom.io
 widget.pushbullet.com
 widget.trustpilot.com
@@ -4159,7 +4090,6 @@ zendesk.com
 zeptolab.com
 ziffdavis.com
 ziffdavisinternational.com
-ziffstatic.com
 zipansion.com
 zkcdn.net
 zmctrack.net
