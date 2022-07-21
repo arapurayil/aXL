@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Jul 2022 08:08:39 UTC
+# Last modified: 21 Jul 2022 16:06:55 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -41,6 +41,7 @@
 2guys1stump.org
 2ip.ua
 2mdn.net
+2miners.com
 2o7.net
 31.media.tumblr.com
 360safe.com
@@ -92,7 +93,6 @@ a1294.w20.akamai.net
 a1843.g.akamai.net
 a247c.playfabapi.com
 a248.e.akamai.net
-a43601.actonservice.com
 a8onlineshop.trendmicro.co.jp
 aan.amazon.com
 aax-cpm.amazon-adsystem.amazon.com
@@ -731,7 +731,6 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
-bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1342,7 +1341,6 @@ docs.bugsnag.com
 docsdermgroup.com
 doh.dns.sb
 dolphincdn.xyz
-domain.com
 donotwatch.org
 dotcom-monitor.com
 dotnetdays.ro
@@ -1581,6 +1579,7 @@ filmha.top
 findicons.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
+firebasestorage.googleapis.com
 fireflyengagement.com
 fitanalytics.com
 fivethirtyeight.com
@@ -1643,6 +1642,7 @@ fota5s.adups.com
 fota5t.adups.com
 fota5tbk.adups.com
 fourier.taobao.com
+fp.msedge.net
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-go.kelkoogroup.net
 fr.app.chat.global.xiaomi.net
@@ -2125,7 +2125,6 @@ inedo.com
 inference.location.live.net
 info.affirm.com
 info.lgsmartad.com
-info.seek.com
 infolink.pavv.co.kr
 infonline.de
 informer.com
@@ -2138,6 +2137,7 @@ inmoment.com
 inq.com
 inquisition.goguardian.com
 inside-graph.com
+insideruser.trafficmanager.net
 insight.rapid7.com
 insightexpress.com
 insightexpressai.com
@@ -2247,7 +2247,6 @@ katcr.co
 katcr.to
 kaxsdc.com
 kdukvh.com
-keepvid.com
 keystone.mwbsys.com
 kickass.cd
 kiddostoysclub.com
@@ -2257,7 +2256,6 @@ kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
 kisshentai.net
-kiwifarms.net
 klarnaservices.com
 klaviyo.com
 klclick.com
@@ -2320,7 +2318,6 @@ lindy.co.id
 link.email.dynect.net
 linkev.com
 links.mkt81.net
-links.playon.tv
 linksredirect.com
 linksynergy.com
 lithium.com
@@ -2632,6 +2629,7 @@ news.ebc.net.tw
 news.smi2.ru
 newsbreak.com
 newsletter.bdnews24.com
+newsletters.bancsabadell.com
 newslink.reuters.com
 newtonpaiva.br
 nextplatform.com
@@ -2824,7 +2822,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3158,7 +3155,6 @@ sarvatra.in
 sas.com
 sas.samsungcloudsolution.com
 sascdn.com
-sawap.equifax.com
 sb.adtidy.org
 sb.scorecardresearch.com
 sb.scorecardresearch.com.edgekey.net
@@ -3281,7 +3277,6 @@ sibforms.com
 sickrage.ca
 sift.com
 siftscience.com
-signal-collector.gemaltodigitalbankingidcloud.com
 silktide.com
 simp.ly
 simpleanalytics.com
@@ -3395,7 +3390,6 @@ ssl.cf1.rackcdn.com
 ssl.clickbank.net
 ssl.google-analytics.com
 ssl.msdk.qq.com
-ssl.o.auspost.com.au
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
@@ -3474,7 +3468,6 @@ surveyrouter.com
 surveys.insightexpressai.com
 survio.com
 suzihaza.com
-sv.aq.qq.com
 svonm.com
 sw88.go.com
 swift.com
@@ -3543,6 +3536,7 @@ team-rec.jp
 teamsinsight.myanalytics.cdn.office.net
 techlab-cdn.com
 technical-service.net
+techsparx.com
 techtarget.com
 tecnosell.com
 teeth.co.jp
@@ -3588,6 +3582,7 @@ tinyurl.com
 tiqcdn.com
 tkn.fux.com
 tkqlhce.com
+tlkm.id
 tm.tradetracker.net
 tmearn.com
 tms-st.cdn.ngenix.net
@@ -3778,6 +3773,7 @@ ust.chatango.com
 utility.rogersmedia.com
 utopia-suites.com
 v.fwmrm.net
+v.ht
 v.shopify.com
 v.w-x.co
 v10-win.vortex.data.microsoft.com.akadns.net
