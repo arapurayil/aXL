@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.21
-# Last modified: 21 Jul 2022 00:35:25 UTC
+# Last modified: 21 Jul 2022 08:08:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -873,8 +873,6 @@ admitad.com
 admongo.gov
 adnetasia.com
 adnxs.com
-adobe-aem.map.fastly.net
-adobe-campaign.com
 adobe-dns-01.adobe.com
 adobe-dns-02.adobe.com
 adobe-dns-04.adobe.com
@@ -884,9 +882,7 @@ adobe-dns.adobe.com
 adobe.com
 adobe.dk
 adobe.es
-adobeaemcloud.com
 adobeawards.com
-adobeconnect.com
 adobedtm.com
 adobeid-na1.services.adobe.com
 adobeid.services.adobe.com
@@ -2104,6 +2100,7 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
+amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -4278,6 +4275,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -5885,7 +5883,6 @@ cdnapisec.kaltura.com
 cdnbcvc.com
 cdne.gearsofwar.xbox.com
 cdnetworks.com
-cdngarenanow-a.akamaihd.net
 cdngc.net
 cdninstagram.com
 cdnja.r.worldssl.net
@@ -7001,6 +6998,7 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
+content.awaze.com
 content.canadiantire.ca
 content.chia-anime.tv
 content.cloudflare.com
@@ -11054,6 +11052,7 @@ gnty.com
 gnu.org
 go-mpulse.net
 go-mpulse.net.edgekey.net
+go.addigy.com
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
@@ -13329,6 +13328,7 @@ inetpayonline.com
 inference.location.live.net
 infinas.com
 info-msk.rusfinance.ru
+info.affirm.com
 info.apnic.net
 info.baikalinvestbank.ru
 info.binance.com
@@ -14830,6 +14830,7 @@ leadpages.co
 leadpages.net
 leakix.net
 leanplum.com
+learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -15704,7 +15705,6 @@ marketing-stage.adobe.com
 marketing.adobe.com
 marketing.etorostatic.com
 marketing.hostgator.com
-marketing.net.idealo-partner.com
 marketing.tllms.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
@@ -16467,7 +16467,6 @@ mkt7839.com
 mkt81.net
 mkt91.net
 mktcloud.c.huawei.com
-mktoapps.com
 mktoedge.com
 mktossl.com
 mktoweb.com
@@ -17256,7 +17255,6 @@ net.geo.opera.com
 net.kentbank.hr
 net.ms
 net.pnb.com
-net.zooplus.com
 net2dish.com
 net2roam.com
 net46.net
@@ -18956,6 +18954,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -24009,7 +24008,6 @@ tanenbaumchat.org
 tangerine.ca
 tangle.com
 tanx.com
-tanx.com.gds.alibabadns.com
 taobao.com
 taobaocdn.com
 tap-rt-prod1-t.campaign.adobe.com
@@ -27267,6 +27265,7 @@ www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
 www2.pardot.com
+www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
@@ -27275,6 +27274,7 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
+www4.orangecyberdefense.com
 www5.2giga.link
 www5.untangle.com
 www6.2giga.link
