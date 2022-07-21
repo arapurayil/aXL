@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Jul 2022 16:07:46 UTC
+# Last modified: 21 Jul 2022 00:35:24 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -193,13 +193,9 @@ admeira.ch
 admitad.com
 adnetasia.com
 adnxs.com
-adobe-aem.map.fastly.net
-adobe-campaign.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adobe-dns.adobe.com
-adobeaemcloud.com
-adobeconnect.com
 adobedtm.com
 adocean.pl
 adperfect.com
@@ -495,6 +491,7 @@ altmetric.com
 amap.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
+amazonbusiness.com
 amdc.alipay.com
 amdc.m.taobao.com
 amospalla.es
@@ -734,6 +731,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -955,7 +953,6 @@ cdn3.optimizely.com
 cdna.clicktale.net
 cdnapi.kaltura.com
 cdnbcvc.com
-cdngarenanow-a.akamaihd.net
 cdngc.net
 cdnjs.tvpage.com
 cdns-content.dzcdn.net
@@ -1133,6 +1130,7 @@ consentmanager.net
 console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.awaze.com
 content.canadiantire.ca
 content.ctfs.com
 content.discover.com
@@ -1729,6 +1727,7 @@ geotrust.com
 geschenkidee-dk.arc.epoq.de
 gestyy.com
 get-express-vpn.com
+get.untangle.com
 get.x-link.pl
 getadmiral.com
 getblueshift.com
@@ -1759,8 +1758,10 @@ gm99.com
 gmx.ch
 go-mpulse.net
 go-mpulse.net.edgekey.net
+go.addigy.com
 go.cerner.com
 go.madmimi.com
+go.mybusinessacademy.ph
 go.neverware.com
 go.nordvpn.net
 go.pardot.com
@@ -2122,6 +2123,7 @@ indiaeasytrip.com
 indystar.com
 inedo.com
 inference.location.live.net
+info.affirm.com
 info.lgsmartad.com
 info.seek.com
 infolink.pavv.co.kr
@@ -2255,6 +2257,7 @@ kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
 kisshentai.net
+kiwifarms.net
 klarnaservices.com
 klaviyo.com
 klclick.com
@@ -2291,6 +2294,7 @@ lcprd2.samsungcloudsolution.net
 leadpages.net
 leakix.net
 leanplum.com
+learn.cisecurity.org
 lelibrair.fr
 lemonparty.biz
 lemonparty.org
@@ -2426,7 +2430,6 @@ marinsm.com
 mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
-marketing.net.idealo-partner.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
 marketingcloudapis.com
@@ -2516,7 +2519,6 @@ mkt71.net
 mkt7839.com
 mkt81.net
 mkt91.net
-mktoapps.com
 mktoedge.com
 mktossl.com
 mktoweb.com
@@ -2616,7 +2618,6 @@ nelo2-col.linecorp.com
 neobux.com
 net-s.pl
 net.geo.opera.com
-net.zooplus.com
 netc.sfr.fr
 netcore.co.in
 netdna.bootstrapcdn.com
@@ -2823,6 +2824,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3165,7 +3167,6 @@ sbs.demdex.net
 sc-static.net
 sc.tradetracker.net
 scandit.com
-scene7.com
 scenefz.me
 sched.tdnsv8.com
 schibsted.com
@@ -3524,7 +3525,6 @@ tags.tiqcdn.com
 tags.tiqcdn.com.edgekey.net
 tamedia.ch
 tanx.com
-tanx.com.gds.alibabadns.com
 tap.company
 taplytics.com
 tapresearch.com
@@ -3951,8 +3951,11 @@ www-cultofmac-com.ezoic.net
 www-googletagmanager.l.google.com
 www1.amnhealthcare.com
 www2.pardot.com
+www2.primecreative.com.au
 www3.bloomingdales.com
 www3.webhostingtalk.com
+www4.orangecyberdefense.com
+www5.untangle.com
 x.co
 x0.ifengimg.com
 x3-policy-maker.goguardian.com
