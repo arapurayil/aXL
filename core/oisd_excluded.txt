@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Jul 2022 16:06:55 UTC
+# Last modified: 22 Jul 2022 00:37:51 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1837,6 +1837,7 @@ gvt2.com
 gynvael.coldwind.pl
 gzhls.at
 h-citicards.online-metrix.net
+h-d3tracking.rbc.online-metrix.net
 h-homedepot.online-metrix.net
 h-intuit.online-metrix.net
 h-sdk.online-metrix.net
@@ -3004,6 +3005,7 @@ rainmaker.production-public.tubi.io
 rapi.mobikwik.com
 rarbg.to
 raxco.com
+rbc.online-metrix.net
 rbx.gg
 rchase.com
 rd.rakuten.co.jp
@@ -3016,6 +3018,7 @@ readberserk.com
 realsrv.com
 realtime.services.disqus.com
 rebelmouse.com
+rebelmouse.io
 rebrand.ly
 rebrandly.com
 rebrandlydomain.com

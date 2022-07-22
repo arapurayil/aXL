@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.21
-# Last modified: 21 Jul 2022 16:06:55 UTC
+# Version: 3.07.22
+# Last modified: 22 Jul 2022 00:37:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -454,7 +454,6 @@ a248.e.akamai.net
 a24m.a-bank.com.ua
 a2zapk.com
 a4.mzstatic.com
-a43601.actonservice.com
 a463.w10.akamai.net
 a5.behance.net
 a57.foxnews.com
@@ -4275,7 +4274,6 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -8234,7 +8232,6 @@ dollarbank.com
 dolp.cc
 dolphincdn.xyz
 domain-api.rebrandly.com
-domain.com
 domain.dot.tk
 domainactive.co
 domainlocking.soundcloud.com
@@ -13422,6 +13419,7 @@ insider.sonymobile.com
 insiderdownloads.ign.com
 insiderservice.microsoft.com
 insideruser.microsoft.com
+insideruser.trafficmanager.net
 insight.rapid7.com
 insightexpress.com
 insightexpressai.com
@@ -14112,7 +14110,6 @@ keepbank.ru
 keepersecurity.com
 keepimg.com
 keeptalking.de
-keepvid.com
 keesia.com
 kefche.com
 keiba.rakuten.co.jp
@@ -15042,7 +15039,6 @@ links.mkt81.net
 links.mkt91.net
 links.notification.intuit.com
 links.notifications.soundcloud.com
-links.playon.tv
 linkshrink.net
 linksredirect.com
 linksynergy.com
@@ -18954,7 +18950,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -21261,7 +21256,6 @@ savingsinstitute.com
 savingsloans.com.au
 savvis.net
 savvyspace.com
-sawap.equifax.com
 saythanks.io
 sb-ssl.google.com
 sb.adtidy.org
@@ -22004,7 +21998,6 @@ sierravistaregional.com
 sift.com
 siftscience.com
 sign-in.soundcloud.com
-signal-collector.gemaltodigitalbankingidcloud.com
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signals.qualcomm.com
@@ -23078,7 +23071,6 @@ ssl.gstatic.com
 ssl.hwcdn.net
 ssl.marfeelcdn.com
 ssl.msdk.qq.com
-ssl.o.auspost.com.au
 ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
@@ -23796,7 +23788,6 @@ suupohjanosuuspankki.fi
 sux.cz
 suzihaza.com
 sv-bank.com
-sv.aq.qq.com
 sv.gravatar.com
 sv.symcd.com
 sv.twitch.tv
@@ -24110,6 +24101,7 @@ technologyreview.com
 technoratimedia.com
 techradar.com
 techrepublic.com
+techsparx.com
 techtarget.com
 techtunes.com.bd
 tecnosell.com
@@ -24459,6 +24451,7 @@ tlc.com
 tlcanimalhospital.com
 tld-list.com
 tldr.sk
+tlkm.id
 tllg.net
 tlnbank.com
 tlu.dl.delivery.mp.microsoft.com
