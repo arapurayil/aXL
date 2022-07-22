@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Jul 2022 08:09:24 UTC
+# Last modified: 22 Jul 2022 16:08:12 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -41,7 +41,6 @@
 2guys1stump.org
 2ip.ua
 2mdn.net
-2miners.com
 2o7.net
 31.media.tumblr.com
 360safe.com
@@ -94,6 +93,7 @@ a1843.g.akamai.net
 a247c.playfabapi.com
 a248.e.akamai.net
 a8onlineshop.trendmicro.co.jp
+aa.online-metrix.net
 aan.amazon.com
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
@@ -512,6 +512,7 @@ analytics.twitter.com
 android.bugly.qq.com
 androidapi.mxplay.com
 androidtvwatsonfe-pa.googleapis.com
+andronova.net
 anexia-it.com
 angolotesti.it
 anime.reactor.cc
@@ -629,6 +630,7 @@ appdynamics.com
 appier.com
 appletoolbox.com
 applicast.ga.sony.net
+application.axisbank.co.in
 appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
@@ -1579,7 +1581,6 @@ filmha.top
 findicons.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
-firebasestorage.googleapis.com
 fireflyengagement.com
 fitanalytics.com
 fivethirtyeight.com
@@ -2338,6 +2339,7 @@ ljudochbild.se
 llnwd.net
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
+lnkd.in
 lnks.gd
 loadercdn.com
 localcontent.huffingtonpost.com
@@ -2373,6 +2375,7 @@ lp.babbel.com
 lpsnmedia.net
 lptag.liveperson.net
 lt27.de
+lubuntu.net
 luckycrush.live
 luckyorange.com
 lulz.com
@@ -2747,7 +2750,6 @@ oracle.112.2o7.net
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
-oshi.at
 ospserver.net
 otn.samsungcloudcdn.com
 otnprd10.samsungcloudsolution.net
@@ -3447,6 +3449,7 @@ stereomag.ro
 stiripesurse.ro
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
+storage.cloud.google.com
 store-stc.zdn.vn
 stormap.sapo.pt
 stormgain.com
@@ -3776,7 +3779,6 @@ ust.chatango.com
 utility.rogersmedia.com
 utopia-suites.com
 v.fwmrm.net
-v.ht
 v.shopify.com
 v.w-x.co
 v10-win.vortex.data.microsoft.com.akadns.net
