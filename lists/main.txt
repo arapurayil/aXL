@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.23
-# Last modified: 23 Jul 2022 00:32:20 UTC
+# Last modified: 23 Jul 2022 08:08:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2100,7 +2100,6 @@ amazon.ye
 amazon.yokohama
 amazon.zone
 amazonaws.com
-amazonbusiness.com
 amazonservices.com
 amazontrust.com
 ambank.amonline.com.my
@@ -2416,7 +2415,6 @@ api.amplitude.com
 api.anwb.nl
 api.apk.v-mate.mobi
 api.apple-cloudkit.com
-api.applicationinsights.io
 api.appmetadata.sonymobile.com
 api.apptentive.com
 api.areffect.sonymobile.com
@@ -3071,7 +3069,6 @@ assets.minutemediacdn.com
 assets.nflxext.com
 assets.npo-data.nl
 assets.omidoo.com
-assets.pardot.com
 assets.penny-arcade.com
 assets.pinterest.com
 assets.roar.media
@@ -3371,7 +3368,6 @@ b.techcrunch.com
 b.thumbs.redditmedia.com
 b.tiles.mapbox.com
 b.wishabi.com
-b.yahoo.com
 b0.cc
 b00.fr
 b02.black.ndmdhs.com
@@ -4902,7 +4898,6 @@ brannenbanks.com
 brattbank.com
 bravia.dl.playstation.net
 braze.com
-braze.eu
 brazil.hide.me
 brazil.kaspersky.com
 brb-bi.net
@@ -5435,7 +5430,6 @@ cariverona.it
 carlinganimalhospital.com
 carmelhospital.co.il
 carnegie.lu
-carnivalmobile.com
 carolinabank.net
 carolinafirst.com
 carp.tv
@@ -6172,7 +6166,6 @@ cheboyganhospital.org
 chebra.lt
 check.ddos-guard.net
 check.ptlogin2.wechat.com
-check2.tsb.co.uk
 check4.facebook.com
 check6.facebook.com
 checkappexec.microsoft.com
@@ -6269,9 +6262,7 @@ ci-mpsnare.iovation.com
 ci.phncdn.com
 ci.rdtcdn.com
 ci3.googleusercontent.com
-ci301.actonsoftware.com
 ci4.googleusercontent.com
-ci42.actonsoftware.com
 ci5.googleusercontent.com
 ci61.actonsoftware.com
 cial.ch
@@ -6463,7 +6454,6 @@ clickbank.com
 clickbank.net
 clickcash.onelink.me
 clickcease.com
-clickcustomerio.squla.nl
 clickdimensions.com
 clickfunnels.com
 clickhouse.com
@@ -6999,13 +6989,8 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
-content.awaze.com
-content.canadiantire.ca
 content.chia-anime.tv
 content.cloudflare.com
-content.ctfs.com
-content.discover.com
-content.discovercard.com
 content.dropboxapi.com
 content.erabu.sonymobile.com
 content.force.com
@@ -7025,7 +7010,6 @@ content.swrve.com
 content.vidgyor.com
 content.webcollage.net
 content.yikyakapi.net
-content22.citicards.com
 contentful.com
 contents.fc2.com
 contests.dailycaller.com
@@ -7315,7 +7299,6 @@ crutchfield.com
 crvolterra.it
 cryoutcreations.eu
 cryptauthenrollment.googleapis.com
-cryptocompare.com
 cryptolabpro.com
 cryptonator.com
 cryptopia.co.nz
@@ -7428,7 +7411,6 @@ custhelp.com
 custody.coinbase.com
 custom.bnc.lt
 custom.plausible.io
-customer.homedepot.com
 customer.io
 customer.lichousing.com
 customerevents.netflix.com
@@ -7607,7 +7589,6 @@ dart.l.doubleclick.net
 dartford.gov.uk
 dartmoor.gov.uk
 dartsearch.net
-darty-com.eulerian.net
 dash.cloudflare.com
 dash.row.aiv-cdn.net
 dash.tmearn.com
@@ -7715,7 +7696,6 @@ dbs.com.sg
 dbs.com.tw
 dc-e70d1ce32117.chia-anime.tv
 dc-ppe.trafficmanager.net
-dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
 dcape-na.amazon.com
@@ -8866,7 +8846,6 @@ elance.com
 elandroidelibre.elespanol.com
 elasticbeanstalk.com
 elastx.net
-elb-aws-va-visualiq-39389596.us-east-1.elb.amazonaws.com
 elb.eu-west-1.amazonaws.com
 elb.us-west-1.amazonaws.com
 elba.at
@@ -8949,7 +8928,6 @@ email-assets.soundcloud.com
 email-clk.adguard.com
 email-connect.spot.im
 email-ee.co.uk
-email-links.buffer.com
 email-sendgrid-deep-linking.chewy.com
 email-tracking.infobip.com
 email.163.com
@@ -9189,7 +9167,6 @@ esube.ziraatkatilim.com.tr
 esube1.ziraatyatirim.com.tr
 esunbank.com.tw
 et.tidal.com
-et1.eulerian.net
 etahub.com
 etao.com
 etb-ag.com
@@ -9602,7 +9579,6 @@ fbtrust.com
 fbwebpos.com
 fc-lc.com
 fc-resources.fastcompany.com
-fc.eulerian.net
 fc.vodafone.de
 fc2.com
 fcanr.tracking.miui.com
@@ -10225,7 +10201,6 @@ formspring.me
 formstack.com
 formy.upriver.ru
 fornovices.com
-forpci42.actonsoftware.com
 forpci61.actonsoftware.com
 forplaycatalog.com
 forpostbank.ru
@@ -11052,7 +11027,6 @@ gnty.com
 gnu.org
 go-mpulse.net
 go-mpulse.net.edgekey.net
-go.addigy.com
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
@@ -13329,7 +13303,6 @@ inetpayonline.com
 inference.location.live.net
 infinas.com
 info-msk.rusfinance.ru
-info.affirm.com
 info.apnic.net
 info.baikalinvestbank.ru
 info.binance.com
@@ -13353,7 +13326,6 @@ infogram.com
 infokredit.net
 infolink.com
 infolink.pavv.co.kr
-infonline.de
 infoq.com
 informer.com
 informer.yandex.ru
@@ -13639,7 +13611,6 @@ iplocation.net
 ipm-provider.ff.avast.com
 ipmcloud.kaspersky.com
 ipoker.com
-iponweb.net
 ipopimg.sina.com.tw
 ipqualityscore.com
 ipr-external.huawei.com
@@ -14831,7 +14802,6 @@ leadpages.co
 leadpages.net
 leakix.net
 leanplum.com
-learn.cisecurity.org
 learn.elephantjournal.com
 learndownload.adobe.com
 learningcurve.gov.uk
@@ -15709,7 +15679,6 @@ marketing.hostgator.com
 marketing.tllms.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
-marketingcloudapis.com
 marketingplatform.google.com
 marketingprofs.com
 marketo.com
@@ -17465,7 +17434,6 @@ nid.naver.com
 nidw.gov.bd
 niecko.pl
 niedersachsen-spion.de
-nielsencollections.com
 nieuw.weerplaza.nl
 nieuws.weeronline.nl
 nifty.com
@@ -17480,7 +17448,6 @@ nike.com
 nikkeibp.co.jp
 nikoil.az
 nil.naver.com
-nile.works
 nimhost.com
 nimiq.com
 nine.plugins.plexapp.com
@@ -17963,7 +17930,6 @@ officeclient.microsoft.com
 officedepot.com
 officemag.ru
 official-blog.line.me
-officiel-des-vacances.eulerian.net
 offshore-bank-list.com
 offspring.net
 oficinadirecta.com
@@ -18272,7 +18238,6 @@ oo.gl
 oostburgbank.com
 ootit.com
 ooyala.com
-ooyala.com.akadns.net
 op-cdn.net
 op.am
 op.fi
@@ -18799,7 +18764,6 @@ pay24.co.il
 payanyway.ru
 payb2b.domru.ru
 paycard.beeline.ru
-paydirekt-de01.wt-eu02.net
 paydirekt.de
 payeasy.lk
 payeer.com
@@ -19039,10 +19003,8 @@ phrasebook.naver.com
 phs.tanx.com
 pi-dns.com
 pi-hole.net
-pi-ue1.pardot.com
 pi.hole
 pi.pardot.com
-pi.t.pardot.com
 piano.io
 pib.ru
 pib.ua
@@ -19937,7 +19899,6 @@ r1.ykimg.com
 r10s.jp
 r2.bithumb.com
 r2.computerbild.de
-r2.ea.eulerian.net
 r20.rs6.net
 r2p.de
 r3---sn-4g5edn7s.googlevideo.com
@@ -20956,7 +20917,6 @@ s.go-mpulse.net
 s.go2yd.com
 s.gravatar.com
 s.gus.host
-s.gycs.b.yahoodns.net
 s.hitbtc.com
 s.hswstatic.com
 s.id
@@ -21065,7 +21025,6 @@ s6.exct.net
 s7.addthis.com
 s7.exct.net
 s8.addthis.com
-s868742820.hs.eloqua.com
 s88570519.t.en25.com
 s9.picofile.com
 sa-blacklist.stearns.org
@@ -21749,7 +21708,6 @@ seninbankan.com.tr
 seniorcorps.gov
 seniorentreff.de
 sensic.net
-sentry-cdn.com
 sentry.cloud.vimeo.com
 sentry.flipboard.com
 sentry.io
@@ -21830,7 +21788,6 @@ sfn.info
 sfnb.com
 sfota.ospserver.net
 sfpethospital.com
-sfr.eulerian.net
 sfr.fr
 sfsapi.micloud.xiaomi.net
 sftool.gov
@@ -23882,7 +23839,6 @@ sytes.net
 syurl.com
 syzbank.ch
 syzbank.com
-sz.eulerian.net
 szb-chb.ch
 szczecin.tvp.pl
 szene1.at
@@ -23949,7 +23905,6 @@ ta4a.info
 tabac-info-service.fr
 tabbank.com
 taboola.com
-taboola.map.fastly.net
 tabunghaji.gov.my
 tabzi.com
 tac.blog.naver.com
@@ -24599,7 +24554,6 @@ track.adform.net
 track.adtraction.com
 track.bpost.be
 track.canva.com
-track.cj.akadns.net
 track.customer.io
 track.effiliation.com
 track.flexlinkspro.com
@@ -26264,7 +26218,6 @@ vpn.spot.im
 vpn3.hulu.com
 vpn5.hulu.com
 vpos.isbank.co.uk
-vps.eulerian.net
 vpv.nl
 vr-amberg.de
 vr-b.de
@@ -27265,7 +27218,6 @@ www2.coinbase.com
 www2.danskebank.ee
 www2.jugra.ru
 www2.pardot.com
-www2.primecreative.com.au
 www3.2giga.link
 www3.bloomingdales.com
 www3.l.google.com
@@ -27274,7 +27226,6 @@ www4.9Anime.to
 www4.funimation.com
 www4.gogoanime.io
 www4.handelsbanken.fi
-www4.orangecyberdefense.com
 www5.2giga.link
 www5.untangle.com
 www6.2giga.link
