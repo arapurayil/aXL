@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Jul 2022 16:08:12 UTC
+# Last modified: 23 Jul 2022 00:32:20 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -491,7 +491,6 @@ altmetric.com
 amap.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
-amazonbusiness.com
 amdc.alipay.com
 amdc.m.taobao.com
 amospalla.es
@@ -539,7 +538,6 @@ api.accuweather.com
 api.ad.xiaomi.com
 api.advista.no
 api.amplitude.com
-api.applicationinsights.io
 api.bam-x.com
 api.bbc.co.uk
 api.bluecore.com
@@ -564,7 +562,6 @@ api.ipinfodb.com
 api.ipstack.com
 api.jr.mi.com
 api.leanplum.com
-api.loganalytics.io
 api.map.baidu.com
 api.mapbox.com
 api.newrelic.com
@@ -649,7 +646,6 @@ assets.adobedtm.com
 assets.dwell.com
 assets.micpn.com
 assets.minutemediacdn.com
-assets.pardot.com
 assets.penny-arcade.com
 assets.pinterest.com
 assetstore.unity.com
@@ -699,7 +695,6 @@ b.koodomobile.com
 b.scorecardresearch.com
 b.stats.paypal.com
 b.wishabi.com
-b.yahoo.com
 b13.com
 b23.ru
 b2b.angieslist.com
@@ -716,7 +711,6 @@ barbadostoday.bb
 baremetrics.com
 bat.bing.com
 batch.com
-bazaarvoice.com
 bbraunusa.com
 bbs.meizu.cn
 bc.marfeel.com
@@ -790,8 +784,6 @@ brand.sogou.com
 branding.api.us.apiconnect.ibmcloud.com
 bravia.dl.playstation.net
 braze.com
-braze.eu
-breeze.aimon.applicationinsights.io
 brian-fitzgerald.com
 bridgetrack.com
 brightcove.com
@@ -863,7 +855,6 @@ canadapharmacy.com
 cap.cyberlink.com
 capesandbox.com
 capi.connatix.com
-carnivalmobile.com
 carrotquest.io
 casablanca-landgraaf.nl
 casalemedia.com.edgekey.net
@@ -984,7 +975,6 @@ channeladvisor.com
 chat-assets.frontapp.com
 chatango.com
 check.ddos-guard.net
-check2.tsb.co.uk
 checkealos.com
 cheetahmail.com
 cheriefm.fr
@@ -994,9 +984,6 @@ chickenkiller.com
 chip.de
 chkd.org
 choice.microsoft.com
-ci301.actonsoftware.com
-ci42.actonsoftware.com
-ci61.actonsoftware.com
 cidadehoje.pt
 cint.com
 cintnetworks.com
@@ -1043,7 +1030,6 @@ click.tz.simba.taobao.com
 clickbank.com
 clickbank.net
 clickcease.com
-clickcustomerio.squla.nl
 clickdimensions.com
 clickfunnels.com
 clickhouse.com
@@ -1131,13 +1117,7 @@ consentmanager.net
 console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
-content.awaze.com
-content.canadiantire.ca
-content.ctfs.com
-content.discover.com
-content.discovercard.com
 content.jwplatform.com
-content22.citicards.com
 contents.fc2.com
 continuum.dds.microsoft.com
 controleng.com
@@ -1180,7 +1160,6 @@ crowdtwist.com
 crt.comodoca.com
 crunchyroll.adtrackers.net
 crunchyroll.bannertrack.net
-cryptocompare.com
 cs1.wpc.v0cdn.net
 cs11.wpc.v0cdn.net
 cs491.wac.edgecastcdn.net
@@ -1205,7 +1184,6 @@ curalate.net
 curalate.org
 custhelp.com
 custom.plausible.io
-customer.homedepot.com
 customer.io
 customerevents.netflix.com
 customtraffic.impactradius.com
@@ -1262,7 +1240,6 @@ danuoyi.alicdn.com
 danviet.vn
 dart.l.doubleclick.net
 dartsearch.net
-darty-com.eulerian.net
 dash.row.aiv-cdn.net
 dashboard.zopim.com
 data.adobedc.net
@@ -1279,12 +1256,9 @@ datadoghq-browser-agent.com
 datadoghq.com
 datadome.co
 datafront.co
-datamixer-pa.googleapis.com
 datawrapper.de
 daum.net
 db5.vortex.data.microsoft.com.akadns.net
-dc.applicationinsights.azure.com
-dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
 dcf.espn.com
 dcms.1688.com
@@ -1390,7 +1364,6 @@ dynu.net
 dzc-metrics.mzstatic.com
 e-mark.nl
 e.189.cn
-e.customeriomail.com
 e.imguol.com
 e.reddit.com
 e1151.e12.akamaiedge.net
@@ -1407,7 +1380,6 @@ ebd.cda.pl
 eboundservices.com
 ec-ns.sascdn.com
 ec2eu.adswizz.com
-eccmp.com
 ecn.dev.virtualearth.net
 ecology-tech403.ml
 edge-usw2.demdex.net
@@ -1430,7 +1402,6 @@ ek21.com
 ekg.riotgames.com
 elasticbeanstalk.com
 elastx.net
-elb-aws-va-visualiq-39389596.us-east-1.elb.amazonaws.com
 elb.eu-west-1.amazonaws.com
 elb.us-west-1.amazonaws.com
 elblogdelnarco.com
@@ -1441,9 +1412,7 @@ elvenar.com
 em.bm23.com
 em.dynamicyield.com
 email-clk.adguard.com
-email-links.buffer.com
 email-sendgrid-deep-linking.chewy.com
-email.netlify.com
 emarsys.net
 embed.ly
 embed.spotify.com
@@ -1480,7 +1449,6 @@ esprima.org
 estaticos.tvn.cl
 estream.to
 et.tidal.com
-et1.eulerian.net
 ethhex.com
 ethn.io
 etl.tindersparks.com
@@ -1560,7 +1528,6 @@ fastly-analytics.com
 faygoluvers.net
 fbcdn-creative-a.akamaihd.net
 fc-lc.com
-fc.eulerian.net
 fc.vodafone.de
 fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
@@ -1633,8 +1600,6 @@ footprints-pa.googleapis.com
 force.com
 forexprostools.com
 formcrafts.com
-forpci42.actonsoftware.com
-forpci61.actonsoftware.com
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -1675,7 +1640,6 @@ fy.v.vrv.co
 g.alicdn.com
 g.doubleclick.net
 g.ezoic.net
-g.live.com
 g.msn.com
 g11v.prd.ads.aws.fwmrm.net
 g17media.com
@@ -1728,7 +1692,6 @@ geotrust.com
 geschenkidee-dk.arc.epoq.de
 gestyy.com
 get-express-vpn.com
-get.untangle.com
 get.x-link.pl
 getadmiral.com
 getblueshift.com
@@ -1759,10 +1722,8 @@ gm99.com
 gmx.ch
 go-mpulse.net
 go-mpulse.net.edgekey.net
-go.addigy.com
 go.cerner.com
 go.madmimi.com
-go.mybusinessacademy.ph
 go.neverware.com
 go.nordvpn.net
 go.pardot.com
@@ -2125,10 +2086,8 @@ indiaeasytrip.com
 indystar.com
 inedo.com
 inference.location.live.net
-info.affirm.com
 info.lgsmartad.com
 infolink.pavv.co.kr
-infonline.de
 informer.com
 informer.yandex.ru
 informz.net
@@ -2163,7 +2122,6 @@ involve.asia
 inx.lv
 ioam.de
 iolam.it
-ios.nccp.netflix.com
 iotcplatform.com
 iovation.com
 ip-adress.com
@@ -2184,7 +2142,6 @@ ipla.hit.stat24.com
 iplist.cc
 ipm-provider.ff.avast.com
 ipoker.com
-iponweb.net
 ipqualityscore.com
 ipredictive.com
 ipstack.com
@@ -2258,6 +2215,7 @@ kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
 kisshentai.net
+kiwifarms.net
 klarnaservices.com
 klaviyo.com
 klclick.com
@@ -2284,7 +2242,6 @@ l2.io
 l3.evidon.com
 lads.myspacecdn.com
 lapauseyogachaud.com
-launchdarkly.com
 launches.appsflyer.com
 launchpadlibrarian.net
 laureus.com
@@ -2294,7 +2251,6 @@ lcprd2.samsungcloudsolution.net
 leadpages.net
 leakix.net
 leanplum.com
-learn.cisecurity.org
 lelibrair.fr
 lemonparty.biz
 lemonparty.org
@@ -2433,7 +2389,6 @@ market.mi-img.com
 market.xiaomi.com
 marketing.tr.netsalesmedia.pl
 marketingautomation.services
-marketingcloudapis.com
 marketingplatform.google.com
 marketingprofs.com
 marketo.com
@@ -2477,7 +2432,6 @@ meizu.com
 meltwater.com
 merchant.wgiftcard.com
 merryholidays.org
-message.sp-prod.net
 messagemedia.com
 met2.hp.com
 metaffiliation.com
@@ -2540,7 +2494,6 @@ mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 mobileandroidapi.punchh.com
 mobileiosapi.punchh.com
-mobilenetworkscoring-pa.googleapis.com
 mobilepartner.avcdn.net.edgekey.net
 mobilesdk-us.kampyle.com
 mobilityware.com
@@ -2648,8 +2601,6 @@ ngrok.io
 nibis.de
 nic.ad.jp
 nicequest.com
-nielsencollections.com
-nile.works
 nimiq.com
 nitrogensports.eu
 njih.net
@@ -2695,7 +2646,6 @@ odinpc.com
 oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 offers-api.cliqz.com
-officiel-des-vacances.eulerian.net
 ogury.io
 ogusers.com
 oilandgaseng.com
@@ -2736,7 +2686,6 @@ onlinebanking.standardbank.co.za
 onlinepbx.ru
 onthe.io
 ooyala.com
-ooyala.com.akadns.net
 opecloud.com
 open.spotify.com
 opencre.fr
@@ -2811,7 +2760,6 @@ pastie.org
 patatap.com
 pavtube.com
 pavv.co.kr
-paydirekt-de01.wt-eu02.net
 paypal-carregamento.pt
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
@@ -2836,9 +2784,7 @@ phicdn.net
 phonearena.com
 phonejapan.com
 phs.tanx.com
-pi-ue1.pardot.com
 pi.pardot.com
-pi.t.pardot.com
 piano.io
 pic.pic-img.com
 pidorg.ru
@@ -2999,7 +2945,6 @@ r.orange.fr
 r.sg.sec.miui.com
 r1.ykimg.com
 r2.computerbild.de
-r2.ea.eulerian.net
 r20.rs6.net
 r42tag.com
 radarsubmissions.apple.com
@@ -3098,7 +3043,6 @@ s.dolphincdn.xyz
 s.fwmrm.net
 s.gateway.messenger.live.com
 s.go-mpulse.net
-s.gycs.b.yahoodns.net
 s.media-imdb.com
 s.ndemiccreations.com
 s.shopify.com
@@ -3129,7 +3073,6 @@ s6.exct.net
 s7.addthis.com
 s7.exct.net
 s8.addthis.com
-s868742820.hs.eloqua.com
 sa.bbc.co.uk
 saa.cbsi.com
 sabre.com
@@ -3239,8 +3182,6 @@ sendinblue.com
 sendpulse.com
 sendsay.ru
 sensic.net
-sentry-cdn.com
-sentry.io
 seqent.com
 serials.ws
 serve.adtrackers.net
@@ -3255,7 +3196,6 @@ settings.data.microsoft.com
 sf16-muse-va.ibytedtos.com
 sf6-ttcdn-tos.pstatp.com
 sfdict.com
-sfr.eulerian.net
 sfsapi.micloud.xiaomi.net
 sgiz.mobi
 sgizmo.com
@@ -3486,7 +3426,6 @@ syndication.twimg.com
 syndication.twitter.com
 sypi.gpshopper.com
 systweak.com
-sz.eulerian.net
 t.adcell.com
 t.appsflyer.com
 t.eloqua.com
@@ -3508,7 +3447,6 @@ t23.intelliad.de
 t7.baidu.com
 tabac-info-service.fr
 taboola.com
-taboola.map.fastly.net
 tag.aticdn.net
 tag.aticdn.net.edgekey.net
 tag.getdrip.com
@@ -3615,7 +3553,6 @@ track.adform.net
 track.adtraction.com
 track.bpost.be
 track.canva.com
-track.cj.akadns.net
 track.customer.io
 track.effiliation.com
 track.flexlinkspro.com
@@ -3718,7 +3655,6 @@ uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
 umwatsonc.events.data.microsoft.com
-unagi-na.amazon.com
 unagi.amazon.com
 unbi.ba
 unikrn.com
@@ -3774,7 +3710,6 @@ userreport.com
 users.atw.hu
 users.on.net
 users.telenet.be
-uservoice.com
 ust.chatango.com
 utility.rogersmedia.com
 utopia-suites.com
@@ -3839,7 +3774,6 @@ vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
 voxmedia.com
-vps.eulerian.net
 vr-banking-app.de
 vuduweb.s.llnwi.net
 vwdservices.com
@@ -3942,7 +3876,6 @@ ws.batch.com
 ws.mmstat.com
 wsapi-global.master.live
 wshifen.com
-wsimg.com
 wss.analyticacdn.com
 wt-eu02.net
 wurfl.io
@@ -3952,11 +3885,8 @@ www-cultofmac-com.ezoic.net
 www-googletagmanager.l.google.com
 www1.amnhealthcare.com
 www2.pardot.com
-www2.primecreative.com.au
 www3.bloomingdales.com
 www3.webhostingtalk.com
-www4.orangecyberdefense.com
-www5.untangle.com
 x.co
 x0.ifengimg.com
 x3-policy-maker.goguardian.com
@@ -4008,14 +3938,12 @@ zdbb.net
 zee.cws.conviva.com
 zenaps.com
 zencdn.net
-zendesk.com
 zeptolab.com
 ziffdavis.com
 ziffdavisinternational.com
 zipansion.com
 zkcdn.net
 zmctrack.net
-zobj.net
 zombo.com
 zopim.com
 zverokruh-shop.cz
