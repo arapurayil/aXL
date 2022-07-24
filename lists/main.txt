@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.23
-# Last modified: 23 Jul 2022 16:06:28 UTC
+# Version: 3.07.24
+# Last modified: 24 Jul 2022 00:36:08 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -912,7 +912,6 @@ ads.talkbusiness.net
 ads.twitter.com
 ads280dummy2.com
 adsafeprotected.com
-adsafety.net
 adschemist.com
 adservice.google.ac
 adservice.google.ad
@@ -1152,7 +1151,6 @@ adservice.google.ws
 adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
-adservicemedia.dk
 adshell.net
 adshostnet.com
 adsl-service-providers.net
@@ -4273,6 +4271,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -7739,6 +7738,7 @@ de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
 dealabs.digidip.net
+dealer.com
 dealersocket.com
 deals.breitbart.com
 deals.macupdate.com
@@ -7998,7 +7998,6 @@ digirati.com.br
 digital.gov
 digital.noorbank.com
 digital.peoplesbank.lk
-digitaladvisor.dk
 digitalassetlinks.googleapis.com
 digitalcameras.engadget.com
 digitalcanvas.com
@@ -8789,7 +8788,6 @@ efbank.com.jo
 efbank.ru
 efectivo.bnc.com.ve
 eff.org
-effiliation.com
 effinghamanimalhospital.com
 efggroup.com
 efirstbank.com
@@ -9289,7 +9287,6 @@ events.release.narrativ.com
 events.split.io
 everbank.com
 everest.castbox.fm
-everesttech.net
 everettbank.com
 evergage.com
 evergreenbanking.com
@@ -9354,7 +9351,6 @@ eximbank.gov.tr
 eximbank.ro
 eximbankindia.com
 exist.ru
-exosrv.com
 exoticbirdhospital.com
 expbl2ro.xbox.com
 expedia.com
@@ -10572,7 +10568,6 @@ g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.cn
 g.co
-g.doubleclick.net
 g.download.windowsupdate.com.c.footprint.net
 g.ezoic.net
 g.ign.com
@@ -13441,7 +13436,6 @@ inteligo.pl
 intelink.gov
 intellectmoney.ru
 intelleq.net
-intelliad.de
 inter.com.ve
 inter.net
 inter.youdao.com
@@ -15656,7 +15650,6 @@ marienkrankenhausstwendel.de
 marienstift-braunschweig.de
 marinebankers.org
 marinetraffic.com
-marinsm.com
 maritimebank.com
 maritimesavings.com
 mark.isbank.com.tr
@@ -16177,7 +16170,6 @@ metacdn.com
 metacritic.com
 metactrl.com
 metadefender.com
-metaffiliation.com
 metalflirt.de
 metallinvestbank.com
 metaxa-hospital.gr
@@ -16431,11 +16423,8 @@ mkt41.net
 mkt51.net
 mkt61.net
 mkt6385.com
-mkt71.net
 mkt7185.com
 mkt7839.com
-mkt81.net
-mkt91.net
 mktcloud.c.huawei.com
 mktoedge.com
 mktossl.com
@@ -17220,6 +17209,7 @@ nesn.com
 nest.com
 net-s.pl
 net.au
+net.cdn.ezoic.net
 net.edgekey.net
 net.geo.opera.com
 net.kentbank.hr
@@ -18918,6 +18908,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -19714,7 +19705,6 @@ public.sandbox.pro.coinbase.com
 public.sn.files.1drv.com
 public.vilynx.com
 publicbank.com.my
-publicidees.com
 publicsuffix.org
 publish.adobe.com
 publisher-assets.spot.im
@@ -21100,7 +21090,6 @@ salesforce.com
 salesforceliveagent.com
 salesiq.zoho.com
 salesloft.com
-salesmanago.pl
 saliterbank.de
 salk.at
 sallingbank.dk
@@ -21751,7 +21740,6 @@ services.syndicaster.tv
 services.triton.net
 services.vip.symantec.com
 services.zam.com
-serving-sys.com
 servint.com
 servint.net
 servis24.cz
@@ -23478,7 +23466,6 @@ stopalcoholabuse.gov
 stopfraud.gov
 stopklatka.pl
 stopmortgagefraud.com
-storage.cloud.google.com
 storage.engadget.com
 storage.googleapis.com
 storage.l.googleusercontent.com
@@ -23537,6 +23524,7 @@ stpatrickhospital.org
 stpetes.org
 stptrisakti.ac.id
 str.hit.gemius.pl
+stracking.zalopay.vn
 straitstimes.com
 strangled.net
 strat.ru
