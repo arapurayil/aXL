@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.25
-# Last modified: 25 Jul 2022 00:37:16 UTC
+# Last modified: 25 Jul 2022 08:08:29 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4258,6 +4258,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -9066,6 +9067,7 @@ ereg.wip3.adobe.com
 eren.chia-anime.tv
 erewash.gov.uk
 erfurter-bank.de
+ergo.flypool.org
 ergobank.ru
 erky.de
 erlabrunn.de
@@ -9651,6 +9653,7 @@ ffbnk.com
 ffbonline.com
 ffbtn.com
 ffc-icons.oobesaas.adobe.com
+ffconf.ecbsn.com
 ffdns.net
 fff.re
 fff.to
@@ -9978,6 +9981,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flow.page
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
@@ -18841,6 +18845,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
