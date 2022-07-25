@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Jul 2022 16:07:08 UTC
+# Last modified: 25 Jul 2022 00:37:16 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -700,6 +700,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1255,6 +1256,7 @@ dns.weixin.qq.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 docs.bugsnag.com
+docs.google.com
 docsdermgroup.com
 doh.dns.sb
 dolphincdn.xyz
@@ -1370,6 +1372,7 @@ epsilon.com
 eq.10jqka.com.cn
 ereg.adobe.com
 ereg.wip3.adobe.com
+ergo.flypool.org
 error.fc2.com
 es.wowhead.com
 esd.icloseli.com
@@ -1449,6 +1452,7 @@ feature.fm
 feedblitz.com
 fembed.com
 femto.pw
+ffconf.ecbsn.com
 ffdns.net
 fidelity.com.edgekey.net
 file.igamecj.com
@@ -1474,6 +1478,7 @@ flirt.com
 flix360.com
 flixaddict.com
 flocktory.com
+flow.page
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -1513,6 +1518,7 @@ footprints-pa.googleapis.com
 force.com
 forexprostools.com
 formcrafts.com
+forms.gle
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -2029,7 +2035,6 @@ ipredictive.com
 ipstack.com
 iraiser.eu
 ironbeast.io
-is.gd
 is.snssdk.com
 isgprivacy.cbsi.com
 islandmob.com
@@ -2615,6 +2620,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3445,6 +3451,7 @@ uniregistry.com
 unity.com
 unity3d.com
 unity3d.com.edgekey.net
+unmineable.com
 up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
