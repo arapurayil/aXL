@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.26
-# Last modified: 26 Jul 2022 08:07:52 UTC
+# Last modified: 26 Jul 2022 16:07:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -17286,7 +17286,6 @@ newsletterind.huawei.com
 newsletters.bancsabadell.com
 newsletters.nationalgeographic.com
 newsletters.vox.com
-newslink.reuters.com
 newsouthfederal.com
 newsroom.fb.com
 newsroom.pinterest.com
@@ -24923,7 +24922,6 @@ umweltbank.de
 un.org
 unagi-eu.amazon.com
 unagi-na.amazon.com
-unagi.amazon.com
 unb.co.ae
 unbank.com
 unbi.ba

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Jul 2022 08:07:51 UTC
+# Last modified: 26 Jul 2022 16:07:22 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -551,7 +551,6 @@ api.newrelic.com
 api.nfl.com
 api.opinary.com
 api.parsely.com
-api.playgendary.com
 api.privacy-center.org
 api.quantcast.mgr.consensu.org
 api.revenuecat.com
@@ -575,9 +574,9 @@ api16-access-sg.pangle.io
 api2.branch.io
 api3.siftscience.com
 apidq.punchh.com
-apien.ldmnq.com
 apilocate.amap.com
 apis.com.br
+apiservices.krxd.net
 apituner.ecbsn.com
 apmebf.com
 aporasal.net
@@ -768,7 +767,6 @@ browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bstats.org
 bsv.atm.youku.com
-btguard.com
 btstatic.com
 bttn.io
 budurl.com
@@ -861,7 +859,6 @@ cdn.gigya.com
 cdn.gladly.com
 cdn.gotraffic.net
 cdn.hockeyapp.net
-cdn.http.anno.channel4.com
 cdn.iubenda.com
 cdn.krxd.net
 cdn.levelaccess.net
@@ -892,7 +889,6 @@ cdn.tinypass.com
 cdn.transifex.com
 cdn.viafoura.net
 cdn.vidible.tv
-cdn.webclicks24.com
 cdn.wootric.com
 cdn.ziffstatic.com
 cdn1.ettoday.net
@@ -900,7 +896,6 @@ cdn1.smartadserver.com
 cdn2.cache.vn
 cdn3.optimizely.com
 cdna.clicktale.net
-cdnbcvc.com
 cdngc.net
 cdnjs.tvpage.com
 cdns-content.dzcdn.net
@@ -1048,7 +1043,6 @@ connatix.com
 connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
-connect.ok.ru
 connect.rom.miui.com
 connect.scroll.com
 connectbot.org
@@ -1232,7 +1226,6 @@ digidip.net
 diginetica.net
 digitalsmiths.net
 digits.com
-display.ugc.bazaarvoice.com
 disquscdn.com
 ditto.com
 djtflbt20bdde.cloudfront.net
@@ -1448,7 +1441,6 @@ femto.pw
 ffconf.ecbsn.com
 ffdns.net
 fidelity.com.edgekey.net
-file.igamecj.com
 file.market.xiaomi.com
 file2fxm.azureedge.net
 filehorse.com
@@ -1550,7 +1542,6 @@ g11v.prd.ads.aws.fwmrm.net
 g17media.com
 g3.s.fwmrm.net
 gall.dcinside.com
-game-portal.gameloft.com
 game.baidu.com
 game.qq.com
 game.weibo.com
@@ -1593,7 +1584,6 @@ geolocation.daznservices.com
 geolocation.onetrust.com
 georiot.com
 geotrust.com
-geschenkidee-dk.arc.epoq.de
 gestyy.com
 get-express-vpn.com
 get.x-link.pl
@@ -1603,7 +1593,6 @@ getdrip.com
 getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
-gfx.ms
 ghostery.com
 ghosthis.review
 gia.jd.com
@@ -1679,7 +1668,6 @@ gscounters.us1.gigya.com
 gsp0.baidu.com
 gstatic.com
 gstaticadssl.l.google.com
-gtms02.alicdn.com
 gtop100.com
 gtssl2-ocsp.geotrust.com
 guanjia.qq.com
@@ -2671,7 +2659,6 @@ pof.com
 point-of-entry.com
 pokerstrategy.com
 policy.app.cookieinformation.com
-policy.cookieinformation.com
 polyfill.io
 poneytelecom.eu
 pop-iad-2.cf.dash.row.aiv-cdn.net
@@ -2735,7 +2722,6 @@ pumppazh.com
 purch.com
 push.notifica.re
 push.rollout.io
-push.yandex.ru
 pushbullet.com
 pusher.com
 pusherapp.com
@@ -3036,7 +3022,6 @@ sinajs.cn
 sinematurk.com
 singular.net
 sinlix.lk
-sitecheck.opera.com
 siteheart.com
 siteplug.com
 sitereview.zscaler.com
@@ -3047,7 +3032,6 @@ skimlinks.com
 skimresources.com
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
-sleeknotestaticcontent.sleeknote.com
 sls.update.microsoft.com.akadns.net
 smallseotools.com
 smart.link
