@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Jul 2022 00:35:27 UTC
+# Last modified: 26 Jul 2022 08:07:51 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -865,7 +865,6 @@ cdn.http.anno.channel4.com
 cdn.iubenda.com
 cdn.krxd.net
 cdn.levelaccess.net
-cdn.livechatinc.com
 cdn.livefyre.com
 cdn.membershipworks.com
 cdn.mplxtms.com
@@ -1604,6 +1603,7 @@ getdrip.com
 getpublica.com
 gfe.nvidia.com
 gfwsl.geforce.com
+gfx.ms
 ghostery.com
 ghosthis.review
 gia.jd.com
@@ -2429,7 +2429,6 @@ news.smi2.ru
 newsbreak.com
 newsletter.bdnews24.com
 newsletters.bancsabadell.com
-newslink.reuters.com
 newtonpaiva.br
 nextplatform.com
 nexus.ensighten.com
@@ -3432,7 +3431,6 @@ uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
 umwatsonc.events.data.microsoft.com
-unagi.amazon.com
 unbi.ba
 unikrn.com
 uniregistry.com

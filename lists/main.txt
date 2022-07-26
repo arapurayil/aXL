@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.26
-# Last modified: 26 Jul 2022 00:35:27 UTC
+# Last modified: 26 Jul 2022 08:07:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2108,7 +2108,6 @@ amco-bank.com
 amcore.com
 amd.cdn.turner.com
 amd.com
-amdc.alipay.com
 amdc.m.taobao.com
 ameblo.jp
 amedigital.com
@@ -6968,6 +6967,7 @@ content-storage-upload.googleapis.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
+content.eaton.com
 content.erabu.sonymobile.com
 content.force.com
 content.googleapis.com
@@ -7322,7 +7322,6 @@ csoindia.org
 csosa.gov
 csp.int-x3.letsencrypt.org.edgesuite.net
 csp.medium.com
-csp.withgoogle.com
 cspb.com
 csr.integration.viber.com
 css.gbtcdn.com
@@ -7496,7 +7495,6 @@ d2zah9y47r7bi2.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d36eyd5j1kt1m6.cloudfront.net
-d37gvrvc0wt4s1.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
@@ -7682,7 +7680,6 @@ dcf.espn.com
 dchsystem.com
 dcinside.com
 dcms.1688.com
-dcp.dc1.philips.com
 dcrypt.it
 dcs-vod.apis.anvato.net
 dcs.audi.com
@@ -7794,6 +7791,7 @@ dependanet.com
 depfa.de
 deploy.static.akamaitechnologies.com
 depot.xda-developers.com
+derat.nl
 deravahlava.sk
 des.gbtcdn.com
 desertspringshospital.net
@@ -8871,6 +8869,7 @@ elmirasavingsbank.com
 elmundo.es
 elo.com.br
 eloqua.com
+eloqua.pearsonvue.com
 elpais.com
 elpis.gr
 elsalvador.com
@@ -9066,7 +9065,6 @@ ereg.wip3.adobe.com
 eren.chia-anime.tv
 erewash.gov.uk
 erfurter-bank.de
-ergo.flypool.org
 ergobank.ru
 erky.de
 erlabrunn.de
@@ -9980,7 +9978,6 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
-flow.page
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
@@ -10679,7 +10676,6 @@ gdata.youtube.com
 gdb-pur.com
 gdbc.net
 gdcsite.cdnsrv.jio.com
-gdpr-tcfv2.sp-prod.net
 gds-vhs-drops-campaign-images.twitch.tv
 gds.mmstat.com
 gdwbank.com
@@ -11293,7 +11289,6 @@ googlesource.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-googletraveladservices.com
 googleusercontent.com
 googlevideo.com
 googleweblight.com
@@ -11877,7 +11872,6 @@ hirslanden.ch
 hisense.com
 hispanito.com
 history.com
-history.google.com
 history.paypal.com
 hit.bg
 hit.gemius.pl
@@ -12097,7 +12091,6 @@ hp.demdex.net
 hpcloud.hp.com
 hpcloud.hp.net
 hpg.com.br
-hpool.in
 hptu.org.co
 hqq.to
 hqq.tv
@@ -16163,7 +16156,6 @@ mfsbank.com
 mgas.prod.public.atl-paas.net
 mgr.consensu.org
 mhos.de
-mhthemes.com
 mhtr.be
 mi.com
 mi.edgekey.net
@@ -16610,6 +16602,7 @@ movies.netflix.com
 moviesanywhere.com
 moviestarplanet.com
 moviestarplanet.de
+movil.bbva.es
 mozcom.com
 mozilla.cloudflare-dns.com
 mozilla.com
@@ -17773,6 +17766,7 @@ oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
 objectstorage.eu-marseille-1.oraclecloud.com
+objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
@@ -18718,7 +18712,6 @@ paymo.ru
 paymybills.com
 payonlinesystem.com
 payouts.payoneer.com
-paypal-carregamento.pt
 paypal-communication.com
 paypal-community.com
 paypal-customerfeedback.com
@@ -25274,7 +25267,6 @@ usefathom.com
 useinsider.com
 usenix.org
 user.binance.com
-user.fm
 useraction.zee5.com-v2.edgekey.net
 userapi.com
 userapi.zee5.com-v4.edgekey.net
@@ -25310,7 +25302,6 @@ usphs.gov
 uspis.gov
 usps.com
 usps.gov
-ust.chatango.com
 ustream.tv
 ustreas.gov
 ustrust.com
@@ -25408,8 +25399,6 @@ vandelaydesign.com
 vanguard.com
 vanilla.futurecdn.net
 vanlanschot.nl
-vapi.apk.v-mate.mobi
-vapi.apk.vidmate.net
 varengold.de
 variety.com
 vas.samsungapps.com
@@ -26894,6 +26883,7 @@ wormgush.com
 worthingtonhospital.com
 woshipm.com
 wouldyouhitthis.com
+wow.link
 wowhead.com
 wowhost.us
 wownero.herominers.com
@@ -27572,7 +27562,6 @@ zwift.com
 zwigge.de
 zxq.net
 zymic.com
-zynga.com
 zyngawithfriends.com
 zytpirwai.net
 zyva.org
