@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Jul 2022 16:07:20 UTC
+# Last modified: 26 Jul 2022 00:35:27 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -479,7 +479,6 @@ altmetric.com
 amap.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
-amdc.alipay.com
 amdc.m.taobao.com
 amospalla.es
 ampcid.google.com
@@ -497,7 +496,6 @@ analytics.robinhood.com
 analytics.tripwireinteractive.com
 analytics.twitter.com
 android.bugly.qq.com
-androidapi.mxplay.com
 androidtvwatsonfe-pa.googleapis.com
 andronova.net
 anexia-it.com
@@ -1067,6 +1065,7 @@ consentmanager.net
 console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.eaton.com
 content.jwplatform.com
 contents.fc2.com
 continuum.dds.microsoft.com
@@ -1116,7 +1115,6 @@ cs491.wac.edgecastcdn.net
 cse.google.com
 csgolounge.com
 csi.gstatic.com
-csp.withgoogle.com
 cst.cstwpush.com
 cstwpush.com
 ct.pinterest.com
@@ -1173,7 +1171,6 @@ d2r1yp2w7bby2u.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d36eyd5j1kt1m6.cloudfront.net
-d37gvrvc0wt4s1.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
@@ -1207,7 +1204,6 @@ datawrapper.de
 db5.vortex.data.microsoft.com.akadns.net
 dcf.espn.com
 dcms.1688.com
-dcp.dc1.philips.com
 dcs.audi.com
 de.ioam.de
 dealabs.digidip.net
@@ -1216,6 +1212,7 @@ deals.macupdate.com
 dedicated.domains
 delivery.vidible.tv
 demdex.net
+derat.nl
 detectportal.firefox.com
 detroithardcore.com
 dev-multiscreen.samsung.com
@@ -1249,13 +1246,11 @@ dlied6.qq.com
 dmd.metaservices.microsoft.com
 dmm.co.jp
 dns.digitale-gesellschaft.ch
-dns.msftncsi.com
 dns.twnic.tw
 dns.weixin.qq.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 docs.bugsnag.com
-docs.google.com
 docsdermgroup.com
 doh.dns.sb
 dolphincdn.xyz
@@ -1340,6 +1335,7 @@ elb.us-west-1.amazonaws.com
 elblogdelnarco.com
 ellation.map.fastly.net
 eloqua.com
+eloqua.pearsonvue.com
 elvenar.com
 em.bm23.com
 em.dynamicyield.com
@@ -1371,7 +1367,6 @@ epsilon.com
 eq.10jqka.com.cn
 ereg.adobe.com
 ereg.wip3.adobe.com
-ergo.flypool.org
 error.fc2.com
 es.wowhead.com
 esd.icloseli.com
@@ -1477,7 +1472,6 @@ flirt.com
 flix360.com
 flixaddict.com
 flocktory.com
-flow.page
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -1517,7 +1511,6 @@ footprints-pa.googleapis.com
 force.com
 forexprostools.com
 formcrafts.com
-forms.gle
 forter.com
 fota5.adups.com
 fota5db.adups.com
@@ -1574,7 +1567,6 @@ gb.lgtvsdp.com
 gb.rdx2.lgtvsdp.com
 gc.zgo.at
 gcp-prod-md.apptimize.com
-gdpr-tcfv2.sp-prod.net
 gds.mmstat.com
 gecko-sg.byteoversea.com
 geller-pa.googleapis.com
@@ -1659,7 +1651,6 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-googletraveladservices.com
 googleusercontent.com
 googlezip.net
 gopjn.com
@@ -1688,10 +1679,7 @@ gscounters.us1.gigya.com
 gsp0.baidu.com
 gstatic.com
 gstaticadssl.l.google.com
-gtms01.alicdn.com
 gtms02.alicdn.com
-gtms03.alicdn.com
-gtms04.alicdn.com
 gtop100.com
 gtssl2-ocsp.geotrust.com
 guanjia.qq.com
@@ -1747,7 +1735,6 @@ heraldm.com
 here.com
 heymistr.com
 hiperdex.com
-history.google.com
 hit.bg
 hit.gemius.pl
 hit.interia.pl
@@ -1777,7 +1764,6 @@ hotelscombined.com.au
 houndify.com
 howsmyssl.com
 hp.demdex.net
-hpool.in
 hs-scripts.com
 hs.eloqua.com
 hscoscdn20.net
@@ -2048,6 +2034,7 @@ iubenda.com
 iww.ca
 izatcloud.net
 j.gs
+j.mp
 jabu.edu.ng
 jackjones.com
 jackpot.com
@@ -2170,6 +2157,7 @@ liveupdate.mac.sandai.net
 ljudochbild.se
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
+lnkd.in
 lnks.gd
 loadercdn.com
 locallogic.co
@@ -2243,7 +2231,6 @@ mandrillapp.com
 manga-news.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
-manifest.auditude.com
 mantruckandbus.com
 map.baidu.com
 map.qq.com
@@ -2306,7 +2293,6 @@ metrics-k.wbx2.com
 metrics.claspws.tv
 metrics.plex.tv
 mgr.consensu.org
-mhthemes.com
 mhtr.be
 miaozhen.atm.youku.com
 micloud.xiaomi.net
@@ -2367,6 +2353,7 @@ monitor.azure.com
 monitor.clickcease.com
 mopinion.com
 movable-ink-397.com
+movil.bbva.es
 mp.twitch.tv
 mp.weixin.qq.com
 mparticle.com
@@ -2491,6 +2478,7 @@ o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
 objectstorage.eu-marseille-1.oraclecloud.com
+objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 ocsp.apple.com
 octafx.com
@@ -2608,7 +2596,6 @@ pastie.org
 patatap.com
 pavtube.com
 pavv.co.kr
-paypal-carregamento.pt
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
@@ -3429,6 +3416,7 @@ twisto.cz
 typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
+u.to
 ublock.org
 uc.r.appspot.com
 uca.cloud.unity3d.com
@@ -3451,7 +3439,6 @@ uniregistry.com
 unity.com
 unity3d.com
 unity3d.com.edgekey.net
-unmineable.com
 up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
@@ -3488,11 +3475,9 @@ us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
 usage.trackjs.com
-use.typekit.com
 use.typekit.net
 usebutton.com
 useinsider.com
-user.fm
 usercentrics.com
 usercentrics.eu
 userleap.com
@@ -3500,7 +3485,6 @@ userreport.com
 users.atw.hu
 users.on.net
 users.telenet.be
-ust.chatango.com
 utility.rogersmedia.com
 utopia-suites.com
 v.fwmrm.net
@@ -3515,8 +3499,6 @@ v3cdn.net
 v4.ident.me
 va.tawk.to
 vanilla.futurecdn.net
-vapi.apk.v-mate.mobi
-vapi.apk.vidmate.net
 vbsedit.com
 vcdn.biz
 vd.l.qq.com
@@ -3643,6 +3625,7 @@ wootric.com.herokudns.com
 wordstream.com
 worldssl.net
 wormgush.com
+wow.link
 wp-stat.s3.amazonaws.com
 wpc.v0cdn.net
 wpdigital.net
@@ -3722,6 +3705,5 @@ zkcdn.net
 zmctrack.net
 zopim.com
 zverokruh-shop.cz
-zynga.com
 zyngawithfriends.com
 zzb.bz

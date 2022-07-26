@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.25
-# Last modified: 25 Jul 2022 16:07:20 UTC
+# Version: 3.07.26
+# Last modified: 26 Jul 2022 00:35:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4258,7 +4258,6 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -12098,6 +12097,7 @@ hp.demdex.net
 hpcloud.hp.com
 hpcloud.hp.net
 hpg.com.br
+hpool.in
 hptu.org.co
 hqq.to
 hqq.tv
@@ -18845,7 +18845,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -22715,6 +22714,7 @@ spec.radeant.com
 specialty-hospital.com
 spectre.twitch.tv
 spectrocoin.com
+speed-dates.pl
 speed4up.com
 speedbit.com
 speednames.com
