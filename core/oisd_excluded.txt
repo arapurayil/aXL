@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Jul 2022 08:10:05 UTC
+# Last modified: 27 Jul 2022 16:08:42 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1205,7 +1205,6 @@ deals.macupdate.com
 dedicated.domains
 delivery.vidible.tv
 demdex.net
-derat.nl
 detectportal.firefox.com
 detroithardcore.com
 dev-multiscreen.samsung.com
@@ -1510,7 +1509,6 @@ fota5s.adups.com
 fota5t.adups.com
 fota5tbk.adups.com
 fourier.taobao.com
-fp.msedge.net
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
 fra-01.braze.eu
@@ -1961,7 +1959,6 @@ inmoment.com
 inq.com
 inquisition.goguardian.com
 inside-graph.com
-insideruser.trafficmanager.net
 insight.rapid7.com
 insightexpress.com
 insightexpressai.com
@@ -2022,7 +2019,6 @@ iubenda.com
 iww.ca
 izatcloud.net
 j.gs
-j.mp
 jabu.edu.ng
 jackjones.com
 jackpot.com
@@ -2145,7 +2141,6 @@ liveupdate.mac.sandai.net
 ljudochbild.se
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
-lnkd.in
 lnks.gd
 loadercdn.com
 locallogic.co
@@ -2416,7 +2411,6 @@ news.ebc.net.tw
 news.smi2.ru
 newsbreak.com
 newsletter.bdnews24.com
-newsletters.bancsabadell.com
 newtonpaiva.br
 nextplatform.com
 nexus.ensighten.com
@@ -2465,7 +2459,6 @@ o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
 objectstorage.eu-marseille-1.oraclecloud.com
-objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 ocsp.apple.com
 octafx.com
@@ -2640,7 +2633,6 @@ platform.linkedin.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
-plausible.eurostocks.nl
 plausible.io
 player-feedback-v1.glomex.com
 player.daznservices.com
@@ -3400,7 +3392,6 @@ twisto.cz
 typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
-u.to
 ublock.org
 uc.r.appspot.com
 uca.cloud.unity3d.com
