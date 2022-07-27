@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Jul 2022 16:07:22 UTC
+# Last modified: 27 Jul 2022 00:36:05 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -2849,6 +2849,7 @@ s.fwmrm.net
 s.gateway.messenger.live.com
 s.go-mpulse.net
 s.media-imdb.com
+s.search.naver.com
 s.shopify.com
 s.swiftypecdn.com
 s.thebrighttag.com

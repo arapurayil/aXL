@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.26
-# Last modified: 26 Jul 2022 16:07:22 UTC
+# Version: 3.07.27
+# Last modified: 27 Jul 2022 00:36:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2569,7 +2569,6 @@ api.peer5.com
 api.perfalytics.com
 api.pinterest.com
 api.pinterest.com.gslb.pinterest.com
-api.playgendary.com
 api.pluto.tv
 api.post.adobe.com
 api.preprod.vudu.com
@@ -2694,7 +2693,6 @@ api4.origin.com
 api5.origin.com
 apicache.vudu.com
 apidq.punchh.com
-apien.ldmnq.com
 apihub.daum.net
 apilocate.amap.com
 apimobile.lifelog.sonymobile.com
@@ -5011,7 +5009,6 @@ btcc.com
 btconnect.com
 btgpactual.com
 btgpactualdigital.com.br
-btguard.com
 btinternet.com
 btm.co.jp
 btn.co.id
@@ -5717,7 +5714,6 @@ cdn.gsmarena.com
 cdn.heapanalytics.com
 cdn.hide.me
 cdn.hockeyapp.net
-cdn.http.anno.channel4.com
 cdn.images.dailystar.co.uk
 cdn.imgwzzmb.net
 cdn.iubenda.com
@@ -5813,7 +5809,6 @@ cdn.vtwonen.nl
 cdn.vuukle.com
 cdn.w3schools.com
 cdn.walkme.com
-cdn.webclicks24.com
 cdn.wetest.qq.com
 cdn.whatsapp.net
 cdn.wololo.net
@@ -5852,7 +5847,6 @@ cdn9.es.digitaltrends.com
 cdna.clicktale.net
 cdnapi.kaltura.com
 cdnapisec.kaltura.com
-cdnbcvc.com
 cdne.gearsofwar.xbox.com
 cdnetworks.com
 cdngc.net
@@ -10574,7 +10568,6 @@ gallica.bnf.fr
 galt.hit.gemius.pl
 galtensparekasse.dk
 game-blog.line.me
-game-portal.gameloft.com
 game.baidu.com
 game.chat.mi.com
 game.daum.net
@@ -10784,7 +10777,6 @@ geover-prod.dodsp.mp.microsoft.com.nsatc.net
 ger.cdn.survey.medallia.com
 german-banks.com
 gesangsunterricht-hh.de
-geschenkidee-dk.arc.epoq.de
 geshopcss.logsss.com
 gesichterparty.de
 gestyy.com
@@ -19189,7 +19181,6 @@ pokerstrategy.com
 polarnet.ru
 polgaribank.hu
 policy.app.cookieinformation.com
-policy.cookieinformation.com
 policy.naver.com
 policyandsafety.help.soundcloud.com
 poliklinika.kremenki.su
@@ -19667,7 +19658,6 @@ push.notifica.re
 push.rollout.io
 push.services.mozilla.com
 push.wps.cn
-push.yandex.ru
 push2.eastmoney.com
 pushbullet.com
 pushcrew.com
@@ -21931,7 +21921,6 @@ site.gravatar.com
 site5.com
 siteassets.parastorage.com
 siteburg.com
-sitecheck.opera.com
 sitecheck1.opera.com
 sitecheck2.opera.com
 sitecheck3.opera.com
@@ -22043,7 +22032,6 @@ slbm.ru
 slcb.com.lb
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
-sleeknotestaticcontent.sleeknote.com
 slickdeals.net
 slide.com
 slides.diigo.com
