@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.28
-# Last modified: 28 Jul 2022 00:31:26 UTC
+# Last modified: 28 Jul 2022 08:07:51 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -439,6 +439,7 @@ a.trellocdn.com
 a.union.mi.com
 a.wishabi.com
 a0.fr
+a1.adform.net
 a1.api.bbc.co.uk
 a1.mzstatic.com
 a1.sndcdn.com
@@ -8836,6 +8837,7 @@ elevationsbanking.com
 elevationscu.com
 elginfc.com
 elhospital.com
+elink.clickdimensions.com
 elion.ee
 elisabeth-krankenhaus-ge.de
 elisabeth-krankenhaus-kassel.de
@@ -16350,6 +16352,7 @@ mkt51.net
 mkt61.net
 mkt6385.com
 mkt7185.com
+mkt7543.com
 mkt7839.com
 mktcloud.c.huawei.com
 mktoedge.com
@@ -17934,6 +17937,8 @@ omb.gov
 ombs.co.za
 ombudsman.gov.tr
 omegafinancial.com
+ometria.com
+ometria.email
 omgubuntu.co.uk
 omn.sonypictures.com
 omni-grok.amazon.com
