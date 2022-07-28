@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Jul 2022 08:07:51 UTC
+# Last modified: 28 Jul 2022 16:07:45 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -128,7 +128,6 @@ ablinksuni.a.grubhub.com
 abload.de
 aboutads.info
 above.com
-abroad.apilocate.amap.com
 abtasty.com
 ac.duckduckgo.com
 accengage.com
@@ -604,7 +603,6 @@ appdynamics.com
 appier.com
 appletoolbox.com
 applicast.ga.sony.net
-application.axisbank.co.in
 appmetrica.yandex.com
 appmetrica.yandex.ru
 apps-pub.samsungcloudcdn.com
@@ -1002,6 +1000,7 @@ cloud.rovio.com
 cloud.unity3d.com
 cloudflareinsights.com
 clownsong.com
+club.quomodo.com
 cm.miaozhen.atm.youku.com
 cmail19.com
 cmail20.com
@@ -1465,6 +1464,7 @@ flirt.com
 flix360.com
 flixaddict.com
 flocktory.com
+flow.page
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -1762,6 +1762,7 @@ hsforms.net
 hsoub.com
 hspx.hotstar.com
 hsx.com
+ht.ly
 http-test1.luminatinet.com
 huangye.miui.com
 hubapi.com
@@ -2543,7 +2544,6 @@ p.d.0fmm.com
 p.d.0mme.com
 p.d.1enm.com
 p.d.rpts.org
-p.jwpcdn.com
 p.typekit.net
 p.typekit.net-v3.edgekey.net
 p.yotpo.com
@@ -2809,7 +2809,6 @@ resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
-restapi.amap.com
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
