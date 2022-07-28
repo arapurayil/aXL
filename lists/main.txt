@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.27
-# Last modified: 27 Jul 2022 16:08:42 UTC
+# Version: 3.07.28
+# Last modified: 28 Jul 2022 00:31:26 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7785,7 +7785,6 @@ dependanet.com
 depfa.de
 deploy.static.akamaitechnologies.com
 depot.xda-developers.com
-derat.nl
 deravahlava.sk
 des.gbtcdn.com
 desertspringshospital.net
@@ -13329,7 +13328,6 @@ insider.sonymobile.com
 insiderdownloads.ign.com
 insiderservice.microsoft.com
 insideruser.microsoft.com
-insideruser.trafficmanager.net
 insight.rapid7.com
 insightexpress.com
 insightexpressai.com
@@ -17757,7 +17755,6 @@ oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
 objectstorage.eu-marseille-1.oraclecloud.com
-objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
@@ -19058,7 +19055,6 @@ platipokarte.ru
 platiza.ru
 platron.ru
 platzi.com
-plausible.eurostocks.nl
 plausible.io
 play-asia.com
 play.app.goo.gl
