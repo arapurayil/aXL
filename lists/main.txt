@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.29
-# Last modified: 29 Jul 2022 00:33:18 UTC
+# Last modified: 29 Jul 2022 08:10:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2397,6 +2397,7 @@ api.accuweather.com
 api.actionbutton.co
 api.ad.xiaomi.com
 api.adguard.com
+api.adguard.org
 api.advista.no
 api.ai.xiaomi.com
 api.airfind.com
@@ -14908,6 +14909,7 @@ lineageoslog.com
 linebank.com.tw
 lineit.line.me
 lingeriediva.com
+link.adtidy.org
 link.dailycaller.com
 link.digitaladvisor.dk
 link.epicgames.com
@@ -23131,6 +23133,7 @@ static.actionbutton.co
 static.ada.support
 static.adguard.com
 static.adsafeprotected.com
+static.adtidy.org
 static.ah.nl
 static.ahold.com
 static.ak.connect.facebook.com

@@ -36,7 +36,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 61
+            "num_unblock_rules": 64
         },
         {
             "name": "AdguardTeam exclusions/sensitive",
