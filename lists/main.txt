@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.28
-# Last modified: 28 Jul 2022 16:07:45 UTC
+# Version: 3.07.29
+# Last modified: 29 Jul 2022 00:33:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2829,7 +2829,6 @@ applesfera.com
 applestoreus.112.2o7.net
 appletoolbox.com
 applicast.ga.sony.net
-application.axisbank.co.in
 apply.lg.com
 apply.techcrunch.com
 apply.wechat.com
@@ -6560,6 +6559,7 @@ clova.line.me
 clownsong.com
 clu.sonymobile.com
 club.huawei.com
+club.quomodo.com
 clubedohardware.com.br
 clublesbi.com
 clubpenguin.com
@@ -9973,6 +9973,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flow.page
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
