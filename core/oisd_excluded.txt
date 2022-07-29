@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Jul 2022 08:10:06 UTC
+# Last modified: 29 Jul 2022 16:07:20 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -696,6 +696,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -2593,6 +2594,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2716,6 +2718,7 @@ publitas.com
 pulsar.ebay.co.uk
 pulsar.ebay.com
 pulsar.ebay.de
+pulse360.com
 pumppazh.com
 purch.com
 push.notifica.re
