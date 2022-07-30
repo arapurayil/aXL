@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Jul 2022 08:07:19 UTC
+# Last modified: 30 Jul 2022 16:06:52 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -92,7 +92,6 @@ a1294.w20.akamai.net
 a1843.g.akamai.net
 a247c.playfabapi.com
 a248.e.akamai.net
-a8onlineshop.trendmicro.co.jp
 aa.online-metrix.net
 aan.amazon.com
 aax-cpm.amazon-adsystem.amazon.com
@@ -124,7 +123,6 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
-ablinksuni.a.grubhub.com
 abload.de
 aboutads.info
 above.com
@@ -330,7 +328,6 @@ adservice.google.dm
 adservice.google.dz
 adservice.google.ee
 adservice.google.es
-adservice.google.eu
 adservice.google.fi
 adservice.google.fm
 adservice.google.fr
@@ -512,7 +509,6 @@ aotter.net
 ap-northeast-1.elb.amazonaws.com
 ap-northeast-2.elb.amazonaws.com
 ap-southeast-1.elb.amazonaws.com
-ap.spotify.com
 apac1.notify.windows.com.akadns.net
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
@@ -593,7 +589,6 @@ app.market.xiaomi.com
 app.meltwater.com
 app.migc.xiaomi.com
 app.qq.com
-app.sephora.com
 app.usercentrics.eu
 app.wootric.com
 appboy-images.com
@@ -632,17 +627,13 @@ atatus.com
 atconnect.npo.nl
 atdmt.com
 atharori.net
-ati-a1.946d001b783803c1.xhst.bbci.co.uk
 atlassbx.com
 atomz.com
 atshop.io
 atspace.com
 att.com.edgekey.net
 attraqt.com
-audev.zeit.de
 audid-api.taobao.com
-audio-ak-spotify-com.akamaized.net
-audio-akp-spotify-com.akamaized.net
 audio4-ak.spotify.com.edgesuite.net
 auditude.com
 auscanforum.com
@@ -664,12 +655,10 @@ awstrack.me
 az416426.vo.msecnd.net
 azabu-u.ac.jp
 b.hatena.ne.jp
-b.koodomobile.com
 b.scorecardresearch.com
 b.stats.paypal.com
 b.wishabi.com
 b13.com
-b2b.angieslist.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
@@ -696,7 +685,6 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
-bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -808,7 +796,6 @@ cafeomai.com.au
 cainiao.com
 calendar.fontanka.ru
 calltrk.com
-campaign.abb.com
 campaign.adobe.com
 campaignmonitor.com
 camsoda.com
@@ -959,17 +946,14 @@ cli.gs
 click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
-click.e.affirm.com
 click.e.progressive.com
 click.emails-comparethemarket.com
 click.engage.xbox.com
 click.icptrack.com
 click.justwatch.com
 click.linksynergy.com
-click.mail.carousell.com
 click.mail.medscape.com
 click.mz.simba.taobao.com
-click.official.nike.com
 click.redditmail.com
 click.revue.email
 click.sender.yandex.ru
@@ -1041,7 +1025,6 @@ configserver-dra.platform.hicloud.com
 confirmit.com
 confirmsubscription.com
 connatix.com
-connect.darden.virginia.edu
 connect.facebook.com
 connect.facebook.net
 connect.rom.miui.com
@@ -1059,7 +1042,6 @@ consentmanager.net
 console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
-content.eaton.com
 content.jwplatform.com
 contents.fc2.com
 continuum.dds.microsoft.com
@@ -1199,7 +1181,6 @@ datawrapper.de
 db5.vortex.data.microsoft.com.akadns.net
 dcf.espn.com
 dcms.1688.com
-dcs.audi.com
 de.ioam.de
 dealabs.digidip.net
 dealer.com
@@ -1317,7 +1298,6 @@ edrone.me
 eelsoup.net
 eepurl.com
 egb.com
-eip-ntt.audio-ak.spotify.com.akahost.net
 eisys-bcs.jp
 ek21.com
 ekg.riotgames.com
@@ -1329,12 +1309,10 @@ elblogdelnarco.com
 elink.clickdimensions.com
 ellation.map.fastly.net
 eloqua.com
-eloqua.pearsonvue.com
 elvenar.com
 em.bm23.com
 em.dynamicyield.com
 email-clk.adguard.com
-email-sendgrid-deep-linking.chewy.com
 emarsys.net
 embed.ly
 embed.tawk.to
@@ -1412,7 +1390,6 @@ exe.io
 execute-api.us-east-1.amazonaws.com
 experience.tinypass.com
 exploit.in
-explore.amd.com
 exponea.com
 ext.goguardian.com
 extern.prisjakt.nu
@@ -1617,15 +1594,11 @@ gm99.com
 gmx.ch
 go-mpulse.net
 go-mpulse.net.edgekey.net
-go.cerner.com
-go.neverware.com
 go.onelink.me
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
-go.slalom.com
 go.trouter.skype.com
-go.updates.iata.org
 go.usa.gov
 go.zigwebsoftware.nl
 go2cloud.org
@@ -1715,11 +1688,9 @@ hbbtv.superrtl.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
 heads-fa.scdn.co
-heads-fab.spotify.com
 healthwarehouse.com
 heank.nl
 heartbeat.dm.origin.com
-hello.heroku.com
 hello.myfonts.net
 helpshift.com
 heraldm.com
@@ -2296,6 +2267,7 @@ mindtake.com
 minexmr.com
 miningpoolhub.com
 mintos.com
+mirrors.aliyun.com
 mis.migc.xiaomi.com
 miscopy.com
 mistat.intl.xiaomi.com
@@ -2513,6 +2485,7 @@ online-metrix.net
 onlinebanking.standardbank.co.za
 onlinepbx.ru
 onthe.io
+ontraport.com
 ooyala.com
 opecloud.com
 open.spotify.com
@@ -2594,7 +2567,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3093,7 +3065,6 @@ spoj.com
 sportsbet.com.au
 sportsinteraction.com
 spot.im
-spotify.map.fastly.net
 sqimg.qq.com
 srbizasrbe.org
 srvtrck.com
@@ -3212,7 +3183,6 @@ t.indeed.com
 t.ks.ua
 t.myvisualiq.net
 t.notif-colissimo-laposte.info
-t.paydirekt.de
 t.paypal.com
 t.wayfair.ca
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -3316,7 +3286,6 @@ torproject.org
 totalav.com
 townnews.com
 tp-emea.exactag.com
-tr.info.mango-mobilites.fr
 tracemyip.org
 track-eu.adformnet.akadns.net
 track.adform.net
