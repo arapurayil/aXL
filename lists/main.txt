@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.29
-# Last modified: 29 Jul 2022 16:07:20 UTC
+# Version: 3.07.30
+# Last modified: 30 Jul 2022 00:28:48 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4256,6 +4256,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -18834,6 +18835,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -19650,6 +19652,7 @@ pull.ticktick.com
 pulsar.ebay.co.uk
 pulsar.ebay.com
 pulsar.ebay.de
+pulse360.com
 pumppazh.com
 punishtube.com
 punjab.gov.in

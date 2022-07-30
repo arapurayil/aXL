@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 29 Jul 2022 16:07:20 UTC
+# Last modified: 30 Jul 2022 00:28:48 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -751,6 +751,7 @@ brand.sogou.com
 branding.api.us.apiconnect.ibmcloud.com
 bravia.dl.playstation.net
 braze.com
+braze.eu
 brian-fitzgerald.com
 bridgetrack.com
 brightcove.com
@@ -1001,7 +1002,6 @@ cloud.rovio.com
 cloud.unity3d.com
 cloudflareinsights.com
 clownsong.com
-club.quomodo.com
 cm.miaozhen.atm.youku.com
 cmail19.com
 cmail20.com
@@ -1426,6 +1426,7 @@ f1.g.mi.com
 f11.baidu.com
 faktor.io
 faktor.mgr.consensu.org
+farted.net
 fast.appcues.com
 fast.wistia.com
 fast.wistia.net
@@ -1465,7 +1466,6 @@ flirt.com
 flix360.com
 flixaddict.com
 flocktory.com
-flow.page
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -1619,6 +1619,7 @@ go-mpulse.net
 go-mpulse.net.edgekey.net
 go.cerner.com
 go.neverware.com
+go.onelink.me
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
@@ -1763,7 +1764,6 @@ hsforms.net
 hsoub.com
 hspx.hotstar.com
 hsx.com
-ht.ly
 http-test1.luminatinet.com
 huangye.miui.com
 hubapi.com

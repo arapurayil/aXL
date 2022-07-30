@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3683
+            "num_unblock_rules": 3686
         },
         {
             "name": "ookangzheng blahdns whitelist",
@@ -315,7 +315,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 927
+            "num_unblock_rules": 929
         },
         {
             "name": "VeleSila's yhosts - whitelist",
