@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 30 Jul 2022 16:06:52 UTC
+# Last modified: 31 Jul 2022 00:32:03 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -662,7 +662,6 @@ b13.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
 babyneeds.ro
-badoo.com
 bam-x.com
 bam.eu01.nr-data.net
 bannerconnect.com
@@ -1171,7 +1170,6 @@ data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 data.over-blog-kiwi.com
-data.ubi.com
 datacaciques.com
 datadoghq-browser-agent.com
 datadoghq.com
@@ -1293,7 +1291,6 @@ edgedl.me.gvt1.com
 edgesuite.net
 edigitalsurvey.com
 edje.com
-edm.crikey.com.au
 edrone.me
 eelsoup.net
 eepurl.com
@@ -1600,7 +1597,6 @@ go.redirectingat.com
 go.skimresources.com
 go.trouter.skype.com
 go.usa.gov
-go.zigwebsoftware.nl
 go2cloud.org
 go2jump.org
 goatcounter.com
@@ -2559,6 +2555,7 @@ pavv.co.kr
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
+pcmatic.com
 pcrisk.com
 pdc.micloud.xiaomi.net
 peachtreenorml.org
@@ -2803,7 +2800,6 @@ rpts.org
 rpxnow.com
 rs6.net
 rsci.app.link
-rt.com
 rtoaster.jp
 rubicon.wellsfargo.com
 rutrk.org
@@ -3024,7 +3020,6 @@ smetrics.santander.co.uk
 smi2.net
 smi2.ru
 smljmp.com
-smodus.nike.com
 smoot.apple.com
 smp.sankei.co.jp
 smt.docomo.ne.jp
@@ -3415,7 +3410,6 @@ us-west-1.elb.amazonaws.com
 us-west-2.compute.amazonaws.com
 us-west-2.elb.amazonaws.com
 us.ad.lgsmartad.com
-us.blastingnews.com
 us.find.api.micloud.xiaomi.net
 us.i1.yimg.com
 us.ibs.lgappstv.com
@@ -3599,7 +3593,6 @@ wwis-dubc1-vip60.adobe.com
 www-cbssports-com.cdn.ampproject.org
 www-cultofmac-com.ezoic.net
 www-googletagmanager.l.google.com
-www1.amnhealthcare.com
 www3.bloomingdales.com
 www3.webhostingtalk.com
 x.co

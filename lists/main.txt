@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.30
-# Last modified: 30 Jul 2022 16:06:52 UTC
+# Version: 3.07.31
+# Last modified: 31 Jul 2022 00:32:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -552,7 +552,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablinksuni.a.grubhub.com
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -2784,7 +2783,6 @@ app.plex.tv
 app.plus.google.com
 app.qq.com
 app.rebrandly.com
-app.sephora.com
 app.skiff.org
 app.slack.com
 app.smartbusiness.samsung.com
@@ -3125,7 +3123,6 @@ athensfederal.com
 athensfirstbank.com
 athenslimestonehospital.com
 atholhospital.com
-ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati-host.net
 atime.it
 atl-paas.net
@@ -3166,7 +3163,6 @@ au1.p5.documentsawsperf.adobe.com
 auburnbank.com
 auburnvethospital.com
 auctions.yahoo.co.jp
-audev.zeit.de
 audi-bank.com
 audi-bankdirect.com
 audi-bankdirect.de
@@ -3344,7 +3340,6 @@ b.config.skype.com
 b.engadget.com
 b.hatena.ne.jp
 b.huffingtonpost.com.au
-b.koodomobile.com
 b.marfeelcache.com
 b.netcheck.gallery.pandora.xiaomi.com
 b.scorecardresearch.com
@@ -3359,7 +3354,6 @@ b02.black.ndmdhs.com
 b13.com
 b2.ndb24.ru
 b23.ru
-b2b.angieslist.com
 b2bapi.zee5.com
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -4256,7 +4250,6 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -5298,7 +5291,6 @@ camera.wechat.com
 camo.githubusercontent.com
 campaign-archive1.com
 campaign-archive2.com
-campaign.abb.com
 campaign.adobe.com
 campaign.consumer.huawei.com
 campaign.gov.uk
@@ -6392,7 +6384,6 @@ cli.gs
 click.accesstrade.co.id
 click.aliexpress.com
 click.cptrack.de
-click.e.affirm.com
 click.e.change.org
 click.e.progressive.com
 click.email.sonos.com
@@ -6401,14 +6392,12 @@ click.engage.xbox.com
 click.icptrack.com
 click.justwatch.com
 click.linksynergy.com
-click.mail.carousell.com
 click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.mail.medscape.com
 click.member.americanexpress.com
 click.myctm.canadiantire.ca
 click.mz.simba.taobao.com
-click.official.nike.com
 click.policy.farmers.com
 click.pstmrk.it
 click.redditmail.com
@@ -6901,7 +6890,6 @@ confraternitaet.at
 conn.skype.akadns.net
 connatix.com
 connect.auone.jp
-connect.darden.virginia.edu
 connect.dealersocket.com
 connect.ebay.com
 connect.facebook.com
@@ -6964,7 +6952,6 @@ content-storage-upload.googleapis.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
-content.eaton.com
 content.erabu.sonymobile.com
 content.force.com
 content.googleapis.com
@@ -7679,7 +7666,6 @@ dcinside.com
 dcms.1688.com
 dcrypt.it
 dcs-vod.apis.anvato.net
-dcs.audi.com
 dctrawler.dailycaller.com
 dcu-online.org
 dcu.org
@@ -8773,7 +8759,6 @@ ein.funimation.com
 eindhovensdagblad.nl
 einsundeins.de
 eio-feed.exchange.coinbase.com
-eip-ntt.audio-ak.spotify.com.akahost.net
 eip-ntt.pinimg.com.akapinimg.net
 eisys-bcs.jp
 ejob.gov.tw
@@ -8866,7 +8851,6 @@ elmirasavingsbank.com
 elmundo.es
 elo.com.br
 eloqua.com
-eloqua.pearsonvue.com
 elpais.com
 elpis.gr
 elsalvador.com
@@ -8891,7 +8875,6 @@ email-assets.soundcloud.com
 email-clk.adguard.com
 email-connect.spot.im
 email-ee.co.uk
-email-sendgrid-deep-linking.chewy.com
 email-tracking.infobip.com
 email.163.com
 email.appsumo.com
@@ -10985,7 +10968,6 @@ go-mpulse.net.edgekey.net
 go.amazonservices.com
 go.binance.com
 go.buy.mi.com
-go.cerner.com
 go.co
 go.com
 go.daum.net
@@ -10997,7 +10979,6 @@ go.infoblox.com
 go.leanplum.com
 go.microsoft.com
 go.mybusinessacademy.ph
-go.neverware.com
 go.nordlocker.net
 go.nordvpn.net
 go.onelink.me
@@ -11006,14 +10987,12 @@ go.redirectingat.com
 go.ro
 go.skimresources.com
 go.skype.com
-go.slalom.com
 go.snapchat.com
 go.sonymobile.com
 go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
-go.updates.iata.org
 go.usa.gov
 go.wechat.com
 go.zigwebsoftware.nl
@@ -11704,7 +11683,6 @@ he.gravatar.com
 he.net
 he.wikipedia.com
 heads-fa.scdn.co
-heads-fab.spotify.com
 healingspringsanimalhospital.com
 health.act.gov.au
 health.pa.gov
@@ -11739,7 +11717,6 @@ helgenaes-sparekasse.dk
 helios-kliniken.de
 hellenicbank.com
 hellenicnetbanking.com
-hello.heroku.com
 hello.myfonts.net
 helmbankusa.com
 help-assets.soundcloud.com
@@ -16306,6 +16283,7 @@ mirror2.internetdownloadmanager.com
 mirror3.internetdownloadmanager.com
 mirrorfootball.co.uk
 mirrors.163.com
+mirrors.aliyun.com
 mirrors.evowise.com
 mirrorservice.org
 mirtesen.ru
@@ -18152,6 +18130,7 @@ onpointcu.com
 onrpg.com
 onstmettinger-bank.de
 onthe.io
+ontraport.com
 onurtrakyahastanesi.com
 onvista-bank.de
 oo.gl
@@ -18835,7 +18814,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -22831,7 +22809,6 @@ sportsmansguide.com
 sportsmedia.ign.com
 spot.im
 spotify.com
-spotify.map.fastly.net
 spotops.spot.im
 spoxy-eb.spot.im
 spoxy-launcher.spot.im
@@ -23778,7 +23755,6 @@ t.me
 t.myvisualiq.net
 t.notif-colissimo-laposte.info
 t.ow.ly
-t.paydirekt.de
 t.paypal.com
 t.purch.com
 t.uc.cn
@@ -24436,7 +24412,6 @@ tr-tr.about.flipboard.com
 tr.gravatar.com
 tr.ign.com
 tr.im
-tr.info.mango-mobilites.fr
 tr.net
 tr.snapchat.com
 tr.statcounter.com
