@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 31 Jul 2022 08:07:07 UTC
+# Last modified: 31 Jul 2022 16:05:13 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -684,6 +684,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1400,7 +1401,6 @@ f1.g.mi.com
 f11.baidu.com
 faktor.io
 faktor.mgr.consensu.org
-farted.net
 fast.appcues.com
 fast.wistia.com
 fast.wistia.net
@@ -2564,6 +2564,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3489,7 +3490,6 @@ vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
 voxmedia.com
-vr-banking-app.de
 vuduweb.s.llnwi.net
 vwdservices.com
 vxcash.net
@@ -3567,6 +3567,7 @@ woodpecker.uc.cn
 woopic.com
 wootric.com
 wootric.com.herokudns.com
+woozooo.com
 wordstream.com
 worldssl.net
 wormgush.com
