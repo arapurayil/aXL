@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.07.31
-# Last modified: 31 Jul 2022 00:32:04 UTC
+# Last modified: 31 Jul 2022 08:07:07 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -7581,7 +7581,6 @@ data.origin.com
 data.over-blog-kiwi.com
 data.sec.intl.miui.com
 data.sec.miui.com
-data.ubi.com
 data0.origin.com
 data1.origin.com
 data2.origin.com
@@ -8718,7 +8717,6 @@ editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
 edje.com
-edm.crikey.com.au
 edm03.huawei.com
 ednaonline.com
 ednetz.de
@@ -10995,7 +10993,6 @@ go.trouter.skype.com
 go.twitch.tv
 go.usa.gov
 go.wechat.com
-go.zigwebsoftware.nl
 go2cloud.org
 go2jump.org
 goatcounter.com
@@ -18748,6 +18745,7 @@ pch.com
 pchospital.org
 pci.spotify.com
 pcmag.com
+pcmatic.com
 pcmrace.com
 pcrisk.com
 pcstarnet.com
@@ -22093,7 +22091,6 @@ smithsdownunder.com
 smithvethospital.com
 smljmp.com
 smll.co
-smodus.nike.com
 smokefree.gov
 smokingwheels.github.io
 smolbank.ru
@@ -25151,7 +25148,6 @@ us.api.io.mi.com
 us.api.micloud.xiaomi.net
 us.archive.org
 us.battle.net
-us.blastingnews.com
 us.browserapi.micloud.xiaomi.net
 us.cdn.survey.medallia.com
 us.community.samsung.com
