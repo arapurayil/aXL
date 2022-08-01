@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.07.31
-# Last modified: 31 Jul 2022 16:05:13 UTC
+# Version: 3.08.01
+# Last modified: 01 Aug 2022 00:38:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4250,6 +4250,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -9454,7 +9455,6 @@ farmersebank.com
 farmersfrankfort.com
 farmersnational.com
 farmside.co.nz
-farted.net
 fashionista.com
 fast.appcues.com
 fast.com
@@ -18812,6 +18812,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -26097,7 +26098,6 @@ vr-bank-passau.de
 vr-bank-stuttgart.de
 vr-bank-sw.de
 vr-bank-wuerzburg.de
-vr-banking-app.de
 vr-banknordeifel.de
 vr-bankverein.de
 vr-bayernmitte.de
@@ -26827,6 +26827,7 @@ wooribank.com
 woosh.com
 wootric.com
 wootric.com.herokudns.com
+woozooo.com
 word.office.naver.com
 wordcounter.io
 wordle.net
