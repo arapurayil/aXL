@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Aug 2022 08:08:29 UTC
+# Last modified: 01 Aug 2022 16:07:33 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -684,6 +684,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1944,7 +1945,6 @@ intercomassets.com
 internal-api.snapkit.com
 internal.unity3d.com
 internet.apps.samsung.com
-interspar.at
 investingapp.net
 investingchannel.com
 invoca.net
@@ -2041,6 +2041,7 @@ kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
 kisshentai.net
+kiwifarms.net
 klarnaservices.com
 klaviyo.com
 klclick.com
@@ -2089,7 +2090,6 @@ license.unity3d.com
 licensing.blinkreceipt.com
 lidl.media01.eu
 lightboxcdn.com
-lihi.cc
 likera.com
 limetorrents.cc
 limneos.net
@@ -2431,7 +2431,6 @@ nv.vi-serve.com
 o0bc.com
 o2o.api.xiaomi.com
 oasjs.kataweb.it
-objectstorage.eu-marseille-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 ocsp.apple.com
 octafx.com
@@ -2563,6 +2562,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
