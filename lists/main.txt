@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.01
-# Last modified: 01 Aug 2022 00:38:56 UTC
+# Last modified: 01 Aug 2022 08:08:29 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4250,7 +4250,6 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -18812,7 +18811,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -27416,6 +27414,7 @@ zb.mi.com
 zbp.pl
 zbs-giz.si
 zcbprod.alipay.com
+zcmglobal.v.bsgslb.cn
 zcts.ru
 zd.map.fastly.net
 zdbb.ign.com
