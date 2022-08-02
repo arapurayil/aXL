@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.01
-# Last modified: 01 Aug 2022 16:07:33 UTC
+# Version: 3.08.02
+# Last modified: 02 Aug 2022 00:36:05 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4250,6 +4250,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -13416,7 +13417,6 @@ internetzwerk.net
 internode.on.net
 interpark.com
 interserver.net
-interspar.at
 intervestnatbank.com
 intervista.youdao.com
 intesasanpaolo.com
@@ -17735,7 +17735,6 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
-objectstorage.eu-marseille-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
@@ -18811,6 +18810,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com

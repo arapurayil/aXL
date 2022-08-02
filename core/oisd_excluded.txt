@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 01 Aug 2022 16:07:33 UTC
+# Last modified: 02 Aug 2022 00:36:04 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -684,7 +684,6 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
-bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -2041,7 +2040,6 @@ kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
 kisshentai.net
-kiwifarms.net
 klarnaservices.com
 klaviyo.com
 klclick.com
@@ -2562,7 +2560,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
