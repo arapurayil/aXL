@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Aug 2022 08:08:24 UTC
+# Last modified: 02 Aug 2022 16:06:55 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -32,6 +32,7 @@
 24.hu
 247-inc.net
 247mahjong.com
+247mahjongsolitaire.com
 2a7e9.v.fwmrm.net
 2cnt.net
 2girls1cup.cc
@@ -684,6 +685,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -801,6 +803,7 @@ camsoda.com
 canadapharmacy.com
 capesandbox.com
 capi.connatix.com
+cardgamespidersolitaire.com
 carrotquest.io
 casablanca-landgraaf.nl
 casalemedia.com.edgekey.net
@@ -1716,7 +1719,6 @@ hosting24.com
 hostingprod.com
 hostip.info
 hotdeals.com
-hotdogsandads.com
 hotelscombined.com.au
 houndify.com
 howsmyssl.com
@@ -2280,6 +2282,7 @@ mlsend.com
 mlsend2.com
 mmarau.ac.ke
 mmstat.com
+mmtro.com
 mobile-dgig-prod.cmtelematics.com
 mobile-dssf-prod.cmtelematics.com
 mobile-log-dgig.cmtelematics.com
@@ -2560,6 +2563,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2830,7 +2834,6 @@ s01.riotpixels.net
 s10.exct.net
 s1325.t.eloqua.com
 s2.symcb.com
-s2.youtube.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
@@ -3034,6 +3037,7 @@ socket.streamable.com
 softcity.upclick.com
 softonic.com
 sojern.com
+solitairetime.com
 solvemedia.com
 som.aeroplan.com
 someonewhocares.com
@@ -3360,6 +3364,7 @@ twisto.cz
 typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
+u.to
 ublock.org
 uc.r.appspot.com
 uca.cloud.unity3d.com
