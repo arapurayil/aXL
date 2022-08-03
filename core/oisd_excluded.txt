@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Aug 2022 00:37:55 UTC
+# Last modified: 03 Aug 2022 08:07:51 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -975,7 +975,6 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
-client-event-reporter.twitch.tv
 clients.l.google.com
 clients1.google.com
 clientsdk.luminati.io
@@ -1006,7 +1005,6 @@ codepush.appcenter.ms
 cohesionapps.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
-collect.igodigital.com
 collecting-consent.g5e.com
 collector-main.trafficmanager.net
 collector.wallapop.com
@@ -1098,7 +1096,6 @@ csgolounge.com
 csi.gstatic.com
 cst.cstwpush.com
 cstwpush.com
-ct.impactradius.com
 ct.pinterest.com
 ct.sendgrid.net
 ctrip.com
@@ -1601,7 +1598,6 @@ go.onelink.me
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
-go.trafficrouter.io
 go.trouter.skype.com
 go.usa.gov
 go2cloud.org
@@ -2272,7 +2268,6 @@ mis.migc.xiaomi.com
 miscopy.com
 mistat.intl.xiaomi.com
 mistat.rus.xiaomi.com
-mistat.xiaomi.com
 mixpanel.com
 mkt030.com
 mkt41.net
@@ -2317,7 +2312,6 @@ monitor.clickcease.com
 mopinion.com
 movable-ink-397.com
 movil.bbva.es
-mp.huangye.miui.com
 mp.twitch.tv
 mp.weixin.qq.com
 mparticle.com
@@ -2367,7 +2361,6 @@ naiadsystems.com
 naifei.shop
 nametests.com
 nanorep.com
-nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 natcom.co.nz
@@ -2783,7 +2776,6 @@ res.cloudinary.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
-resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
@@ -2854,7 +2846,6 @@ s7.addthis.com
 s7.exct.net
 s8.addthis.com
 sa.bbc.co.uk
-sa.bbc.com
 saa.cbsi.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
@@ -3426,7 +3417,6 @@ us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
-us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com
