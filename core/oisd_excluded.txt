@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Aug 2022 08:07:51 UTC
+# Last modified: 03 Aug 2022 16:07:10 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -609,6 +609,7 @@ appsflyer.com
 apptimize.com
 arc.msn.com
 arcpublishing.com
+arsat.com.ar
 arstechnica.com
 art19.com
 asadcdn.com
@@ -2042,7 +2043,6 @@ kiev.ua
 kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
-kisshentai.net
 klarnaservices.com
 klaviyo.com
 klclick.com
@@ -2115,6 +2115,7 @@ lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 lnks.gd
 loadercdn.com
+loc.map.baidu.com
 locallogic.co
 locuslabs.com
 lofter.com
@@ -2380,6 +2381,7 @@ nettvservices.com
 netupdater.info
 network.bazaarvoice.com
 neustar.biz
+newloc.map.n.shifen.com
 newre-conversions.clickmeter.com
 newrelic.com
 news.ebc.net.tw
@@ -3340,6 +3342,7 @@ trk.klclick.com
 trk.klclick1.com
 trk.pinterest.com
 trkpnt.ongage.net
+tropen-tango.de
 trowel.twitch.tv
 trust.zone
 trustarc.com
