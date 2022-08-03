@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 02 Aug 2022 16:06:55 UTC
+# Last modified: 03 Aug 2022 00:37:55 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -152,6 +152,7 @@ acxiom.com
 ad-ettoday.cdn.hinet.net
 ad.admitad.com
 ad.aruba.it
+ad.atdmt.com
 ad.dmm.com
 ad.doubleclick.net
 ad.lgsmartad.com
@@ -685,7 +686,6 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
-bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -975,6 +975,7 @@ clicktale.net
 clicktale.net.edgekey.net
 clicktime.symantec.com
 clien.net
+client-event-reporter.twitch.tv
 clients.l.google.com
 clients1.google.com
 clientsdk.luminati.io
@@ -1005,6 +1006,7 @@ codepush.appcenter.ms
 cohesionapps.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
+collect.igodigital.com
 collecting-consent.g5e.com
 collector-main.trafficmanager.net
 collector.wallapop.com
@@ -1096,6 +1098,7 @@ csgolounge.com
 csi.gstatic.com
 cst.cstwpush.com
 cstwpush.com
+ct.impactradius.com
 ct.pinterest.com
 ct.sendgrid.net
 ctrip.com
@@ -1428,6 +1431,7 @@ files.catbox.moe
 files.viva64.com
 filmha.top
 findicons.com
+firebase.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 fireflyengagement.com
@@ -1597,6 +1601,7 @@ go.onelink.me
 go.pardot.com
 go.redirectingat.com
 go.skimresources.com
+go.trafficrouter.io
 go.trouter.skype.com
 go.usa.gov
 go2cloud.org
@@ -2267,6 +2272,7 @@ mis.migc.xiaomi.com
 miscopy.com
 mistat.intl.xiaomi.com
 mistat.rus.xiaomi.com
+mistat.xiaomi.com
 mixpanel.com
 mkt030.com
 mkt41.net
@@ -2311,6 +2317,7 @@ monitor.clickcease.com
 mopinion.com
 movable-ink-397.com
 movil.bbva.es
+mp.huangye.miui.com
 mp.twitch.tv
 mp.weixin.qq.com
 mparticle.com
@@ -2360,6 +2367,7 @@ naiadsystems.com
 naifei.shop
 nametests.com
 nanorep.com
+nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 natcom.co.nz
@@ -2563,7 +2571,6 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2776,6 +2783,7 @@ res.cloudinary.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
+resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
@@ -2846,6 +2854,7 @@ s7.addthis.com
 s7.exct.net
 s8.addthis.com
 sa.bbc.co.uk
+sa.bbc.com
 saa.cbsi.com
 safe-browsing-quorum.cliqz.com
 safe-browsing.cliqz.com
@@ -3417,6 +3426,7 @@ us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
+us04logfiles-va.zoom.us
 us04logfiles.zoom.us
 us2.sumologic.com
 usabilla.com

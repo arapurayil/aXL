@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.02
-# Last modified: 02 Aug 2022 16:06:55 UTC
+# Version: 3.08.03
+# Last modified: 03 Aug 2022 00:37:55 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -220,6 +220,7 @@
 247-inc.net
 247ihost.com
 247mahjong.com
+247mahjongsolitaire.com
 24banking.md
 24banking.ro
 24ruhost.com
@@ -4250,6 +4251,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -5362,6 +5364,7 @@ card2card.mkb.ru
 card2cash.unistream.ru
 card4biz.com
 cardforum.com
+cardgamespidersolitaire.com
 cardhouse.ncc-uc.ru
 cardiff.gov.uk
 cardpay.com
@@ -12028,7 +12031,6 @@ hostsfile.org
 hostwindsor.com
 hotdeals.com
 hotdoc.com.au
-hotdogsandads.com
 hotel.travel.rakuten.co.jp
 hotels.com
 hotelscombined.com.au
@@ -13292,6 +13294,7 @@ input.mozilla.org
 inputdirector.com
 inq.com
 inquisition.goguardian.com
+inquisitr.com
 ins.jr.mi.com
 inscname.net
 inselklinik-fehmarn.de
@@ -18809,6 +18812,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -22219,6 +22223,7 @@ solbankspain.com
 solicitudestarjetas.banesco.net
 solidbank.com.ph
 solidfiles.com
+solitairetime.com
 solonstatebank.com
 solotodo.com
 solutionpartners.adobe.com
