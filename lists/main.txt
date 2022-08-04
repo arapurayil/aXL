@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.04
-# Last modified: 04 Aug 2022 00:37:00 UTC
+# Last modified: 04 Aug 2022 08:08:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4252,6 +4252,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -7148,6 +7149,7 @@ cracked.com
 cracking.org
 crackingpatching.com
 crackle.com
+crackshash.com
 cracksurl.com
 cracortina.it
 cracovia.pl
@@ -14562,6 +14564,7 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
+l.engage.canva.com
 l.facebook.com
 l.franceculture.fr
 l.google.com
@@ -18815,6 +18818,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -20461,6 +20465,7 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
+reurl.cc
 reut.rs
 reuters.com
 revdl.com
@@ -21462,6 +21467,7 @@ secure.logmein.com
 secure.mbl.is
 secure.meetup.com
 secure.moneygram.com
+secure.nch.com.au
 secure.netflix.com
 secure.ogone.com
 secure.okpay.com
@@ -21586,7 +21592,6 @@ sendgrid.net
 sendinblue.com
 sendinblue.hitbtc.com
 sendpulse.com
-sendsay.ru
 sendspace.com
 sendwyre.com
 senecafederal.com
@@ -24574,6 +24579,7 @@ trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
 trk.pinterest.com
+trk.s.sephora.com
 trkpnt.ongage.net
 trkr.ws
 trlibor.org
