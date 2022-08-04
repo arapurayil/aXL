@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.03
-# Last modified: 03 Aug 2022 16:07:10 UTC
+# Version: 3.08.04
+# Last modified: 04 Aug 2022 00:37:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2942,6 +2942,7 @@ arrowfinancial.com
 arrowheadhospital.com
 ars-in4matica.com
 ars.smartscreen.microsoft.com
+arsat.com.ar
 arstechnica.com
 art19.com
 artembank.com.ua
@@ -15098,6 +15099,7 @@ loan-market-assoc.com
 loancorp.com.au
 lobby.igamecj.com
 loc.gov
+loc.map.baidu.com
 local.adguard.com
 local.gosi.go.kr
 localbitcoins.com
@@ -17211,6 +17213,7 @@ newenglandpc.com
 newindianexpress.com
 newislandhospital.org
 newjobs.com
+newloc.map.n.shifen.com
 newlondonhospital.org
 newmarketmedicalcentre.com
 newmarketmedicalpractice.co.uk
@@ -24574,6 +24577,7 @@ trk.pinterest.com
 trkpnt.ongage.net
 trkr.ws
 trlibor.org
+tropen-tango.de
 trophy01.np.community.playstation.net
 trouw.nl
 trowel.twitch.tv

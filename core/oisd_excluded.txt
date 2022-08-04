@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 03 Aug 2022 16:07:10 UTC
+# Last modified: 04 Aug 2022 00:37:00 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -42,6 +42,7 @@
 2guys1stump.org
 2ip.ua
 2mdn.net
+2miners.com
 2o7.net
 31.media.tumblr.com
 360safe.com
@@ -687,6 +688,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1075,6 +1077,7 @@ cpt.itv.com
 cptrack.de
 cquotient.com
 cracking.org
+crackshash.com
 crashlytics.com
 crbcdn.jsfiddle.net
 createsend.com
@@ -2061,6 +2064,7 @@ ksmobile.com
 kumascans.com
 l.betrad.com
 l.doubleclick.net
+l.engage.canva.com
 l.franceculture.fr
 l.qq.com
 l2.io
@@ -2566,6 +2570,7 @@ pega.com
 pendo.io
 people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2783,6 +2788,7 @@ resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
+reurl.cc
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
@@ -2925,6 +2931,7 @@ secure.applian.com
 secure.gooddata.com
 secure.insightexpressai.com
 secure.livechatinc.com
+secure.nch.com.au
 secure.paymentech.com
 securemetrics.apple.com
 securemvt.apple.com
@@ -2943,7 +2950,6 @@ semawur.com
 send.firefox.com
 sendinblue.com
 sendpulse.com
-sendsay.ru
 sensic.net
 seqent.com
 serials.ws
@@ -3341,6 +3347,7 @@ trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
 trk.pinterest.com
+trk.s.sephora.com
 trkpnt.ongage.net
 tropen-tango.de
 trowel.twitch.tv
@@ -3367,7 +3374,6 @@ twisto.cz
 typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
-u.to
 ublock.org
 uc.r.appspot.com
 uca.cloud.unity3d.com
@@ -3389,11 +3395,13 @@ uniregistry.com
 unity.com
 unity3d.com
 unity3d.com.edgekey.net
+unmineable.com
 up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
 update.pan.baidu.com
 upgrade.scdn.co
+upgrade.scdn.com
 upgrade.spotify.com
 upload.cc
 uplynk.com
