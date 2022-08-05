@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.05
-# Last modified: 05 Aug 2022 00:39:07 UTC
+# Last modified: 05 Aug 2022 08:07:56 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2303,7 +2303,6 @@ antonveneta.it
 antpool.com
 antrimveterinaryhospital.com
 anubisnetworks.com
-anura.io
 anurl.com
 anvil.opentok.com
 anvir.com
@@ -5663,7 +5662,6 @@ cdn.changelog.com
 cdn.chia-anime.tv
 cdn.chocolatey.org
 cdn.clearload.bid
-cdn.clerk.io
 cdn.cliqz.com
 cdn.cloud.altbalaji.com
 cdn.cloudflare.net
@@ -7148,7 +7146,6 @@ cracked.com
 cracking.org
 crackingpatching.com
 crackle.com
-crackshash.com
 cracksurl.com
 cracortina.it
 cracovia.pl
@@ -12846,6 +12843,7 @@ idmsa.apple.com
 idnotify.com
 idownloadblog.com
 idp.clogin.att.com
+idqqimg.com
 idroid.taobao.com
 ids.indevice.sonymobile.com
 idv0h0h.qiniudns.com
@@ -14563,7 +14561,6 @@ l-msedge.net
 l-xda.xposed.info
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.facebook.com
 l.franceculture.fr
 l.google.com
@@ -16516,6 +16513,7 @@ monitoring-team.sonymobile.com
 monitoring.googleapis.com
 monobank.ua
 mononabank.com
+monorail-edge.shopifysvc.com
 monroecountybank.com
 monster-isp.com
 montanabankers.com
@@ -20463,7 +20461,6 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
-reurl.cc
 reut.rs
 reuters.com
 revdl.com
@@ -21465,7 +21462,6 @@ secure.logmein.com
 secure.mbl.is
 secure.meetup.com
 secure.moneygram.com
-secure.nch.com.au
 secure.netflix.com
 secure.ogone.com
 secure.okpay.com
@@ -21879,7 +21875,6 @@ simmonsfirst.com
 simp.ly
 simple.com
 simple.wikipedia.com
-simpleanalytics.com
 simplehosting.ch
 simpleimageresizer.com
 simplelogin.co
@@ -24577,7 +24572,6 @@ trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
 trk.pinterest.com
-trk.s.sephora.com
 trkpnt.ongage.net
 trkr.ws
 trlibor.org
@@ -25658,6 +25652,7 @@ video.in.intl.xiaomi.com
 video.intl.xiaomi.com
 video.mediaset.it
 video.playstation.com
+video.search.yahoo.com
 video.taobao.com
 video.techcrunch.com
 video.triodos.com
@@ -25667,6 +25662,7 @@ video.vzaar.com
 video.wechat.com
 video.xx.fbcdn.net
 videoapp-assets-ak.buzzfeed.com
+videoask.com
 videocdn-sbs.akamaized.net
 videocopilot.net
 videofarm.daum.net
