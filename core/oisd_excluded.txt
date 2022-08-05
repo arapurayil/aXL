@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 04 Aug 2022 16:07:16 UTC
+# Last modified: 05 Aug 2022 00:39:07 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -42,7 +42,6 @@
 2guys1stump.org
 2ip.ua
 2mdn.net
-2miners.com
 2o7.net
 31.media.tumblr.com
 360safe.com
@@ -505,7 +504,6 @@ anrdoezrs.net
 answerhub.com
 antiphishing.cliqz.com
 anubisnetworks.com
-anura.io
 anvir.com
 anycast.adnxs.com
 aotter.net
@@ -833,7 +831,6 @@ cdn.appsmav.com
 cdn.ark.qq.com
 cdn.bluebillywig.com
 cdn.branch.io
-cdn.clerk.io
 cdn.cliqz.com
 cdn.cloud.altbalaji.com
 cdn.consentmanager.mgr.consensu.org
@@ -1076,7 +1073,6 @@ cpt.itv.com
 cptrack.de
 cquotient.com
 cracking.org
-crackshash.com
 crashlytics.com
 crbcdn.jsfiddle.net
 createsend.com
@@ -1891,6 +1887,7 @@ idcdn.de
 ident.me
 identity.mparticle.com
 idp.clogin.att.com
+idqqimg.com
 idv0h0h.qiniudns.com
 iesnare.com
 ietf.org
@@ -1962,7 +1959,6 @@ iovation.com
 ip-adress.com
 ip-api.com
 ip-info.ff.avast.com
-ip-tracker.org
 ip.goguardian.com
 ip2location.com
 ipapi.co
@@ -2063,7 +2059,6 @@ ksmobile.com
 kumascans.com
 l.betrad.com
 l.doubleclick.net
-l.engage.canva.com
 l.franceculture.fr
 l.qq.com
 l2.io
@@ -2313,6 +2308,7 @@ moneyplatform.biz
 monitis.com
 monitor.azure.com
 monitor.clickcease.com
+monorail-edge.shopifysvc.com
 mopinion.com
 movable-ink-397.com
 movil.bbva.es
@@ -2786,7 +2782,6 @@ resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
-reurl.cc
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
@@ -2929,7 +2924,6 @@ secure.applian.com
 secure.gooddata.com
 secure.insightexpressai.com
 secure.livechatinc.com
-secure.nch.com.au
 secure.paymentech.com
 securemetrics.apple.com
 securemvt.apple.com
@@ -2988,7 +2982,6 @@ sift.com
 siftscience.com
 silktide.com
 simp.ly
-simpleanalytics.com
 simply.com
 simplyhired.com
 sinaimg.cn
@@ -3345,7 +3338,6 @@ trk.email.dynect.net
 trk.klclick.com
 trk.klclick1.com
 trk.pinterest.com
-trk.s.sephora.com
 trkpnt.ongage.net
 tropen-tango.de
 trowel.twitch.tv
@@ -3393,13 +3385,11 @@ uniregistry.com
 unity.com
 unity3d.com
 unity3d.com.edgekey.net
-unmineable.com
 up.cm.ksmobile.com
 update.360safe.com
 update.avlyun.sec.miui.com
 update.pan.baidu.com
 upgrade.scdn.co
-upgrade.scdn.com
 upgrade.spotify.com
 upload.cc
 uplynk.com
@@ -3477,6 +3467,8 @@ vid.connatix.com
 vidaxl.pl
 vidazoo.com
 video-stats.l.google.com
+video.search.yahoo.com
+videoask.com
 videoplaza.tv
 videorolls.row.aiv-cdn.net
 vidible.tv
