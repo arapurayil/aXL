@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Aug 2022 08:07:35 UTC
+# Last modified: 06 Aug 2022 16:05:25 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -686,6 +686,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -838,7 +839,6 @@ cdn.cookielaw.org
 cdn.cquotient.com
 cdn.cxense.com
 cdn.cxense.com.edgekey.net
-cdn.dnsv1.com
 cdn.dynamicyield.com
 cdn.elev.io
 cdn.ezoic.net
@@ -1214,7 +1214,6 @@ djtflbt20bdde.cloudfront.net
 dl.360safe.com
 dl.packetstormsecurity.net
 dl.twitchdl.com
-dldir1.qq.com
 dldir2.qq.com
 dlied6.qq.com
 dmd.metaservices.microsoft.com
@@ -1477,7 +1476,6 @@ fontjoy.com
 fonts.googleapis.com
 fonts.net
 footprint.net
-footprints-pa.googleapis.com
 force.com
 forexprostools.com
 formcrafts.com
@@ -1630,7 +1628,6 @@ grabo.bg
 grafana.org
 graph.accountkit.com
 graph.facebook.com
-graph.fbpigeon.com
 graph.instagram.com
 greenheartmed.org
 gremimedia.pl
@@ -2232,7 +2229,6 @@ mediafire.com
 mediametrics.ru
 mediaplayercodecpack.com
 mediaplex.com
-mediatriple.net
 medrx.telstra.com.au
 medyanetads.com
 meltwater.com
@@ -2342,7 +2338,6 @@ my-deco-shop.com
 my.plexapp.com
 myairbridge.com
 myao.adocean.pl
-myapp.com
 mybannermaker.com
 mybbc-analytics.files.bbci.co.uk
 myhomescreen.tv
@@ -2563,8 +2558,8 @@ peachtreenorml.org
 peerius.com
 pega.com
 pendo.io
-people-pa.googleapis.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2599,6 +2594,7 @@ pixelzirkus.gameforge.com
 pizzaandads.com
 pjatr.com
 pjtra.com
+pki-goog.l.google.com
 pl.rdx2.lgtvsdp.com
 placehold.it
 places.aviasales.ru
@@ -2606,8 +2602,6 @@ planet.net
 planning-analytics.ibmcloud.com
 plantengineering.com
 plarium.com
-platform.instagram.com
-platform.linkedin.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
