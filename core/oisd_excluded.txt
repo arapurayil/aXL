@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 05 Aug 2022 16:07:15 UTC
+# Last modified: 06 Aug 2022 00:32:38 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -3274,6 +3274,7 @@ tom.itv.com
 toolbar.google.com
 toots-a.akamaihd.net
 top-shop.ru
+toptal.com
 toptracker.ru
 torimochi.line-apps.com
 torproject.org

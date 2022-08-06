@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.05
-# Last modified: 05 Aug 2022 16:07:16 UTC
+# Version: 3.08.06
+# Last modified: 06 Aug 2022 00:32:38 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -3966,6 +3966,7 @@ barclaycard.de
 barclaycardus.com
 barclays.co.uk
 barclays.com
+barclays.de
 barclays.es
 barclays.fr
 barclays.net
@@ -18522,6 +18523,7 @@ papy.co.jp
 paracelsus-kliniken.de
 paracelsus-spital.ch
 paradisevalleyhospital.com
+paragonbank.co.uk
 paragonbankmn.com
 parall.ax
 parallels.com
