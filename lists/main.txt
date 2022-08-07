@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.07
-# Last modified: 07 Aug 2022 00:37:22 UTC
+# Last modified: 07 Aug 2022 08:07:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5618,6 +5618,7 @@ cdn-images-1.medium.com
 cdn-images-2.medium.com
 cdn-images.mailchimp.com
 cdn-images.xda-developers.com
+cdn-magiclinks.trackonomics.net
 cdn-mobile.api.pluto.tv
 cdn-net.com
 cdn-noc.net
@@ -8092,6 +8093,7 @@ dmca.twitch.tv
 dmcdn.net
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
+dmdamedia.hu
 dmitchell.com
 dmm.co.jp
 dmm.com
@@ -9015,9 +9017,6 @@ epa.gov
 epaper.dnaindia.com
 epay.unionbankofindia.co.in
 epayment.nets.eu
-epdg.epc.att.net
-epdg.epc.mnc006.mcc454.pub.3gppnetwork.org
-epdg.epc.mnc720.mcc302.pub.3gppnetwork.org
 ephratahospital.org
 epicgames-download1.akamaized.net
 epicgames.com
@@ -10846,6 +10845,7 @@ gilmercountybank.com
 ginelevel.com
 ginemed.com
 ginjfo.com
+giosg.com
 giphy.com
 girlfriend.com.au
 gist.github.com
@@ -19354,7 +19354,6 @@ prime.tebyatirim.com.tr
 primenetwork.net
 primetime-a.akamaihd.net
 primewire.ag
-primgw.vowifi2.spcsdns.net
 primusdsl.net
 princegeorgeshospital.org
 princeton.edu
@@ -21551,7 +21550,6 @@ seesaa.net
 segment.com
 segment.hotstar.com
 segment.io
-segpay.com
 segue.se
 sejda.com
 sekkiel.de
@@ -21618,6 +21616,7 @@ serverorigin.com
 servetown.com
 service.biv.sony.tv
 service.fuib.com
+service.giosg.com
 service.gov.uk
 service.marketing.adobe.com
 service.maxymiser.net
@@ -22854,7 +22853,6 @@ srs.gov
 srv1.xbext.com
 srv2.xbext.com
 srvtrck.com
-ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ss.phncdn.com
 ss0.baidu.com
 ss0.bdstatic.com
@@ -23222,6 +23220,7 @@ stats.adobe.com
 stats.api.xiaomi.net
 stats.appsflyer.com
 stats.channel4.com
+stats.g.doubleclick.net
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
@@ -24474,6 +24473,7 @@ tracking.truthfinder.com
 trackingthetrackers.com
 trackitonline.ru
 trackjs.com
+trackonomics.net
 trade.paritem.com
 trade.webborsam.com
 tradedoubler.com
@@ -26468,6 +26468,7 @@ webdav.yandex.com.ua
 webdav.yandex.ru
 webdisk.sitcomsonline.com
 webebank.ebb-bg.com
+webengage.com
 weberbank.de
 webfriends.in
 webfusion.co.uk
