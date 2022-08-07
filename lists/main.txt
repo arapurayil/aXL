@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.06
-# Last modified: 06 Aug 2022 16:05:26 UTC
+# Version: 3.08.07
+# Last modified: 07 Aug 2022 00:37:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4252,6 +4252,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -5682,7 +5683,6 @@ cdn.destinilocators.com
 cdn.digitaltrends.com
 cdn.discordapp.com
 cdn.dnaindia.com
-cdn.dnsv1.com
 cdn.dynamicyield.com
 cdn.ea.com
 cdn.edgesuite.net
@@ -10116,7 +10116,6 @@ foothillsanimalhospital.com
 footlocker-inc.com
 footlocker.com
 footprint.net
-footprints-pa.googleapis.com
 forabank.ru
 forbank.dk
 forbes.com
@@ -11338,7 +11337,6 @@ granitebank.com
 graph.accountkit.com
 graph.facebook.com
 graph.facebook.net
-graph.fbpigeon.com
 graph.instagram.com
 graph.microsoft.com
 graph.qq.com
@@ -15915,7 +15913,6 @@ mediapcs.engadget.com
 mediaplayercodecpack.com
 mediaplex.com
 mediaset.it
-mediatriple.net
 medicaid.gov
 medicalcityhospital.com
 medicalnewstoday.com
@@ -18817,6 +18814,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -18999,6 +18997,7 @@ pjtra.com
 pkb24.ru
 pkc.gov.uk
 pkg.adfinis-sygroup.ch
+pki-goog.l.google.com
 pki.kaspersky.com
 pki.qualcomm.com
 pknb.de

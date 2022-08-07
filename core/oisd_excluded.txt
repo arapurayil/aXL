@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 06 Aug 2022 16:05:25 UTC
+# Last modified: 07 Aug 2022 00:37:22 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -823,6 +823,7 @@ cd.connatix.com
 cdex.mu
 cdn-gl.imrworldwide.com
 cdn-go.cn
+cdn-magiclinks.trackonomics.net
 cdn-net.com
 cdn-noc.net
 cdn.adf.ly
@@ -1217,6 +1218,7 @@ dl.twitchdl.com
 dldir2.qq.com
 dlied6.qq.com
 dmd.metaservices.microsoft.com
+dmdamedia.hu
 dmm.co.jp
 dns.digitale-gesellschaft.ch
 dns.twnic.tw
@@ -1574,6 +1576,7 @@ ghosthis.review
 gia.jd.com
 gigazine.asia
 gigya.com
+giosg.com
 glancecdn.net
 gleam.io
 glimmer.hearstapps.com
@@ -2927,7 +2930,6 @@ seed.bitcoin.sipa.be
 seed.bitcoinstats.com
 segment.com
 segment.io
-segpay.com
 self.events.data.microsoft.com
 selfpwn.org
 sellix.io
@@ -2943,6 +2945,7 @@ serve.adtrackers.net
 servedby.o2.co.uk
 server.iad.liveperson.net
 service.biv.sony.tv
+service.giosg.com
 services.brightline.tv
 services.zam.com
 settings-win.data.microsoft.com
@@ -3310,6 +3313,7 @@ tracking.socketlabs.com
 tracking.surveycheck.com
 tracking.truthfinder.com
 trackjs.com
+trackonomics.net
 tradedoubler.com
 tradetracker.net
 traffic.alexa.com
@@ -3512,6 +3516,7 @@ webapk-cdn.internet.apps.samsung.com
 webcare.byside.com
 webclicks24.com
 webcollage.net
+webengage.com
 webgains.com
 webhook.logentries.com
 webhop.net
