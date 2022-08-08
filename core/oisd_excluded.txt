@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 07 Aug 2022 16:05:11 UTC
+# Last modified: 08 Aug 2022 00:29:37 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -2973,6 +2973,7 @@ sickrage.ca
 sift.com
 siftscience.com
 silktide.com
+silverpop.com
 simp.ly
 simply.com
 simplyhired.com

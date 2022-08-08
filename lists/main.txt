@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.07
-# Last modified: 07 Aug 2022 16:05:11 UTC
+# Version: 3.08.08
+# Last modified: 08 Aug 2022 00:29:37 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -692,7 +692,6 @@ acompli.net
 acorns.com
 acp.jiobuzz.com
 acpbdf.com.br
-acquia.com
 acquirethisname.com
 acquisition-1.americanexpress.com
 acquisition.gov
@@ -4949,7 +4948,6 @@ browser-update.org
 browser.cloud.ucweb.com
 browser.events.data.microsoft.com
 browser.events.data.msn.com
-browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browserapi.micloud.xiaomi.net
@@ -5169,6 +5167,7 @@ c.storage.googleapis.com
 c.t-online.de
 c.tadst.com
 c.trello.com
+c.webengage.com
 c.yes.youku.com
 c.youtube.com
 c0.wp.com
@@ -6739,7 +6738,6 @@ com.my
 com.s3.amazonaws.com
 com.tr
 comafi.com.ar
-comagic.ru
 comarcalia.com
 combanktrust.com
 comcast.com
@@ -7949,7 +7947,6 @@ digicert.com
 digid.nl
 digidip.net
 digiex.net
-diginetica.net
 digio.com.br
 digipills.com
 digirati.com.br
@@ -8937,7 +8934,6 @@ emprisebank.com
 emptyloop.com
 ems-delivery.api.playstation.com
 ems.gov
-emsecure.net
 emsland-mitte.de
 emucr.com
 emui.huawei.com
@@ -11944,7 +11940,6 @@ homestreetbank.com
 hometownbancorp.com
 homewares.org
 homf.com
-honeybadger.io
 honeycreekanimalhospital.com
 hoogo.com
 hook.integromat.com
@@ -13540,7 +13535,6 @@ iqoption.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 ir.ebaystatic.com
-iraiser.eu
 irbbank.ch
 irc-galleria.net
 irc-ws-darklaunch.chat.twitch.tv
@@ -15263,6 +15257,7 @@ lsbank.com
 lsbbancshares.com
 lsbdirect.com
 lsbnc.com
+lsf.go.id
 lsta.org
 lt-in-f14.1e100.net
 lt-in-f26.1e100.net
@@ -23224,7 +23219,6 @@ stats.g.doubleclick.net
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
-stats.lt
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
@@ -26459,7 +26453,6 @@ webcam.yahoo.com
 webcamflushcrush.com
 webcare.byside.com
 webcityfed.com
-webclicks24.com
 webcollage.net
 webconferencia.net
 webd.pl
