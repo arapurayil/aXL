@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 08 Aug 2022 08:09:08 UTC
+# Last modified: 08 Aug 2022 16:08:28 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -580,6 +580,7 @@ app.adjust.com
 app.adjust.io
 app.adjust.net.in
 app.appsflyer.com
+app.box.com
 app.chat.xiaomi.net
 app.cookieinformation.com
 app.hubspot.com
@@ -589,7 +590,6 @@ app.market.xiaomi.com
 app.meltwater.com
 app.migc.xiaomi.com
 app.qq.com
-app.usercentrics.eu
 app.wootric.com
 appboy-images.com
 appcast.io
@@ -600,7 +600,6 @@ appletoolbox.com
 applicast.ga.sony.net
 appmetrica.yandex.com
 appmetrica.yandex.ru
-apps-pub.samsungcloudcdn.com
 apps.game.qq.com
 apps.skype.com
 appsflyer.com
@@ -685,7 +684,6 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
-bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1298,6 +1296,7 @@ egb.com
 eisys-bcs.jp
 ek21.com
 ekg.riotgames.com
+eksiup.com
 elasticbeanstalk.com
 elastx.net
 elb.eu-west-1.amazonaws.com
@@ -1401,7 +1400,6 @@ faktor.io
 faktor.mgr.consensu.org
 fast.appcues.com
 fast.wistia.com
-fast.wistia.net
 fastly-analytics.com
 faygoluvers.net
 fbcdn-creative-a.akamaihd.net
@@ -1421,6 +1419,7 @@ file2fxm.azureedge.net
 filehorse.com
 files.bbci.co.uk
 files.catbox.moe
+files.fm
 files.viva64.com
 filmha.top
 findicons.com
@@ -1551,7 +1550,6 @@ geoip-db.com
 geoip-js.com
 geoip.hmageo.com
 geojs.io
-geolite.maxmind.com
 geoloc.arte.tv
 geolocation-db.com
 geolocation.daznservices.com
@@ -1878,9 +1876,9 @@ id.l.google.com
 id.remoteutilities.com
 id.tinypass.com
 id.unity.com
-idcdn.de
 ident.me
 identity.mparticle.com
+idola.net.id
 idp.clogin.att.com
 idqqimg.com
 idv0h0h.qiniudns.com
@@ -2035,6 +2033,7 @@ kiev.ua
 kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
+kiwifarms.net
 klarnaservices.com
 klaviyo.com
 klclick.com
@@ -2253,6 +2252,7 @@ mijnknwu.knwu.nl
 milkfountain.com
 mimgnews.pstatic.net
 mindtake.com
+minepi.com
 minexmr.com
 miningpoolhub.com
 mintos.com
@@ -2326,7 +2326,6 @@ mssl.fwmrm.net
 msuac.edu.mn
 mudmonster.org
 multiscreen.samsung.com
-multiscreensite.com
 multiview.com
 mwx.ext.mobilityware.com
 mx.technolutions.net
@@ -2557,7 +2556,6 @@ peerius.com
 pega.com
 pendo.io
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2589,7 +2587,6 @@ piwik.secure.payu.com
 pix2.services.tvn.pl
 pixel.nymag.com
 pixelzirkus.gameforge.com
-pizzaandads.com
 pjatr.com
 pjtra.com
 pki-goog.l.google.com
@@ -3139,7 +3136,6 @@ streamate.com
 streaming.adswizz.com
 stressthem.to
 stripe.network
-stroeerdigitalgroup.de
 stun.l.google.com
 subang.go.id
 suckdude.com
@@ -3417,7 +3413,6 @@ usage.trackjs.com
 use.typekit.net
 usebutton.com
 useinsider.com
-usercentrics.com
 usercentrics.eu
 userleap.com
 userreport.com
