@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.08
-# Last modified: 08 Aug 2022 16:08:29 UTC
+# Version: 3.08.09
+# Last modified: 09 Aug 2022 00:37:24 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2792,7 +2792,6 @@ app.syndicaster.tv
 app.townsq.io
 app.traderepublic.com
 app.twitch.tv
-app.usercentrics.eu
 app.vsaex.visualstudio.com
 app.wechat.com
 app.winred.com
@@ -2835,7 +2834,6 @@ appmetrica.yandex.ru
 appnee.com
 apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
-apps-pub.samsungcloudcdn.com
 apps.cybonline.co.uk
 apps.daum.net
 apps.entrance.sonymobile.com
@@ -4251,7 +4249,6 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
-bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -8778,6 +8775,7 @@ ekkw.de
 eko.de
 ekonto.paluckibs.pl
 eksenim.mynet.com
+eksiup.com
 eksp.fi
 ekspertiz.bankasya.com.tr
 ekspertiz.turkiyefinans.com.tr
@@ -10740,7 +10738,6 @@ geoip.newsdev.nytimes.com
 geoip.sonymobile.com
 geoip.tnt-ea.com
 geojs.io
-geolite.maxmind.com
 geoloc.arte.tv
 geolocation-db.com
 geolocation.daznservices.com
@@ -12811,7 +12808,6 @@ idbmia.com
 idc.dir.tdm.qq.com
 idc.receiver.tdm.qq.com
 idcconfig.gcloud.qq.com
-idcdn.de
 idd-prototype-data.sonymobile.com
 idd-upload.di.sonymobile.com
 idd.sonymobile.com
@@ -12835,6 +12831,7 @@ idirecthosting.com
 idmanagement.gov
 idmsa.apple.com
 idnotify.com
+idola.net.id
 idownloadblog.com
 idp.clogin.att.com
 idqqimg.com
@@ -16225,6 +16222,7 @@ mine.nu
 minecraft.cryptopia.co.nz
 minecraftprod.rtep.msgamestudios.com
 mineolabank.com
+minepi.com
 minergate.com
 minershospital.com
 mineshaft1.cryptopia.co.nz
@@ -16686,7 +16684,6 @@ multibandcom.com
 multimania.de
 multiply.com
 multiscreen.samsung.com
-multiscreensite.com
 multistream.tv
 multiup.org
 multiupload.com
@@ -18809,7 +18806,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -18986,7 +18982,6 @@ pixhost.to
 pixinvent.com
 pixiu.shangshufang.ksosoft.com
 pixiv.net
-pizzaandads.com
 pjatr.com
 pjtra.com
 pkb24.ru
@@ -23428,7 +23423,6 @@ stripe.com
 stripe.network
 stripecdn.map.fastly.net
 stripes.com
-stroeerdigitalgroup.de
 strongpasswordgenerator.com
 strukturabank.ru
 sts.api.io.mi.com
@@ -25236,7 +25230,6 @@ user.binance.com
 useraction.zee5.com-v2.edgekey.net
 userapi.com
 userapi.zee5.com-v4.edgekey.net
-usercentrics.com
 usercentrics.eu
 userecho.com
 userede.com.br
