@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.10
-# Last modified: 10 Aug 2022 00:31:31 UTC
+# Last modified: 10 Aug 2022 08:07:52 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -909,6 +909,7 @@ ads.twitter.com
 ads280dummy2.com
 adsafeprotected.com
 adschemist.com
+adsense.blogspot.com
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -16568,7 +16569,6 @@ movies.netflix.com
 moviesanywhere.com
 moviestarplanet.com
 moviestarplanet.de
-movil.bbva.es
 mozcom.com
 mozilla.cloudflare-dns.com
 mozilla.com
@@ -19237,6 +19237,7 @@ postepay.it
 posterous.com
 postfinance.ch
 postgresql.org
+posthog.com
 postimage.org
 postimg.cc
 postimg.org
@@ -22137,6 +22138,7 @@ sngb.ru
 sngpartners.in
 sni.star.xhcdn.com.fpbns.net
 snickers.com
+snippet.host
 snippets.cdn.mozilla.net
 snipurl.com
 snmmd.nl
@@ -26599,6 +26601,7 @@ wgkk.at
 wgz-bank.de
 wgz-bank.lu
 whale.naver.com
+whatfinger.com
 whatis.snapchat.com
 whatismyipaddress.com
 whatsapp.com
@@ -27215,6 +27218,7 @@ xqqyu.mjt.lu
 xrea.com
 xrl.us
 xseno.nl
+xsph.ru
 xsts.auth.xboxlive.com
 xt3.me
 xtgem.com
