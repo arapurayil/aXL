@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 09 Aug 2022 16:06:53 UTC
+# Last modified: 10 Aug 2022 00:31:31 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -207,6 +207,7 @@ ads.reddit.com
 ads.twitter.com
 ads280dummy2.com
 adsafeprotected.com
+adsense.blogspot.com
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -580,7 +581,6 @@ app.adjust.com
 app.adjust.io
 app.adjust.net.in
 app.appsflyer.com
-app.box.com
 app.chat.xiaomi.net
 app.cookieinformation.com
 app.hubspot.com
@@ -1419,7 +1419,6 @@ file2fxm.azureedge.net
 filehorse.com
 files.bbci.co.uk
 files.catbox.moe
-files.fm
 files.viva64.com
 filmha.top
 findicons.com
@@ -1716,6 +1715,7 @@ hotelscombined.com.au
 houndify.com
 howsmyssl.com
 hp.demdex.net
+href.li
 hs-scripts.com
 hs.eloqua.com
 hscoscdn20.net
@@ -2304,7 +2304,6 @@ monitor.clickcease.com
 monorail-edge.shopifysvc.com
 mopinion.com
 movable-ink-397.com
-movil.bbva.es
 mp.twitch.tv
 mp.weixin.qq.com
 mparticle.com
@@ -2483,7 +2482,6 @@ opinionstage.com
 optanon.blob.core.windows.net
 optimizely.com
 optimizely.com.edgekey.net
-optmzly.fe.indazn.com
 oracle.112.2o7.net
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
@@ -2623,6 +2621,7 @@ pop-iad-2.cf.dash.row.aiv-cdn.net
 popin.cc
 post.spmailtechno.com
 postclickmarketing.com
+posthog.com
 postmediamontrealgazette2.files.wordpress.com
 postup.com
 poswieciekuchni.pl
@@ -3015,6 +3014,7 @@ snap.licdn.com
 snapengage.com
 snat.goguardian.com
 sngpartners.in
+snippet.host
 snmmd.nl
 snrcdn.net
 snu.lge.com
@@ -3527,6 +3527,7 @@ westeurope-1.in.applicationinsights.azure.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wgiftcard.com
+whatfinger.com
 whipcrack.org
 whoisprivacyprotect.com
 widget-cdn.rpxnow.com
@@ -3601,6 +3602,7 @@ xlog-va.musical.ly
 xmrpool.eu
 xp.apple.com
 xrea.com
+xsph.ru
 y8.com
 yabs.yandex.ru
 yadi.sk
