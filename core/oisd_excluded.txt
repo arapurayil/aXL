@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Aug 2022 08:07:47 UTC
+# Last modified: 11 Aug 2022 16:06:55 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -124,6 +124,7 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+ablinksuni.a.grubhub.com
 abload.de
 aboutads.info
 above.com
@@ -953,6 +954,7 @@ click.engage.xbox.com
 click.icptrack.com
 click.justwatch.com
 click.linksynergy.com
+click.mail.carousell.com
 click.mail.medscape.com
 click.mz.simba.taobao.com
 click.redditmail.com
@@ -1395,6 +1397,7 @@ extole.io
 extratorrent.ag
 extratorrent.cc
 extreme-ip-lookup.com
+ey.r.appspot.com
 ezoic.net
 f-log-at.grammarly.io
 f1.g.mi.com
@@ -1718,10 +1721,8 @@ hotelscombined.com.au
 houndify.com
 howsmyssl.com
 hp.demdex.net
-href.li
 hs-scripts.com
 hs.eloqua.com
-hscoscdn20.net
 hsdn.org
 hsforms.com
 hsforms.net
@@ -2052,7 +2053,6 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ksmobile.com
-kumascans.com
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2177,6 +2177,7 @@ mailchimp.com
 mailerlite.com
 mailfoogae.appspot.com
 mairdumont.com
+manage.devcenter.microsoft.com
 management.azure.com
 mandrillapp.com
 manga-news.com
@@ -2483,6 +2484,7 @@ open.spotify.com
 opencre.fr
 openmarket.com
 opinionstage.com
+ops.bpost.be
 optanon.blob.core.windows.net
 optimizely.com
 optimizely.com.edgekey.net
@@ -2601,6 +2603,7 @@ plarium.com
 platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
+plausible.eurostocks.nl
 plausible.io
 player-feedback-v1.glomex.com
 player.daznservices.com
@@ -2668,6 +2671,7 @@ productsup.com
 prodxnews1blob.blob.core.windows.net
 prolapseman.com
 promo.mobile.de
+promo.spotify.com
 prov.samsungcloudsolution.com
 proxad.net
 prvsz4pe.micpn.com
@@ -2773,6 +2777,7 @@ resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
+richplanet.net
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
@@ -2963,6 +2968,7 @@ shinobi.jp
 shodanhq.com
 shop.spreadshirt.com
 shopkick.com
+shopmyshelf.us
 shoppy.gg
 shorte.st
 shortpixel.ai
@@ -3142,6 +3148,7 @@ stripe.network
 stun.l.google.com
 subang.go.id
 suckdude.com
+sucmetrics.unicredit.it
 sumologic.com
 sundaysky.com
 superawesome.tv
@@ -3168,6 +3175,7 @@ t.indeed.com
 t.ks.ua
 t.myvisualiq.net
 t.notif-colissimo-laposte.info
+t.paydirekt.de
 t.paypal.com
 t.wayfair.ca
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -3549,7 +3557,6 @@ wildcard46.akstat.io.edgekey.net
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
-windows.net
 wip3.adobe.com
 wipe.de
 wistia.com
@@ -3645,5 +3652,6 @@ zkcdn.net
 zmctrack.net
 zopim.com
 zverokruh-shop.cz
+zynga.com
 zyngawithfriends.com
 zzb.bz
