@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 10 Aug 2022 16:06:53 UTC
+# Last modified: 11 Aug 2022 00:34:39 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -871,6 +871,7 @@ cdn.split.io
 cdn.static-fra.de
 cdn.stroeerdigitalgroup.de
 cdn.syndication.twimg.com
+cdn.tabnak.ir
 cdn.tagcommander.com
 cdn.tinypass.com
 cdn.transifex.com
@@ -920,6 +921,7 @@ chickenkiller.com
 chip.de
 chkd.org
 choice.microsoft.com
+chong.qq.com
 cidadehoje.pt
 cint.com
 cintnetworks.com
@@ -1133,6 +1135,7 @@ d1bd3wxsyuz0t7.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
+d1wp6m56sqw74a.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
@@ -1969,6 +1972,7 @@ ipoker.com
 ipqualityscore.com
 ipredictive.com
 ipstack.com
+ipstresser.com
 ironbeast.io
 is.snssdk.com
 isgprivacy.cbsi.com
