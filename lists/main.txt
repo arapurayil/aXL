@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.11
-# Last modified: 11 Aug 2022 00:34:39 UTC
+# Last modified: 11 Aug 2022 08:07:47 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -5787,6 +5787,7 @@ cdn.support.sonymobile.com
 cdn.survey.medallia.com
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
+cdn.tabnak.ir
 cdn.tagcommander.com
 cdn.technologyreview.com
 cdn.theatlantic.com
@@ -6207,6 +6208,7 @@ choices.trustarc.com
 choices.truste.com
 chomikuj.pl
 chomp.org
+chong.qq.com
 chongdiantou.com
 choopa.com
 christhospital.org
@@ -7459,6 +7461,7 @@ d1bl11pgu3tw3h.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
+d1wp6m56sqw74a.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2.naver.com
@@ -13521,6 +13524,7 @@ ipredator.se
 ipredictive.com
 iprl.com
 ipstack.com
+ipstresser.com
 ipsw.me
 ipv4only.arpa
 ipv6.he.net
