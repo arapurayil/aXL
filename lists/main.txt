@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.11
-# Last modified: 11 Aug 2022 16:06:55 UTC
+# Version: 3.08.12
+# Last modified: 12 Aug 2022 00:31:27 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -553,6 +553,7 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
+ablinksuni.a.grubhub.com
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -6394,6 +6395,7 @@ click.engage.xbox.com
 click.icptrack.com
 click.justwatch.com
 click.linksynergy.com
+click.mail.carousell.com
 click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.mail.medscape.com
@@ -9349,6 +9351,7 @@ extratorrent.cc
 extratorrent.com
 extreme-ip-lookup.com
 extrobank.ru
+ey.r.appspot.com
 ez-sites.ws
 ezaimo.ru
 ezhospital.com
@@ -12095,7 +12098,6 @@ hsbctrinkaus.de
 hsbctrinkaus.lu
 hsbofmn.com
 hscni.net
-hscoscdn20.net
 hsdn.org
 hselayang.moh.gov.my
 hsforms.com
@@ -14527,7 +14529,6 @@ kuc.cz
 kucoin.com
 kudtkoekiewet.nl
 kuleuven.eu.qualtrics.com
-kumascans.com
 kunden-mkb-bank.de
 kurskprombank.ru
 kurumsal.aktifbank.com.tr
@@ -18202,6 +18203,7 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
+ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -19039,6 +19041,7 @@ platipokarte.ru
 platiza.ru
 platron.ru
 platzi.com
+plausible.eurostocks.nl
 plausible.io
 play-asia.com
 play.app.goo.gl
@@ -19474,6 +19477,7 @@ promo.concord.ua
 promo.kaspersky.com
 promo.mi.com
 promo.mobile.de
+promo.spotify.com
 promo.webpayments.closeby.internet.apps.samsung.com
 promodj.com
 promoted.soundcloud.com
@@ -20498,6 +20502,7 @@ richart.tw
 richlandbank.com
 richlandhospital.com
 richmond.gov.uk
+richplanet.net
 richrelevance.com
 rico.com.vc
 ridefox.com
@@ -21786,6 +21791,7 @@ shopapi.io.mi.com
 shopcredit.com.br
 shopify.com
 shopkick.com
+shopmyshelf.us
 shopping.line.me
 shopping.naver.com
 shoppy.gg
@@ -23479,6 +23485,7 @@ suburbanhospital.org
 suche.t-online.de
 suckdude.com
 suckerpunch.playstation.com
+sucmetrics.unicredit.it
 sudu8.com
 suffolkcc.gov.uk
 sug.search.daum.net
@@ -23749,6 +23756,7 @@ t.me
 t.myvisualiq.net
 t.notif-colissimo-laposte.info
 t.ow.ly
+t.paydirekt.de
 t.paypal.com
 t.purch.com
 t.uc.cn
@@ -27532,6 +27540,7 @@ zwift.com
 zwigge.de
 zxq.net
 zymic.com
+zynga.com
 zyngawithfriends.com
 zytpirwai.net
 zyva.org

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 11 Aug 2022 16:06:55 UTC
+# Last modified: 12 Aug 2022 00:31:26 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -430,7 +430,6 @@ adultfriendfinder.com
 adultswim.com
 adups.com
 advance.net
-advcash.com
 adverigo.com
 advertisement.tanx.com
 advertising-module.api.dpgmedia.cloud
@@ -685,6 +684,7 @@ benefits.sovendus.com
 bentonow.com
 best.aliexpress.com
 bestgore.com
+bestgore.fun
 betclic.com
 betrad.com
 bfast.com
@@ -1045,7 +1045,6 @@ console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.jwplatform.com
-contents.fc2.com
 continuum.dds.microsoft.com
 controleng.com
 conversions.appsflyer.com
@@ -1098,7 +1097,6 @@ cst.cstwpush.com
 cstwpush.com
 ct.pinterest.com
 ct.sendgrid.net
-ctrip.com
 cts.businesswire.com
 cts.vresp.com
 cuci.nl
@@ -1219,7 +1217,6 @@ dldir2.qq.com
 dlied6.qq.com
 dmd.metaservices.microsoft.com
 dmdamedia.hu
-dmm.co.jp
 dns.digitale-gesellschaft.ch
 dns.twnic.tw
 dns.weixin.qq.com
@@ -1259,7 +1256,6 @@ dsp.brand.sogou.com
 dspultra.com
 dt51.net
 duckdns.org
-durasite.net
 dw-online.ksosoft.com
 dw.cbsi.com
 dw.com
@@ -2755,7 +2751,6 @@ redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirectingat.com
 redirector.gvt1.com
-redventures.io
 reevoo.com
 referrer.disqus.com
 refersion.com
@@ -2929,6 +2924,7 @@ seed.bitcoin.sipa.be
 seed.bitcoinstats.com
 segment.com
 segment.io
+segpay.com
 self.events.data.microsoft.com
 selfpwn.org
 sellix.io
@@ -3001,7 +2997,6 @@ sls.update.microsoft.com.akadns.net
 smallseotools.com
 smart.link
 smartadserver.com
-smartasset.com
 smartlock.google.com
 smartplugin.youbora.com
 smartredirect.de
@@ -3263,7 +3258,6 @@ tkn.fux.com
 tkqlhce.com
 tlkm.id
 tm.tradetracker.net
-tmearn.com
 tms-st.cdn.ngenix.net
 tns-sifo.se
 toboganantiques.com
@@ -3504,7 +3498,6 @@ wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 wallpapers.com
 walmart.com.akadns.net
-watch-jav.com
 watch.impress.co.jp
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
@@ -3639,6 +3632,7 @@ yunjiasu-cdn.net
 yunta.org.pe
 yximgs.com
 z.zz.ht
+z4a.net
 zapr.in
 zapto.org
 zdbb.net
