@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.12
-# Last modified: 12 Aug 2022 00:31:27 UTC
+# Last modified: 12 Aug 2022 08:08:03 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4251,6 +4251,7 @@ best.aliexpress.com
 bestbuy.com
 bestfwdservice.com
 bestgore.com
+bestgore.fun
 bestmovies.com
 bestofmedia.com
 bestvpnrating.com
@@ -6974,7 +6975,6 @@ content.vidgyor.com
 content.webcollage.net
 content.yikyakapi.net
 contentful.com
-contents.fc2.com
 contests.dailycaller.com
 continuum.dds.microsoft.com
 contributor.google.com
@@ -7337,7 +7337,6 @@ ctfassets.net
 ctk.de
 ctldl.windowsupdate.com
 ctnbank.com.tw
-ctrip.com
 cts.businesswire.com
 cts.vresp.com
 ctt-trier.de
@@ -8095,7 +8094,6 @@ dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
 dmdamedia.hu
 dmitchell.com
-dmm.co.jp
 dmm.com
 dmp.adform.net
 dms.metlife.ru
@@ -8404,7 +8402,6 @@ duepuntozero.com
 dumpert.nl
 dunant.gr
 duo.nl
-durasite.net
 durov.ru
 dv.gd
 dvb.pandora.xiaomi.com
@@ -20308,7 +20305,6 @@ redsky.target.com
 redstation.com
 redtube.com
 redu.it
-redventures.io
 redwheeler.com
 redwoodcu.org
 reebok.com
@@ -21550,6 +21546,7 @@ seesaa.net
 segment.com
 segment.hotstar.com
 segment.io
+segpay.com
 segue.se
 sejda.com
 sekkiel.de
@@ -22052,7 +22049,6 @@ smart.gov
 smart.link
 smartadserver.com
 smartandsexy.com
-smartasset.com
 smartbank.ru
 smartel.co.nz
 smartgit.userecho.com
@@ -26344,7 +26340,6 @@ washingtontimes.com
 washoeschools.net
 washsavbk.com
 washtrust.com
-watch-jav.com
 watch.impress.co.jp
 watch.twitch.tv
 watchdog-basic.energized.pro
@@ -27397,6 +27392,7 @@ z-p4-graph.facebook.com
 z.cdn.turner.com
 z.tochka.com
 z.zz.ht
+z4a.net
 z9.fr
 zSMS.net
 za.ign.com
