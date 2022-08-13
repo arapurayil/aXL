@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 12 Aug 2022 16:07:56 UTC
+# Last modified: 13 Aug 2022 00:30:16 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -146,6 +146,7 @@ actonsoftware.com
 actuabd.com
 acxiom.com
 ad-ettoday.cdn.hinet.net
+ad-ipd.sxp.smartclip.net
 ad.admitad.com
 ad.aruba.it
 ad.atdmt.com
@@ -1216,6 +1217,7 @@ dotnetdays.ro
 dotomi.com
 dotomi.weighted.com.akadns.net
 doubleclick.net
+dovetale.com
 down.360safe.com
 download.wegame.qq.com
 downloads.wisecleaner.com
@@ -2962,6 +2964,7 @@ sls.update.microsoft.com.akadns.net
 smallseotools.com
 smart.link
 smartadserver.com
+smartclip.net
 smartlock.google.com
 smartplugin.youbora.com
 smartredirect.de
@@ -3120,6 +3123,7 @@ survio.com
 suzihaza.com
 svonm.com
 sw88.go.com
+sxp.smartclip.net
 sy.ameblo.jp
 symcb.com
 symcd.com
@@ -3312,6 +3316,7 @@ tui.taobao.com
 tupperware.ipapercms.dk
 turdgasm.com
 tv.sohu.com
+tv.telstra.com.au
 tvn.adocean.pl
 tvpage.com
 tvpapi-as.ott.kaltura.com

@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.12
-# Last modified: 12 Aug 2022 16:07:56 UTC
+# Version: 3.08.13
+# Last modified: 13 Aug 2022 00:30:16 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -367,7 +367,6 @@
 7chan.org
 7eer.net
 7fth.cc
-7lbd4.armandthiery.fr
 7li.in
 7vd.cn
 7zap.com
@@ -553,7 +552,6 @@ abj.org.jo
 abkbank.de
 abl.agrocombank.com.ua
 abl.org.lb
-ablinksuni.a.grubhub.com
 abload.de
 abm.org.mx
 abnamro.co.kr
@@ -1435,6 +1433,7 @@ aliorbank.pl
 alipay.com
 alipayobjects.com
 alipromo.com
+alissl.ucdl.pp.uc.cn
 alitems.com
 alitems.site
 alivenotdead.de
@@ -2306,7 +2305,6 @@ antrimveterinaryhospital.com
 anubisnetworks.com
 anurl.com
 anvil.opentok.com
-anvir.com
 anwb.nl
 any-in-2015.1e100.net
 any.gs
@@ -3271,7 +3269,6 @@ avenuespethospital.com
 avg.com
 avhospital.org
 avia.ideabank.ua
-aviasales.ru
 avito.ru
 avlyun.sec.miui.com
 avon.payupay.ru
@@ -4453,7 +4450,6 @@ bitmovin.com
 bitpanda.com
 bitpay.com
 bitrix.info
-bits.avcdn.net
 bits.twitch.tv
 bitstamp.net
 bittersweetparis.com
@@ -4636,6 +4632,8 @@ bluecore.com
 bluecrosspethospital.onsmartpages.com
 bluehornet.com
 bluehost.com
+bluekai.com
+bluekai.com.edgekey.net
 bluestarindia.com
 bluetoad.com
 bluewaffle.biz
@@ -5068,7 +5066,6 @@ burnermail.io
 bus.ideabank.ua
 buscape.com.br
 busey.com
-busfor.com
 business.faktura.ru
 business.gov
 business.hide.me
@@ -6396,7 +6393,6 @@ click.engage.xbox.com
 click.icptrack.com
 click.justwatch.com
 click.linksynergy.com
-click.mail.carousell.com
 click.mail.jp.playstation.com
 click.mail.macmillan.com
 click.mail.medscape.com
@@ -6707,7 +6703,6 @@ collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
 collector-main.trafficmanager.net
-collector.wallapop.com
 collegedrinkingprevention.gov
 collegehumor.com
 collm-klinik-oschatz.de
@@ -6907,7 +6902,6 @@ connect.sonymobile.com
 connect.soundcloud.com
 connect.ua
 connect2.lenovo.com
-connectbot.org
 connected.sonymusic.com
 connection.support.playstation.com
 connectionassist.com
@@ -7113,7 +7107,6 @@ cox.com
 cp.bluesnap.com
 cp.mi.com
 cp.pushwoosh.com
-cp.us.na.cloud.im
 cp1.news.com.au
 cp101-prod.do.dsp.mp.microsoft.com
 cp701-prod.do.dsp.mp.microsoft.com.edgekey.net
@@ -7441,7 +7434,6 @@ d.agkn.com
 d.dropbox.com
 d.g.mi.com
 d.getpocket.com
-d.ghostery.com
 d.huawei.com
 d.ifengimg.com
 d.la1-c2-iad.salesforceliveagent.com
@@ -7483,7 +7475,6 @@ d31qbv1cthcecs.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d36eyd5j1kt1m6.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
-d3dy5gmtp8yhk7.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4.me
@@ -8065,7 +8056,6 @@ dl.l.google.com
 dl.notepad-plus-plus.org
 dl.op.wpscdn.cn
 dl.opensubtitles.org
-dl.packetstormsecurity.net
 dl.twitchdl.com
 dl.update.micloud.xiaomi.net
 dl.xda-developers.com
@@ -8717,7 +8707,6 @@ edition.cnn.com
 editmysite.com
 editor.dailycaller.com
 editor.flipboard.com
-edje.com
 edm03.huawei.com
 ednaonline.com
 ednetz.de
@@ -9605,7 +9594,6 @@ feelinsonice.appspot.l.google.com
 feelinsonice.l.google.com
 feib.com.tw
 fema.gov
-fembed.com
 femto.pw
 feniciabank.com
 feodotracker.abuse.ch
@@ -11574,6 +11562,7 @@ hamsterpaj.se
 hanabank.co.kr
 hanaro.com
 hancockbank.com
+handbid.com
 handelsbanken.dk
 handelsbanken.fi
 handelsbanken.nl
@@ -13566,7 +13555,6 @@ isbank.is
 isbforex.ru
 ischs.org.au
 iservice.fuzelfiles.com
-isgprivacy.cbsi.com
 islamibankbd.com
 islamic-commerce.net
 islamweb.net
@@ -15655,7 +15643,6 @@ maybank2u.com.ph
 mayitek.com
 mayoclinic.org
 mayohospital.com
-maysoon.biz
 mazobank.com
 mazonstatebank.com
 mazu.sec.miui.com
@@ -16027,7 +16014,6 @@ mercedes-benz-bank.de
 mercerhospital.org
 merchandise.api.playstation.com
 merchant.bithumb.com
-merchant.wgiftcard.com
 merchantsbankvt.com
 merchantsecurity.enstage.com
 merckfinck.de
@@ -16736,7 +16722,6 @@ mwx.ext.mobilityware.com
 mx-go.kelkoogroup.net
 mx.freenet.de
 mx.namecoin.info
-mx.technolutions.net
 mx1.hitbtc.com
 mxmcdn.net
 mxpnl.com
@@ -17113,7 +17098,6 @@ net-s.pl
 net.au
 net.cdn.ezoic.net
 net.edgekey.net
-net.geo.opera.com
 net.kentbank.hr
 net.ms
 net.pnb.com
@@ -17732,7 +17716,6 @@ oberlandbank.de
 oberlausitz-kliniken.de
 oberlinhaus.de
 oberschwabenklinik.de
-objectstorage.us-ashburn-1.oraclecloud.com
 obk.be
 oblhospital.com.ua
 oboom.com
@@ -18200,7 +18183,6 @@ oplatatroika.mobi-money.ru
 oppo.com
 oprah.com
 oprl.com
-ops.bpost.be
 optanon.blob.core.windows.net
 optima24.kg
 optimal-banking.de
@@ -18579,7 +18561,6 @@ pasche.li
 pashabank.az
 pashaonline.pashabank.com.tr
 pasientsky.no
-pass.1688.com
 passado.com
 passavanthospital.com
 passbanca.it
@@ -18809,6 +18790,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -19038,7 +19020,6 @@ platipokarte.ru
 platiza.ru
 platron.ru
 platzi.com
-plausible.eurostocks.nl
 plausible.io
 play-asia.com
 play.app.goo.gl
@@ -19325,7 +19306,6 @@ presscustomizr.com
 prestashop.com
 prestigecu.org
 pretoriapethospital.com
-prevelo.com
 preview-community.xbox.com
 preview-group.diigo.com
 preview-secure-www.xbox.com
@@ -19474,7 +19454,6 @@ promo.concord.ua
 promo.kaspersky.com
 promo.mi.com
 promo.mobile.de
-promo.spotify.com
 promo.webpayments.closeby.internet.apps.samsung.com
 promodj.com
 promoted.soundcloud.com
@@ -20498,7 +20477,6 @@ richart.tw
 richlandbank.com
 richlandhospital.com
 richmond.gov.uk
-richplanet.net
 richrelevance.com
 rico.com.vc
 ridefox.com
@@ -21774,6 +21752,7 @@ shop.dailycaller.com
 shop.ebay.com
 shop.funimation.com
 shop.huawei.com
+shop.kicker.de
 shop.lego.com
 shop.mi.com
 shop.nuance.com
@@ -21932,7 +21911,6 @@ sitestandart.ru
 sitestat.com
 sitetalk.com
 sitetracker.com
-situacaocadastral.info
 sixrivers.com
 sj1gtm003.adobe.com
 sj1gtm004.adobe.com
@@ -23481,7 +23459,6 @@ suburbanhospital.org
 suche.t-online.de
 suckdude.com
 suckerpunch.playstation.com
-sucmetrics.unicredit.it
 sudu8.com
 suffolkcc.gov.uk
 sug.search.daum.net
@@ -23752,7 +23729,6 @@ t.me
 t.myvisualiq.net
 t.notif-colissimo-laposte.info
 t.ow.ly
-t.paydirekt.de
 t.paypal.com
 t.purch.com
 t.uc.cn
@@ -23799,6 +23775,7 @@ tagm.tchibo.de
 tagmanager.google.com
 tags.adsafety.net
 tags.bkrtx.com
+tags.bluekai.com.edgekey.net
 tags.news.com.au
 tags.tiqcdn.com
 tags.tiqcdn.com.edgekey.net
@@ -23876,7 +23853,6 @@ tbcbank.com.ge
 tbcdn.cn
 tbconline.ge
 tblog-8sodn459.kgslb.com
-tbskip.taobao.com
 tc.tradetracker.com
 tc.tradetracker.net
 tcb-bank.com.tw
@@ -24175,7 +24151,6 @@ thinair.net.nz
 thinkroadsafety.gov.uk
 thirdparty.bnc.lt
 thirdqq.qlogo.cn
-thisisacoolthing.com
 thisissand.com
 thisisyourbank.com
 thm.market.xiaomi.com
@@ -24275,7 +24250,6 @@ tkb.ch
 tkb.com.tr
 tkb.lv
 tkbb.org.tr
-tkn.fux.com
 tknauth.spmode.ne.jp
 tkqlhce.com
 tkx.apis.anvato.net
@@ -26603,7 +26577,6 @@ wfc.sebank.se
 wfcdn.de
 wfk-ew.de
 wg.spotify.com
-wgiftcard.com
 wgkk.at
 wgz-bank.de
 wgz-bank.lu
@@ -27536,8 +27509,6 @@ zwift.com
 zwigge.de
 zxq.net
 zymic.com
-zynga.com
-zyngawithfriends.com
 zytpirwai.net
 zyva.org
 zz.ee
