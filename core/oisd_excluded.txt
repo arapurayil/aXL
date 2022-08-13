@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 13 Aug 2022 08:07:53 UTC
+# Last modified: 13 Aug 2022 16:06:50 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -427,6 +427,7 @@ adultfriendfinder.com
 adultswim.com
 adups.com
 advance.net
+advcash.com
 adverigo.com
 advertisement.tanx.com
 advertising-module.api.dpgmedia.cloud
@@ -1036,6 +1037,7 @@ console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
 content.jwplatform.com
+contents.fc2.com
 continuum.dds.microsoft.com
 controleng.com
 conversions.appsflyer.com
@@ -1057,6 +1059,7 @@ countere.com
 countvoncount.goguardian.com
 couponxoo.com
 coveo.com
+covid-19-au.com
 cp1.news.com.au
 cpm.wargaming.net
 cpt.itv.com
@@ -1087,6 +1090,7 @@ cst.cstwpush.com
 cstwpush.com
 ct.pinterest.com
 ct.sendgrid.net
+ctrip.com
 cts.businesswire.com
 cts.vresp.com
 cuci.nl
@@ -1203,6 +1207,7 @@ dldir2.qq.com
 dlied6.qq.com
 dmd.metaservices.microsoft.com
 dmdamedia.hu
+dmm.co.jp
 dns.digitale-gesellschaft.ch
 dns.twnic.tw
 dns.weixin.qq.com
@@ -1243,6 +1248,7 @@ dsp.brand.sogou.com
 dspultra.com
 dt51.net
 duckdns.org
+durasite.net
 dw-online.ksosoft.com
 dw.cbsi.com
 dw.com
@@ -1254,6 +1260,7 @@ dynu.com
 dynu.net
 dzc-metrics.mzstatic.com
 e-mark.nl
+e-nls.com
 e.189.cn
 e.imguol.com
 e.reddit.com
@@ -1419,6 +1426,7 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 flbag.net
 flexlinkspro.com
+flexpool.io
 flipp.com
 flirt.com
 flix360.com
@@ -1674,6 +1682,7 @@ hello.myfonts.net
 helpshift.com
 heraldm.com
 here.com
+herominers.com
 heymistr.com
 hiperdex.com
 hit.bg
@@ -1995,6 +2004,7 @@ js.maxmind.com
 js.pusher.com
 js.recurly.com
 js.taplytics.com
+jssdkcdns.mparticle.com
 jssdks.mparticle.com
 jumia.com.ng
 justanswer.com
@@ -2680,6 +2690,7 @@ quantcast.com
 quantcast.mgr.consensu.org
 quantummetric.com
 quartic.pl
+questback.com
 questionpro.com
 quiddity.goguardian.com
 quttera.com
@@ -2724,6 +2735,7 @@ redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirectingat.com
 redirector.gvt1.com
+redventures.io
 reevoo.com
 referrer.disqus.com
 refersion.com
@@ -2964,6 +2976,7 @@ sls.update.microsoft.com.akadns.net
 smallseotools.com
 smart.link
 smartadserver.com
+smartasset.com
 smartclip.net
 smartlock.google.com
 smartplugin.youbora.com
@@ -3224,6 +3237,7 @@ tiqcdn.com
 tkqlhce.com
 tlkm.id
 tm.tradetracker.net
+tmearn.com
 tms-st.cdn.ngenix.net
 tns-sifo.se
 toboganantiques.com
@@ -3461,10 +3475,12 @@ wagbridge.alibaba.tanx.com
 waldenfarms.com
 walkthedinosaur.com
 wallet-api.urbanairship.com
+wallet.bitcoin.com
 wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 wallpapers.com
 walmart.com.akadns.net
+watch-jav.com
 watch.impress.co.jp
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
