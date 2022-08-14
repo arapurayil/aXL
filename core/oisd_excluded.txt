@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Aug 2022 08:07:14 UTC
+# Last modified: 14 Aug 2022 16:05:35 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -920,6 +920,7 @@ chkd.org
 choice.microsoft.com
 chong.qq.com
 cidadehoje.pt
+cineciudad.com
 cint.com
 cintnetworks.com
 cision.com
@@ -1059,7 +1060,6 @@ countere.com
 countvoncount.goguardian.com
 couponxoo.com
 coveo.com
-covid-19-au.com
 cp1.news.com.au
 cpm.wargaming.net
 cpt.itv.com
@@ -1178,6 +1178,7 @@ dealabs.digidip.net
 dealer.com
 deals.macupdate.com
 dedicated.domains
+defensacentral.com
 delivery.vidible.tv
 demdex.net
 detectportal.firefox.com
@@ -1280,7 +1281,6 @@ ecology-tech403.ml
 edge-usw2.demdex.net
 edgecast-vod.yahoo.net
 edgecastcdn.net
-edgedl.me.gvt1.com
 edgesuite.net
 edigitalsurvey.com
 edrone.me
@@ -1426,7 +1426,6 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 flbag.net
 flexlinkspro.com
-flexpool.io
 flipp.com
 flirt.com
 flix360.com
@@ -1538,6 +1537,7 @@ geo.vortex.data.microsoft.com.akadns.net
 geo2.adobe.com
 geo3.ggpht.com
 geocities.jp
+geocities.ws
 geocomply.com
 geoim.bloomberght.com
 geoip-db.com
@@ -1603,7 +1603,6 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-googleusercontent.com
 googlezip.net
 gopjn.com
 gorebrasil.com
@@ -1682,7 +1681,6 @@ hello.myfonts.net
 helpshift.com
 heraldm.com
 here.com
-herominers.com
 heymistr.com
 hiperdex.com
 hit.bg
@@ -2029,6 +2027,7 @@ kiev.ua
 kiks.yandex.ru
 kinesis.us-east-1.amazonaws.com
 kinja.com
+kisshentai.net
 kiwifarms.net
 klarnaservices.com
 klaviyo.com
@@ -2604,6 +2603,7 @@ pokerstrategy.com
 policy.app.cookieinformation.com
 polyfill.io
 poneytelecom.eu
+pool.space
 pop-iad-2.cf.dash.row.aiv-cdn.net
 popin.cc
 post.spmailtechno.com
@@ -2619,6 +2619,7 @@ powvideo.net
 pp.ru
 ppcprotect.com
 ppro.de
+ppt.cc
 ppurifier.game.xiaomi.com
 practivate.adobe.com
 prd.ads.aws.fwmrm.net
@@ -2755,6 +2756,7 @@ resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
+reurl.cc
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
@@ -3210,6 +3212,7 @@ test.com
 test.quantcast.mgr.consensu.org
 texashomebase.com
 thaiticketmajor.com
+theadviser.com.au
 thealtening.com
 theannoyingsite.com
 thebrighttag.com
@@ -3475,7 +3478,6 @@ wagbridge.alibaba.tanx.com
 waldenfarms.com
 walkthedinosaur.com
 wallet-api.urbanairship.com
-wallet.bitcoin.com
 wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
 wallpapers.com
