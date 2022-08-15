@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.15
-# Last modified: 15 Aug 2022 00:33:31 UTC
+# Last modified: 15 Aug 2022 08:08:34 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -21016,7 +21016,6 @@ samsungcloudsolution.net
 samsungelectronics.com
 samsungeucdm-mid-prod1-res.adobe-campaign.com
 samsunghospital.com
-samsungiotcloud.com
 samsungosp.com
 samsungotn.net
 samsungqbe.com
@@ -26213,7 +26212,6 @@ vtwonen.nl
 vudu.com
 vudu.hs.llnwd.net
 vudu.sc.omtrdc.net
-vuduweb.s.llnwi.net
 vue.playstation.com
 vulcan.xbox.com
 vulcancom.net
@@ -27384,6 +27382,7 @@ z-m.facebook.com
 z-na.amazon-adsystem.com
 z-p4-graph.facebook.com
 z.cdn.turner.com
+z.cdp-dev.cnn.com
 z.tochka.com
 z.zz.ht
 z4a.net
