@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.15
-# Last modified: 15 Aug 2022 08:08:34 UTC
+# Last modified: 15 Aug 2022 16:07:22 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2184,7 +2184,6 @@ amtrust.com
 amundi-tc.com
 amzn.com
 amzn.to
-amznadsi.hs.llnwd.net
 ana.fr
 anadolubank.com.tr
 anadolufinans.com.tr
@@ -2397,7 +2396,6 @@ api.actionbutton.co
 api.ad.xiaomi.com
 api.adguard.com
 api.adguard.org
-api.advista.no
 api.ai.xiaomi.com
 api.airfind.com
 api.am.coinbase.com
@@ -2550,7 +2548,6 @@ api.mixpanel.com
 api.monitor.azure.com
 api.naver.com
 api.netflix.com
-api.newrelic.com
 api.next.exchange
 api.nextgen.guardianapps.co.uk
 api.nfl.com
@@ -2760,7 +2757,6 @@ app.dharma.io
 app.energized.pro
 app.getresponse.com
 app.huawei.com
-app.hubspot.com
 app.hulu.com
 app.intercom.io
 app.intuit.launchdarkly.com
@@ -4153,7 +4149,6 @@ bdydns.com
 bdydns.net
 be-go.kelkoogroup.net
 be.lnm.eu
-be.proximus.com
 be5.com
 beac.int
 beac.ru
@@ -4437,7 +4432,6 @@ bitbank.cc
 bitbucket-marketing-cdn.atlassian.com
 bitbucket.io
 bitbucket.org
-bitcheese.net
 bitcoin.com
 bitcoin.de
 bitcoin.org
@@ -4864,7 +4858,6 @@ brand.sogou.com
 branded.me
 brandenburg-spion.de
 brandenburgerbank.de
-branding.api.us.apiconnect.ibmcloud.com
 brands.flipboard.com
 brands.medium.com
 brandshop.ru
@@ -6521,7 +6514,6 @@ cloud.google.com
 cloud.gov
 cloud.gsdk.proximabeta.com
 cloud.huawei.com
-cloud.internetstores.com
 cloud.lenovo.com
 cloud.lg.com
 cloud.rovio.com
@@ -7406,7 +7398,6 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 cxense.com
 cxense.com.edgekey.net
-cy-pr.com
 cy.gravatar.com
 cy.wikipedia.com
 cy2.settings.data.microsoft.com.akadns.net
@@ -7463,8 +7454,6 @@ d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2.naver.com
 d2.shared.global.fastly.net
-d21gpk1vhmjuf5.cloudfront.net
-d2405b0jymm2dk.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
@@ -7590,7 +7579,6 @@ datacloud-us-east-1.tealiumiq.com
 datacloud.tealiumiq.com
 datadoghq-browser-agent.com
 datadoghq.com
-datadome.co
 datafilehost.com
 datafront.co
 datahi.com
@@ -7921,7 +7909,6 @@ diba.dk
 dic.daum.net
 dic.naver.com
 dic.nicovideo.jp
-dicks-sporting-goods.pxf.io
 dickssportinggoods.com
 dicordapp.com
 dict.leo.org
@@ -8570,7 +8557,6 @@ easylist.club
 easylist.to
 easypay.axisbank.co.in
 easypay.ua
-easysol.net
 eatel.com
 eatel.net
 eaus2watcab01.blob.core.windows.net
@@ -8797,7 +8783,6 @@ elbank.lviv.ua
 elbe-jeetzel-klinik.de
 elbekliniken.de
 elblandkliniken.de
-elblogdelnarco.com
 eldadhost.ir
 elders.com.au
 eldersruralbank.com.au
@@ -9945,7 +9930,6 @@ flix360.com
 flixaddict.com
 flixcart.com
 flixster.com
-flocktory.com
 florabank.ru
 florencestatebank.com
 floridabankers.com
@@ -10886,7 +10870,6 @@ gleam.io
 glendaleadventist.com
 glendalememorialhospital.org
 glensfallshospital.org
-glimmer.hearstapps.com
 glitnir.is
 glkb.ch
 global-download.acer.com
@@ -11265,7 +11248,6 @@ goolive.de
 goorm.io
 gopjn.com
 gora.golf.rakuten.co.jp
-gorebrasil.com
 gorhamsavingsbank.com
 gorod23.ru
 gorzdrav.spb.ru
@@ -11275,8 +11257,6 @@ gosredirector.ea.com
 gosupernet.com
 gosuslugi.ru
 gotinder.com
-goto-capitalone-com.ct.impactradius.com
-goto-seavees-com.ct.impactradius.com
 goto-target-com.customtraffic.impactradius.com
 goto.clickfunnels.com
 goto.target.com
@@ -12093,7 +12073,6 @@ hsbctrinkaus.de
 hsbctrinkaus.lu
 hsbofmn.com
 hscni.net
-hsdn.org
 hselayang.moh.gov.my
 hsforms.com
 hsforms.net
@@ -13276,7 +13255,6 @@ inkom.lutsk.ua
 inkpeak.com
 inl.gov
 inlandrevenue.gov.uk
-inmoment.com
 inmotionhosting.com
 innovationresearch.huawei.com
 inoreader.com
@@ -13462,7 +13440,6 @@ iobsingapore.com
 ioconto.it
 ioffice.kz
 iol.cz
-iolam.it
 ioniahospital.org
 iopscience.iop.org
 ios.nccp.netflix.com
@@ -13489,7 +13466,6 @@ ipb.cz
 ipb.ru
 ipcheck.tmgrup.com.tr
 ipchicken.com
-ipdata.co
 ipeer.se
 ipej.tripod.com
 ipfire.org
@@ -13918,9 +13894,7 @@ kansasstatebank.com
 kanton-spion.ch
 kantonalbank.ch
 kantonsspitalglarus.ch
-kaotic.com
 kapitalbank.az
-kaptcha.com
 karafarinbank.com
 karalyte.com
 karanpc.com
@@ -14698,7 +14672,6 @@ lcut.in
 lds.org
 lds.org.edgekey.net
 leadpages.co
-leadpages.net
 leakix.net
 leanplum.com
 learn.elephantjournal.com
@@ -15014,7 +14987,6 @@ lix.in
 lj.ru
 ljgate.com
 ljplus.ru
-ljudochbild.se
 lk-eberswalde.de
 lk.bcsb.ru
 lk.billing74.ru
@@ -15172,7 +15144,6 @@ login.windows-ppe.net
 login.windows.net
 login.yahoo.com
 logincdn.msauth.net
-loginfra.com
 loginhood.io
 loginpoll.wechat.com
 loginradius.com
@@ -15512,7 +15483,6 @@ maps.gstatic.com
 maps.here.com
 maps.l.google.com
 maps.locationiq.com
-maps.locuslabs.com
 maps.ok.ru
 maps.reclamefolder.nl
 maps.snapchat.com
@@ -15574,7 +15544,6 @@ marketing.adobe.com
 marketing.etorostatic.com
 marketing.hostgator.com
 marketing.tllms.com
-marketing.tr.netsalesmedia.pl
 marketingautomation.services
 marketingplatform.google.com
 marketo.com
@@ -15759,7 +15728,6 @@ mechbank.com
 mecknc.gov
 med-care.at
 med-rf.ru
-medallia.com
 medals.bizrate.com
 medcs.huawei.com
 medfordcoopbank.com
@@ -16278,7 +16246,6 @@ mirrorservice.org
 mirtesen.ru
 mis.g.mi.com
 mis.migc.xiaomi.com
-miscopy.com
 mishop.cdn.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
 mismo.org
@@ -16395,9 +16362,7 @@ mobilcom-debitel.de
 mobile-ap.spotify.com
 mobile-blog.line.me
 mobile-collector.newrelic.com
-mobile-dgig-prod.cmtelematics.com
 mobile-dssf-prod.cmtelematics.com
-mobile-log-dgig.cmtelematics.com
 mobile-log-dssf-prod.cmtelematics.com
 mobile-log.cmtelematics.com
 mobile-update.bithumb.com
@@ -16628,7 +16593,6 @@ msg.netflix.com
 msg.yahoo.com
 msg2.client.xunlei.com
 msgfocus.com
-msgs.jp
 msh.amazon.co.uk
 msh.amazon.com
 msha.gov
@@ -18613,7 +18577,6 @@ pattersonvethospital.com
 paulfredrick.com
 paulinenkrankenhaus.de
 pausenhof.de
-pavtube.com
 pavv.co.kr
 pax-bank.de
 pay.aeroflot.ru
@@ -18801,7 +18764,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -19139,7 +19101,6 @@ podoclinicamaiza.es
 pof.com
 pogo.hulu.com
 poidem.ru
-point-of-entry.com
 point.rakuten.co.jp
 pointcard.rakuten.co.jp
 pointebank.com
@@ -19171,7 +19132,6 @@ pontosconsult.de
 pool.btc.com
 pool.next.exchange
 pool.ntp.org
-pool.space
 poolhb.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
@@ -20202,8 +20162,6 @@ rd.symcd.com
 rdrtr.com
 rds-assets.nvidia.com
 rdsig.yahoo.co.jp
-rdstation.com
-rdstation.com.br
 rdtcdn.com
 rdwest.playstation.com
 rdx2.lgtvsdp.com
@@ -20237,7 +20195,6 @@ rebelmouse.io
 rebrand.ly
 rebrandly.com
 rebrandlydomain.com
-rebtelsdk.pubnub.com
 rec.quartic.pl
 rec.voot.com
 recaptcha.net
@@ -20357,7 +20314,6 @@ relstage-api.typekit.com
 relstage.typekit.com
 remadaro.com
 remember.to
-remind.me
 reminders-pa.googleapis.com
 remla.com
 remote-data.urbanairship.com
@@ -21213,6 +21169,7 @@ schuelerprofile.de
 schuelervz.de
 schuelervz.net
 schulthess-klinik.ch
+schwab.bynder.com
 schwab.com
 schwaebisch-hall.de
 schwaebische-bank.de
@@ -21399,7 +21356,6 @@ section.blog.naver.com
 section508.gov
 secure-au.imrworldwide.com
 secure-banking.de
-secure-booker.com
 secure-cdn.mplxtms.com
 secure-media1.hotstarext.com
 secure-payments.express-bank.ru
@@ -21457,7 +21413,6 @@ secure.omo.akamai.opta.net
 secure.opinionlab.com
 secure.paygateway.ru
 secure.payler.com
-secure.paymentech.com
 secure.payu.com
 secure.payu.com.tr
 secure.payu.ru
@@ -22304,7 +22259,6 @@ sozialbank.de
 sp-campaign.line.me
 sp.auth.adobe.com
 sp.naver.com
-sp.zalo.me
 spa.snap.com
 space.com
 space2u.com
@@ -23405,7 +23359,6 @@ stpatrickhospital.org
 stpetes.org
 stptrisakti.ac.id
 str.hit.gemius.pl
-stracking.zalopay.vn
 straitstimes.com
 strangled.net
 strat.ru
@@ -23795,7 +23748,6 @@ tags.bkrtx.com
 tags.bluekai.com.edgekey.net
 tags.news.com.au
 tags.tiqcdn.com
-tags.tiqcdn.com.edgekey.net
 tagworld.com
 taib.com
 taifungbank.com
@@ -23832,7 +23784,6 @@ tanx.com
 taobao.com
 taobaocdn.com
 tap-rt-prod1-t.campaign.adobe.com
-tap.company
 tapad.com
 tapiture.com
 taplytics.com
@@ -24349,7 +24300,6 @@ tools.pingdom.com
 tools.ranker.com
 tools.tracemyip.org
 toots-a.akamaihd.net
-top-shop.ru
 top.cafe.daum.net
 top.mail.ru
 topface.com
@@ -24680,7 +24630,6 @@ tvnow.de
 tvnstyle.pl
 tvp.pl
 tvpage.com
-tvpapi-as.ott.kaltura.com
 tvpassport.com
 tvpot.daum.net
 tvseries.in
@@ -25040,7 +24989,6 @@ upenn.edu
 upgrade.mishop.pandora.xiaomi.com
 upgrade.scdn.co
 upgrade.scdn.com
-upgrade.spotify.com
 upgrade.xl9.xunlei.com
 uphold.com
 upload.blog.naver.com
@@ -25527,7 +25475,6 @@ vbww.de
 vc.ru
 vc.yahoo.com
 vcbonline.com
-vcdn.biz
 vcrypt.net
 vd.l.qq.com
 vd55.com

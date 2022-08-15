@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 15 Aug 2022 08:08:34 UTC
+# Last modified: 15 Aug 2022 16:07:22 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -685,6 +685,7 @@ bigmir.net
 bild.de
 bit.do
 bit.ly
+bitcoin.jonasschnelli.ch
 bitly.com
 bitmovin.com
 bitrix.info
@@ -1161,7 +1162,6 @@ dealabs.digidip.net
 dealer.com
 deals.macupdate.com
 dedicated.domains
-defensacentral.com
 delivery.vidible.tv
 demdex.net
 detectportal.firefox.com
@@ -1392,6 +1392,7 @@ file2fxm.azureedge.net
 filehorse.com
 files.bbci.co.uk
 files.catbox.moe
+files.fm
 files.viva64.com
 filmha.top
 findicons.com
@@ -1458,6 +1459,7 @@ fourier.taobao.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
 fra-01.braze.eu
+fra1.digitaloceanspaces.com
 frameip.com
 frankfurt1.perfect-privacy.com
 frankfurt2.perfect-privacy.com
@@ -1515,7 +1517,6 @@ geo.vortex.data.microsoft.com.akadns.net
 geo2.adobe.com
 geo3.ggpht.com
 geocities.jp
-geocities.ws
 geocomply.com
 geoim.bloomberght.com
 geoip-db.com
@@ -2009,6 +2010,7 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ksmobile.com
+kutt.it
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2196,6 +2198,7 @@ micpn.com
 microless.com
 microsoftwindowsupdate.net
 midasplayer.com
+middleware.p7s1.io
 mijnbladopdemat.nl
 mijnknwu.knwu.nl
 milkfountain.com
@@ -2493,6 +2496,7 @@ peerius.com
 pega.com
 pendo.io
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2570,7 +2574,6 @@ powvideo.net
 pp.ru
 ppcprotect.com
 ppro.de
-ppt.cc
 ppurifier.game.xiaomi.com
 practivate.adobe.com
 prd.ads.aws.fwmrm.net
@@ -2703,7 +2706,6 @@ resolver.msg.xiaomi.net
 response.unity3d.com
 responsys.net
 rest.iad-03.braze.com
-reurl.cc
 richrelevance.com
 ringfotomeppel.nl
 rink.hockeyapp.net
@@ -2739,6 +2741,7 @@ s.dolphincdn.xyz
 s.fwmrm.net
 s.gateway.messenger.live.com
 s.go-mpulse.net
+s.id
 s.media-imdb.com
 s.search.naver.com
 s.shopify.com
@@ -3152,7 +3155,6 @@ test.com
 test.quantcast.mgr.consensu.org
 texashomebase.com
 thaiticketmajor.com
-theadviser.com.au
 thealtening.com
 theannoyingsite.com
 thebrighttag.com
@@ -3238,7 +3240,6 @@ traffic.alexa.com
 traffic.spot.im
 trafficguard.ai
 trafficrouter.io
-transfer.sh
 traq.li
 trbna.com
 trbo.com
