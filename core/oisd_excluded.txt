@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 14 Aug 2022 16:05:35 UTC
+# Last modified: 15 Aug 2022 00:33:31 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -2834,7 +2834,6 @@ salesloft.com
 samsungcloudsolution.com
 samsungcloudsolution.net
 samsungelectronics.com
-samsungiotcloud.com
 samsungosp.com
 samsungotn.net
 samsungqbe.com
@@ -3469,7 +3468,6 @@ vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
 vortex.hulu.com
 voxmedia.com
-vuduweb.s.llnwi.net
 vwdservices.com
 vxcash.net
 w88.espn.com
@@ -3615,6 +3613,7 @@ yumesushi.be
 yunjiasu-cdn.net
 yunta.org.pe
 yximgs.com
+z.cdp-dev.cnn.com
 z.zz.ht
 z4a.net
 zapr.in

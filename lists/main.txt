@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.14
-# Last modified: 14 Aug 2022 16:05:35 UTC
+# Version: 3.08.15
+# Last modified: 15 Aug 2022 00:33:31 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -6255,6 +6255,7 @@ cimbclicks.com.my
 cimbislamic.com
 cimo.es
 cimoney.com.ky
+cineciudad.com
 cint.com
 cintnetworks.com
 cio.gov
@@ -7102,7 +7103,6 @@ covefi.com
 coventry.gov.uk
 coventrybuildingsociety.co.uk
 coveo.com
-covid-19-au.com
 covid19.ncdhhs.gov
 cowtransfer.com
 cox-internet.com
@@ -7718,6 +7718,7 @@ deerhuntingnation.com
 deezer.com
 def-vef.xboxlive.com
 defcredit.com.au
+defensacentral.com
 definitions.net
 definitionupdates.microsoft.com
 deforestbank.com
@@ -8700,7 +8701,6 @@ edge.pantheon.io
 edge.skype.com
 edgecast-vod.yahoo.net
 edgecastcdn.net
-edgedl.me.gvt1.com
 edgekey.net
 edgertonhospital.com
 edgesuite.net
@@ -9926,7 +9926,6 @@ flemail.flipboard.com
 flessabank.de
 fletc.gov
 flexlinkspro.com
-flexpool.io
 flic.kr
 flickr.com
 flickr.com.br
@@ -10725,6 +10724,7 @@ geo3.ggpht.com
 geobank.com
 geocities.com
 geocities.jp
+geocities.ws
 geocomply.com
 geofence.sys.miui.com
 geofilters-api.snapchat.com
@@ -11771,7 +11771,6 @@ hermsdorfer-kreuz.de
 herner-sparkasse.de
 herokuapp.com
 herokudns.com
-herominers.com
 herrchen-sucht-frauchen.de
 herrinhospital.org
 herroom.com
@@ -19172,6 +19171,7 @@ pontosconsult.de
 pool.btc.com
 pool.next.exchange
 pool.ntp.org
+pool.space
 poolhb.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
@@ -20449,6 +20449,7 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
+reurl.cc
 reut.rs
 reuters.com
 revdl.com
@@ -24070,6 +24071,7 @@ the-housingbank.com
 the-housingbank.com.jo
 the.earth.li
 the1st.com
+theadviser.com.au
 thealtening.com
 theandroidsoul.com
 theanimalmedicalhospital.com
