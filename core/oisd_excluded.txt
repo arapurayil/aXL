@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Aug 2022 08:06:51 UTC
+# Last modified: 16 Aug 2022 16:07:24 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -685,7 +685,6 @@ bigmir.net
 bild.de
 bit.do
 bit.ly
-bitcoin.jonasschnelli.ch
 bitly.com
 bitmovin.com
 bitrix.info
@@ -749,6 +748,7 @@ bttn.io
 budurl.com
 bufferapp.com
 bugetul.ro
+bugherd.com
 bugly.qq.com
 bugsnag.com
 builder-assets.unbounce.com
@@ -1392,7 +1392,6 @@ file2fxm.azureedge.net
 filehorse.com
 files.bbci.co.uk
 files.catbox.moe
-files.fm
 files.viva64.com
 filmha.top
 findicons.com
@@ -1459,7 +1458,6 @@ fourier.taobao.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
 fra-01.braze.eu
-fra1.digitaloceanspaces.com
 frameip.com
 frankfurt1.perfect-privacy.com
 frankfurt2.perfect-privacy.com
@@ -1663,6 +1661,7 @@ hit.gemius.pl
 hit.interia.pl
 hit.stat24.com
 hitmarkerjobs.com
+hiveos.farm
 hkg1.aastocks.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
@@ -1941,6 +1940,7 @@ isohunts.to
 ist-track.com
 itelligent.nl
 iterable.com
+iteratehq.com
 iubenda.com
 iww.ca
 izatcloud.net
@@ -2010,7 +2010,7 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ksmobile.com
-kutt.it
+kucoin.com
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2163,6 +2163,7 @@ mb-cdn.stocard.de
 mbga.jp
 mbsy.co
 mc.yandex.ru
+mcclone.com
 mctrades.org
 md-a-s.apptimize.com
 md-nx.com
@@ -2741,7 +2742,6 @@ s.dolphincdn.xyz
 s.fwmrm.net
 s.gateway.messenger.live.com
 s.go-mpulse.net
-s.id
 s.media-imdb.com
 s.search.naver.com
 s.shopify.com
@@ -3050,6 +3050,7 @@ staticxx.facebook.com
 stats.appsflyer.com
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
+stats.norton.com
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
