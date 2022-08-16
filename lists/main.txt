@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.15
-# Last modified: 15 Aug 2022 16:07:22 UTC
+# Version: 3.08.16
+# Last modified: 16 Aug 2022 00:39:42 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4434,6 +4434,7 @@ bitbucket.io
 bitbucket.org
 bitcoin.com
 bitcoin.de
+bitcoin.jonasschnelli.ch
 bitcoin.org
 bitfinex.com
 bitfury.com
@@ -7706,7 +7707,6 @@ deerhuntingnation.com
 deezer.com
 def-vef.xboxlive.com
 defcredit.com.au
-defensacentral.com
 definitions.net
 definitionupdates.microsoft.com
 deforestbank.com
@@ -10260,6 +10260,7 @@ fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
 fra-01.braze.eu
+fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -10708,7 +10709,6 @@ geo3.ggpht.com
 geobank.com
 geocities.com
 geocities.jp
-geocities.ws
 geocomply.com
 geofence.sys.miui.com
 geofilters-api.snapchat.com
@@ -16130,6 +16130,7 @@ midasplayer.com
 midcapeanimalhospital.com
 middlesbrough.gov.uk
 middletownhospital.org
+middleware.p7s1.io
 midlothian.gov.uk
 midpennbank.com
 midsouthbank.com
@@ -18764,6 +18765,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -20405,7 +20407,6 @@ retro-bit.com
 return.to
 returnpath.com
 reunion.com
-reurl.cc
 reut.rs
 reuters.com
 revdl.com
@@ -24021,7 +24022,6 @@ the-housingbank.com
 the-housingbank.com.jo
 the.earth.li
 the1st.com
-theadviser.com.au
 thealtening.com
 theandroidsoul.com
 theanimalmedicalhospital.com
