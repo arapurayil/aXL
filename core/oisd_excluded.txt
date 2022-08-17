@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 Aug 2022 08:07:58 UTC
+# Last modified: 17 Aug 2022 16:06:32 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -448,6 +448,7 @@ affiliate.dmm.com
 affiliatefuture.com
 afl.rakuten.co.jp
 afp.dotomi.weighted.com.akadns.net
+afternic.com
 agacelebir.com
 agilecrm.com
 agkn.com
@@ -1670,7 +1671,6 @@ hit.gemius.pl
 hit.interia.pl
 hit.stat24.com
 hitmarkerjobs.com
-hiveos.farm
 hkg1.aastocks.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
@@ -2006,7 +2006,6 @@ kidsinsandbox.info
 kiev.ua
 kiks.yandex.ru
 kinja.com
-kisshentai.net
 kiwifarms.net
 klarnaservices.com
 klaviyo.com
@@ -2023,7 +2022,6 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ksmobile.com
-kucoin.com
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2286,7 +2284,6 @@ msg2.client.xunlei.com
 msgfocus.com
 msh.amazon.co.uk
 mssl.fwmrm.net
-msuac.edu.mn
 mudmonster.org
 multiscreen.samsung.com
 multiview.com
@@ -2515,6 +2512,7 @@ peerius.com
 pega.com
 pendo.io
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com

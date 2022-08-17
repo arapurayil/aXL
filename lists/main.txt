@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.17
-# Last modified: 17 Aug 2022 08:07:58 UTC
+# Last modified: 17 Aug 2022 16:06:32 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -741,6 +741,7 @@ activation.sls.microsoft.com
 activation.unity3d.com
 activations.cdn.mozilla.net
 active.com
+activenews.ro
 activisionblizzardin.demdex.net
 activistpost.com
 activities.aliexpress.com
@@ -5028,7 +5029,6 @@ buff.ly
 buffer-media-uploads.s3.amazonaws.com
 bufferapp.com
 bugbot.flipboard.com
-bugetul.ro
 bugherd.com
 bugly.qq.com
 bugmenot.com
@@ -18781,7 +18781,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
