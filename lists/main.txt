@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.16
-# Last modified: 16 Aug 2022 16:07:24 UTC
+# Version: 3.08.17
+# Last modified: 17 Aug 2022 00:34:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -4434,7 +4434,6 @@ bitbucket.io
 bitbucket.org
 bitcoin.com
 bitcoin.de
-bitcoin.jonasschnelli.ch
 bitcoin.org
 bitfinex.com
 bitfury.com
@@ -5025,6 +5024,7 @@ buffer-media-uploads.s3.amazonaws.com
 bufferapp.com
 bugbot.flipboard.com
 bugetul.ro
+bugherd.com
 bugly.qq.com
 bugmenot.com
 bugs.launchpad.net
@@ -10260,7 +10260,6 @@ fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
 fra-01.braze.eu
-fra1.digitaloceanspaces.com
 fra15s09-in-f19.1e100.net
 fra15s09-in-f51.1e100.net
 fra15s10-in-f16.1e100.net
@@ -11830,6 +11829,7 @@ hitfilm.com
 hitmarkerjobs.com
 hitomi.la
 hiv.gov
+hiveos.farm
 hj-story.com
 hjkl.fr
 hk.enel.it
@@ -13597,6 +13597,7 @@ item.kakao.com
 item.mi.com
 item.taobao.com
 iterable.com
+iteratehq.com
 itimes.com
 itiny.industrialbank.ua
 itknowledgeexchange.techtarget.com
@@ -15679,6 +15680,7 @@ mcb.com.pk
 mcb.mu
 mcc.gov
 mcc.it
+mcclone.com
 mcdhospital.org
 mcehospital.com
 mcga.gov.uk
@@ -23172,6 +23174,7 @@ stats.g.doubleclick.net
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
 stats.lineageos.org
+stats.norton.com
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com

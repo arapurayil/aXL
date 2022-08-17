@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 16 Aug 2022 16:07:24 UTC
+# Last modified: 17 Aug 2022 00:34:53 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -74,7 +74,11 @@ a-0003.dc-msedge.net
 a-0007.a-msedge.net
 a-0010.a-msedge.net
 a-0012.a-msedge.net
+a-airasia-001-gyf12.insnw.net
+a-digikey-001-gyf12.insnw.net
 a-msedge.net
+a-sg01sl04.insnw.net
+a-sg01sl09.insnw.net
 a.kickass.to
 a.klaviyo.com
 a.nonstoppartner.net
@@ -99,6 +103,7 @@ aax-eu-retail-direct.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-fe-pek.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -594,6 +599,7 @@ appletoolbox.com
 applicast.ga.sony.net
 appmetrica.yandex.com
 appmetrica.yandex.ru
+apps.crashlytics.com
 apps.game.qq.com
 apps.skype.com
 appsflyer.com
@@ -981,6 +987,7 @@ cmail20.com
 cmcm.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
+cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmstool.youku.com
 cnet.com.edgesuite.net
@@ -1482,9 +1489,11 @@ fy.v.vrv.co
 g.alicdn.com
 g.ezoic.net
 g.msn.com
+g10.s.fwmrm.net
 g11v.prd.ads.aws.fwmrm.net
 g17media.com
 g3.s.fwmrm.net
+g3.v.fwmrm.net
 gall.dcinside.com
 game.baidu.com
 game.qq.com
@@ -1680,6 +1689,7 @@ hosting24.com
 hostingprod.com
 hostip.info
 hotdeals.com
+hotdogsandads.com
 hotelscombined.com.au
 houndify.com
 howsmyssl.com
@@ -1889,6 +1899,8 @@ ingest.sentry.io
 ink1001.com
 inq.com
 inquisition.goguardian.com
+ins-073.inscname.net
+inscname.net
 inside-graph.com
 insight.rapid7.com
 insightexpress.com
@@ -1896,6 +1908,7 @@ insightexpressai.com
 insightexpressai.com.edgekey.net
 insights.samsung.com
 insights.video.a2z.com
+insnw.net
 instana.io
 instapage.com
 intercom.com
@@ -2134,6 +2147,8 @@ mairdumont.com
 management.azure.com
 mandrillapp.com
 manga-news.com
+mangler1.generals.ea.com
+mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mantruckandbus.com
@@ -2343,6 +2358,7 @@ njih.net
 nocdnrlly.xyz
 nonstoppartner.net
 norstatsurveys.com
+northamerica.digikey.inscname.net
 noscript.net
 notice.samsungcloudsolution.com
 notice.sp-prod.net
@@ -2433,6 +2449,7 @@ osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
 ospserver.net
+otf.msn.com
 otn.samsungcloudcdn.com
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
@@ -2489,6 +2506,7 @@ pavv.co.kr
 paypal-customerfeedback.com
 pbsiddhartha.ac.in
 pcekspert.com
+pciins-046.inscname.net
 pcmatic.com
 pcrisk.com
 pdc.micloud.xiaomi.net
@@ -2613,6 +2631,7 @@ psicologia-online.com
 pstmrk.it
 public-family.api.account.microsoft.com
 public-ws-ubiservices.ubi.com
+public.vilynx.com
 publitas.com
 pulsar.ebay.co.uk
 pulsar.ebay.com
@@ -2702,6 +2721,7 @@ res-x.com
 researchintel.com
 researchnow.co.uk
 researchnow.com
+resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 response.unity3d.com
@@ -2872,6 +2892,7 @@ service.biv.sony.tv
 service.giosg.com
 services.brightline.tv
 services.zam.com
+servserv.generals.ea.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
 sf16-muse-va.ibytedtos.com
@@ -2977,6 +2998,7 @@ spclient.wg.spotify.com
 speed-dates.pl
 spgo.io
 sphdigital.com
+spiegel-de.spiegel.de
 spl.hit.gemius.pl
 split.to
 spoj.com
