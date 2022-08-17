@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.17
-# Last modified: 17 Aug 2022 00:34:53 UTC
+# Last modified: 17 Aug 2022 08:07:58 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -407,8 +407,11 @@ a-0010.a-msedge.net
 a-0012.a-msedge.net
 a-3.ru
 a-airasia-001-gyf12.insnw.net
+a-digikey-001-gyf12.insnw.net
 a-msedge.net
 a-ring.msedge.net
+a-sg01sl04.insnw.net
+a-sg01sl09.insnw.net
 a-v2.sndcdn.com
 a-v2.x.sndcdn.com
 a.apkpure.com
@@ -485,6 +488,7 @@ aax-eu-retail-direct.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
+aax-fe-pek.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -2831,6 +2835,7 @@ appmetrica.yandex.ru
 appnee.com
 apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
+apps.crashlytics.com
 apps.cybonline.co.uk
 apps.daum.net
 apps.entrance.sonymobile.com
@@ -6579,6 +6584,7 @@ cmicapui.ce.gov.br
 cml.org.uk
 cmla.com
 cmp-cdn.ghostery.com
+cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmr.cl
 cms-portal.qualcomm.com
@@ -10502,6 +10508,7 @@ g.whatsapp.net
 g00.me
 g00.msn.com
 g1.symcb.com
+g10.s.fwmrm.net
 g11v.prd.ads.aws.fwmrm.net
 g17media.com
 g2.symcb.com
@@ -10509,6 +10516,7 @@ g2a.com
 g2play.com
 g3.net
 g3.s.fwmrm.net
+g3.v.fwmrm.net
 ga.gravatar.com
 gab.com
 gabankers.com
@@ -12003,6 +12011,7 @@ hostsfile.org
 hostwindsor.com
 hotdeals.com
 hotdoc.com.au
+hotdogsandads.com
 hotel.travel.rakuten.co.jp
 hotels.com
 hotelscombined.com.au
@@ -13265,6 +13274,7 @@ inputdirector.com
 inq.com
 inquisition.goguardian.com
 inquisitr.com
+ins-073.inscname.net
 ins.jr.mi.com
 inscname.net
 inselklinik-fehmarn.de
@@ -15446,6 +15456,8 @@ manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
 mange-news.com
+mangler1.generals.ea.com
+mangler2.generals.ea.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mangomoney.ru
@@ -17398,6 +17410,7 @@ norstatsurveys.com
 north-america.pool.ntp.org
 north-ayrshire.gov.uk
 north-norfolk.gov.uk
+northamerica.digikey.inscname.net
 northcentraltrust.com
 northcoastbank.com
 northcommunitybank.com
@@ -18699,6 +18712,7 @@ pcgames-download.com
 pch.com
 pchospital.org
 pci.spotify.com
+pciins-046.inscname.net
 pcmag.com
 pcmatic.com
 pcmrace.com
@@ -20226,6 +20240,7 @@ reddit-uploaded-media.s3-accelerate.amazonaws.com
 reddit.app.link
 reddit.com
 reddit.map.fastly.net
+redditmail.com
 redditmedia.com
 redditstatic.com
 redeem.microsoft.com
@@ -21587,6 +21602,7 @@ servint.com
 servint.net
 servis24.cz
 servizioelettriconazionale.it
+servserv.generals.ea.com
 sesiahs.health.nsw.gov.au
 sessioncam.com
 settings-sandbox.data.microsoft.com
@@ -22648,6 +22664,7 @@ spiceworks.com
 spickmich.de
 spicylingerie.com
 spiderbytes.vimeo.com
+spiegel-de.spiegel.de
 spiegel.de
 spieletipps.de
 spin.de

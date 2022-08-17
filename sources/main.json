@@ -135,7 +135,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 85
+            "num_unblock_rules": 87
         },
         {
             "name": "JoseGalRe Hosty whitelist",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3563
+            "num_unblock_rules": 3585
         },
         {
             "name": "ookangzheng blahdns whitelist",

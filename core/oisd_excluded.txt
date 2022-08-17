@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 Aug 2022 00:34:53 UTC
+# Last modified: 17 Aug 2022 08:07:58 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -145,6 +145,7 @@ activate-sjc0.adobe.com
 activate.adobe.com
 activate.wip3.adobe.com
 activation.unity3d.com
+activenews.ro
 activity.windows.com
 actonservice.com
 actonsoftware.com
@@ -753,7 +754,6 @@ btstatic.com
 bttn.io
 budurl.com
 bufferapp.com
-bugetul.ro
 bugherd.com
 bugly.qq.com
 bugsnag.com
@@ -2515,7 +2515,6 @@ peerius.com
 pega.com
 pendo.io
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
