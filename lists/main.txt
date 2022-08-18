@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.18
-# Last modified: 18 Aug 2022 00:35:19 UTC
+# Last modified: 18 Aug 2022 08:08:00 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1226,7 +1226,6 @@ africanbank.co.za
 afroterminal.com
 afs.org.uk
 afsbonline.com
-afternic.com
 aftonbladet.se
 agacelebir.com
 agandreashosp.gr
@@ -8083,7 +8082,6 @@ dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
 dmdamedia.hu
 dmitchell.com
-dmm.co.jp
 dmm.com
 dmp.adform.net
 dms.metlife.ru
@@ -18780,7 +18778,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -21843,6 +21840,7 @@ simple.wikipedia.com
 simplehosting.ch
 simpleimageresizer.com
 simplelogin.co
+simplelogin.fr
 simplepay.hu
 simpleswap.io
 simpletax.ca
@@ -21990,6 +21988,7 @@ slimroms.net
 slingshot.co.nz
 slk-kliniken.de
 slm-online.ch
+slmail.me
 slmuensingen.ch
 slovanet.net
 slovanet.sk
@@ -26395,6 +26394,7 @@ web2.wechat.com
 web4u.cz
 web56.net
 web99.eu
+webadvisorc.rest.gti.mcafee.com
 webafrica.co.za
 webair.com
 webalias.com
