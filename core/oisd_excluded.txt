@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 17 Aug 2022 16:06:32 UTC
+# Last modified: 18 Aug 2022 00:35:18 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -448,7 +448,6 @@ affiliate.dmm.com
 affiliatefuture.com
 afl.rakuten.co.jp
 afp.dotomi.weighted.com.akadns.net
-afternic.com
 agacelebir.com
 agilecrm.com
 agkn.com
@@ -1198,7 +1197,6 @@ dldir2.qq.com
 dlied6.qq.com
 dmd.metaservices.microsoft.com
 dmdamedia.hu
-dmm.co.jp
 dns.digitale-gesellschaft.ch
 dns.twnic.tw
 dns.weixin.qq.com
@@ -2512,7 +2510,6 @@ peerius.com
 pega.com
 pendo.io
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com

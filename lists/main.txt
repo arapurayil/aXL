@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.17
-# Last modified: 17 Aug 2022 16:06:32 UTC
+# Version: 3.08.18
+# Last modified: 18 Aug 2022 00:35:19 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1226,6 +1226,7 @@ africanbank.co.za
 afroterminal.com
 afs.org.uk
 afsbonline.com
+afternic.com
 aftonbladet.se
 agacelebir.com
 agandreashosp.gr
@@ -11837,7 +11838,6 @@ hitfilm.com
 hitmarkerjobs.com
 hitomi.la
 hiv.gov
-hiveos.farm
 hj-story.com
 hjkl.fr
 hk.enel.it
@@ -16623,7 +16623,6 @@ mspbank.ru
 msport.gov.pl
 mss-offermgmt.modpim.com
 mssl.fwmrm.net
-msuac.edu.mn
 msz-angermuende.de
 mt.hitbtc.com
 mt.l.google.com
@@ -18781,6 +18780,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
