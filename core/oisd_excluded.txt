@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Aug 2022 08:08:00 UTC
+# Last modified: 18 Aug 2022 16:11:14 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -994,7 +994,6 @@ cnet.com.edgesuite.net
 cnzz.com
 code.createjs.com
 code.ionicframework.com
-code.tidio.co
 codepush.appcenter.ms
 cohesionapps.com
 collab-us.cloud.unity3d.com
@@ -1291,7 +1290,6 @@ em.dynamicyield.com
 email-clk.adguard.com
 emarsys.net
 embed.ly
-embed.tawk.to
 embed.windy.com
 emjcd.com
 emkei.cz
@@ -1985,7 +1983,6 @@ js.taplytics.com
 jssdkcdns.mparticle.com
 jssdks.mparticle.com
 jumia.com.ng
-justanswer.com
 jwpcdn.com
 jwpltx.com
 k.sinaimg.cn
@@ -2555,6 +2552,7 @@ platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
 plausible.io
+player-cdn.com
 player-feedback-v1.glomex.com
 player.daznservices.com
 playhydrax.com
@@ -2859,7 +2857,6 @@ secure.adnxs.com
 secure.applian.com
 secure.gooddata.com
 secure.insightexpressai.com
-secure.livechatinc.com
 securemetrics.apple.com
 securemvt.apple.com
 securitymetrics.com
@@ -2894,7 +2891,6 @@ sf6-ttcdn-tos.pstatp.com
 sfdict.com
 sfsapi.micloud.xiaomi.net
 sgpac.account.xiaomi.com
-sgqcvfjvr.onet.pl
 sgsnssdk.com.edgekey.net
 sh.st
 shar.es
@@ -3061,7 +3057,6 @@ static.quantcast.mgr.consensu.org
 static.scroll.com
 static.vrv.co
 static.ws.126.net
-static.zdassets.com
 staticxx.facebook.com
 stats.appsflyer.com
 stats.gc.apple.com
@@ -3399,7 +3394,6 @@ vidaxl.pl
 vidazoo.com
 video-stats.l.google.com
 video.search.yahoo.com
-videoask.com
 videoplaza.tv
 videorolls.row.aiv-cdn.net
 vidible.tv
@@ -3439,7 +3433,6 @@ watch.impress.co.jp
 watchdogdns.duckdns.org
 watson.telemetry.microsoft.com
 wayin.com
-wchat.freshchat.com
 we-stats.com
 web.vortex.data.microsoft.com
 webair.com
@@ -3472,7 +3465,6 @@ whatfinger.com
 whipcrack.org
 whoisprivacyprotect.com
 widget-cdn.rpxnow.com
-widget.intercom.io
 widget.pushbullet.com
 widgets.prisjakt.nu
 wieistmeineip.de
