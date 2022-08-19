@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.19
-# Last modified: 19 Aug 2022 00:34:29 UTC
+# Last modified: 19 Aug 2022 08:08:04 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1525,6 +1525,7 @@ alxinger-bank.de
 alzheimers.gov
 am-api.snapchat.com
 am.coinbase.com
+am.i.mullvad.net
 amagerbanken.dk
 amalie.de
 amanath-bank.com
@@ -18776,6 +18777,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -21320,6 +21322,7 @@ search.rakuten.co.jp
 search.services.mozilla.com
 search.shopping.naver.com
 search.snapchat.com
+search.spotxchange.com
 search.techcrunch.com
 search.techmeme.com
 search.travel.rakuten.co.jp
@@ -22773,6 +22776,8 @@ sportsmedia.ign.com
 spot.im
 spotify.com
 spotops.spot.im
+spotx.tv
+spotxchange.com
 spoxy-eb.spot.im
 spoxy-launcher.spot.im
 spoxy-shard1.spot.im
