@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 18 Aug 2022 16:11:14 UTC
+# Last modified: 19 Aug 2022 00:34:29 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -480,6 +480,7 @@ alitems.site
 alpari.ru
 alphadomus.co.nz
 altmetric.com
+am.i.mullvad.net
 amap.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
@@ -851,7 +852,6 @@ cdn.mxpnl.com
 cdn.optimizely.com
 cdn.optimizely.com.edgekey.net
 cdn.pardot.com
-cdn.pendo.io
 cdn.polyfill.io
 cdn.privacy-mgmt.com
 cdn.ravenjs.com
@@ -2053,6 +2053,7 @@ limneos.net
 lindy.co.id
 linkev.com
 linksynergy.com
+linktr.ee
 lithium.com
 litix.io
 live.simcitybuildit.com
@@ -2505,8 +2506,8 @@ pdc.micloud.xiaomi.net
 peachtreenorml.org
 peerius.com
 pega.com
-pendo.io
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2848,6 +2849,7 @@ sdx.xfinity.com.edgekey.net
 sea.net.edu.cn
 seadform.net
 sealserver.trustwave.com
+search.spotxchange.com
 searchads.apple.com
 sec.intl.miui.com
 seccdn-gl.imrworldwide.com
@@ -2995,6 +2997,8 @@ spoj.com
 sportsbet.com.au
 sportsinteraction.com
 spot.im
+spotx.tv
+spotxchange.com
 sqimg.qq.com
 srbizasrbe.org
 srvtrck.com

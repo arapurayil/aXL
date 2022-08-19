@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.18
-# Last modified: 18 Aug 2022 16:11:14 UTC
+# Version: 3.08.19
+# Last modified: 19 Aug 2022 00:34:29 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8891,7 +8891,6 @@ embed.flowplayer.org
 embed.ly
 embed.spot.im
 embed.spotify.com
-embed.tawk.to
 embed.twitch.tv
 embed.windy.com
 embed.wistia.com
@@ -13859,7 +13858,6 @@ jumpingcrab.com
 juniper.com
 juraklinik-schesslitz.de
 just4fun-magazin.de
-justanswer.com
 justcallhome.com
 justcatholic.net
 justhost.com
@@ -19028,6 +19026,7 @@ playahead.se
 playbooks-pa.googleapis.com
 playboyu.com
 playbuzz.com
+player-cdn.com
 player-feedback-v1.glomex.com
 player.cnevids.com
 player.daznservices.com
@@ -25620,7 +25619,6 @@ video.vzaar.com
 video.wechat.com
 video.xx.fbcdn.net
 videoapp-assets-ak.buzzfeed.com
-videoask.com
 videocdn-sbs.akamaized.net
 videocopilot.net
 videofarm.daum.net
@@ -26334,7 +26332,6 @@ wbpr.com
 wccftech.com
 wcghospital.datastar.net
 wch.sa.gov.au
-wchat.freshchat.com
 wcmc.org
 wcnbwooster.com
 wcs.naver.com
