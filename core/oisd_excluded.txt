@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Aug 2022 08:08:18 UTC
+# Last modified: 20 Aug 2022 16:05:41 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -517,6 +517,7 @@ ap-southeast-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
+api-mainnet.pool.space
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-v3.tinypass.com
@@ -2510,7 +2511,6 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
