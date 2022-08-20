@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 19 Aug 2022 16:07:45 UTC
+# Last modified: 20 Aug 2022 00:31:38 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1209,6 +1209,7 @@ donotwatch.org
 dotnetdays.ro
 dotomi.com
 dotomi.weighted.com.akadns.net
+doubleclick.com
 doubleclick.net
 dovetale.com
 down.360safe.com
@@ -1288,6 +1289,7 @@ elvenar.com
 em.bm23.com
 em.dynamicyield.com
 email-clk.adguard.com
+email-link.adtidy.net
 emarsys.net
 embed.ly
 embed.windy.com
@@ -1688,6 +1690,7 @@ hotdeals.com
 hotdogsandads.com
 hotelscombined.com.au
 houndify.com
+housecardsummerbutton.com
 howsmyssl.com
 hp.demdex.net
 hs-scripts.com
@@ -2053,7 +2056,6 @@ limneos.net
 lindy.co.id
 linkev.com
 linksynergy.com
-linktr.ee
 lithium.com
 litix.io
 live.simcitybuildit.com
@@ -2508,6 +2510,7 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2618,6 +2621,7 @@ prodxnews1blob.blob.core.windows.net
 prolapseman.com
 promo.mobile.de
 prov.samsungcloudsolution.com
+provenpixel.com
 proxad.net
 prvsz4pe.micpn.com
 psicologia-online.com
@@ -2674,6 +2678,7 @@ rainmaker.production-public.tubi.io
 rapi.mobikwik.com
 rarbg.to
 raxco.com
+rb.gy
 rbc.online-metrix.net
 rbx.gg
 rchase.com
@@ -3045,6 +3050,7 @@ star.c10r.facebook.com
 startup.mobile.yandex.net
 stat.download.xunlei.com
 stat.ethz.ch
+stat100.ameba.jp
 stat24.com
 statcounter.com
 static.3001.net

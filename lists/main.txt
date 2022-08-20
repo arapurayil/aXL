@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.19
-# Last modified: 19 Aug 2022 16:07:45 UTC
+# Version: 3.08.20
+# Last modified: 20 Aug 2022 00:31:39 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -16761,6 +16761,7 @@ my1login.com
 my3gb.com
 myaccount.nytimes.com
 myaccount.payoneer.com
+myaffiliates.com
 myairbridge.com
 myaltyn.kz
 myanimelist.net
@@ -18777,7 +18778,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
