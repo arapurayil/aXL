@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.20
-# Last modified: 20 Aug 2022 00:31:39 UTC
+# Last modified: 20 Aug 2022 08:08:18 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8200,6 +8200,7 @@ dotnetdays.ro
 dotomi.com
 dotomi.weighted.com.akadns.net
 doubanio.com
+doubleclick.com
 doubleclick.net
 douglascountybank.com
 doulike.us
@@ -8863,6 +8864,7 @@ email-assets.soundcloud.com
 email-clk.adguard.com
 email-connect.spot.im
 email-ee.co.uk
+email-link.adtidy.net
 email-tracking.infobip.com
 email.163.com
 email.appsumo.com
@@ -12025,6 +12027,7 @@ hottinger.com
 houndify.com
 hounslow.gov.uk
 house.gov
+housecardsummerbutton.com
 houston-mba.com
 houston.cbslocal.com
 houzz.com
@@ -18778,6 +18781,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -19462,6 +19466,7 @@ protonvpn.com
 protvino.net
 prov.samsungcloudsolution.com
 provcombank.com
+provenpixel.com
 providence-hospital.org
 providence.org
 providencehospital.org
@@ -20100,6 +20105,7 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb.cz
+rb.gy
 rb6.co
 rba-holding.ch
 rba.gov.au
@@ -23038,6 +23044,7 @@ stat.livejournal.com
 stat.moneycontrol.co.in
 stat.pandora.xiaomi.com
 stat1.moneycontrol.com
+stat100.ameba.jp
 stat2.moneycontrol.com
 stat24.com
 stat3.moneycontrol.com
