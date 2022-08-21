@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.21
-# Last modified: 21 Aug 2022 00:30:53 UTC
+# Last modified: 21 Aug 2022 08:07:09 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2368,7 +2368,6 @@ api-item.daum.net
 api-kino.vl.ru
 api-launcher.spot.im
 api-m.paypal.com
-api-mainnet.pool.space
 api-manga.crunchyroll.com
 api-mf1.meta.ndmdhs.com
 api-mifit-us.huami.com
@@ -2418,6 +2417,7 @@ api.apptentive.com
 api.areffect.sonymobile.com
 api.asm.skype.com
 api.audlabs.com
+api.autopilothq.com
 api.b.hatena.ne.jp
 api.bam-x.com
 api.band.us
@@ -5417,7 +5417,6 @@ cart.mi.com
 cart.tmall.com
 cartm.gearbest.com
 cartoonland.de
-casablanca-landgraaf.nl
 casagrandehospital.com
 casalemedia.com.edgekey.net
 casapropia.com
@@ -8687,6 +8686,7 @@ edg-kiel.de
 edgarcountybank.com
 edge-chat.facebook.com
 edge-enterprise.activity.windows.com
+edge-geo.nc0.co
 edge-mqtt.facebook.com
 edge-usw2.demdex.net
 edge.activity.windows.com
@@ -9729,6 +9729,7 @@ finance.breitbart.com
 finance.luxweb.com
 finance.naver.com
 finance.yahoo.com
+financemonk.net
 financial.org
 financialexpress.com
 financialresearch.gov
@@ -9944,6 +9945,7 @@ floridabankers.com
 floridachoicebank.com
 floridahospitalortho.com
 flork.com
+flow.page
 flowershospital.com
 flowplayer.com
 fls-cn.amazon-adsystem.com
@@ -11579,7 +11581,6 @@ hanseaticbank.de
 hanvitbank.co.kr
 hao.xiaomi.com
 hao123.com
-happythaicornerede.nl
 har.es
 harbinclinic.com
 harborfederal.com
@@ -17040,6 +17041,7 @@ nbtbank.com
 nbtdirect.com
 nbwc.com
 nc.bnpparibas.net
+nc0.co
 ncbankers.org
 ncbcayman.com
 ncbdc.org
@@ -18782,6 +18784,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -23238,7 +23241,6 @@ stayfriends.com
 stayfriends.de
 stayfriends.se
 stbarbarakh-sad.de
-stbimg.echostarcdn.com.c.footprint.net
 stc.za.zaloapp.com
 stcharleshospital.com
 stdl.qq.com
@@ -25515,7 +25517,6 @@ veb.ru
 vectorizer.io
 vectorstock.com
 veeva.com
-veggiesaurusdenhaag.nl
 velaro.com
 velocityisp.com
 vendorlist.consensu.org
@@ -27340,7 +27341,6 @@ ytstatic.l.google.com
 yuantabank.com.tw
 yui.yahooapis.com
 yumaregional.org
-yumesushi.be
 yunfile.com
 yunjiasu-cdn.net
 yunta.org.pe
