@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.20
-# Last modified: 20 Aug 2022 16:05:42 UTC
+# Version: 3.08.21
+# Last modified: 21 Aug 2022 00:30:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2368,6 +2368,7 @@ api-item.daum.net
 api-kino.vl.ru
 api-launcher.spot.im
 api-m.paypal.com
+api-mainnet.pool.space
 api-manga.crunchyroll.com
 api-mf1.meta.ndmdhs.com
 api-mifit-us.huami.com
@@ -18781,7 +18782,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com

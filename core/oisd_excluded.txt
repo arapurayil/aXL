@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 20 Aug 2022 16:05:41 UTC
+# Last modified: 21 Aug 2022 00:30:53 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -517,13 +517,13 @@ ap-southeast-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
-api-mainnet.pool.space
 api-secure.solvemedia.com
 api-tv.spotify.com
 api-v3.tinypass.com
 api.accuweather.com
 api.ad.xiaomi.com
 api.amplitude.com
+api.autopilothq.com
 api.bam-x.com
 api.bbc.co.uk
 api.bluecore.com
@@ -800,7 +800,6 @@ capesandbox.com
 capi.connatix.com
 cardgamespidersolitaire.com
 carrotquest.io
-casablanca-landgraaf.nl
 casalemedia.com.edgekey.net
 casmp.adperfect.com
 cb.sailthru.com
@@ -1266,6 +1265,7 @@ ec-ns.sascdn.com
 ec2eu.adswizz.com
 ecn.dev.virtualearth.net
 ecology-tech403.ml
+edge-geo.nc0.co
 edge-usw2.demdex.net
 edgecast-vod.yahoo.net
 edgecastcdn.net
@@ -1401,6 +1401,7 @@ files.bbci.co.uk
 files.catbox.moe
 files.viva64.com
 filmha.top
+financemonk.net
 findicons.com
 firebase.com
 firebaseinstallations.googleapis.com
@@ -1416,6 +1417,7 @@ flipp.com
 flirt.com
 flix360.com
 flixaddict.com
+flow.page
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -1639,7 +1641,6 @@ hackerrank.com.edgekey.net
 hai2u.com
 handbid.com
 hao123.com
-happythaicornerede.nl
 harriscomputer.com
 hawk.pcgamer.com
 haymarket.com
@@ -2021,6 +2022,7 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ksmobile.com
+kutt.it
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2316,6 +2318,7 @@ narwhal.mobidia.com
 natcom.co.nz
 navitime.co.jp
 naytev.com
+nc0.co
 nd.demdex.net
 neemu.com
 nelo2-col.linecorp.com
@@ -2511,6 +2514,7 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -3077,7 +3081,6 @@ stats.pusher.com
 stats.stackexchange.com
 statuscake-email.com
 statuscake.com
-stbimg.echostarcdn.com.c.footprint.net
 stc.za.zaloapp.com
 stereomag.ro
 stiripesurse.ro
@@ -3386,7 +3389,6 @@ vd.l.qq.com
 vdterms.samsungcloudsolution.com
 vectorstock.com
 veeva.com
-veggiesaurusdenhaag.nl
 velaro.com
 vendorlist.consensu.org
 verizon.demdex.net
@@ -3563,7 +3565,6 @@ youbora.com
 youku.com
 youtube-nocookie.com
 youvisit.com
-yumesushi.be
 yunjiasu-cdn.net
 yunta.org.pe
 yximgs.com
