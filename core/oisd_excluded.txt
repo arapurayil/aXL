@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Aug 2022 08:07:09 UTC
+# Last modified: 21 Aug 2022 16:07:08 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -459,6 +459,7 @@ aic-ngfts.lge.com
 aii.sh
 aimatch.com
 airbrake.io
+ak-d.tripcdn.com
 ak.sail-horizon.com
 akpbvba.be
 akstat.io
@@ -564,6 +565,7 @@ api.telegram.org
 api.traq.li
 api.tvpage.com
 api.uca.cloud.unity3d.com
+api.us-east-1.aiv-delivery.net
 api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
@@ -775,6 +777,7 @@ byteimg.com
 byteoversea.com
 bz-berlin.de
 c-api-bit.shopeemobile.com
+c-ctrip.com
 c.amazon-adsystem.com
 c.cintnetworks.com
 c.evidon.com
@@ -794,7 +797,6 @@ calendar.fontanka.ru
 calltrk.com
 campaign.adobe.com
 campaignmonitor.com
-camsoda.com
 canadapharmacy.com
 capesandbox.com
 capi.connatix.com
@@ -815,7 +817,6 @@ ccmp.eu
 cd.connatix.com
 cdex.mu
 cdn-gl.imrworldwide.com
-cdn-go.cn
 cdn-magiclinks.trackonomics.net
 cdn-net.com
 cdn-noc.net
@@ -852,7 +853,6 @@ cdn.mxpnl.com
 cdn.optimizely.com
 cdn.optimizely.com.edgekey.net
 cdn.pardot.com
-cdn.polyfill.io
 cdn.privacy-mgmt.com
 cdn.ravenjs.com
 cdn.raygun.io
@@ -1164,7 +1164,6 @@ db5.vortex.data.microsoft.com.akadns.net
 dcf.espn.com
 dcms.1688.com
 de.ioam.de
-dealabs.digidip.net
 dealer.com
 deals.macupdate.com
 dedicated.domains
@@ -1198,7 +1197,6 @@ dmd.metaservices.microsoft.com
 dmdamedia.hu
 dns.digitale-gesellschaft.ch
 dns.twnic.tw
-dns.weixin.qq.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 docs.bugsnag.com
@@ -1250,7 +1248,6 @@ dynu.net
 dzc-metrics.mzstatic.com
 e-mark.nl
 e-nls.com
-e.189.cn
 e.imguol.com
 e.reddit.com
 e1151.e12.akamaiedge.net
@@ -1603,7 +1600,6 @@ grafana.org
 graph.accountkit.com
 graph.facebook.com
 graph.instagram.com
-greenheartmed.org
 gremimedia.pl
 group-ib.ru
 groupon.pl
@@ -1665,7 +1661,6 @@ helpshift.com
 heraldm.com
 here.com
 heymistr.com
-hiperdex.com
 hit.bg
 hit.gemius.pl
 hit.interia.pl
@@ -2108,7 +2103,6 @@ lptag.liveperson.net
 lsf.go.id
 lt27.de
 lubuntu.net
-luckycrush.live
 luckyorange.com
 lulz.com
 lun.ua
@@ -2162,7 +2156,6 @@ mark.isbank.com.tr
 market.mi-img.com
 market.xiaomi.com
 marketingautomation.services
-marketingplatform.google.com
 marketo.com
 markitcdn.com
 markitondemand.com
@@ -2325,7 +2318,6 @@ nelo2-col.linecorp.com
 neobux.com
 net-s.pl
 net.cdn.ezoic.net
-netc.sfr.fr
 netcore.co.in
 netdna.bootstrapcdn.com
 nettvservices.com
@@ -2514,7 +2506,6 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
@@ -2950,7 +2941,6 @@ smart.link
 smartadserver.com
 smartasset.com
 smartclip.net
-smartlock.google.com
 smartplugin.youbora.com
 smartredirect.de
 smarturl.it
@@ -3156,7 +3146,6 @@ tce.alicdn.com
 td.demdex.net
 tdn.gtranslate.net
 tdn.r42tag.com
-te.technical-service.net
 tealium.com
 team-rec.jp
 teamsinsight.myanalytics.cdn.office.net
@@ -3308,6 +3297,7 @@ typeform.com
 typekit.net
 typekit.net-v3.edgekey.net
 ublock.org
+ubt-sin.tripcdn.com
 uc.r.appspot.com
 uca.cloud.unity3d.com
 ucoz.com
