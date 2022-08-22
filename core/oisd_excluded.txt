@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 22 Aug 2022 08:08:18 UTC
+# Last modified: 22 Aug 2022 16:07:08 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -2506,7 +2506,6 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
-perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com
