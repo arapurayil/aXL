@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 21 Aug 2022 16:07:08 UTC
+# Last modified: 22 Aug 2022 00:35:52 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1403,6 +1403,7 @@ findicons.com
 firebase.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
+firebasestorage.googleapis.com
 fireflyengagement.com
 fitanalytics.com
 fivethirtyeight.com
@@ -1414,7 +1415,6 @@ flipp.com
 flirt.com
 flix360.com
 flixaddict.com
-flow.page
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
@@ -2017,7 +2017,6 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ksmobile.com
-kutt.it
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2054,6 +2053,7 @@ limneos.net
 lindy.co.id
 linkev.com
 linksynergy.com
+linktr.ee
 lithium.com
 litix.io
 live.simcitybuildit.com
@@ -2506,6 +2506,7 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
+perfectgirls.net
 performgroup.com
 perimeterx.net
 perr.h-cdn.com

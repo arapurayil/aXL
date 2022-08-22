@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.21
-# Last modified: 21 Aug 2022 16:07:09 UTC
+# Version: 3.08.22
+# Last modified: 22 Aug 2022 00:35:53 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -1321,6 +1321,7 @@ ajax.googleapis.com
 ajib.com
 ajn.me
 ak-app-cdn.spot.im
+ak-d.tripcdn.com
 ak-dynamic-cdn.spot.im
 ak-images.spot.im
 ak-launcher.spot.im
@@ -2649,6 +2650,7 @@ api.uaq.xiaomi.net
 api.uca.cloud.unity3d.com
 api.unsplash.com
 api.urbandictionary.com
+api.us-east-1.aiv-delivery.net
 api.us.hismarttv.com
 api.usebutton.com
 api.useinsider.com
@@ -5140,6 +5142,7 @@ bzh.me
 bzwbk.pl
 c-adash.m.taobao.com
 c-api-bit.shopeemobile.com
+c-ctrip.com
 c.amazon-adsystem.com
 c.apple.com
 c.bing.com
@@ -5299,7 +5302,6 @@ campaign.line.me
 campaignmonitor.com
 campaigns.sonymobile.com
 campuscu.com
-camsoda.com
 canadahost.com
 canadapharmacy.com
 canadapost.ca
@@ -5609,7 +5611,6 @@ cdn-ci50.actonsoftware.com
 cdn-content.ampproject.org
 cdn-eu.metacdn.com
 cdn-gl.imrworldwide.com
-cdn-go.cn
 cdn-hw.aliez.me
 cdn-images-1.medium.com
 cdn-images-2.medium.com
@@ -7687,7 +7688,6 @@ de.pool.ntp.org
 de.returnpath.com
 de.statcounter.com
 de.wikipedia.com
-dealabs.digidip.net
 dealer.com
 dealersocket.com
 deals.breitbart.com
@@ -8100,7 +8100,6 @@ dns.digitale-gesellschaft.ch
 dns.hostux.net
 dns.msftncsi.com
 dns.twnic.tw
-dns.weixin.qq.com
 dns1.funimation.com
 dns1.registrar-servers.com
 dns1.tk.msft.net
@@ -8459,7 +8458,6 @@ e-tjanster.1177.se
 e-verify.gov
 e-words.jp
 e-xacbank.com
-e.189.cn
 e.breitbart.com
 e.clhs.com.ua
 e.customeriomail.com
@@ -11354,7 +11352,6 @@ green.ch
 greenbaynet.com
 greenend.org.uk
 greenfieldsavings.com
-greenheartmed.org
 greenhouse.io
 greenmangaming.com
 greenmoney.ru
@@ -11818,7 +11815,6 @@ hinghamsavings.com
 hink.de
 hinsdalebank.com
 hioxindia.com
-hiperdex.com
 hipertextual.com
 hipotecario.com.ar
 hips.hearstapps.com
@@ -15254,7 +15250,6 @@ lu.ca-indosuez.com
 lubinus-klinik.de
 lublin.tvp.pl
 lubuntu.net
-luckycrush.live
 luckylink.net
 luckyorange.com
 lueghausenpartner.de
@@ -15560,7 +15555,6 @@ marketing.etorostatic.com
 marketing.hostgator.com
 marketing.tllms.com
 marketingautomation.services
-marketingplatform.google.com
 marketo.com
 marketplace-origin.xbox.com
 marketplace.xbox.com
@@ -17116,7 +17110,6 @@ netbanking.erstebank.me
 netbanking.erstebank.rs
 netbk.co.jp
 netbsd.org
-netc.sfr.fr
 netcore.co.in
 netcoresmartech.com
 netcraft.com
@@ -18784,7 +18777,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -24757,6 +24749,7 @@ ubrr.ru
 ubs.com
 ubsh.com
 ubsi-wv.com
+ubt-sin.tripcdn.com
 ubt.com
 ubuntu.com
 ubuntuforums.org
