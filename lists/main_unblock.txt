@@ -3,7 +3,7 @@
 ! Description: Unblock rules for aBL - main
 ! Homepage: https://abl.arapurayil.com/
 ! License: GPLv3
-! Last modified: 2022-08-23T00:40:27.339Z
+! Last modified: 2022-08-23T08:08:50.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11,12 +11,10 @@
 @@||advertising-module.api.dpgmedia.cloud^
 @@||advertising.com^
 @@||advertising.soundcloud.com^
-@@||adverts.ie^
 @@||affiliate-program.amazon.com^
 @@||affiliate.dmm.com^
 @@||affiliate.hitbtc.com^
 @@||affiliate.twitch.tv^
-@@||analytics.barnebys.sh^
 @@||analytics.bsgwireless.com^
 @@||analytics.console.aws.a2z.com^
 @@||analytics.dev.azure.com^
@@ -25,7 +23,6 @@
 @@||analytics.google.com^
 @@||analytics.query.yahoo.com^
 @@||analytics.robinhood.com^
-@@||analytics.tripwireinteractive.com^
 @@||analytics.twitter.com^
 @@||banner.play-asia.com^
 @@||banners.funimation.com^
@@ -42,12 +39,10 @@
 @@||pixel.quantserve.com^
 @@||pixel.wp.com^
 @@||prod.telemetry.ros.rockstargames.com^
-@@||telemetry-console.api.playstation.com^
 @@||telemetry-in.battle.net^
 @@||telemetry-incoming.r53-2.services.mozilla.com^
 @@||telemetry-prd.ap.tesla.services^
 @@||telemetry-prd.vn.tesla.services^
-@@||telemetry.api.2kcoretech.online^
 @@||telemetry.api.swiftkey.com^
 @@||telemetry.gfe.nvidia.com^
 @@||telemetry.insights.video.a2z.com^

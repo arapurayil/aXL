@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Aug 2022 00:40:21 UTC
+# Last modified: 23 Aug 2022 08:08:42 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -2054,7 +2054,6 @@ master.cz
 matomo.org
 maxcdn.bootstrapcdn.com
 mb-cdn.stocard.de
-mbga.jp
 mbsy.co
 mc.yandex.ru
 mcclone.com
@@ -2379,7 +2378,6 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
-perfectgirls.net
 perimeterx.net
 perr.h-cdn.com
 pf.intuit.com
