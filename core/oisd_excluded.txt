@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Aug 2022 08:08:17 UTC
+# Last modified: 24 Aug 2022 16:07:45 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -483,6 +483,7 @@ analytics.google.com
 analytics.robinhood.com
 analytics.twitter.com
 android.bugly.qq.com
+androidlost.com
 androidtvwatsonfe-pa.googleapis.com
 andronova.net
 anexia-it.com
@@ -647,6 +648,7 @@ bannerconnect.com
 bannertrack.net
 barbadostoday.bb
 baremetrics.com
+bark.us
 bat.bing.com
 batch.com
 bbraunusa.com
@@ -1489,6 +1491,7 @@ gm99.com
 gmx.ch
 go-mpulse.net
 go-mpulse.net.edgekey.net
+go.kid-control.com
 go.onelink.me
 go.pardot.com
 go.redirectingat.com
