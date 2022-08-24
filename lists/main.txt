@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.24
-# Last modified: 24 Aug 2022 00:37:30 UTC
+# Last modified: 24 Aug 2022 08:08:17 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -11340,6 +11340,7 @@ growingio.com
 growingup.de
 growth.pusher.com
 grp02.trc.ashiato.rakuten.co.jp
+grupeer.com
 grupobancolombia.com
 gruposantander.es
 gruppocarige.it
@@ -12606,6 +12607,7 @@ icloud-content.com
 icloud.cdn-apple.com
 icloud.com
 icloud.com.edgekey.net
+icmarkets.com
 icon25-bank.com
 iconfactory.com
 iconz.co.nz
@@ -15198,7 +15200,6 @@ luisenhospital.de
 lukas-krankenhaus.de
 lukasstiftung-altenburg.de
 lukb.ch
-lulz.com
 lun.ua
 lunarstorm.se
 lunenburgvethospital.com
@@ -16164,6 +16165,7 @@ minpension.se
 minsvyaz.ru
 mint.finance.intuit.com
 mintic.gov.co
+mintos.com
 minu.me
 minutemediacdn.com
 mir-s3-cdn-cf.behance.net
@@ -20751,6 +20753,7 @@ s3-1.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-eu-west-1.amazonaws.com
+s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.af-south-1.amazonaws.com
@@ -24222,6 +24225,7 @@ topics.nl
 topics.spot.im
 topmyface.com
 topratedmilfs.com
+toptal.com
 toptenreviews.com
 toptracker.ru
 toraks.org.tr
