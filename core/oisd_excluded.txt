@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 23 Aug 2022 16:07:16 UTC
+# Last modified: 24 Aug 2022 00:37:29 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -1010,6 +1010,7 @@ cptrack.de
 cquotient.com
 cracking.org
 crashlytics.com
+crashlyticsreports-pa.googleapis.com
 crbcdn.jsfiddle.net
 creditonebank.com
 credomobile.com
@@ -1324,6 +1325,7 @@ file.market.xiaomi.com
 file2fxm.azureedge.net
 filehorse.com
 files.bbci.co.uk
+files.catbox.moe
 files.viva64.com
 filmha.top
 financemonk.net
@@ -1523,6 +1525,7 @@ graph.instagram.com
 gremimedia.pl
 group-ib.ru
 groupon.pl
+grupeer.com
 gs.statcounter.com
 gscounters.us1.gigya.com
 gsp0.baidu.com
@@ -1647,6 +1650,7 @@ ibs.lgappstv.com
 ibytedtos.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
+icmarkets.com
 iconfactory.com
 icptrack.com
 id.google.ad
@@ -1998,7 +2002,6 @@ lsf.go.id
 lt27.de
 lubuntu.net
 luckyorange.com
-lulz.com
 lun.ua
 lvbet.pl
 m.cnbeta.com
@@ -2100,6 +2103,7 @@ mindtake.com
 minepi.com
 minexmr.com
 miningpoolhub.com
+mintos.com
 mirrors.aliyun.com
 mis.migc.xiaomi.com
 mistat.intl.xiaomi.com
@@ -2624,6 +2628,7 @@ s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
+s3-iad-2.cf.dash.row.aiv-cdn.net
 s3.ap-southeast-1.amazonaws.com
 s3s-main.net
 s6.exct.net
@@ -3023,6 +3028,7 @@ tollfreeforwarding.com
 tom.itv.com
 toolbar.google.com
 toots-a.akamaihd.net
+toptal.com
 toptracker.ru
 torimochi.line-apps.com
 torproject.org
