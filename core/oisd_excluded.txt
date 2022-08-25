@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 24 Aug 2022 16:07:45 UTC
+# Last modified: 25 Aug 2022 00:39:01 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -15,7 +15,6 @@
 123greetings.com
 127.net
 140cc.v.fwmrm.net
-17173.com
 1drv.ms
 1girl1pitcher.com
 1girl1pitcher.org

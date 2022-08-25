@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.24
-# Last modified: 24 Aug 2022 16:07:45 UTC
+# Version: 3.08.25
+# Last modified: 25 Aug 2022 00:39:01 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2232,6 +2232,7 @@ androidauthority.com
 androidcentral.com
 androidfilehost.com
 androidforums.com
+androidlost.com
 androidpay-users-pa.googleapis.com
 androidpolice.com
 androidtv.app.hulu.com
@@ -3967,6 +3968,7 @@ barebones.com
 baremetrics.com
 barenecessities.com
 barings-guernsey.com
+bark.us
 barlow2000.org
 barmherzige-brueder.at
 barmherzige-schwestern-muenchen.de
@@ -10915,6 +10917,7 @@ go.energized.pro
 go.icq.com
 go.ign.com
 go.infoblox.com
+go.kid-control.com
 go.leanplum.com
 go.microsoft.com
 go.mybusinessacademy.ph
