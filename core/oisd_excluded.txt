@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Aug 2022 08:09:42 UTC
+# Last modified: 25 Aug 2022 16:07:23 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -556,6 +556,7 @@ api.usebutton.com
 api.useinsider.com
 api.viafoura.co
 api.vip.miui.com
+api.wondershare.cc
 api.xmpush.xiaomi.com
 api16-access-sg.pangle.io
 api2.branch.io
@@ -2045,6 +2046,7 @@ m2.nsimg.net
 m5.amap.com
 ma135-r.analytics.edgekey.net
 mabaya.com
+macplatform.wondershare.com
 macromedia.com
 macromill.com
 madmimi.com
@@ -2418,7 +2420,6 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
-perfectgirls.net
 perimeterx.net
 perr.h-cdn.com
 pf.intuit.com

@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.25
-# Last modified: 25 Aug 2022 08:09:43 UTC
+# Last modified: 25 Aug 2022 16:07:23 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -906,6 +906,7 @@ ads.imeem.com
 ads.reddit.com
 ads.talkbusiness.net
 ads.twitter.com
+ads.videoadex.com
 ads280dummy2.com
 adsafeprotected.com
 adschemist.com
@@ -2269,6 +2270,7 @@ animedigitalnetwork.fr
 animefreak.tv
 animeheaven.eu
 animeseason.com
+aniview.com
 ankofguyana.org.gy
 annabank.com
 annahospital.de
@@ -2335,6 +2337,7 @@ apartments.com
 apbsrilanka.org
 apbt.org.tn
 apeksbank.com.ua
+apester.com
 apex.techrepublic.com
 apexstats.com
 api-02.moengage.com
@@ -2805,6 +2808,7 @@ appbrain.com
 appc.baidu.com
 appcast.io
 appcloud.ironbeast.io
+appconsent.io
 appdown.naver.com
 appengine.google.com
 appier.com
@@ -5270,6 +5274,7 @@ calverthospital.com
 calyon.com
 calypse.de
 cam.ac.uk
+cam4.fr
 cambridge-news.co.uk
 cambridge.org
 cambridgesavings.com
@@ -5709,6 +5714,7 @@ cdn.livefyre.com
 cdn.livestream.com
 cdn.loginhood.io
 cdn.mbl.is
+cdn.mediavoice.com
 cdn.medium.com
 cdn.membershipworks.com
 cdn.meta.ndmdhs.com
@@ -6185,6 +6191,7 @@ chocolatey.org
 chohungbank.co.kr
 choice.microsoft.com
 choiceone.com
+choices.consentframework.com
 choices.trustarc.com
 choices.truste.com
 chomikuj.pl
@@ -6562,8 +6569,10 @@ cmicapui.ce.gov.br
 cml.org.uk
 cmla.com
 cmp-cdn.ghostery.com
+cmp.dmgmediaprivacy.co.uk
 cmp.faktor.mgr.consensu.org
 cmp.nextday.media
+cmp.tvspielfilm.de
 cmr.cl
 cms-portal.qualcomm.com
 cms.breitbart.com
@@ -6668,6 +6677,7 @@ cognito-identity.us-east-1.amazonaws.com
 cohesionapps.com
 cohuttabank.com
 coinbase.com
+coininsider.com
 coinmama.com
 coinmarketcap.com
 coinmine.pl
@@ -6682,6 +6692,7 @@ collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
 collector-main.trafficmanager.net
+collector.appconsent.io
 collegedrinkingprevention.gov
 collegehumor.com
 collm-klinik-oschatz.de
@@ -6896,8 +6907,11 @@ consent.cmp.oath.com
 consent.cookiebot.com
 consent.faz.net
 consent.google.nl
+consent.gutefrage.net
 consent.trustarc.com
 consent.truste.com
+consentcdn.cookiebot.com
+consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 consentmanager.net
 consilnet.com
@@ -6923,6 +6937,7 @@ contactus.netflix.com
 contactus.samsung.com
 content-icc.pulselive.com
 content-storage-upload.googleapis.com
+content.aimatch.com
 content.chia-anime.tv
 content.cloudflare.com
 content.dropboxapi.com
@@ -6964,13 +6979,16 @@ convertkit.com
 conviva.com
 conwaycorp.net
 conwaynationalbank.com
+cookie-cdn.cookiepro.com
 cookie.hartvannederland.nl
 cookie.monster.com
 cookie.vrt.be
 cookieandkate.com
 cookiebot.com
+cookiebot.com-v1.edgekey.net
 cookieinformation.com
 cookielaw.org
+cookiepro.com
 cookies.avrotros.nl
 cookies.buienradar.nl
 cookies.nos.nl
@@ -8044,6 +8062,7 @@ dmcdn.net
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
 dmdamedia.hu
+dmgmediaprivacy.co.uk
 dmitchell.com
 dmm.com
 dmp.adform.net
@@ -8163,6 +8182,7 @@ dotomi.weighted.com.akadns.net
 doubanio.com
 doubleclick.com
 doubleclick.net
+doublepimp.com
 douglascountybank.com
 doulike.us
 douyin.com
@@ -8915,6 +8935,7 @@ enforcement.spro.xbox.com
 enforcement.xbox.com
 engadget.com
 engage.windows.com
+engine.phn.doublepimp.com
 engineering.coinbase.com
 engineering.flipboard.com
 engineering.taboola.com
@@ -10599,6 +10620,7 @@ gdata.youtube.com
 gdb-pur.com
 gdbc.net
 gdcsite.cdnsrv.jio.com
+gdpr.internetbrands.com
 gds-vhs-drops-campaign-images.twitch.tv
 gds.mmstat.com
 gdwbank.com
@@ -11572,6 +11594,7 @@ haymarket.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 hb.aibank.co.il
 hb.unionbank.co.il
+hb.vntsm.com
 hb2.bankleumi.co.il
 hba.gr
 hbbtv-1.eurosport.com
@@ -14378,6 +14401,7 @@ krupp-krankenhaus.de
 krxd.net
 kryptex.org
 ks-bank.ru
+ks.cn
 ksa.ch
 ksbankers.com
 ksbhospital.com
@@ -15249,6 +15273,7 @@ m1finance.com
 m1p.fr
 m2-a.sndcdn.com
 m2.chia-anime.tv
+m2.fwmrm.net
 m2.nsimg.net
 m24.comertbank.md
 m2mbank.ru
@@ -15561,6 +15586,7 @@ maxcdn.com
 maxhost.ru
 maxmind.com
 maxnet.co.nz
+maxpark.com
 maxthon.com
 maybank.com.sg
 maybank2u.com
@@ -15819,6 +15845,7 @@ mediapcs.engadget.com
 mediaplayercodecpack.com
 mediaplex.com
 mediaset.it
+mediavoice.com
 medicaid.gov
 medicalcityhospital.com
 medicalnewstoday.com
@@ -16840,6 +16867,7 @@ naffic.org.tw
 nahealth.com
 naiadsystems.com
 naifei.shop
+nairaland.com
 nalog.ru
 nam02.safelinks.protection.outlook.com
 nam03.safelinks.protection.outlook.com
@@ -17083,6 +17111,7 @@ netupdater.info
 netwizards.com
 network.bazaarvoice.com
 network.hu
+networkbest.ru.com
 networking.engadget.com
 networks.feedburner.com
 networksolutions.com
@@ -17939,6 +17968,7 @@ online.rccf.ua
 online.sbbank.ru
 online.sevcred.ru
 online.severgazbank.ru
+online.sh.cn
 online.standardlife.com
 online.svrbank.ru
 online.t-mobilebankowe.pl
@@ -18184,6 +18214,7 @@ oschadnybank.com
 oscp.apple.com
 osgv.de
 osha.gov
+oshi.at
 oshrc.gov
 osint.bambenekconsulting.com
 oskolbank.ru
@@ -18297,6 +18328,7 @@ ozon.ru
 ozon.travel
 p-hbbtv.superrtl.de
 p-store.rakuten.co.jp
+p.brid.tv
 p.d.0emn.com
 p.d.0fmm.com
 p.d.0mme.com
@@ -18705,6 +18737,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -18800,6 +18833,7 @@ pibank.autopays.ru
 pic.iask.cn
 pic.pic-img.com
 pic.twitter.com
+picclick.com
 picena.bcc.it
 pich.in
 picpay.com
@@ -18935,6 +18969,7 @@ platron.ru
 platzi.com
 plausible.io
 play-asia.com
+play.aniview.com
 play.app.goo.gl
 play.chia-anime.tv
 play.flowplayer.com
@@ -18956,6 +18991,7 @@ playboyu.com
 playbuzz.com
 player-cdn.com
 player-feedback-v1.glomex.com
+player.avplayer.com
 player.cnevids.com
 player.daznservices.com
 player.glomex.com
@@ -18993,6 +19029,7 @@ plista.com
 plixi.com
 plots.fr
 pltraffic8.com
+plugin.mediavoice.com
 plugins.longtailvideo.com
 plugweb.com.br
 pluralsight.com
@@ -20120,6 +20157,7 @@ realestate.w.o0bc.com
 realfarmacy.com
 realitychecknetwork.com
 realkreditraadet.dk
+reallifecam.com
 realpics.net
 realsecureweb.com.br
 realsrv.com
@@ -20738,6 +20776,7 @@ s10.exct.net
 s1325.t.eloqua.com
 s1777052651.t.eloqua.com
 s2.coinmarketcap.com
+s2.static.cfgr3.com
 s2.symcb.com
 s2.vuukle.com
 s2.wp.com
@@ -20756,6 +20795,7 @@ s3-ap-southeast-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.af-south-1.amazonaws.com
@@ -21501,6 +21541,7 @@ service.weather.microsoft.com
 serviceapi.rmcnmv.naver.com
 servicenetwork.sonymobile.com
 services.addons.mozilla.org
+services.brid.tv
 services.brightline.tv
 services.fandom.com
 services.gfe.nvidia.com
@@ -21709,6 +21750,7 @@ sibcontact.ru
 siberianet.ru
 sibes.omsk.ru
 sibforms.com
+sibnet.ru
 sibs.pt
 sicax.net
 sickrage.ca
@@ -21900,6 +21942,7 @@ slide.com
 slides.diigo.com
 slideshare.com
 slideshare.net
+slike.indiatimes.com
 slimroms.net
 slingshot.co.nz
 slk-kliniken.de
@@ -23053,6 +23096,7 @@ static.returnpath.net
 static.rtl.nl
 static.scroll.com
 static.sh.st
+static.share-videos.se
 static.siteheart.com
 static.skypeassets.com
 static.soundcloud.com
@@ -23716,6 +23760,7 @@ tapresearch.com
 taraleighcobble.com
 target.com
 target.georiot.com
+target.microsoft.com
 target.scene7.com
 targobank.de
 taringa.net
@@ -24151,6 +24196,7 @@ tlkm.id
 tllg.net
 tlnbank.com
 tlu.dl.delivery.mp.microsoft.com
+tm.jsuol.com.br
 tm.tradetracker.net
 tmall.com
 tmba.org
@@ -24732,6 +24778,7 @@ ulsterbank.ie
 ultimabank.com
 ultimanet.com
 ultimate-guitar.com
+ultimedia.com
 ulu.com
 umb.com
 umbank.ru
@@ -25512,6 +25559,7 @@ video.twimg.com
 video.vzaar.com
 video.wechat.com
 video.xx.fbcdn.net
+videoadex.com
 videoapp-assets-ak.buzzfeed.com
 videocdn-sbs.akamaized.net
 videocopilot.net
@@ -25648,6 +25696,7 @@ vnbnm.com
 vnboards.ign.com
 vnmedia.ign.com
 vnn-res.vgcloud.vn
+vntsm.com
 vo.msecnd.net
 voa.gov.uk
 voba-aschaffenburg.de
@@ -27090,6 +27139,7 @@ xvideos.com
 xvp.akamaized.net
 xx.snap.com
 xxx.com.br
+xxxjmp.com
 xywy.com
 y2u.be
 y8.com
