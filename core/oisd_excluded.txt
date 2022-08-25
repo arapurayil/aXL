@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 25 Aug 2022 00:39:01 UTC
+# Last modified: 25 Aug 2022 08:09:42 UTC
 0emn.com
 0fmm.com
 102.112.2o7.net
@@ -201,6 +201,7 @@ ads.google.com
 ads.harvard.edu
 ads.reddit.com
 ads.twitter.com
+ads.videoadex.com
 ads280dummy2.com
 adsafeprotected.com
 adsense.blogspot.com
@@ -488,6 +489,7 @@ andronova.net
 anexia-it.com
 angolotesti.it
 anime.reactor.cc
+aniview.com
 anrdoezrs.net
 answerhub.com
 antiphishing.cliqz.com
@@ -498,6 +500,7 @@ ap-northeast-1.elb.amazonaws.com
 ap-northeast-2.elb.amazonaws.com
 ap-southeast-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
+apester.com
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
 api-secure.solvemedia.com
@@ -580,6 +583,7 @@ app.wootric.com
 appboy-images.com
 appcast.io
 appcloud.ironbeast.io
+appconsent.io
 appier.com
 appletoolbox.com
 applicast.ga.sony.net
@@ -764,6 +768,7 @@ cafeomai.com.au
 cainiao.com
 calendar.fontanka.ru
 calltrk.com
+cam4.fr
 campaign.adobe.com
 campaignmonitor.com
 canadapharmacy.com
@@ -814,6 +819,7 @@ cdn.iubenda.com
 cdn.krxd.net
 cdn.levelaccess.net
 cdn.livefyre.com
+cdn.mediavoice.com
 cdn.membershipworks.com
 cdn.mplxtms.com
 cdn.mxpnl.com
@@ -851,6 +857,7 @@ cdns-content.dzcdn.net
 cdns.gigya.com
 cdns.us1.gigya.com
 cdnstatic.detik.com
+cdp.cloud.unity3d.com
 cds.connatix.com
 cds.h5z9g8y6.hwcdn.net
 cdurable.info
@@ -878,6 +885,7 @@ chickenkiller.com
 chip.de
 chkd.org
 choice.microsoft.com
+choices.consentframework.com
 chong.qq.com
 cidadehoje.pt
 cineciudad.com
@@ -943,8 +951,10 @@ cm.miaozhen.atm.youku.com
 cmcm.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
+cmp.dmgmediaprivacy.co.uk
 cmp.faktor.mgr.consensu.org
 cmp.nextday.media
+cmp.tvspielfilm.de
 cmstool.youku.com
 cnet.com.edgesuite.net
 cnzz.com
@@ -952,10 +962,12 @@ code.createjs.com
 code.ionicframework.com
 codepush.appcenter.ms
 cohesionapps.com
+coininsider.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collecting-consent.g5e.com
 collector-main.trafficmanager.net
+collector.appconsent.io
 com.cdn.ezoic.net
 com.com
 com.gds.alibabadns.com
@@ -980,12 +992,16 @@ consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.cookiebot.com
 consent.faz.net
+consent.gutefrage.net
 consent.truste.com
+consentcdn.cookiebot.com
+consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 consentmanager.net
 console.aws.a2z.com
 consumer.krxd.net
 contactapi.micloud.xiaomi.net
+content.aimatch.com
 content.jwplatform.com
 contents.fc2.com
 continuum.dds.microsoft.com
@@ -993,10 +1009,13 @@ controleng.com
 conversions.appsflyer.com
 converti.se
 conviva.com
+cookie-cdn.cookiepro.com
 cookie.vrt.be
 cookiebot.com
+cookiebot.com-v1.edgekey.net
 cookieinformation.com
 cookielaw.org
+cookiepro.com
 cookies.nos.nl
 coralogix.com
 core.cloud.unity3d.com
@@ -1133,6 +1152,7 @@ dl.twitchdl.com
 dldir2.qq.com
 dlied6.qq.com
 dmdamedia.hu
+dmgmediaprivacy.co.uk
 dns.digitale-gesellschaft.ch
 dns.twnic.tw
 dnsseed.bitcoin.dashjr.org
@@ -1148,6 +1168,7 @@ dotomi.com
 dotomi.weighted.com.akadns.net
 doubleclick.com
 doubleclick.net
+doublepimp.com
 down.360safe.com
 download.wegame.qq.com
 downloads.wisecleaner.com
@@ -1232,6 +1253,7 @@ emptyloop.com
 en25.com
 enabler.datalake.mediaset.it
 engage.windows.com
+engine.phn.doublepimp.com
 enigmasoftware.com
 enova.nl
 ensighten.com
@@ -1437,6 +1459,7 @@ gb.lgtvsdp.com
 gb.rdx2.lgtvsdp.com
 gc.zgo.at
 gcp-prod-md.apptimize.com
+gdpr.internetbrands.com
 gds.mmstat.com
 gecko-sg.byteoversea.com
 geller-pa.googleapis.com
@@ -1564,6 +1587,7 @@ harriscomputer.com
 hawk.pcgamer.com
 haymarket.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
+hb.vntsm.com
 hbbtv-1.eurosport.com
 hbbtv.3sat.de
 hbbtv.kabeleins.de
@@ -1776,6 +1800,7 @@ igodigital.com
 ijmuk.org
 ikohs.com
 image.richrelevance.com
+images.dmca.com
 images.dwell.com
 images.sohu.com
 images2.minutemediacdn.com
@@ -1923,6 +1948,7 @@ kount.com
 kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
+ks.cn
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2014,6 +2040,7 @@ m.timesofindia.com
 m.yap.yahoo.com
 m1.fwmrm.net
 m1.nsimg.net
+m2.fwmrm.net
 m2.nsimg.net
 m5.amap.com
 ma135-r.analytics.edgekey.net
@@ -2058,6 +2085,7 @@ mas-ext.amazon.com
 master.cz
 matomo.org
 maxcdn.bootstrapcdn.com
+maxpark.com
 mb-cdn.stocard.de
 mbsy.co
 mc.yandex.ru
@@ -2076,6 +2104,7 @@ mediacorp.112.2o7.net
 mediametrics.ru
 mediaplayercodecpack.com
 mediaplex.com
+mediavoice.com
 medrx.telstra.com.au
 medyanetads.com
 meltwater.com
@@ -2191,6 +2220,7 @@ na61-na62.wagbridge.alibaba.tanx.com
 nab.demdex.net
 naiadsystems.com
 naifei.shop
+nairaland.com
 nametests.com
 narrativ.com
 narwhal.mobidia.com
@@ -2209,6 +2239,7 @@ netdna.bootstrapcdn.com
 nettvservices.com
 netupdater.info
 network.bazaarvoice.com
+networkbest.ru.com
 neustar.biz
 newloc.map.n.shifen.com
 newre-conversions.clickmeter.com
@@ -2305,6 +2336,7 @@ onesignal.com
 onetrust.com
 oniongames.jp
 online-metrix.net
+online.sh.cn
 onlinebanking.standardbank.co.za
 onlinepbx.ru
 onthe.io
@@ -2320,6 +2352,7 @@ oracle.112.2o7.net
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
+oshi.at
 ospserver.net
 otf.msn.com
 otn.samsungcloudcdn.com
@@ -2334,6 +2367,7 @@ ow.ly
 owensoundhub.org
 owlcarousel2.github.io
 p-hbbtv.superrtl.de
+p.brid.tv
 p.d.0emn.com
 p.d.0fmm.com
 p.d.0mme.com
@@ -2384,6 +2418,7 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
+perfectgirls.net
 perimeterx.net
 perr.h-cdn.com
 pf.intuit.com
@@ -2395,6 +2430,7 @@ phonejapan.com
 phs.tanx.com
 pi.pardot.com
 piano.io
+picclick.com
 pidorg.ru
 piguiqproxy.com
 pila.pl
@@ -2425,13 +2461,16 @@ platform.sharethis.com
 platform.tumblr.com
 platform.twitter.com
 plausible.io
+play.aniview.com
 player-cdn.com
 player-feedback-v1.glomex.com
+player.avplayer.com
 player.daznservices.com
 playhydrax.com
 plex.direct
 plista.com
 pltraffic8.com
+plugin.mediavoice.com
 plusgrade.com
 pnapi.invoca.net
 pntra.com
@@ -2543,6 +2582,7 @@ rd.rakuten.co.jp
 rdrtr.com
 rdx2.lgtvsdp.com
 readberserk.com
+reallifecam.com
 realsrv.com
 realtime.services.disqus.com
 rebrand.ly
@@ -2625,12 +2665,14 @@ s0.2mdn.net
 s0.wp.com
 s10.exct.net
 s1325.t.eloqua.com
+s2.static.cfgr3.com
 s2.symcb.com
 s2s.singular.net
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3.ap-southeast-1.amazonaws.com
 s3s-main.net
 s6.exct.net
@@ -2733,6 +2775,7 @@ servedby.o2.co.uk
 server.iad.liveperson.net
 service.biv.sony.tv
 service.giosg.com
+services.brid.tv
 services.brightline.tv
 services.zam.com
 servserv.generals.ea.com
@@ -2762,6 +2805,7 @@ shorte.st
 shortpixel.ai
 siamzone.com
 sibforms.com
+sibnet.ru
 sickrage.ca
 sift.com
 siftscience.com
@@ -2782,6 +2826,7 @@ skimlinks.com
 skimresources.com
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
+slike.indiatimes.com
 sls.update.microsoft.com.akadns.net
 smallseotools.com
 smart.link
@@ -2896,6 +2941,7 @@ static.locallogic.co
 static.parsely.com
 static.quantcast.mgr.consensu.org
 static.scroll.com
+static.share-videos.se
 static.vrv.co
 static.ws.126.net
 staticxx.facebook.com
@@ -2905,6 +2951,7 @@ stats.norton.com
 stats.paypal.com
 stats.pusher.com
 stats.stackexchange.com
+stats.t-online.de
 stc.za.zaloapp.com
 stereomag.ro
 stiripesurse.ro
@@ -2972,6 +3019,7 @@ tanx.com
 taplytics.com
 tapresearch.com
 taraleighcobble.com
+target.microsoft.com
 tblog-8sodn459.kgslb.com
 tc.tradetracker.net
 tce.alicdn.com
@@ -3021,6 +3069,7 @@ tinyurl.com
 tiqcdn.com
 tkqlhce.com
 tlkm.id
+tm.jsuol.com.br
 tm.tradetracker.net
 tmearn.com
 tms-st.cdn.ngenix.net
@@ -3076,6 +3125,7 @@ traffic.alexa.com
 traffic.spot.im
 trafficguard.ai
 trafficrouter.io
+transfer.sh
 traq.li
 trbna.com
 trbo.com
@@ -3131,6 +3181,7 @@ uid.mavencoalition.io
 uim.tifbs.net
 ulink.adjust.com
 ulmwp.org
+ultimedia.com
 umwatsonc.events.data.microsoft.com
 unbi.ba
 unikrn.com
@@ -3212,6 +3263,7 @@ vidaxl.pl
 vidazoo.com
 video-stats.l.google.com
 video.search.yahoo.com
+videoadex.com
 videoplaza.tv
 videorolls.row.aiv-cdn.net
 vidible.tv
@@ -3225,6 +3277,7 @@ vitasave.ca
 vjs.zencdn.net
 vkuservideo.net
 vms.bluebillywig.com
+vntsm.com
 vofcw7x.x.incapdns.net
 vomitgirl.org
 voodoo.com
@@ -3342,6 +3395,7 @@ xmrpool.eu
 xp.apple.com
 xrea.com
 xsph.ru
+xxxjmp.com
 y8.com
 yabs.yandex.ru
 yadi.sk
