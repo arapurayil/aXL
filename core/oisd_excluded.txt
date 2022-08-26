@@ -2,9 +2,11 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 26 Aug 2022 08:08:31 UTC
+# Last modified: 26 Aug 2022 16:07:58 UTC
 0emn.com
 0fmm.com
+1.chipde.damoh.schneevonmorgen.com
+1.gmxnet.damoh.schneevonmorgen.com
 102.112.2o7.net
 102.122.2o7.net
 10up.com
@@ -27,6 +29,7 @@
 1shoppingcart.com
 1tk.us
 2-spyware.com
+2.chipde.damoh.schneevonmorgen.com
 207.net
 24.hu
 247-inc.net
@@ -783,6 +786,7 @@ cba.pl
 cbox.ws
 cbs.wondershare.com
 cbsi.com
+cbsi.map.fastly.net
 cbsinteractive.com
 cc-api-data.adobe.io
 cc-dt.com
@@ -858,7 +862,6 @@ cdns-content.dzcdn.net
 cdns.gigya.com
 cdns.us1.gigya.com
 cdnstatic.detik.com
-cdp.cloud.unity3d.com
 cds.connatix.com
 cds.h5z9g8y6.hwcdn.net
 cdurable.info
@@ -963,7 +966,6 @@ code.createjs.com
 code.ionicframework.com
 codepush.appcenter.ms
 cohesionapps.com
-coininsider.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collecting-consent.g5e.com
@@ -1089,6 +1091,7 @@ d1oxlq5h9kq8q5.cloudfront.net
 d1wp6m56sqw74a.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
+d1zkz3k4cclnv6.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
@@ -1619,6 +1622,7 @@ hlrcv.stage.adobe.com
 hockeyapp.net
 hola.org
 hollyhockhill.com
+homad-global-configs.schneevonmorgen.com
 home.bt.com
 home.wanadoo.nl
 homewares.org
@@ -1889,6 +1893,7 @@ ist-track.com
 itelligent.nl
 iteratehq.com
 iubenda.com
+iutoic-dhaka.edu
 iww.ca
 izatcloud.net
 j.gs
@@ -1950,6 +1955,7 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ks.cn
+kutt.it
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2420,6 +2426,7 @@ peachtreenorml.org
 peerius.com
 pega.com
 pepperjamnetwork.com
+perfectgirls.net
 perimeterx.net
 perr.h-cdn.com
 pf.intuit.com
