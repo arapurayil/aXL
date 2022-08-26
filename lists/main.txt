@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.25
-# Last modified: 25 Aug 2022 16:07:23 UTC
+# Version: 3.08.26
+# Last modified: 26 Aug 2022 00:35:19 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -2663,6 +2663,7 @@ api.weather.com
 api.wechat.com
 api.whatsapp.com
 api.winred.com
+api.wondershare.cc
 api.wunderground.com
 api.x.sndcdn.com
 api.xda-developers.com
@@ -15295,6 +15296,7 @@ macdialup.net
 mackeeper.com
 macmillandictionary.com
 maconbank.com
+macplatform.wondershare.com
 macquarie.com.au
 macromedia.com
 macromill.com
@@ -18737,7 +18739,6 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
-perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
