@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Aug 2022 08:07:51 UTC
+# Last modified: 27 Aug 2022 16:06:21 UTC
 0emn.com
 0fmm.com
 1.chipde.damoh.schneevonmorgen.com
@@ -718,7 +718,6 @@ bpmonline.com
 brahe.apptimize.com
 brakrock.be
 branch.io
-brand.sogou.com
 bravia.dl.playstation.net
 braze.com
 braze.eu
@@ -1194,7 +1193,6 @@ drunkenstepfather.com
 ds-s7.addthis.com.edgekey.net
 ds-www.addthis.com.edgekey.net
 ds1.nl
-dsp.brand.sogou.com
 dspultra.com
 dt51.net
 duckdns.org
@@ -1679,7 +1677,6 @@ ib.snssdk.com
 ib.snssdk.com.edgekey.net
 ibs.lgappstv.com
 ibytedtos.com
-ichnaea-web.netflix.com
 ichnaea.netflix.com
 icmarkets.com
 iconfactory.com
@@ -1817,7 +1814,6 @@ img.connatix.com
 img.en25.com
 img.netwrix.com
 img.particlenews.com
-img.shouji.sogou.com
 img1.sj.qq.com
 img2.autoimg.cn
 img2.user.kanimg.com
@@ -1955,7 +1951,6 @@ kqzyfj.com
 kr.lgtvsdp.com
 krxd.net
 ks.cn
-kutt.it
 l.betrad.com
 l.doubleclick.net
 l.franceculture.fr
@@ -2036,7 +2031,6 @@ lptag.liveperson.net
 lsf.go.id
 lt27.de
 lubuntu.net
-luckyorange.com
 lun.ua
 lvbet.pl
 m.cnbeta.com
@@ -2237,8 +2231,8 @@ navitime.co.jp
 naytev.com
 nc0.co
 nd.demdex.net
+necror.de
 neemu.com
-nelo2-col.linecorp.com
 neobux.com
 net-s.pl
 net.cdn.ezoic.net
