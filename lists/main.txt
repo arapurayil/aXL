@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.26
-# Last modified: 26 Aug 2022 16:07:58 UTC
+# Version: 3.08.27
+# Last modified: 27 Aug 2022 00:30:21 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -67,12 +67,14 @@
 1.bp.blogspot.com
 1.centos.pool.ntp.org
 1.ch.pool.ntp.org
+1.chipde.damoh.schneevonmorgen.com
 1.cn.pool.ntp.org
 1.coreos.pool.ntp.org
 1.de.pool.ntp.org
 1.debian.pool.ntp.org
 1.elecsnet.ru
 1.europe.pool.ntp.org
+1.gmxnet.damoh.schneevonmorgen.com
 1.gravatar.com
 1.jp.pool.ntp.org
 1.lede.pool.ntp.org
@@ -187,6 +189,7 @@
 2.asia.pool.ntp.org
 2.centos.pool.ntp.org
 2.ch.pool.ntp.org
+2.chipde.damoh.schneevonmorgen.com
 2.cn.pool.ntp.org
 2.coreos.pool.ntp.org
 2.datadog.pool.ntp.org
@@ -5523,6 +5526,7 @@ cbs.wondershare.com
 cbsbank.com
 cbsi.com
 cbsi.com.sb
+cbsi.map.fastly.net
 cbsinteractive.com
 cbsistatic.com
 cbsl.gov.lk
@@ -6678,7 +6682,6 @@ cognito-identity.us-east-1.amazonaws.com
 cohesionapps.com
 cohuttabank.com
 coinbase.com
-coininsider.com
 coinmama.com
 coinmarketcap.com
 coinmine.pl
@@ -7447,6 +7450,7 @@ d1oxlq5h9kq8q5.cloudfront.net
 d1wp6m56sqw74a.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
+d1zkz3k4cclnv6.cloudfront.net
 d2.naver.com
 d2.shared.global.fastly.net
 d26b395fwzu5fz.cloudfront.net
@@ -11865,6 +11869,7 @@ hollywoodlife.com
 hollywoodreporter.com
 holvi.com
 holycrosshospital.org
+homad-global-configs.schneevonmorgen.com
 home-savings.com
 home.bancadellarete.it
 home.bt.com
@@ -18739,6 +18744,7 @@ peraita.net
 perencanakeuangan.com
 perevedi.me
 perf.mmstat.com
+perfectgirls.net
 perfectmoney.is
 performance.gov
 performfeeds.com
@@ -23892,6 +23898,7 @@ telemetry.microsoft.com
 telemetry.mozilla.org
 telemetry.soundcloud.com
 telenet.be
+telephonyspamprotect-pa.googleapis.com
 teleport.cc
 telesport.nl
 teleweb.sdmnet.ru
