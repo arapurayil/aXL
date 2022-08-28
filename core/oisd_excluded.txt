@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 27 Aug 2022 16:06:21 UTC
+# Last modified: 28 Aug 2022 00:36:22 UTC
 0emn.com
 0fmm.com
 1.chipde.damoh.schneevonmorgen.com
@@ -830,6 +830,7 @@ cdn.mxpnl.com
 cdn.optimizely.com
 cdn.optimizely.com.edgekey.net
 cdn.pardot.com
+cdn.pendo.io
 cdn.privacy-mgmt.com
 cdn.ravenjs.com
 cdn.raygun.io
@@ -1174,6 +1175,7 @@ doubleclick.net
 doublepimp.com
 down.360safe.com
 download.wegame.qq.com
+downloads.mailchimp.com
 downloads.wisecleaner.com
 downloadtime.org
 downmobile.kugou.com
@@ -1256,6 +1258,7 @@ en25.com
 enabler.datalake.mediaset.it
 engage.windows.com
 engine.phn.doublepimp.com
+enhance.com
 enigmasoftware.com
 enova.nl
 ensighten.com
@@ -1552,6 +1555,7 @@ graph.instagram.com
 gremimedia.pl
 group-ib.ru
 groupon.pl
+growth-pa.googleapis.com
 grupeer.com
 gs.statcounter.com
 gscounters.us1.gigya.com
@@ -1915,6 +1919,7 @@ js.driftt.com
 js.gleam.io
 js.hs-scripts.com
 js.hsforms.net
+js.monitor.azure.com
 js.pusher.com
 js.recurly.com
 js.taplytics.com
@@ -2419,6 +2424,7 @@ pdc.micloud.xiaomi.net
 peachtreenorml.org
 peerius.com
 pega.com
+pendo.io
 pepperjamnetwork.com
 perfectgirls.net
 perimeterx.net
@@ -2884,6 +2890,7 @@ spotx.tv
 spotxchange.com
 sqimg.qq.com
 srbizasrbe.org
+src.litix.io
 srvtrck.com
 ss.phncdn.com
 ssl-cdn.static.browser.mi-img.com
@@ -2946,6 +2953,7 @@ static.scroll.com
 static.share-videos.se
 static.vrv.co
 static.ws.126.net
+statics-marketingsites-eus-ms-com.akamaized.net
 staticxx.facebook.com
 stats.appsflyer.com
 stats.gc.apple.com
@@ -3333,6 +3341,7 @@ whipcrack.org
 whoisprivacyprotect.com
 widget-cdn.rpxnow.com
 widget.pushbullet.com
+widget.trustpilot.com
 widgets.prisjakt.nu
 wieistmeineip.de
 wifi.com
