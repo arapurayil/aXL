@@ -2,7 +2,7 @@
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
 # Version: 3.08.28
-# Last modified: 28 Aug 2022 00:36:22 UTC
+# Last modified: 28 Aug 2022 08:08:03 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -8945,6 +8945,7 @@ engineering.flipboard.com
 engineering.taboola.com
 engineering.twitch.tv
 englewoodhospital.com
+enhance.com
 enigmasoftware.com
 eniyisibenim.com
 enorthfield.com
@@ -11366,6 +11367,7 @@ groups.google.com
 groups.tnt-ea.com
 growingio.com
 growingup.de
+growth-pa.googleapis.com
 growth.pusher.com
 grp02.trc.ashiato.rakuten.co.jp
 grupeer.com
@@ -13808,6 +13810,7 @@ js.intercomcdn.com
 js.iplsc.com
 js.maxmind.com
 js.media-lab.ai
+js.monitor.azure.com
 js.passport.qihucdn.com
 js.pulseinsights.com
 js.pusher.com
@@ -22772,6 +22775,7 @@ sr2.liveperson.net
 sravni.ru
 srbank.ru
 srbizasrbe.org
+src.litix.io
 srft.ch
 sro.ch
 srs.gov
@@ -23135,6 +23139,7 @@ static2.animeseason.com
 static2cdn.hubspot.com
 staticflickr.com
 staticlive.douyucdn.cn
+statics-marketingsites-eus-ms-com.akamaized.net
 statics-storeexp-eus-ms-com.akamaized.net
 statics-www-ssl.gingersoftware.com
 statics.streamable.com

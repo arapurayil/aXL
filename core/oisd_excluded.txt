@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Aug 2022 00:36:22 UTC
+# Last modified: 28 Aug 2022 08:08:03 UTC
 0emn.com
 0fmm.com
 1.chipde.damoh.schneevonmorgen.com
