@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Aug 2022 08:08:03 UTC
+# Last modified: 28 Aug 2022 16:06:34 UTC
 0emn.com
 0fmm.com
 1.chipde.damoh.schneevonmorgen.com
@@ -58,6 +58,7 @@
 4ix.com
 4shared.com
 51.la
+51yes.com
 5af10.v.fwmrm.net
 5d3e9.v.fwmrm.net
 5e124.v.fwmrm.net
@@ -503,7 +504,6 @@ ap-northeast-1.elb.amazonaws.com
 ap-northeast-2.elb.amazonaws.com
 ap-southeast-1.elb.amazonaws.com
 apac1.notify.windows.com.akadns.net
-apester.com
 api-2-0.spot.im
 api-gateway.us-west-2.elasticbeanstalk.com
 api-secure.solvemedia.com
@@ -587,7 +587,6 @@ app.wootric.com
 appboy-images.com
 appcast.io
 appcloud.ironbeast.io
-appconsent.io
 appier.com
 appletoolbox.com
 applicast.ga.sony.net
@@ -889,7 +888,6 @@ chickenkiller.com
 chip.de
 chkd.org
 choice.microsoft.com
-choices.consentframework.com
 chong.qq.com
 cidadehoje.pt
 cineciudad.com
@@ -906,6 +904,7 @@ cl.s10.exct.net
 cl.s6.exct.net
 cl.s7.exct.net
 clara.net
+classic.avantlink.com
 clck.ru
 clck.yandex.ru
 cldup.com
@@ -955,7 +954,6 @@ cm.miaozhen.atm.youku.com
 cmcm.com
 cmicapui.ce.gov.br
 cmp-cdn.ghostery.com
-cmp.dmgmediaprivacy.co.uk
 cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmp.tvspielfilm.de
@@ -970,7 +968,6 @@ collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
 collecting-consent.g5e.com
 collector-main.trafficmanager.net
-collector.appconsent.io
 com.cdn.ezoic.net
 com.com
 com.gds.alibabadns.com
@@ -995,10 +992,7 @@ consent-manager-events.ogury.io
 consent.cmp.oath.com
 consent.cookiebot.com
 consent.faz.net
-consent.gutefrage.net
 consent.truste.com
-consentcdn.cookiebot.com
-consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 consentmanager.net
 console.aws.a2z.com
@@ -1012,13 +1006,10 @@ controleng.com
 conversions.appsflyer.com
 converti.se
 conviva.com
-cookie-cdn.cookiepro.com
 cookie.vrt.be
 cookiebot.com
-cookiebot.com-v1.edgekey.net
 cookieinformation.com
 cookielaw.org
-cookiepro.com
 cookies.nos.nl
 coralogix.com
 core.cloud.unity3d.com
@@ -1156,7 +1147,6 @@ dl.twitchdl.com
 dldir2.qq.com
 dlied6.qq.com
 dmdamedia.hu
-dmgmediaprivacy.co.uk
 dns.digitale-gesellschaft.ch
 dns.twnic.tw
 dnsseed.bitcoin.dashjr.org
@@ -1464,7 +1454,6 @@ gb.lgtvsdp.com
 gb.rdx2.lgtvsdp.com
 gc.zgo.at
 gcp-prod-md.apptimize.com
-gdpr.internetbrands.com
 gds.mmstat.com
 gecko-sg.byteoversea.com
 geller-pa.googleapis.com
@@ -1593,7 +1582,6 @@ harriscomputer.com
 hawk.pcgamer.com
 haymarket.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
-hb.vntsm.com
 hbbtv-1.eurosport.com
 hbbtv.3sat.de
 hbbtv.kabeleins.de
@@ -1624,7 +1612,6 @@ hlrcv.stage.adobe.com
 hockeyapp.net
 hola.org
 hollyhockhill.com
-homad-global-configs.schneevonmorgen.com
 home.bt.com
 home.wanadoo.nl
 homewares.org
@@ -1893,7 +1880,6 @@ ist-track.com
 itelligent.nl
 iteratehq.com
 iubenda.com
-iutoic-dhaka.edu
 iww.ca
 izatcloud.net
 j.gs
@@ -2046,7 +2032,6 @@ m.timesofindia.com
 m.yap.yahoo.com
 m1.fwmrm.net
 m1.nsimg.net
-m2.fwmrm.net
 m2.nsimg.net
 m5.amap.com
 ma135-r.analytics.edgekey.net
@@ -2229,6 +2214,7 @@ naiadsystems.com
 naifei.shop
 nairaland.com
 nametests.com
+nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 natcom.co.nz
@@ -2236,7 +2222,6 @@ navitime.co.jp
 naytev.com
 nc0.co
 nd.demdex.net
-necror.de
 neemu.com
 neobux.com
 net-s.pl
@@ -2803,6 +2788,7 @@ shareasale.com
 sharethis.com
 shengen.ru
 shinobi.jp
+shockgore.com
 shodanhq.com
 shop.kicker.de
 shop.spreadshirt.com
@@ -3287,7 +3273,6 @@ vitasave.ca
 vjs.zencdn.net
 vkuservideo.net
 vms.bluebillywig.com
-vntsm.com
 vofcw7x.x.incapdns.net
 vomitgirl.org
 voodoo.com
