@@ -198,7 +198,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 432
+            "num_unblock_rules": 433
         },
         {
             "name": "NoExitTV whitelist",
@@ -225,7 +225,7 @@
             "format": "domains",
             "type": "unblock",
             "num_block_rules": 0,
-            "num_unblock_rules": 3439
+            "num_unblock_rules": 3424
         },
         {
             "name": "ookangzheng blahdns whitelist",

@@ -2,7 +2,7 @@
 # All the domains excluded are listed below.
 # Maintainer: sjhgvr
 # url: https://oisd.nl/excludes.php
-# Last modified: 28 Aug 2022 16:06:34 UTC
+# Last modified: 29 Aug 2022 00:37:44 UTC
 0emn.com
 0fmm.com
 1.chipde.damoh.schneevonmorgen.com
@@ -58,7 +58,6 @@
 4ix.com
 4shared.com
 51.la
-51yes.com
 5af10.v.fwmrm.net
 5d3e9.v.fwmrm.net
 5e124.v.fwmrm.net
@@ -97,6 +96,7 @@ a1294.w20.akamai.net
 a1843.g.akamai.net
 a247c.playfabapi.com
 a248.e.akamai.net
+a8.net
 aa.online-metrix.net
 aan.amazon.com
 aax-cpm.amazon-adsystem.amazon.com
@@ -743,6 +743,7 @@ builder-assets.unbounce.com
 business.opera.com
 buy.tinypass.com
 buyeasy.by
+buyon.it
 buysub.com
 buzzador.com
 buzzmein.com
@@ -2214,7 +2215,6 @@ naiadsystems.com
 naifei.shop
 nairaland.com
 nametests.com
-nanovisor.io
 narrativ.com
 narwhal.mobidia.com
 natcom.co.nz
@@ -2411,7 +2411,6 @@ peerius.com
 pega.com
 pendo.io
 pepperjamnetwork.com
-perfectgirls.net
 perimeterx.net
 perr.h-cdn.com
 pf.intuit.com
@@ -2539,6 +2538,7 @@ pushwelcome.com
 pv.sohu.com
 pvpro.com
 pvtag.yahoo.co.jp
+px.a8.net
 pxc-coding.com
 pxf.io
 q4mn.adj.st
@@ -2788,7 +2788,6 @@ shareasale.com
 sharethis.com
 shengen.ru
 shinobi.jp
-shockgore.com
 shodanhq.com
 shop.kicker.de
 shop.spreadshirt.com

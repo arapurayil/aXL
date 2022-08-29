@@ -1,8 +1,8 @@
 # Title: arapurayil's eXcluded List (aXL) - Main
 # Author: arapurayil
 # Description: Sources for excluded domains used for generating the aBL 'Main' list
-# Version: 3.08.28
-# Last modified: 28 Aug 2022 16:06:35 UTC
+# Version: 3.08.29
+# Last modified: 29 Aug 2022 00:37:44 UTC
 # Expires: 8 hours (update frequency)
 # Home: https://axl.arapurayil.com
 # Repository: https://github.com/arapurayil/aBL
@@ -332,6 +332,7 @@
 50webs.com
 51.com
 51.la
+51yes.com
 5231.xg4ken.com
 53.com
 55.ru
@@ -2340,7 +2341,6 @@ apartments.com
 apbsrilanka.org
 apbt.org.tn
 apeksbank.com.ua
-apester.com
 apex.techrepublic.com
 apexstats.com
 api-02.moengage.com
@@ -2812,7 +2812,6 @@ appbrain.com
 appc.baidu.com
 appcast.io
 appcloud.ironbeast.io
-appconsent.io
 appdown.naver.com
 appengine.google.com
 appier.com
@@ -6195,7 +6194,6 @@ chocolatey.org
 chohungbank.co.kr
 choice.microsoft.com
 choiceone.com
-choices.consentframework.com
 choices.trustarc.com
 choices.truste.com
 chomikuj.pl
@@ -6346,6 +6344,7 @@ clarksburganimalhospital.com
 claro.com.co
 claro.com.do
 clarovideo.net
+classic.avantlink.com
 classmates.com
 classmates.comby.ru
 clb.bankmtb.ru
@@ -6573,7 +6572,6 @@ cmicapui.ce.gov.br
 cml.org.uk
 cmla.com
 cmp-cdn.ghostery.com
-cmp.dmgmediaprivacy.co.uk
 cmp.faktor.mgr.consensu.org
 cmp.nextday.media
 cmp.tvspielfilm.de
@@ -6695,7 +6693,6 @@ collect.media.jio.com
 collecting-consent.g5e.com
 collector-004.newrelic.com
 collector-main.trafficmanager.net
-collector.appconsent.io
 collegedrinkingprevention.gov
 collegehumor.com
 collm-klinik-oschatz.de
@@ -6910,11 +6907,8 @@ consent.cmp.oath.com
 consent.cookiebot.com
 consent.faz.net
 consent.google.nl
-consent.gutefrage.net
 consent.trustarc.com
 consent.truste.com
-consentcdn.cookiebot.com
-consentcdn.cookiebot.com-v1.edgekey.net
 consentmanager.mgr.consensu.org
 consentmanager.net
 consilnet.com
@@ -6982,16 +6976,13 @@ convertkit.com
 conviva.com
 conwaycorp.net
 conwaynationalbank.com
-cookie-cdn.cookiepro.com
 cookie.hartvannederland.nl
 cookie.monster.com
 cookie.vrt.be
 cookieandkate.com
 cookiebot.com
-cookiebot.com-v1.edgekey.net
 cookieinformation.com
 cookielaw.org
-cookiepro.com
 cookies.avrotros.nl
 cookies.buienradar.nl
 cookies.nos.nl
@@ -8066,7 +8057,6 @@ dmcdn.net
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
 dmdamedia.hu
-dmgmediaprivacy.co.uk
 dmitchell.com
 dmm.com
 dmp.adform.net
@@ -10625,7 +10615,6 @@ gdata.youtube.com
 gdb-pur.com
 gdbc.net
 gdcsite.cdnsrv.jio.com
-gdpr.internetbrands.com
 gds-vhs-drops-campaign-images.twitch.tv
 gds.mmstat.com
 gdwbank.com
@@ -11600,7 +11589,6 @@ haymarket.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 hb.aibank.co.il
 hb.unionbank.co.il
-hb.vntsm.com
 hb2.bankleumi.co.il
 hba.gr
 hbbtv-1.eurosport.com
@@ -11870,7 +11858,6 @@ hollywoodlife.com
 hollywoodreporter.com
 holvi.com
 holycrosshospital.org
-homad-global-configs.schneevonmorgen.com
 home-savings.com
 home.bancadellarete.it
 home.bt.com
@@ -15281,7 +15268,6 @@ m1finance.com
 m1p.fr
 m2-a.sndcdn.com
 m2.chia-anime.tv
-m2.fwmrm.net
 m2.nsimg.net
 m24.comertbank.md
 m2mbank.ru
@@ -16894,6 +16880,7 @@ nanigans.com
 nanopi.org
 nanopool.org
 nanorep.com
+nanovisor.io
 nantucketbank.com
 nap.net.id
 naping.igamecj.com
@@ -17032,7 +17019,6 @@ ne-derbyshire.gov.uk
 nea.gov
 nebankers.org
 nebula-collector.huawei.com
-necror.de
 nedbank.co.za
 neemu.com
 neklassniki.ru
@@ -21692,6 +21678,7 @@ shinobi.jp
 shinseibank.com
 shkb.ch
 shminorshort.weixin.qq.com
+shockgore.com
 shockplay.com
 shockwave.com
 shodanhq.com
@@ -25709,7 +25696,6 @@ vnbnm.com
 vnboards.ign.com
 vnmedia.ign.com
 vnn-res.vgcloud.vn
-vntsm.com
 vo.msecnd.net
 voa.gov.uk
 voba-aschaffenburg.de
